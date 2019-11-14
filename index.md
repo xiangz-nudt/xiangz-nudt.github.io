@@ -1,4 +1,4 @@
-<hr></hr>
+<hr/>
 <div>
 <h3> Short Biography(<a href="about:blank" target="_blank">Full</a>)</h3>
 <p>
@@ -9,7 +9,7 @@ He is a member of <a href="http://www.ccf.org.cn/sites/ccf/" target="_blank">Chi
 </p>
 <b>Xiang</b>'s research interests include: Knowledge Graphs, Graph Analytics, Recommendation, Representation Learning.
 </div>
-<hr></hr>
+<hr/>
 <div>
   <h3><front color="#b45f06">News</front></h3>
 </div>
