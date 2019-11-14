@@ -1,4 +1,4 @@
----
+<hr></hr>
 <div>
 <h3> Short Biography(<a href="about:blank" target="_blank">Full</a>)</h3>
 <p>
@@ -8,4 +8,8 @@
 He is a member of <a href="http://www.ccf.org.cn/sites/ccf/" target="_blank">China Computer Federation</a> (CCF) <a href="http://tcdb.ccf.org.cn/" target="_blank">Technical Committee on Databases</a>, a communication member of CCF <a href="http://www.ccf.org.cn/sites/ccf/dsfzw.jsp" target="_blank">Task Force on Big Data</a>, and a member of BigSearch Steering Committee, <a href="http://www.cipsc.org.cn/index.php" target = "_blank">Chinese Information Processing Society of China</a> (CIPS). He was recipient of <a href ="https://china.acm.org/awards.html" target="_blank">ACM SIGMOD China Rising Star award</a> (2018), and recipient of <a href = "http://www.cast.org.cn/art/2018/9/30/art_19_35872.html" target = "_blank">Young Talents Lift-up Program</a> (2018) for <a href = "http://www.cast.org.cn/" target = "_blank">China Association for Science and Technology</a> (CAST) and <a href = "http://kjt.hunan.gov.cn/zxgz/zkjj/" target = "_blank">Hunan Provincial Natural Science Fund</a> (2019) for Distinguished Young Scholars.
 </p>
 <b>Xiang</b>'s research interests include: Knowledge Graphs, Graph Analytics, Recommendation, Representation Learning.
+</div>
+<hr></hr>
+<div>
+  <h3><front color="#b45f06">News</front></h3>
 </div>
