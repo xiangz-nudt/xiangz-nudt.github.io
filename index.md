@@ -11,5 +11,5 @@ He is a member of <a href="http://www.ccf.org.cn/sites/ccf/" target="_blank">Chi
 </div>
 <hr/>
 <div>
-  <h3><front color="#b45f06">News</front></h3>
+  <front color="#b45f06"><h3>News</h3></front>
 </div>
