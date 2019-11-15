@@ -1,4 +1,4 @@
-<div><t>...</t></div>
+<title>Xiang Zhao's Homepage</title>
 <hr/>
 <div>
 <h3><b>Short Biography</b>(<a href="about:blank" target="_blank">Full</a>)</h3>
