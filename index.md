@@ -1,9 +1,3 @@
-
-<head>
-<style type="text/css">
-list-style:disc;
-</style>
-</head>
 <div><t>...</t></div>
 
 
