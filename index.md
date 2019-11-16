@@ -108,7 +108,7 @@ He is a member of <a href="http://www.ccf.org.cn/sites/ccf/" target="_blank">Chi
   <li><p>Third Prize in Teng-da Contest for Science and Technology Innovation, <a href="http://s5.nudt.edu.cn/" target="_blank">College of Information System and Management</a>, NUDT, 2009</p></li>
   <li><p>Excellent Student of NUDT, 2008, Excellent Graduate of College of Information System and Management (CISM), 2008; Excellent Student of CISM, 2004 - 2008</p></li>
   <li><p>Meritorious in Mathematical Contest in Modeling (MCM) / The Interdisciplinary Contest in Modeling (ICM) 2008, organized by <a href="http://www.comap.com/" target="_blank">COMAP</a>; Successful Participants in MCM/ICM 2007</p></li>
-  <li><p><i>First Prize</i> (<front style="color:#cc0000">One of the Best Papers</front></a>) in China Undergraduate Mathematical Contest in Modeling (CUMCM) 2007, organized by <a href="http://www.moe.edu.cn/" target="_blank">Ministry of Education of PRC</a> and <a href="http://csiam.edu.cn/" target="_blank">CSIAM</a>; <i>Second Prize</i> in CUMCM 2006
+  <li><p><i>First Prize</i> (<front style="color:#cc0000">One of the Best Papers</front>) in China Undergraduate Mathematical Contest in Modeling (CUMCM) 2007, organized by <a href="http://www.moe.edu.cn/" target="_blank">Ministry of Education of PRC</a> and <a href="http://csiam.edu.cn/" target="_blank">CSIAM</a>; <i>Second Prize</i> in CUMCM 2006
 </p></li>
 
   </ul>
