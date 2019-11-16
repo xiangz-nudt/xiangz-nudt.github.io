@@ -4,8 +4,8 @@
   <div style="height:260px;width:260px;margin:80px 15px 30px 15px;float:left; display:flex; align-items:center;justify-content:center"><img src="https://github.com/xiangz-nudt/xiangz-nudt.github.io/blob/master/Pic.jpg?raw=true" alt=""></div>
   <div style="height:280px;width:540px;margin:60px auto 30px 0px;float:left">
     <h2><b>Xiang ZHAO</b>, PhD UNSW</h2>
-    <p>1) Associate Professor<br/>&nbsp&nbspNational Key Laboratory of Science and Technology on Information System Engineering<br/>&nbspCollege of Systems Engineering, <a href="https://english.nudt.edu.cn/" target="_blank">National University of Defense Technology</a></p>
-    <p>2) Associate Research Fellow<br/>&nbsp“2011 Program” <a href="http://innogst.whu.edu.cn/" target="blank">Collaborative Innovation Center of Geospatial Technology</a>, China</p>
+    <p>1) Associate Professor<br/>National Key Laboratory of Science and Technology on Information System Engineering<br/>College of Systems Engineering, <a href="https://english.nudt.edu.cn/" target="_blank">National University of Defense Technology</a></p>
+    <p>2) Associate Research Fellow<br/>“2011 Program” <a href="http://innogst.whu.edu.cn/" target="blank">Collaborative Innovation Center of Geospatial Technology</a>, China</p>
 
   </div>
 </div>
