@@ -86,7 +86,7 @@ He is a member of <a href="http://www.ccf.org.cn/sites/ccf/" target="_blank">Chi
   </p></li>
   
   <li><p>
-  <b>Workshops:</b> <a href="https://sites.google.com/view/textgraphs2019/home" target="_blank">TextGraphs</a>, <a href="http://kbcom.org/" target="_blank">KBCOM</a>, <a href="http://www.ifis.uni-luebeck.de/~groppe/sbd/2016/home" target="_blank">SBD, <a href="http://www.cse.unsw.edu.au/~gap/" target="_blank">GAP</a>, <a href="http://www.csiro.au/Organisation-Structure/Flagships/Digital-Productivity-and-Services/BioBAD-2015.aspx" target="_blank">BioBAD</a>, <a href="http://wp.csiro.au/kmba2013/" target="_blank">KMBA</a>, <a href="https://lsgda.github.io/" target="_blank">LSGDA</a>, <a href="https://www.trustie.net/users/iwcse/homepage" target="_blank">IWCSE</a>
+  <b>Workshops:</b> <a href="https://sites.google.com/view/textgraphs2019/home" target="_blank">TextGraphs</a>, <a href="http://kbcom.org/" target="_blank">KBCOM</a>, <a href="http://www.ifis.uni-luebeck.de/~groppe/sbd/2016/home" target="_blank">SBD</a>, <a href="http://www.cse.unsw.edu.au/~gap/" target="_blank">GAP</a>, <a href="http://www.csiro.au/Organisation-Structure/Flagships/Digital-Productivity-and-Services/BioBAD-2015.aspx" target="_blank">BioBAD</a>, <a href="http://wp.csiro.au/kmba2013/" target="_blank">KMBA</a>, <a href="https://lsgda.github.io/" target="_blank">LSGDA</a>, <a href="https://www.trustie.net/users/iwcse/homepage" target="_blank">IWCSE</a>
   </p></li>
   
   </ul></li>
