@@ -1,8 +1,8 @@
 <body style="background:#cccccc">
 <div style="width:920px;background:#ffffff;margin:60px auto;border:2px solid #dddddd">
 <div style="width:860px;margin:0px auto">
-  <div style="height:260px;width:260px;background:#66ccff;margin:60px 15px 30px 15px;float:left; display:flex; align-items:center;justify-content:center"><img src="" alt=""></img></div>
-  <div style="height:260px;width:520px;margin:60px auto 30px 0px;float:left">
+  <div style="height:260px;width:260px;margin:80px 15px 30px 15px;float:left; display:flex; align-items:center;justify-content:center"><img src="" alt=""></img></div>
+  <div style="height:260px;width:520px;margin:60px auto 30px 0px">
     <h2><b>Xiang ZHAO</b>, PhD UNSW</h2>
     <p>1) Associate Professor<br/>&nbsp&nbspNational Key Laboratory of Science and Technology on Information System Engineering<br/>&nbspCollege of Systems Engineering, <a href="https://english.nudt.edu.cn/" target="_blank">National University of Defense Technology</a></p>
     <p>2) Associate Research Fellow<br/>&nbsp“2011 Program” <a href="http://innogst.whu.edu.cn/" target="blank">Collaborative Innovation Center of Geospatial Technology</a>, China</p>
