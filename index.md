@@ -1,9 +1,18 @@
-<div><t>...</t></div>
+<body style="background:#cccccc">
+<div style="width:920px;background:#ffffff;margin:60px auto;border:2px solid #dddddd">
+<div style="width:860px;margin:0px auto">
+  <div style="height:200px;width:200px;background:#66ccff;margin:60px 15px 30px 15px;float:left; display:flex; align-items:center;justify-content:center"><img src="" alt=""></img></div>
+  <div style="height:200px;width:600px;margin:60px auto 30px 0px;float:left">
+    <h2><b>Xiang ZHAO</b>, PhD UNSW</h2>
+    <p>1) Associate Professor<br/>&nbsp&nbspNational Key Laboratory of Science and Technology on Information System Engineering<br/>&nbspCollege of Systems Engineering, <a href="https://english.nudt.edu.cn/" target="_blank">National University of Defense Technology</a></p>
+    <p>2) Associate Research Fellow<br/>&nbsp“2011 Program” <a href="http://innogst.whu.edu.cn/" target="blank">Collaborative Innovation Center of Geospatial Technology</a>, China</p>
 
-
+  </div>
+</div>
+<div style="width:800px;margin:0px auto"><p><b>Email</b>: xiangzhao <i>at</i> nudt.edu.cn<br/><b>Phone</b>: +86 731 8700 6407<br/><b>Facsimile</b>: +86 731 8457 3514<br/><b>Address</b>: 109 Deya Road, Changsha, Hunan, China (410073)</p></div>
 <hr/>
-<div>
-<h3><b>Short Biography</b>(<a href="about:blank" target="_blank">Full</a>)</h3>
+<div style="width:860px;margin:0px auto">
+<h3><b>Short Biography</b></h3>
 <p>
 <b>Xiang Zhao</b> is currently an associate professor at College of Systems Engineering, <a href="https://english.nudt.edu.cn/" target="_blank">National University of Defense Technology</a> (NUDT), China. Since 2015, he is also a concurrent associate research fellow at <a href="http://innogst.whu.edu.cn/" target="_blank">Collaborative Innovation Center of Geospatial Technology</a>, China, led by <a href = "http://en.whu.edu.cn/info/1073/1569.htm" target = "_blank">Prof. Deren Li</a> and <a href="http://en.whu.edu.cn/info/1073/1568.htm" target="_blank">Prof. Jianya Gong</a>. In 2014, he got PhD of Computer Science and Engineering at <a href="http://www.unsw.edu.au/" target="_blank">The University of New South Wales</a> (UNSW), Australia, under the supervision of <a href="http://www.cse.unsw.edu.au/~lxue" target ="_blank">Prof. Xuemin Lin</a>, and his joint-supervisor is <a href="http://www.cse.unsw.edu.au/~wong" target="_blank">A/Prof. Raymond Wong</a>, co-supervisor is <a href="https://sites.google.com/site/chuanxiao1983/" target ="_blank">Dr. Chuan Xiao</a>. He also performed research at <a href="http://www.csiro.au/" target="_blank">Commonwealth Scientific and Industrial Research Organisation</a> (CSIRO) under a project led by <a href="http://www.ict.csiro.au/staff/kerry.taylor/" target="_blank">A/Prof. Kerry Taylor</a> and <a href="http://www.nicta.com.au/" target="_blank">National Information and Communication Technology Australia</a> (NICTA, now <a href="https://www.data61.csiro.au/" target="_blank">Data61</a>@CSIRO) under a project lead by <a href="https://www.uts.edu.au/staff/jian.zhang" target="_blank">A/Prof. Jian Zhang</a>. Prior to that, he got his Bachelor's Degree in Information Systems Engineering at NUDT in 2008. 
 </p>
@@ -12,7 +21,7 @@ He is a member of <a href="http://www.ccf.org.cn/sites/ccf/" target="_blank">Chi
 </p>
 <b>Xiang</b>'s research interests include: Knowledge Graphs, Graph Analytics, Recommendation, Representation Learning.
 </div>
-<div>
+<div style="width:860px;margin:0px auto">
   <h3 style="color:#b45f06"><b>News</b></h3>
   <ul style="list-style-type:none">
     <li><p>* <i>Have got one article to appear in <a href = "http://tois.acm.org/" target = "_blank">ACM TOIS</a>, and two papers accepted by <a href = "https://aaai.org/Conferences/AAAI-20/" target = "_blank">AAAI 2020</a>! </i></p></li>
@@ -21,7 +30,7 @@ He is a member of <a href="http://www.ccf.org.cn/sites/ccf/" target="_blank">Chi
   </ul>
 </div>
 <hr/>
-<div>
+<div style="width:860px;margin:0px auto">
   <h3><b style="color:#0b5394">Selected Publications</b>(Full list @<a href = "https://scholar.google.com/citations?user=7IZ4kgwAAAAJ&hl=en" target = "_blank">Google Scholar</a>, @<a href = "https://dblp.uni-trier.de/pers/hd/z/Zhao_0002:Xiang" target = "_blank">DBLP</a>, @<a href = "https://orcid.org/0000-0001-6339-0219" target = "_blank">ORCID</a>)</h3>
   <ul>
   <li><p><b>Local Variational Feature-based Similarity Models for Recommending Top-N New Items</b><br/>
@@ -54,3 +63,56 @@ He is a member of <a href="http://www.ccf.org.cn/sites/ccf/" target="_blank">Chi
   
   </ul>
 </div>
+<hr/>
+<div style="width:860px;margin:0px auto">
+  <h3><b style="color:#990000">Professional Services</b></h3>
+  
+  <ul>
+
+  <li><p>Journal editorial board:</p><p>&nbsp since 2018: IEEE <a href="http://ieeeaccess.ieee.org/" target="_blank">Access</a></p></li>
+
+  <li><p>Journal editorial review board:</p><p>&nbsp since 2018: <a href="https://www.igi-global.com/journal/journal-database-management-jdm/1072" target="_blank">Journal of Database Management</a></p></li>
+
+  <li><p>Invited journal reviewers:</p><p>&nbsp <a href="http://link.springer.com/journal/778" target="_blank">VLDB Journal</a>, IEEE <a href="http://www.computer.org/portal/web/tkde" target="_blank">TKDE</a>, ACM <a href="https://tois.acm.org/" target="_blank">TOIS</a>, IEEE <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385" target="_blank">TNNLS</a>, IEEE <a href="http://www.computer.org/portal/web/tpds" target="_blank">TPDS</a>, <a href="http://www.journals.elsevier.com/information-sciences/" target="_blank">Information Sciences</a>, <a href="http://link.springer.com/journal/11280" target="_blank">WWW Journal</a>, <a href="https://www.journals.elsevier.com/engineering-applications-of-artificial-intelligence" target="_blank">Eng. Appl. of AI</a>, <a href="http://www.journals.elsevier.com/journal-of-computer-and-system-sciences/" target="_blank">JCSS</a>, <a href="http://www.iis.sinica.edu.tw/page/jise/Introduction.html" target="_blank">JISE</a>, <a href="http://jgaa.info/" target="_blank">JGAA</a>, <a href="http://www.academypublisher.com/jcp/" target="_blank">JCP</a></p></li>
+  <li>
+  <p>Member of program committees:</p>
+  <ul>
+
+  <li><p>
+  <b>International conferences:</b> IEEE <a href="http://conferences.cis.umac.mo/icde2019/" target="_blank">ICDE</a>, <a href="https://aaai.org/Conferences/AAAI-20/" target="_blank">AAAI</a>, ACM <a href="http://cikm2019.net/" target="_blank">CIKM</a>, <a href="http://ada.suda.edu.cn/apweb2016/" target="_blank">APWeb</a>, <a href="http://www.akbc.ws/" target="_blank">AKBC</a>, <a href="http://conference.eng.unimelb.edu.au/adc/" target="_blank">ADC</a>, <a href="http://www.ieeebigdata.org/2016/" target="_blank">BigData</a>, FCST, FAB, BigCom, SC2, SoICT, PRICAI, IEEE DSC</p></li>
+
+  <li><p>
+  <b>National conferences:</b> CCF <a href="http://dm.ustc.edu.cn/ccf-bigdata2015/" target="_blank">BigData</a>, <a href="http://ndbc2019.sdu.edu.cn/" target="_blank">NDBC</a>
+  </p></li>
+  
+  <li><p>
+  <b>Workshops:</b> <a href="https://sites.google.com/view/textgraphs2019/home" target="_blank">TextGraphs, <a href="http://kbcom.org/" target="_blank">KBCOM</a>, <a href="http://www.ifis.uni-luebeck.de/~groppe/sbd/2016/home" target="_blank">SBD, <a href="http://www.cse.unsw.edu.au/~gap/" target="_blank">GAP</a>, <a href="http://www.csiro.au/Organisation-Structure/Flagships/Digital-Productivity-and-Services/BioBAD-2015.aspx" target="_blank">BioBAD</a>, <a href="http://wp.csiro.au/kmba2013/" target="_blank">KMBA</a>, <a href="https://lsgda.github.io/" target="_blank">LSGDA</a>, <a href="https://www.trustie.net/users/iwcse/homepage" target="_blank">IWCSE</a>
+  </p></li>
+  
+  </ul></li>
+
+  </ul>
+</div>
+<hr/>
+<div style="width:860px;margin:0px auto">
+  <h3> <b style="color:rgb(166,77,121)">Awards</b></h3>
+  <ul>
+
+  <li><p>ACM SIGMOD China Rising Star Award, 2018</p></li>
+  <li><p>CSC-UNSW Joint PhD Student Program Scholarship, awarded by <a href="http://www.csc.edu.cn/" target="_blank">China Scholarship Council</a> and UNSW, 2009 - 2013</p></li>
+  <li><p>CSE CSC-Student Stipend Scholarship, awarded by School of Computer Science and Engineering, UNSW, 2009 - 2011</p></li>
+  <li><p>National ICT Australia Research Project Award, awarded by NICTA, 2009 - 2013</p></li>
+  <li><p>Postgraduate Research Support Scheme (PRSS) funding in Round 1, awarded by <a href="http://research.unsw.edu.au/" target="_blank">Graduate Research School</a>, UNSW, 2012</p></li>
+  <li><p>Google CSE Travel Prize, awarded by Google Australia and CSE, UNSW, 2011</p></li>
+  <li><p>ARC Network <a href="http://www.eii.com.au/" target="_blank">Enterprise Information Infrastructure</a> (EII) PhD School Travel Bursary at <a href="http://www.uq.edu.au/" target="_blank">The University of Queensland</a>, 2010</p></li>
+  <li><p>Third Prize in Teng-da Contest for Science and Technology Innovation, <a href="http://s5.nudt.edu.cn/" target="_blank">College of Information System and Management</a>, NUDT, 2009</p></li>
+  <li><p>Excellent Student of NUDT, 2008, Excellent Graduate of College of Information System and Management (CISM), 2008; Excellent Student of CISM, 2004 - 2008</p></li>
+  <li><p>Meritorious in Mathematical Contest in Modeling (MCM) / The Interdisciplinary Contest in Modeling (ICM) 2008, organized by <a href="http://www.comap.com/" target="_blank">COMAP</a>; Successful Participants in MCM/ICM 2007</p></li>
+  <li><p><i>First Prize</i> (<front style="color:#cc0000">One of the Best Papers</front></a>) in China Undergraduate Mathematical Contest in Modeling (CUMCM) 2007, organized by <a href="http://www.moe.edu.cn/" target="_blank">Ministry of Education of PRC</a> and <a href="http://csiam.edu.cn/" target="_blank">CSIAM</a>; <i>Second Prize</i> in CUMCM 2006
+</p></li>
+
+  </ul>
+</div>
+
+</div>
+</body>
