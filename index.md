@@ -9,7 +9,8 @@
 <body style="background:#dddddd">
 <div style="width:920px;background:#ffffff;margin:60px auto;border:2px solid #eeeeee">
 <div style="width:860px;margin:0px auto">
-  <div style="height:300px;width:260px;margin:80px 15px 30px 15px;float:left; display:flex; align-items:center;justify-content:center">     <img src="https://github.com/xiangz-nudt/xiangz-nudt.github.io/blob/master/Pic.jpg?raw=true" alt="">
+  <div style="height:300px;width:260px;margin:80px 15px 30px 15px;float:left; display:flex; align-items:center;justify-content:flex-end">
+    <img src="https://github.com/xiangz-nudt/xiangz-nudt.github.io/blob/master/Pic.jpg?raw=true" alt="">
   </div>
   <div style="height:320px;width:570px;margin:60px auto 30px 0px;float:left">
     <h2><b>Xiang ZHAO</b>, PhD UNSW</h2>
@@ -19,7 +20,6 @@
     <b>Email</b>: xiangzhao <i>at</i> nudt.edu.cn<br/><b>Phone</b>: +86 731 8700 6407<br/><b>Facsimile</b>: +86 731 8457 3514<br/><b>Address</b>: 109 Deya Road, Changsha, Hunan, China (410073)</p>
   </div>
 </div>
-<br/>
 <hr/>
 <div style="width:860px;margin:0px auto">
 <h3><b>Short Biography</b></h3>
