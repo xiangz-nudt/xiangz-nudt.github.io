@@ -1,16 +1,26 @@
 <html>
+  
+  <head>
+    <title>
+      Xiang ZHAO's Homepage NUDT
+    </title>
+  </head>
+  
 <body style="background:#dddddd">
 <div style="width:920px;background:#ffffff;margin:60px auto;border:2px solid #eeeeee">
 <div style="width:860px;margin:0px auto">
-  <div style="height:260px;width:260px;margin:80px 15px 30px 15px;float:left; display:flex; align-items:center;justify-content:center"><img src="https://github.com/xiangz-nudt/xiangz-nudt.github.io/blob/master/Pic.jpg?raw=true" alt=""></div>
-  <div style="height:280px;width:540px;margin:60px auto 30px 0px;float:left">
+  <div style="height:300px;width:260px;margin:80px 15px 30px 15px;float:left; display:flex; align-items:center;justify-content:center">     <img src="https://github.com/xiangz-nudt/xiangz-nudt.github.io/blob/master/Pic.jpg?raw=true" alt="">
+  </div>
+  <div style="height:320px;width:540px;margin:60px auto 30px 0px;float:left">
     <h2><b>Xiang ZHAO</b>, PhD UNSW</h2>
-    <p>1) Associate Professor<br/>- National Key Laboratory of Science and Technology on Information System Engineering<br/>- College of Systems Engineering, <a href="https://english.nudt.edu.cn/" target="_blank">National University of Defense Technology</a></p>
-    <p>2) Associate Research Fellow<br/>- “2011 Program” <a href="http://innogst.whu.edu.cn/" target="blank">Collaborative Innovation Center of Geospatial Technology</a>, China</p>
-
+    <h4>1) Associate Professor<br/>- National Key Laboratory of Science and Technology on Information System Engineering<br/>- College of Systems Engineering, <a href="https://english.nudt.edu.cn/" target="_blank">National University of Defense Technology</a></h4>
+    <h4>2) Associate Research Fellow<br/>- “2011 Program” <a href="http://innogst.whu.edu.cn/" target="blank">Collaborative Innovation Center of Geospatial Technology</a>, China</h4>
+    <h4>
+      <b>Email</b>: xiangzhao <i>at</i> nudt.edu.cn<br/><b>Phone</b>: +86 731 8700 6407<br/><b>Facsimile</b>: +86 731 8457 3514<br/><b>Address</b>: 109 Deya Road, Changsha, Hunan, China (410073)
+    </h4>
   </div>
 </div>
-<div style="width:800px;margin:0px auto"><p><b>Email</b>: xiangzhao <i>at</i> nudt.edu.cn<br/><b>Phone</b>: +86 731 8700 6407<br/><b>Facsimile</b>: +86 731 8457 3514<br/><b>Address</b>: 109 Deya Road, Changsha, Hunan, China (410073)</p></div>
+
 <hr/>
 <div style="width:860px;margin:0px auto">
 <h3><b>Short Biography</b></h3>
