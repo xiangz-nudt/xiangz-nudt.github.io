@@ -8,8 +8,8 @@
   
 <body style="background:#dddddd">
 <div style="width:920px;background:#ffffff;margin:60px auto;border:2px solid #eeeeee">
-<div style="height:410px;width:860px;margin:0px auto">
-  <div style="height:300px;width:260px;margin:70px 15px 30px 15px;float:left; display:flex; align-items:center;justify-content:flex-end">
+<div style="height:380px;width:860px;margin:0px auto">
+  <div style="height:300px;width:260px;margin:70px 15px 0px 15px;float:left; display:flex; align-items:center;justify-content:flex-end">
     <img src="https://github.com/xiangz-nudt/xiangz-nudt.github.io/blob/master/Pic.jpg?raw=true" alt="">
   </div>
   <div style="height:320px;width:570px;margin:60px auto 30px 0px;float:left">
