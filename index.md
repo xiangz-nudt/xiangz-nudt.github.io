@@ -19,7 +19,7 @@
     <b>Email</b>: xiangzhao <i>at</i> nudt.edu.cn<br/><b>Phone</b>: +86 731 8700 6407<br/><b>Facsimile</b>: +86 731 8457 3514<br/><b>Address</b>: 109 Deya Road, Changsha, Hunan, China (410073)</p>
   </div>
 </div>
-
+<br/>
 <hr/>
 <div style="width:860px;margin:0px auto">
 <h3><b>Short Biography</b></h3>
