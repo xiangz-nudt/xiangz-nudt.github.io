@@ -7,7 +7,7 @@
   </head>
   
 <body style="background:#dddddd">
-<div style="width:920px;background:#ffffff;margin:60px auto;border:2px solid #eeeeee">
+<div style="width:920px;background:#ffffff;margin:10px auto;border:2px solid #eeeeee">
 <div style="height:380px;width:860px;margin:0px auto">
   <div style="height:290px;width:260px;margin:70px 15px 0px 15px;float:left; display:flex; align-items:center;justify-content:flex-end">
     <img src="https://github.com/xiangz-nudt/xiangz-nudt.github.io/blob/master/Pic.jpg?raw=true" alt="">
