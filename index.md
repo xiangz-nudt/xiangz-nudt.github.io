@@ -15,13 +15,14 @@
   <div style="height:320px;width:570px;margin:60px auto 30px 0px;float:left">
     <h2><b>Xiang ZHAO</b>, PhD UNSW</h2>
     <p>
-    <b>1) Associate Professor</b><br/>- National Key Laboratory of Science and Technology on Information System Engineering<br/>- College of Systems Engineering, <a href="https://english.nudt.edu.cn/" target="_blank">National University of Defense Technology</a><br/>
+    <b>1) Associate Professor</b><br/><font size="15">- National Key Laboratory of Science and Technology on Information System Engineering<br/>- College of Systems Engineering, <a href="https://english.nudt.edu.cn/" target="_blank">National University of Defense Technology</a></front><br/>
     <b>2) Associate Research Fellow</b><br/>- “2011 Program” <a href="http://innogst.whu.edu.cn/" target="blank">Collaborative Innovation Center of Geospatial Technology</a>, China<br/>
     <b>Email</b>: xiangzhao <i>at</i> nudt.edu.cn<br/><b>Phone</b>: +86 731 8700 6407<br/><b>Facsimile</b>: +86 731 8457 3514<br/><b>Address</b>: 109 Deya Road, Changsha, Hunan, China (410073)</p>
   </div>
 </div>
-<hr/>
+
 <div style="width:860px;margin:0px auto">
+<hr/>
 <h3><b>Short Biography</b></h3>
 <p>
 <b>Xiang Zhao</b> is currently an associate professor at College of Systems Engineering, <a href="https://english.nudt.edu.cn/" target="_blank">National University of Defense Technology</a> (NUDT), China. Since 2015, he is also a concurrent associate research fellow at <a href="http://innogst.whu.edu.cn/" target="_blank">Collaborative Innovation Center of Geospatial Technology</a>, China, led by <a href = "http://en.whu.edu.cn/info/1073/1569.htm" target = "_blank">Prof. Deren Li</a> and <a href="http://en.whu.edu.cn/info/1073/1568.htm" target="_blank">Prof. Jianya Gong</a>. In 2014, he got PhD of Computer Science and Engineering at <a href="http://www.unsw.edu.au/" target="_blank">The University of New South Wales</a> (UNSW), Australia, under the supervision of <a href="http://www.cse.unsw.edu.au/~lxue" target ="_blank">Prof. Xuemin Lin</a>, and his joint-supervisor is <a href="http://www.cse.unsw.edu.au/~wong" target="_blank">A/Prof. Raymond Wong</a>, co-supervisor is <a href="https://sites.google.com/site/chuanxiao1983/" target ="_blank">Dr. Chuan Xiao</a>. He also performed research at <a href="http://www.csiro.au/" target="_blank">Commonwealth Scientific and Industrial Research Organisation</a> (CSIRO) under a project led by <a href="http://www.ict.csiro.au/staff/kerry.taylor/" target="_blank">A/Prof. Kerry Taylor</a> and <a href="http://www.nicta.com.au/" target="_blank">National Information and Communication Technology Australia</a> (NICTA, now <a href="https://www.data61.csiro.au/" target="_blank">Data61</a>@CSIRO) under a project lead by <a href="https://www.uts.edu.au/staff/jian.zhang" target="_blank">A/Prof. Jian Zhang</a>. Prior to that, he got his Bachelor's Degree in Information Systems Engineering at NUDT in 2008. 
