@@ -1,4 +1,10 @@
----title:Xiang Zhao's Homepage NUDT---
+---
+---
+@import "{{ site.theme }}";
+
+header {
+  display: none;
+}
 <html>
 <body style="background:#dddddd">
 <div style="width:920px;background:#ffffff;margin:60px auto;border:2px solid #eeeeee">
