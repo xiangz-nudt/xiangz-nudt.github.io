@@ -1,7 +1,5 @@
+---title:Xiang Zhao's Homepage NUDT---
 <html>
-<head>
-  <title>Xiang Zhao's Homepage NUDT</title>
-</head>
 <body style="background:#dddddd">
 <div style="width:920px;background:#ffffff;margin:60px auto;border:2px solid #eeeeee">
 <div style="width:860px;margin:0px auto">
