@@ -35,8 +35,8 @@ He is a member of <a href="http://www.ccf.org.cn/sites/ccf/" target="_blank">Chi
 <div style="width:860px;margin:0px auto">
   <h3 style="color:#b45f06"><b>News</b></h3>
   <ul style="list-style-type:none">
-    <li><p>* <i>Have got one article to appear in <a href = "http://tois.acm.org/" target = "_blank">ACM TOIS</a>, and two papers accepted by <a href = "https://aaai.org/Conferences/AAAI-20/" target = "_blank">AAAI 2020</a>! </i></p></li>
-    <li><p>* <i>Secured a grant from Provincial Natural Science Fund for <b>Distinguished Young Scholars</b> of Hunan, starting 2019!</i></p></li>
+    <li>* <i>Have got one article to appear in <a href = "http://tois.acm.org/" target = "_blank">ACM TOIS</a>, and two papers accepted by <a href = "https://aaai.org/Conferences/AAAI-20/" target = "_blank">AAAI 2020</a>! </i></li>
+    <li>* <i>Secured a grant from Provincial Natural Science Fund for <b>Distinguished Young Scholars</b> of Hunan, starting 2019!</i></li>
     <li><p>* <i> Looking for motivated post-docs & PhD students to work on advanced data analytics and NLU. You are welcome to drop me a line!</i></p></li>
   </ul>
 </div>
