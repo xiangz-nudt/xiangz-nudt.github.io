@@ -13,7 +13,7 @@
     <img src="https://github.com/xiangz-nudt/xiangz-nudt.github.io/blob/master/Pic.jpg?raw=true" alt="">
   </div>
   <div style="height:280px;width:570px;margin:60px auto 30px 0px;float:left">
-    <h2><b>Xiang ZHAO</b>, PhD UNSW</h2>
+    <h2><b>Xiang Zhao</b>, PhD UNSW</h2>
     <p>
     <b>1) Associate Professor</b><br/><font size="3">- National Key Laboratory of Science and Technology on Information System Engineering<br/>- College of Systems Engineering, <a href="https://english.nudt.edu.cn/" target="_blank">National University of Defense Technology</a></font><br/>
     <b>2) Associate Research Fellow</b><br/><font size="3">- “2011 Program” <a href="http://innogst.whu.edu.cn/" target="blank">Collaborative Innovation Center of Geospatial Technology</a>, China</font><br/>
@@ -30,7 +30,9 @@
 <p>
 He is a member of <a href="http://www.ccf.org.cn/sites/ccf/" target="_blank">China Computer Federation</a> (CCF) <a href="http://tcdb.ccf.org.cn/" target="_blank">Technical Committee on Databases</a>, a communication member of CCF <a href="http://www.ccf.org.cn/sites/ccf/dsfzw.jsp" target="_blank">Task Force on Big Data</a>, and a member of Technical Commitees on <a href="http://www.cipsc.org.cn/sigkg/" target = "_blank">Language and Knowledge Computing, and BigSearch, <a href="http://www.cipsc.org.cn/index.php" target = "_blank">Chinese Information Processing Society of China</a> (CIPS). He was recipient of <a href ="https://china.acm.org/awards.html" target="_blank">ACM SIGMOD China Rising Star award</a> (2018), and recipient of <a href = "http://www.cast.org.cn/art/2018/9/30/art_19_35872.html" target = "_blank">Young Talents Lift-up Program</a> (2018) for <a href = "http://www.cast.org.cn/" target = "_blank">China Association for Science and Technology</a> (CAST) and <a href = "http://kjt.hunan.gov.cn/zxgz/zkjj/" target = "_blank">Hunan Provincial Natural Science Fund</a> (2019) for Distinguished Young Scholars.
 </p>
+<p>
 <b>Xiang</b>'s research interests include: Knowledge Graphs, Graph Analytics, Recommendation, Representation Learning.
+</p>
 </div>
 <div style="width:860px;margin:0px auto">
   <h3 style="color:#b45f06"><b>News</b></h3>
