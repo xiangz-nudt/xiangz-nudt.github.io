@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="renderer" content="webkit">
     <meta name="Keywords" content="Xiang Zhao, NUDT, National University of Defense Technology, Database, Knowledge graph, Graph data, Representation Learning, Recommender System, 赵翔, 国防科技大学, 国防科大, 数据库, 知识图谱, 图数据, 表示学习, 推荐系统">
-    <mate name="Description" content="Welcome to Xiang Zhao's Homepage! Ph.D., The University of New South Wales (UNSW), Assoc. Prof., National University of Defense Technology (NUDT)">
+    <meta name="Description" content="Welcome to Xiang Zhao's Homepage! Ph.D., The University of New South Wales (UNSW), Assoc. Prof., National University of Defense Technology (NUDT)">
     <title>Xiang Zhao's Homepage NUDT</title>
   </head>
   
@@ -17,8 +17,8 @@
   <div style="height:280px;width:570px;margin:60px auto 30px 15px;float:left">
     <h2><b>Xiang Zhao</b> (赵 翔), PhD UNSW</h2>
     <p>
-    <b>1) Associate Professor</b><br/><font size="3">- National Key Laboratory of Science and Technology on Information System Engineering<br/>- College of Systems Engineering, <a href="https://english.nudt.edu.cn/" target="_blank">National University of Defense Technology</a></font><br/>
-    <b>2) Associate Research Fellow</b><br/><font size="3">- “2011 Program” <a href="http://innogst.whu.edu.cn/" target="blank">Collaborative Innovation Center of Geospatial Technology</a>, China</font><br/>
+    <b>1) Associate Professor</b><br/><font size="3.5">- National Key Laboratory of Science and Technology on Information Systems Engineering<br/>- College of Systems Engineering, <a href="https://english.nudt.edu.cn/" target="_blank">National University of Defense Technology</a></font><br/>
+    <b>2) Associate Research Fellow</b><br/><font size="3.5">- “2011 Program” <a href="http://innogst.whu.edu.cn/" target="blank">Collaborative Innovation Center of Geospatial Technology</a>, China</font><br/>
     <b>Email</b>: xiangzhao <i>at</i> nudt.edu.cn<br/><b>Phone</b>: +86 731 8700 6407<br/><b>Facsimile</b>: +86 731 8457 3514<br/><b>Address</b>: 109 Deya Road, Changsha, Hunan, China (410073)</p>
   </div>
 </div>
