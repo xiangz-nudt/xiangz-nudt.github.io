@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="renderer" content="webkit">
     <meta name="Keywords" content="Xiang Zhao, NUDT, National University of Defense Technology, Database, Knowledge graph, Graph data, Representation Learning, Recommender System, 赵翔, 国防科技大学, 国防科大, 数据库, 知识图谱, 图数据, 表示学习, 推荐系统">
+    <meta name="Keywords" content="Xiang Zhao_Homepage_NUDT_National University of Defense Technology_Database_Knowledge graph_Graph data_Representation Learning_Recommender System_赵翔_国防科技大学_国防科大_数据库_知识图谱_图数据_表示学习_推荐系统">
     <meta name="Description" content="Welcome to Xiang Zhao's Homepage! Ph.D., The University of New South Wales (UNSW), Assoc. Prof., National University of Defense Technology (NUDT)">
     <title>Xiang Zhao's Homepage NUDT</title>
   </head>
@@ -12,7 +13,7 @@
   <div style="width:920px;background:#ffffff;margin:10px auto;border:2px solid #eeeeee">
   <div style="height:360px;width:860px;margin:0px auto">
   <div style="height:290px;width:260px;margin:65px 15px 15px auto; float:left; display:flex; align-items:center;justify-content:flex-end">
-    <img src="https://github.com/xiangz-nudt/xiangz-nudt.github.io/blob/master/Pic.jpg?raw=true" alt="Xiang Zhao, NUDT">
+    <img src="https://github.com/xiangz-nudt/xiangz-nudt.github.io/blob/master/Pic.jpg?raw=true" alt="Xiang Zhao">
   </div>
   <div style="height:280px;width:570px;margin:60px auto 30px 15px;float:left">
     <h2><b>Xiang Zhao</b> (赵 翔), PhD UNSW</h2>
