@@ -11,8 +11,8 @@
 <body style="background:#dddddd">
   <div style="width:920px;background:#ffffff;margin:10px auto;border:2px solid #eeeeee">
   <div style="height:360px;width:860px;margin:0px auto">
-  <div style="height:290px;width:260px;margin:60px 15px 15px auto; float:left; display:flex; align-items:center;justify-content:flex-end">
-    <img src="https://github.com/xiangz-nudt/xiangz-nudt.github.io/blob/master/Pic.jpg?raw=true" alt="">
+  <div style="height:290px;width:260px;margin:62px 15px 15px auto; float:left; display:flex; align-items:center;justify-content:flex-end">
+    <img src="https://github.com/xiangz-nudt/xiangz-nudt.github.io/blob/master/Pic.jpg?raw=true" alt="Xiang Zhao, NUDT">
   </div>
   <div style="height:280px;width:570px;margin:60px auto 30px 15px;float:left">
     <h2><b>Xiang Zhao</b> (赵 翔), PhD UNSW</h2>
