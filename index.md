@@ -7,6 +7,7 @@
     <meta name="Keywords" content="Xiang Zhao_Homepage_NUDT_National University of Defense Technology_Database_Knowledge graph_Graph data_Representation Learning_Recommender System_赵翔_国防科技大学_国防科大_数据库_知识图谱_图数据_表示学习_推荐系统">
     <meta name="Description" content="Welcome to Xiang Zhao's Homepage! Ph.D., The University of New South Wales (UNSW), Assoc. Prof., National University of Defense Technology (NUDT)">
     <title>Xiang Zhao's Homepage NUDT</title>
+    <meta name="google-site-verification" content="e8QBQDtgOAVTuMNJp-5g7BJoPB34wMEFcz0RBBmo5B8" />
   </head>
   
 <body style="background:#dddddd">
