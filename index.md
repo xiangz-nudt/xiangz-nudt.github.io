@@ -8,6 +8,7 @@
     <meta name="Description" content="Welcome to Xiang Zhao's Homepage! Ph.D., The University of New South Wales (UNSW), Assoc. Prof., National University of Defense Technology (NUDT)">
     <title>Xiang Zhao's Homepage NUDT</title>
     <meta name="google-site-verification" content="e8QBQDtgOAVTuMNJp-5g7BJoPB34wMEFcz0RBBmo5B8" />
+    <meta name="baidu-site-verification" content="3FTe6ikuh9" />
   </head>
   
 <body style="background:#dddddd">
