@@ -42,7 +42,7 @@
   <ul style="list-style-type:none">
     <li><p>* <i>We have one article to appear in <a href = "http://tois.acm.org/" target = "_blank">ACM TOIS</a>, and two papers accepted by <a href = "https://aaai.org/Conferences/AAAI-20/" target = "_blank">AAAI 2020</a>! </i></p></li>
     <li><p>* <i>Looking for motivated post-docs & students to work on advanced analytics and NLU. Welcome to drop me a line!</i></p></li>
-    <li><p>* <i>Welcom to check out our <a href="https://github.com/nudtnlp/" target="_blank">GitHub page<\a> for our recent progress on NLP!</i></p></li>
+    <li><p>* <i>Welcom to check out our <a href="https://github.com/nudtnlp/" target="_blank">GitHub page</a> for our recent progress on NLP!</i></p></li>
   </ul>
 </div>
 <hr/>
