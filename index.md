@@ -18,9 +18,9 @@
     <img src="https://github.com/xiangz-nudt/xiangz-nudt.github.io/blob/master/Pic.jpg?raw=true" alt="Xiang Zhao">
   </div>
   <div style="height:280px;width:570px;margin:60px auto 30px 15px;float:left">
-    <h2><b>Xiang Zhao</b> (赵 翔), PhD UNSW</h2>
+    <h2><font size="5"><b>Xiang Zhao</b> (赵 翔), PhD UNSW</h2>
     <p>
-    <b>1) Associate Professor</b><br/><font size="3.5">- National Key Laboratory of Science and Technology on Information Systems Engineering<br/>- College of Systems Engineering, <a href="https://english.nudt.edu.cn/" target="_blank">National University of Defense Technology</a></font><br/>
+    <b><font size="4">1) Associate Professor</b><br/><font size="3.5">- National Key Laboratory of Science and Technology on Information Systems Engineering<br/>- College of Systems Engineering, <a href="https://english.nudt.edu.cn/" target="_blank">National University of Defense Technology</a></font><br/>
     <b>2) Associate Research Fellow</b><br/><font size="3.5">- “2011 Program” <a href="http://innogst.whu.edu.cn/" target="blank">Collaborative Innovation Center of Geospatial Technology</a>, China</font><br/>
     <b>Email</b>: xiangzhao <i>at</i> nudt.edu.cn<br/><b>Phone</b>: +86 731 8700 6407<br/><b>Facsimile</b>: +86 731 8457 3514<br/><b>Address</b>: 109 Deya Road, Changsha, Hunan, China (410073)</p>
   </div>
