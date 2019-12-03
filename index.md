@@ -106,7 +106,19 @@
   
   <li><p><b><a href="https://sites.google.com/site/xzhaounsw/ICDE2012-GSimJoin.pdf?attredirects=0">Efficient Graph Similarity Joins with Edit Distance Constraints</a> </b> [<a href="https://sites.google.com/site/xzhaounsw/ICDE2012_Talk.pptx?attredirects=0"  >slides</a>]<br /><b>Xiang Zhao</b>, <a href="https://sites.google.com/site/chuanxiao1983/" target="_blank">Chuan Xiao</a>, <a href="http://www.cse.unsw.edu.au/~lxue/" target="_blank">Xuemin Lin</a>, <a href="http://www.cse.unsw.edu.au/~weiw/" target="_blank">Wei Wang</a>. IEEE <b>ICDE</b>, 2012.</p></li>
   
+  <li><p><b>基于重排序的迭代式实体对齐</b><br/>曾维新, <b>赵翔</b>, 唐九阳, 谭真, 王炜. <b>计算机研究与发展</b>, 2019, in press.</p></li>
+  
+  <li><p><b>融合对抗训练的端到端知识三元组联合抽取</b><br/>黄培馨, <b>赵翔</b>, 方阳, 朱慧明, 肖卫东. <b>计算机研究与发展</b>, 2019, in press.</p></li>
+  
+  <li><p><b>面向高效并行Skyline计算的数据划分方法</b><br/><b>赵翔</b>, 商海川. <b>计算机学报</b>, 2019, in press.</p></li>
+  
+  <li><p><b>动态图模式匹配技术研究综述</b><br/>许嘉, 张千桢, <b>赵翔</b>, 吕品, 李陶深. <b>软件学报</b>, 2018, 29(3): 663-688.</p></li>
+  
+  <li><p><b>一种改进的基于翻译的知识图谱表示方法</b><br/>方阳, <b>赵翔</b>, 谭真, 肖卫东. <b>计算机研究与发展</b>, 2018, 55(1): 139-150.</p></li>
+  
   <li><p><b>一种改进的基于BSP的大图计算模型</b><br/><b>赵翔</b>, 李博, 商海川, 肖卫东. <b>计算机学报</b>, 2017, 40(1): 223-235.</p></li>
+  
+  <li><p><b>一种多变元网络可视化方法</b><br/>孙杨, <b>赵翔</b>, 唐九阳, 汤大权, 肖卫东. <b>计算机学报</b>, 2010, 21(9): 2250-2261.</p></li>
   
   </ul>
 </div>
@@ -120,21 +132,48 @@
 
   <li><p>Journal editorial review board:</p><p>since 2018: <a href="https://www.igi-global.com/journal/journal-database-management-jdm/1072" target="_blank">Journal of Database Management</a></p></li>
 
-  <li><p>Invited journal reviewers:</p><p><a href="http://link.springer.com/journal/778" target="_blank">VLDB Journal</a>, IEEE <a href="http://www.computer.org/portal/web/tkde" target="_blank">TKDE</a>, ACM <a href="https://tois.acm.org/" target="_blank">TOIS</a>, IEEE <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385" target="_blank">TNNLS</a>, IEEE <a href="http://www.computer.org/portal/web/tpds" target="_blank">TPDS</a>, <a href="http://www.journals.elsevier.com/information-sciences/" target="_blank">Information Sciences</a>, <a href="http://link.springer.com/journal/11280" target="_blank">WWW Journal</a>, <a href="https://www.journals.elsevier.com/engineering-applications-of-artificial-intelligence" target="_blank">Eng. Appl. of AI</a>, <a href="http://www.journals.elsevier.com/journal-of-computer-and-system-sciences/" target="_blank">JCSS</a>, <a href="http://www.iis.sinica.edu.tw/page/jise/Introduction.html" target="_blank">JISE</a>, <a href="http://jgaa.info/" target="_blank">JGAA</a>, <a href="http://www.academypublisher.com/jcp/" target="_blank">JCP</a>, <a href="https://www.igi-global.com/journal/information-resources-management-journal/1073" target="_blank">IRMJ</a>
+  <li><p>Invited journal reviewers:</p><p>
+  <a href="http://link.springer.com/journal/778" target="_blank">VLDB Journal</a>, 
+  IEEE <a href="http://www.computer.org/portal/web/tkde" target="_blank">TKDE</a>, 
+  ACM <a href="https://tois.acm.org/" target="_blank">TOIS</a>, 
+  IEEE <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385" target="_blank">TNNLS</a>, 
+  IEEE <a href="http://www.computer.org/portal/web/tpds" target="_blank">TPDS</a>, 
+  <a href="http://www.journals.elsevier.com/information-sciences/" target="_blank">Information Sciences</a>,
+  <a href="http://link.springer.com/journal/11280" target="_blank">WWW Journal</a>, 
+  <a href="https://www.journals.elsevier.com/engineering-applications-of-artificial-intelligence" target="_blank">Eng. Appl. of AI</a>, 
+  <a href="http://www.journals.elsevier.com/journal-of-computer-and-system-sciences/" target="_blank">JCSS</a>, 
+  <a href="http://www.iis.sinica.edu.tw/page/jise/Introduction.html" target="_blank">JISE</a>, 
+  <a href="http://jgaa.info/" target="_blank">JGAA</a>, <a href="http://www.academypublisher.com/jcp/" target="_blank">JCP</a>, 
+  <a href="https://www.igi-global.com/journal/information-resources-management-journal/1073" target="_blank">IRMJ</a>
   </p></li>
   <li>
   <p>Member of program committees:</p>
   <ul>
 
   <li><p>
-  <b>International conferences:</b> IEEE <a href="http://conferences.cis.umac.mo/icde2019/" target="_blank">ICDE</a>, <a href="https://aaai.org/Conferences/AAAI-20/" target="_blank">AAAI</a>, <a href="https://acl2020.org/" target="_blank">ACL</a>, ACM <a href="http://cikm2019.net/" target="_blank">CIKM</a>, <a href="http://ada.suda.edu.cn/apweb2016/" target="_blank">APWeb</a>, <a href="http://www.akbc.ws/" target="_blank">AKBC</a>, <a href="http://conference.eng.unimelb.edu.au/adc/" target="_blank">ADC</a>, <a href="http://www.ieeebigdata.org/2016/" target="_blank">BigData</a>, FCST, FAB, BigCom, SC2, SoICT, PRICAI, IEEE DSC</p></li>
-
+  <b>International conferences:</b>
+  IEEE <a href="http://conferences.cis.umac.mo/icde2019/" target="_blank">ICDE</a>, 
+  <a href="https://aaai.org/Conferences/AAAI-20/" target="_blank">AAAI</a>, 
+  <a href="https://acl2020.org/" target="_blank">ACL</a>, ACM <a href="http://cikm2019.net/" target="_blank">CIKM</a>, 
+  <a href="http://ada.suda.edu.cn/apweb2016/" target="_blank">APWeb</a>, 
+  <a href="http://www.akbc.ws/" target="_blank">AKBC</a>, 
+  <a href="http://conference.eng.unimelb.edu.au/adc/" target="_blank">ADC</a>, 
+  <a href="http://www.ieeebigdata.org/2016/" target="_blank">BigData</a>, 
+  FCST, FAB, BigCom, SC2, SoICT, PRICAI, IEEE DSC</p></li>
   <li><p>
   <b>National conferences:</b> CCF <a href="http://dm.ustc.edu.cn/ccf-bigdata2015/" target="_blank">BigData</a>, <a href="http://ndbc2019.sdu.edu.cn/" target="_blank">NDBC</a>
   </p></li>
   
   <li><p>
-  <b>Workshops:</b> <a href="https://sites.google.com/view/textgraphs2019/home" target="_blank">TextGraphs</a>, <a href="http://kbcom.org/" target="_blank">KBCOM</a>, <a href="http://www.ifis.uni-luebeck.de/~groppe/sbd/2016/home" target="_blank">SBD</a>, <a href="http://www.cse.unsw.edu.au/~gap/" target="_blank">GAP</a>, <a href="http://www.csiro.au/Organisation-Structure/Flagships/Digital-Productivity-and-Services/BioBAD-2015.aspx" target="_blank">BioBAD</a>, <a href="http://wp.csiro.au/kmba2013/" target="_blank">KMBA</a>, <a href="https://lsgda.github.io/" target="_blank">LSGDA</a>, <a href="https://www.trustie.net/users/iwcse/homepage" target="_blank">IWCSE</a>
+  <b>Workshops:</b> 
+  <a href="https://sites.google.com/view/textgraphs2019/home" target="_blank">TextGraphs</a>, 
+  <a href="http://kbcom.org/" target="_blank">KBCOM</a>, 
+  <a href="http://www.ifis.uni-luebeck.de/~groppe/sbd/2016/home" target="_blank">SBD</a>, 
+  <a href="http://www.cse.unsw.edu.au/~gap/" target="_blank">GAP</a>, 
+  <a href="http://www.csiro.au/Organisation-Structure/Flagships/Digital-Productivity-and-Services/BioBAD-2015.aspx" target="_blank">BioBAD</a>, 
+  <a href="http://wp.csiro.au/kmba2013/" target="_blank">KMBA</a>, 
+  <a href="https://lsgda.github.io/" target="_blank">LSGDA</a>, 
+  <a href="https://www.trustie.net/users/iwcse/homepage" target="_blank">IWCSE</a>
   </p></li>
   
   </ul></li>
