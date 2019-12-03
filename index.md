@@ -43,8 +43,8 @@
 <div style="width:860px;margin:0px auto">
   <h3 style="color:#b45f06"><b>News</b></h3>
   <ul style="list-style-type:none">
-    <li><p>* <i>We have two full papers on NER accepted by <a href = "https://aaai.org/Conferences/AAAI-20/" target = "_blank">AAAI 2020</a>! </i></p></li>
-    <li><p>* <i>We have a regular paper on top-N recommendation accepted by ACM <a href = "http://tois.acm.org/" target = "_blank">TOIS</a>! </i></p></li>
+    <li><p>* <i><font color="red">We have two full papers on NER accepted by <a href = "https://aaai.org/Conferences/AAAI-20/" target = "_blank">AAAI 2020</a>!</font></i></p></li>
+    <li><p>* <i><font color="red">We have a regular paper on top-N recommendation accepted by ACM <a href = "http://tois.acm.org/" target = "_blank">TOIS</a>!</font></i></p></li>
     <li><p>* <i>Looking for motivated post-docs & students to work on advanced analytics and NLU. Welcome to drop me a line!</i></p></li>
     <li><p>* <i>Welcom to check out our <a href="https://github.com/nudtnlp/" target="_blank">GitHub page</a> for our recent progress on NLP!</i></p></li>
   </ul>
