@@ -112,7 +112,7 @@
   
   <li><p><b>面向高效并行Skyline计算的数据划分方法</b><br/><b>赵翔</b>, 商海川. <b>计算机学报</b>, 2019, in press.</p></li>
   
-  <li><p><b><a href="http://www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=5444&journal_id=jos">动态图模式匹配技术研究综述</a></b><br/>许嘉, 张千桢, <b>赵翔</b>, 吕品, 李陶深. <b>软件学报</b>, 2018, 29(3): 663-688.</p></li>
+  <li><p><b><a href="http://www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=5444&journal_id=jos">动态图模式匹配技术综述</a></b><br/>许嘉, 张千桢, <b>赵翔</b>, 吕品, 李陶深. <b>软件学报</b>, 2018, 29(3): 663-688.</p></li>
   
   <li><p><b><a href="http://crad.ict.ac.cn/CN/Y2018/V55/I1/139#">一种改进的基于翻译的知识图谱表示方法</a></b><br/>方阳, <b>赵翔</b>, 谭真, 肖卫东. <b>计算机研究与发展</b>, 2018, 55(1): 139-150.</p></li>
   
