@@ -20,8 +20,8 @@
   <div style="height:280px;width:570px;margin:60px auto 30px 15px;float:left">
     <h2><b>Xiang Zhao</b> (赵 翔), PhD UNSW</h2>
     <p>
-    <b>1) Associate Professor</b><br/><font size="4">- National Key Laboratory of Science and Technology on Information Systems Engineering<br/>- College of Systems Engineering, <a href="https://english.nudt.edu.cn/" target="_blank">National University of Defense Technology</a></font><br/>
-    <b>2) Associate Research Fellow</b><br/><font size="4">- “2011 Program” <a href="http://innogst.whu.edu.cn/" target="blank">Collaborative Innovation Center of Geospatial Technology</a>, China</font><br/>
+    <b>1) Associate Professor</b><br/><font size="3.5">- National Key Laboratory of Science and Technology on Information Systems Engineering<br/>- College of Systems Engineering, <a href="https://english.nudt.edu.cn/" target="_blank">National University of Defense Technology</a></font><br/>
+    <b>2) Associate Research Fellow</b><br/><font size="3.5">- “2011 Program” <a href="http://innogst.whu.edu.cn/" target="blank">Collaborative Innovation Center of Geospatial Technology</a>, China</font><br/>
     <b>Email</b>: xiangzhao <i>at</i> nudt.edu.cn<br/><b>Phone</b>: +86 731 8700 6407<br/><b>Facsimile</b>: +86 731 8457 3514<br/><b>Address</b>: 109 Deya Road, Changsha, Hunan, China (410073)</p>
   </div>
 </div>
@@ -104,7 +104,9 @@
   
   <li><p><b><a href="https://sites.google.com/site/xzhaounsw/DASFAA2013_SsSearch.pdf?attredirects=0" >On Efficient Graph Substructure Selection</a> </b>[<a href="https://sites.google.com/site/xzhaounsw/DASFAA2013_Talk.pptx?attredirects=0">slides</a>]<br /><b>Xiang Zhao</b>, Haichuan Shang, <a href="http://www.cse.unsw.edu.au/~zhangw/" target="_blank">Wenjie Zhang</a>, <a href="http://www.cse.unsw.edu.au/~lxue/" target="_blank">Xuemin Lin</a>, Weidong Xiao. <b>DASFAA</b>, 2013.</p></li>
   
-  <li><p><b><a href="https://sites.google.com/site/xzhaounsw/ICDE2012-GSimJoin.pdf?attredirects=0">Efficient Graph Similarity Joins with Edit Distance Constraints</a> </b> [<a href="https://sites.google.com/site/xzhaounsw/ICDE2012_Talk.pptx?attredirects=0"  >slides</a>]<br /><b>    Xiang Zhao</b>, <a href="https://sites.google.com/site/chuanxiao1983/" target="_blank">Chuan Xiao</a>, <a href="http://www.cse.unsw.edu.au/~lxue/" target="_blank">Xuemin Lin</a>, <a href="http://www.cse.unsw.edu.au/~weiw/" target="_blank">Wei Wang</a>. IEEE <b>ICDE</b>, 2012.</p></li>
+  <li><p><b><a href="https://sites.google.com/site/xzhaounsw/ICDE2012-GSimJoin.pdf?attredirects=0">Efficient Graph Similarity Joins with Edit Distance Constraints</a> </b> [<a href="https://sites.google.com/site/xzhaounsw/ICDE2012_Talk.pptx?attredirects=0"  >slides</a>]<br /><b>Xiang Zhao</b>, <a href="https://sites.google.com/site/chuanxiao1983/" target="_blank">Chuan Xiao</a>, <a href="http://www.cse.unsw.edu.au/~lxue/" target="_blank">Xuemin Lin</a>, <a href="http://www.cse.unsw.edu.au/~weiw/" target="_blank">Wei Wang</a>. IEEE <b>ICDE</b>, 2012.</p></li>
+  
+  <li><p><b>一种改进的基于BSP的大图计算模型</b><br/><b>赵翔</b>, 李博, 商海川, 肖卫东. <b>计算机学报</b>, 2017, 40(1): 223-235.</p></li>
   
   </ul>
 </div>
@@ -118,7 +120,8 @@
 
   <li><p>Journal editorial review board:</p><p>since 2018: <a href="https://www.igi-global.com/journal/journal-database-management-jdm/1072" target="_blank">Journal of Database Management</a></p></li>
 
-  <li><p>Invited journal reviewers:</p><p><a href="http://link.springer.com/journal/778" target="_blank">VLDB Journal</a>, IEEE <a href="http://www.computer.org/portal/web/tkde" target="_blank">TKDE</a>, ACM <a href="https://tois.acm.org/" target="_blank">TOIS</a>, IEEE <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385" target="_blank">TNNLS</a>, IEEE <a href="http://www.computer.org/portal/web/tpds" target="_blank">TPDS</a>, <a href="http://www.journals.elsevier.com/information-sciences/" target="_blank">Information Sciences</a>, <a href="http://link.springer.com/journal/11280" target="_blank">WWW Journal</a>, <a href="https://www.journals.elsevier.com/engineering-applications-of-artificial-intelligence" target="_blank">Eng. Appl. of AI</a>, <a href="http://www.journals.elsevier.com/journal-of-computer-and-system-sciences/" target="_blank">JCSS</a>, <a href="http://www.iis.sinica.edu.tw/page/jise/Introduction.html" target="_blank">JISE</a>, <a href="http://jgaa.info/" target="_blank">JGAA</a>, <a href="http://www.academypublisher.com/jcp/" target="_blank">JCP</a></p></li>
+  <li><p>Invited journal reviewers:</p><p><a href="http://link.springer.com/journal/778" target="_blank">VLDB Journal</a>, IEEE <a href="http://www.computer.org/portal/web/tkde" target="_blank">TKDE</a>, ACM <a href="https://tois.acm.org/" target="_blank">TOIS</a>, IEEE <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385" target="_blank">TNNLS</a>, IEEE <a href="http://www.computer.org/portal/web/tpds" target="_blank">TPDS</a>, <a href="http://www.journals.elsevier.com/information-sciences/" target="_blank">Information Sciences</a>, <a href="http://link.springer.com/journal/11280" target="_blank">WWW Journal</a>, <a href="https://www.journals.elsevier.com/engineering-applications-of-artificial-intelligence" target="_blank">Eng. Appl. of AI</a>, <a href="http://www.journals.elsevier.com/journal-of-computer-and-system-sciences/" target="_blank">JCSS</a>, <a href="http://www.iis.sinica.edu.tw/page/jise/Introduction.html" target="_blank">JISE</a>, <a href="http://jgaa.info/" target="_blank">JGAA</a>, <a href="http://www.academypublisher.com/jcp/" target="_blank">JCP</a>, <a href="https://www.igi-global.com/journal/information-resources-management-journal/1073" target="_blank">IRMJ</a>
+  </p></li>
   <li>
   <p>Member of program committees:</p>
   <ul>
