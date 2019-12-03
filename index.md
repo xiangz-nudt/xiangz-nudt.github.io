@@ -17,8 +17,8 @@
   <div style="height:290px;width:260px;margin:65px 15px 15px auto; float:left; display:flex; align-items:center;justify-content:flex-end">
     <img src="https://github.com/xiangz-nudt/xiangz-nudt.github.io/blob/master/Pic.jpg?raw=true" alt="Xiang Zhao">
   </div>
-  <div style="height:280px;width:570px;margin:60px auto 30px 15px;float:left">
-    <h2><b>Xiang Zhao</b> (<tt>赵 翔</tt>), PhD UNSW</h2>
+  <div style="height:280px;width:570px;margin:60px auto 30px 15px;float:left;font-family:KaiTi">
+    <h2><b>Xiang Zhao</b> (赵 翔), PhD UNSW</h2>
     <p>
     <b>1) Associate Professor</b><br/><font size="3.5">- National Key Laboratory of Science and Technology on Information Systems Engineering<br/>- College of Systems Engineering, <a href="https://english.nudt.edu.cn/" target="_blank">National University of Defense Technology</a></font><br/>
     <b>2) Associate Research Fellow</b><br/><font size="3.5">- “2011 Program” <a href="http://innogst.whu.edu.cn/" target="blank">Collaborative Innovation Center of Geospatial Technology</a>, China</font><br/>
