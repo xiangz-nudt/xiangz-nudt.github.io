@@ -37,7 +37,7 @@
   He is a member of <a href="http://www.ccf.org.cn/sites/ccf/" target="_blank">China Computer Federation</a> (CCF) <a href="http://tcdb.ccf.org.cn/" target="_blank">Technical Committee on Databases</a>, a communication member of CCF <a href="http://www.ccf.org.cn/sites/ccf/dsfzw.jsp" target="_blank">Task Force on Big Data</a>, and a member of Technical Commitees on <a href="http://www.cipsc.org.cn/sigkg/" target = "_blank">Language and Knowledge Computing</a>, and BigSearch, <a href="http://www.cipsc.org.cn/index.php" target = "_blank">Chinese Information Processing Society of China</a> (CIPSC). He was recipient of <a href ="https://china.acm.org/awards.html" target="_blank">ACM SIGMOD China Rising Star award</a> (2018), and recipient of <a href = "http://www.cast.org.cn/art/2018/9/30/art_19_35872.html" target = "_blank">Young Talents Lift-up Program</a> (2018) for <a href = "http://www.cast.org.cn/" target = "_blank">China Association for Science and Technology</a> (CAST) and <a href = "http://kjt.hunan.gov.cn/zxgz/zkjj/" target = "_blank">Hunan Provincial Natural Science Fund</a> (2019) for Distinguished Young Scholars.
   </p>
   
-  <b>Xiang</b>'s research interests include: Knowledge Graphs, Graph Analytics, Recommendation, Representation Learning.
+  <b>Xiang</b>'s research interests include: Knowledge Graphs, Graph Analytics, and Natural Language Understanding.
 </div>
 
 <div style="width:860px;margin:0px auto">
@@ -129,11 +129,11 @@
   
   <ul>
 
-  <li><p>Journal editorial board:</p><p>since 2018: IEEE <a href="http://ieeeaccess.ieee.org/" target="_blank">Access</a></p></li>
+  <li><p><b>Journal editorial board:</b></p><p>since 2018: IEEE <a href="http://ieeeaccess.ieee.org/" target="_blank">Access</a></p></li>
 
-  <li><p>Journal editorial review board:</p><p>since 2018: <a href="https://www.igi-global.com/journal/journal-database-management-jdm/1072" target="_blank">Journal of Database Management</a></p></li>
+  <li><p><b>Journal editorial review board:</b></p><p>since 2018: <a href="https://www.igi-global.com/journal/journal-database-management-jdm/1072" target="_blank">Journal of Database Management</a></p></li>
 
-  <li><p>Invited journal reviewers:</p><p>
+  <li><p><b>Invited journal reviewers:</b></p><p>
   <a href="http://link.springer.com/journal/778" target="_blank">VLDB Journal</a>, 
   IEEE <a href="http://www.computer.org/portal/web/tkde" target="_blank">TKDE</a>, 
   ACM <a href="https://tois.acm.org/" target="_blank">TOIS</a>, 
@@ -148,7 +148,7 @@
   <a href="https://www.igi-global.com/journal/information-resources-management-journal/1073" target="_blank">IRMJ</a>
   </p></li>
   <li>
-  <p>Member of program committees:</p>
+  <p><b>Member of program committees:</b></p>
   <ul>
 
   <li><p>
