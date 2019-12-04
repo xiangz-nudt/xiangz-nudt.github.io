@@ -193,10 +193,10 @@
   <li><p><b>Postgraduate Research Support Scheme funding</b>, awarded by <a href="http://research.unsw.edu.au/" target="_blank">Graduate Research School</a>, UNSW, 2012</p></li>
   <li><p><b>Google CSE Travel Prize</b>, awarded by Google Australia and CSE, UNSW, 2011</p></li>
   <li><p><b>ARC Network <a href="http://www.eii.com.au/" target="_blank">Enterprise Information Infrastructure</a> PhD School Travel Bursary</b>, <a href="http://www.uq.edu.au/" target="_blank">The University of Queensland</a>, 2010</p></li>
-  <li><p><b>Third Prize in Teng-da Contest for Science and Technology Innovation</b>, <a href="http://s5.nudt.edu.cn/" target="_blank">College of Information System and Management</a>, NUDT, 2009</p></li>
-  <li><p><b>Excellent Student of NUDT</b>, 2008, Excellent Graduate of College of Information System and Management (CISM), 2008; Excellent Student of CISM, 2004 - 2008</p></li>
+  <li><p><b>Third Prize in Teng-da Contest for Science and Technology Innovation</b>, <a href="http://s5.nudt.edu.cn/" target="_blank">College of Information System and Management</a> (CISM), NUDT, 2009</p></li>
+  <li><p><b>Elite Student</b> of NUDT, 2008; <b>Elite Graduate</b> of CISM, 2008; <b>Elite Student</b> of CISM, 2004 - 2008</p></li>
   <li><p><b>Meritorious in Mathematical Contest in Modeling (MCM) / Interdisciplinary Contest in Modeling (ICM)</b>, organized by <a href="http://www.comap.com/" target="_blank">COMAP</a>, 2008</p></li>
-  <li><p><b>First Prize</b> (<front style="color:#cc0000">One of the Best Papers</front>) in China Undergraduate Mathematical Contest in Modeling (CUMCM), organized by <a href="http://www.moe.edu.cn/" target="_blank">Ministry of Education of PRC</a>, 2007; and <a href="http://csiam.edu.cn/" target="_blank">CSIAM</a>; <b>Second Prize</b>, CUMCM 2006
+  <li><p><b>First Prize</b> (<front style="color:#cc0000">One of the Best Papers</front>) in China Undergraduate Mathematical Contest in Modeling (CUMCM), organized by <a href="http://www.moe.edu.cn/" target="_blank">Ministry of Education of China</a>, 2007; and <a href="http://csiam.edu.cn/" target="_blank">CSIAM</a>; <b>Second Prize</b>, CUMCM 2006
 </p></li>
 
   </ul>
