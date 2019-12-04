@@ -186,7 +186,7 @@
   <h3> <b style="color:rgb(166,77,121)">Awards</b></h3>
   <ul>
 
-  <li><p><b>ACM SIGMOD China Rising Star Award</b>, awarded by ACM SIGMOD China Chapter, 2018</p></li>
+  <li><p><b>ACM SIGMOD China Rising Star Award</b>, awarded by ACM China, 2018</p></li>
   <li><p><b>CSC-UNSW Joint PhD Student Program Scholarship</b>, awarded by <a href="http://www.csc.edu.cn/" target="_blank">China Scholarship Council</a> and UNSW, 2009 - 2013</p></li>
   <li><p><b>CSE CSC-Student Stipend Scholarship</b>, awarded by School of Computer Science and Engineering, UNSW, 2009 - 2011</p></li>
   <li><p><b>National ICT Australia Research Project Award</b>, awarded by NICTA, 2009 - 2013</p></li>
