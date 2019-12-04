@@ -196,7 +196,7 @@
   <li><p><b>Third Prize in Teng-da Contest for Science and Technology Innovation</b>, <a href="http://s5.nudt.edu.cn/" target="_blank">College of Information System and Management</a> (CISM), NUDT, 2009</p></li>
   <li><p><b>Elite Student</b> of NUDT, 2008; <b>Elite Graduate</b> of CISM, 2008; <b>Elite Student</b> of CISM, 2004 - 2008</p></li>
   <li><p><b>Meritorious in Mathematical Contest in Modeling (MCM) / Interdisciplinary Contest in Modeling (ICM)</b>, organized by <a href="http://www.comap.com/" target="_blank">COMAP</a>, 2008</p></li>
-  <li><p><b>First Prize</b> (<front style="color:#cc0000">One of the Best Papers</front>) in China Undergraduate Mathematical Contest in Modeling (CUMCM), organized by <a href="http://www.moe.edu.cn/" target="_blank">Ministry of Education of China</a>, 2007; and <a href="http://csiam.edu.cn/" target="_blank">CSIAM</a>; <b>Second Prize</b>, CUMCM 2006
+  <li><p><b>First Prize</b> (<front style="color:#cc0000">One of the Best Papers</front>) in China Undergraduate Mathematical Contest in Modeling (CUMCM), organized by <a href="http://www.moe.edu.cn/" target="_blank">Ministry of Education of China</a> and <a href="http://csiam.edu.cn/" target="_blank">CSIAM</a>, 2007; <b>Second Prize</b>, CUMCM 2006
 </p></li>
 
   </ul>
