@@ -186,17 +186,17 @@
   <h3> <b style="color:rgb(166,77,121)">Awards</b></h3>
   <ul>
 
-  <li><p>ACM SIGMOD China Rising Star Award, 2018</p></li>
-  <li><p>CSC-UNSW Joint PhD Student Program Scholarship, awarded by <a href="http://www.csc.edu.cn/" target="_blank">China Scholarship Council</a> and UNSW, 2009 - 2013</p></li>
-  <li><p>CSE CSC-Student Stipend Scholarship, awarded by School of Computer Science and Engineering, UNSW, 2009 - 2011</p></li>
-  <li><p>National ICT Australia Research Project Award, awarded by NICTA, 2009 - 2013</p></li>
-  <li><p>Postgraduate Research Support Scheme (PRSS) funding in Round 1, awarded by <a href="http://research.unsw.edu.au/" target="_blank">Graduate Research School</a>, UNSW, 2012</p></li>
-  <li><p>Google CSE Travel Prize, awarded by Google Australia and CSE, UNSW, 2011</p></li>
-  <li><p>ARC Network <a href="http://www.eii.com.au/" target="_blank">Enterprise Information Infrastructure</a> PhD School Travel Bursary at <a href="http://www.uq.edu.au/" target="_blank">The University of Queensland</a>, 2010</p></li>
-  <li><p>Third Prize in Teng-da Contest for Science and Technology Innovation, <a href="http://s5.nudt.edu.cn/" target="_blank">College of Information System and Management</a>, NUDT, 2009</p></li>
-  <li><p>Excellent Student of NUDT, 2008, Excellent Graduate of College of Information System and Management (CISM), 2008; Excellent Student of CISM, 2004 - 2008</p></li>
-  <li><p>Meritorious in Mathematical Contest in Modeling (MCM) / The Interdisciplinary Contest in Modeling (ICM) 2008, organized by <a href="http://www.comap.com/" target="_blank">COMAP</a>; Successful Participants in MCM/ICM 2007</p></li>
-  <li><p><i>First Prize</i> (<front style="color:#cc0000">One of the Best Papers</front>) in China Undergraduate Mathematical Contest in Modeling (CUMCM) 2007, organized by <a href="http://www.moe.edu.cn/" target="_blank">Ministry of Education of PRC</a> and <a href="http://csiam.edu.cn/" target="_blank">CSIAM</a>; <i>Second Prize</i> in CUMCM 2006
+  <li><p><b>ACM SIGMOD China Rising Star Award</b>, awarded by ACM SIGMOD China Chapter, 2018</p></li>
+  <li><p><b>CSC-UNSW Joint PhD Student Program Scholarship</b>, awarded by <a href="http://www.csc.edu.cn/" target="_blank">China Scholarship Council</a> and UNSW, 2009 - 2013</p></li>
+  <li><p><b>CSE CSC-Student Stipend Scholarship</b>, awarded by School of Computer Science and Engineering, UNSW, 2009 - 2011</p></li>
+  <li><p><b>National ICT Australia Research Project Award</b>, awarded by NICTA, 2009 - 2013</p></li>
+  <li><p><b>Postgraduate Research Support Scheme funding</b>, awarded by <a href="http://research.unsw.edu.au/" target="_blank">Graduate Research School</a>, UNSW, 2012</p></li>
+  <li><p><b>Google CSE Travel Prize</b>, awarded by Google Australia and CSE, UNSW, 2011</p></li>
+  <li><p><b>ARC Network <a href="http://www.eii.com.au/" target="_blank">Enterprise Information Infrastructure</a> PhD School Travel Bursary</b>, <a href="http://www.uq.edu.au/" target="_blank">The University of Queensland</a>, 2010</p></li>
+  <li><p><b>Third Prize in Teng-da Contest for Science and Technology Innovation</b>, <a href="http://s5.nudt.edu.cn/" target="_blank">College of Information System and Management</a>, NUDT, 2009</p></li>
+  <li><p><b>Excellent Student of NUDT</b>, 2008, Excellent Graduate of College of Information System and Management (CISM), 2008; Excellent Student of CISM, 2004 - 2008</p></li>
+  <li><p><b>Meritorious in Mathematical Contest in Modeling (MCM) / Interdisciplinary Contest in Modeling (ICM)</b>, organized by <a href="http://www.comap.com/" target="_blank">COMAP</a>, 2008</p></li>
+  <li><p><b>First Prize</b> (<front style="color:#cc0000">One of the Best Papers</front>) in China Undergraduate Mathematical Contest in Modeling (CUMCM), organized by <a href="http://www.moe.edu.cn/" target="_blank">Ministry of Education of PRC</a>, 2007; and <a href="http://csiam.edu.cn/" target="_blank">CSIAM</a>; <b>Second Prize</b>, CUMCM 2006
 </p></li>
 
   </ul>
