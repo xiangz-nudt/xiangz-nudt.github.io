@@ -87,7 +87,7 @@
   
   <li><p><b>Representation Learning of Large-Scale Knowledge Graphs via Entity Feature Combinations</b><br />Zhen Tan, <b >Xiang Zhao</b>, <a href="http://www.cse.unsw.edu.au/~weiw/" target="_blank">Wei Wang</a>. ACM <b>CIKM</b>,<b> </b>2017.</p></li>
   
-  <li><p><b>Top-<i>N</i> Recommendation with High-Dimensional Side Information via Locality Preserving Projection</b><br />    <a href="https://sites.google.com/view/yifanchenuva/home" target="_blank">Yifan Chen</a>, <b>Xiang Zhao</b>, <a href="https://staff.fnwi.uva.nl/m.derijke/" target="_blank">Maarten de Rijke</a>. ACM <b>SIGIR</b>,<b> </b>2017 (Short).</p></li>
+  <li><p><b>Top-<i>N</i> Recommendation with High-Dimensional Side Information via Locality Preserving Projection</b> [<a href="https://github.com/yifanclifford/Prism" target="_blank">code</a>]<br />    <a href="https://sites.google.com/view/yifanchenuva/home" target="_blank">Yifan Chen</a>, <b>Xiang Zhao</b>, <a href="https://staff.fnwi.uva.nl/m.derijke/" target="_blank">Maarten de Rijke</a>. ACM <b>SIGIR</b>,<b> </b>2017 (Short).</p></li>
   
   <li><p><b>Unsupervised Metric Fusion over Multi-view Data by Graph Random Walk based Cross-view Diffusion</b><br />   <a href="https://sites.google.com/view/wayag/home" target="_blank">Yang Wang</a>, <a href="http://www.cse.unsw.edu.au/~zhangw/"  target="_blank">Wenjie Zhang</a>, <a href="https://sites.google.com/site/linwuuq" target="_blank">Lin Wu</a>, <a href="http://www.cse.unsw.edu.au/~lxue/"   target="_blank">Xuemin Lin</a>, <b >Xiang Zhao</b>. <i >IEEE <b >Trans. Neural Netw. Learning Syst. </b></i> (<b>TNNLS</b>), 2017, 28(1): 57-70.</p></li>
   
