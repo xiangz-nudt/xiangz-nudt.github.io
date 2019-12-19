@@ -20,8 +20,8 @@
   <div style="height:280px;width:570px;margin:60px auto 30px 15px;float:left">
     <h2><b>Xiang Zhao</b> (赵 翔), PhD UNSW</h2>
     <p>
-    <b>1) Associate Professor</b><br/><font size="2">- National Key Laboratory of Science and Technology on Information Systems Engineering<br/>- College of Systems Engineering, <a href="https://english.nudt.edu.cn/" target="_blank">National University of Defense Technology</a></font><br/>
-    <b>2) Associate Research Fellow</b><br/><font size="2">- “2011 Program” <a href="http://innogst.whu.edu.cn/" target="blank">Collaborative Innovation Center of Geospatial Technology</a>, China</font><br/>
+    <b>1) Associate Professor</b><br/><font size="2.5">- National Key Laboratory of Science and Technology on Information Systems Engineering<br/>- College of Systems Engineering, <a href="https://english.nudt.edu.cn/" target="_blank">National University of Defense Technology</a></font><br/>
+    <b>2) Associate Research Fellow</b><br/><font size="2.5">- “2011 Program” <a href="http://innogst.whu.edu.cn/" target="blank">Collaborative Innovation Center of Geospatial Technology</a>, China</font><br/>
     <b>Email</b>: xiangzhao <i>at</i> nudt.edu.cn<br/><b>Phone</b>: +86 731 8700 6407<br/><b>Facsimile</b>: +86 731 8457 3514<br/><b>Address</b>: 109 Deya Road, Changsha, Hunan, China (410073)</p>
   </div>
 </div>
@@ -192,7 +192,7 @@
 
   <li><p><b>ACM SIGMOD China Rising Star Award</b>, awarded by <a href="https://www.acm.org/acm-china-council" target="_blank">ACM China</a>, 2018</p></li>
   <li><p><b>CSC-UNSW Joint PhD Student Program Scholarship</b>, awarded by <a href="http://www.csc.edu.cn/" target="_blank">China Scholarship Council</a> and UNSW, 2009 - 2013</p></li>
-  <li><p><b>CSE CSC-Student Stipend Scholarship</b>, awarded by School of Computer Science and Engineering, UNSW, 2009 - 2011</p></li>
+  <li><p><b>CSE CSC-Student Stipend Scholarship</b>, awarded by <a href="https://www.engineering.unsw.edu.au/computer-science-engineering" target="_blank">School of Computer Science and Engineering</a>, UNSW, 2009 - 2011</p></li>
   <li><p><b>National ICT Australia Research Project Award</b>, awarded by NICTA, 2009 - 2013</p></li>
   <li><p><b>Postgraduate Research Support Scheme funding</b>, awarded by <a href="http://research.unsw.edu.au/" target="_blank">Graduate Research School</a>, UNSW, 2012</p></li>
   <li><p><b>Google CSE Travel Prize</b>, awarded by <a href="https://careers.google.com/locations/sydney/" target="_blank">Google Australia</a> and CSE, UNSW, 2011</p></li>
