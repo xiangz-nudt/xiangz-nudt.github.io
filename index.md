@@ -131,7 +131,7 @@
 <div style="width:860px;margin:0px auto">
   <h3><b style="color:#990000">Professional Services</b></h3>
   
-  <ul>
+  <ul style="list-style-type:none; line-height:1">
 
   <li><p><b>Journal editorial board:</b></p><p>since 2018: IEEE <a href="http://ieeeaccess.ieee.org/" target="_blank">Access</a></p></li>
 
@@ -188,7 +188,7 @@
 <hr/>
 <div style="width:860px;margin:0px auto">
   <h3> <b style="color:rgb(166,77,121)">Awards</b></h3>
-  <ul>
+  <ul style="list-style-type:none; line-height:1">
 
   <li><p><b>ACM SIGMOD China Rising Star Award</b>, awarded by ACM China, 2018</p></li>
   <li><p><b>CSC-UNSW Joint PhD Student Program Scholarship</b>, awarded by <a href="http://www.csc.edu.cn/" target="_blank">China Scholarship Council</a> and UNSW, 2009 - 2013</p></li>
