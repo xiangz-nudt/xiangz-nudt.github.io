@@ -45,7 +45,7 @@
   <ul style="list-style-type:none; line-height:1">
     <li><p>* <i>2019/12: Invited to serve as a PC member of <a href = "http://www.pkaw.org/pkaw2020/" target = "_blank">PKAW 2020</a> (in conjunction with <a href = "http://ijcai20.org/" target = "_blank">IJCAI 2020</a>).</i></p></li>
     <li><p>* <i>2019/12: <font color="color:#cc0000">We have a new paper on entity alignment accepted by <a href = "https://www.utdallas.edu/icde/index.html" target = "_blank">ICDE 2020</a>!</font></i></p></li>
-    <li><p>* <i>2019/12: Invited to serve as a PC member of <a href = "https://www.softconf.com/coling2020/TextGraphs" target = "_blank">TextGraph 2020</a>.</i></p></li>
+    <li><p>* <i>2019/12: Invited to serve as a PC member of <a href = "https://www.softconf.com/coling2020/TextGraphs" target = "_blank">TextGraph 2020</a> (in conjunction with <a href = "https://coling2020.org" target = "_blank">COLING 2020</a>).</i></p></li>
     <li><p>* <i>2019/12: <font color="color:#cc0000">We have two papers on NER accepted by <a href = "https://aaai.org/Conferences/AAAI-20/" target = "_blank">AAAI 2020</a>!</font></i></p></li>
     <li><p>* <i>2019/12: Invited to serve as a PC member of <a href = "https://acl2020.org/" target = "_blank">ACL 2020</a>.</i></p></li>
     <li><p>* <i>2019/11: <font color="color:#cc0000">We have an article on top-N recommendation accepted by ACM <a href = "http://tois.acm.org/" target = "_blank">TOIS</a>!</font></i></p></li>
