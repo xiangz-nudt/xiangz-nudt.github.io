@@ -43,6 +43,7 @@
 <div style="width:860px;margin:0px auto">
   <h3 style="color:#b45f06"><b>News</b></h3>
   <ul style="list-style-type:none; line-height:1">
+    <li><p>* <i>2020/01: Invited to serve as a PC member of <a href = "http://www.vldb.org/pvldb/submission_vol14.html" target = "_blank">VLDB 2021</a>.</i></p></li>
     <li><p>* <i>2019/12: Invited to serve as a PC member of <a href = "http://www.pkaw.org/pkaw2020/" target = "_blank">PKAW 2020</a> (in conjunction with <a href = "http://ijcai20.org/" target = "_blank">IJCAI 2020</a>).</i></p></li>
     <li><p>* <i>2019/12: <font color="color:#cc0000">We have a new paper on entity alignment accepted by <a href = "https://www.utdallas.edu/icde/index.html" target = "_blank">ICDE 2020</a>!</font></i></p></li>
     <li><p>* <i>2019/12: Invited to serve as a PC member of <a href = "https://www.softconf.com/coling2020/TextGraphs" target = "_blank">TextGraph 2020</a> (in conjunction with <a href = "https://coling2020.org" target = "_blank">COLING 2020</a>).</i></p></li>
