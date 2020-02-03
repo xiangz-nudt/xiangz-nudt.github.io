@@ -18,7 +18,7 @@
     <img src="https://github.com/xiangz-nudt/xiangz-nudt.github.io/blob/master/Pic.jpg?raw=true" alt="Xiang Zhao">
   </div>
   <div style="height:280px;width:570px;margin:60px auto 30px 15px;float:left">
-    <h2><b>Xiang Zhao</b> (赵 翔), PhD UNSW</h2>
+    <h2><b>Xiang Zhao</b> [赵 翔], PhD UNSW</h2>
     <p>
     <b>1) Associate Professor</b><br/><font size="3">- National Key Laboratory of Science and Technology on Information Systems Engineering<br/>- College of Systems Engineering, <a href="https://english.nudt.edu.cn/" target="_blank">National University of Defense Technology</a></font><br/>
     <b>2) Associate Research Fellow</b><br/><font size="3">- “2011 Program” <a href="http://innogst.whu.edu.cn/" target="blank">Collaborative Innovation Center of Geospatial Technology</a>, China</font><br/>
@@ -59,13 +59,16 @@
 <div style="width:860px;margin:0px auto">
   <h3><b style="color:#0b5394">Selected Publications</b> (Full list @<a href = "https://scholar.google.com/citations?user=7IZ4kgwAAAAJ&hl=en" target = "_blank">Google Scholar</a>, @<a href = "https://dblp.uni-trier.de/pers/hd/z/Zhao_0002:Xiang" target = "_blank">DBLP</a>, @<a href = "https://orcid.org/0000-0001-6339-0219" target = "_blank">ORCID</a>)</h3>
   <ul>
-    
+  
+  <li><p><b>Effective Entity Alignment via Adaptive Features</b><br/>
+  Weixin Zeng, <b>Xiang Zhao</b>, Jiuyang Tang, <a href = "https://sites.google.com/site/dbhongzhi/" target = "_blank">Xuemin Lin</a>. IEEE <b>ICDE</b>, 2020 (short).</p></li>
+  
   <li><p><b>Local Variational Feature-based Similarity Models for Recommending Top-N New Items</b><br/>
   <a href = "https://sites.google.com/view/yifanchenuva/home" target = "_blank">Yifan Chen</a>, <a href = "https://sites.google.com/view/wayag/home" target = "_blank">Yang Wang</a>, <b>Xiang Zhao</b>, <a href = "https://sites.google.com/site/dbhongzhi/" target = "_blank">Hongzhi Yin</a>, <a href = "https://staff.fnwi.uva.nl/i.markov/" target = "_blank">Ilya Markov</a>, <a href = "https://staff.fnwi.uva.nl/m.derijke/" target = "_blank">Maarten de Rijke</a>. <i>ACM <b>Trans. Info. Syst.</b></i> <b>(TOIS)</b>, in press.</p></li>
   
-  <li><p><b>Recursively Binary Modification Model for Nested Named Entity Recognition</b><br/>Bing Li, Shifeng Liu,  Yifang Sun, <a href="http://www.cse.unsw.edu.au/~weiw/" target="_blank">Wei Wang</a>, <b>Xiang Zhao</b>. <b>AAAI</b>, 2020, to appear. </p></li>
+  <li><p><b>Recursively Binary Modification Model for Nested Named Entity Recognition</b><br/>Bing Li, Shifeng Liu,  Yifang Sun, <a href="http://www.cse.unsw.edu.au/~weiw/" target="_blank">Wei Wang</a>, <b>Xiang Zhao</b>. <b>AAAI</b>, 2020. </p></li>
   
-  <li><p><b>HAMNER: Headword Amplified Multi-span Distantly Supervised Method for Domain Specific Named Entity Recognition</b><br/>Shifeng Liu,  Yifang Sun, Bing Li, <a href="http://www.cse.unsw.edu.au/~weiw/" target="_blank">Wei Wang</a>, <b>Xiang Zhao</b>. <b>AAAI</b>, 2020, to appear.</p></li>
+  <li><p><b>HAMNER: Headword Amplified Multi-span Distantly Supervised Method for Domain Specific Named Entity Recognition</b><br/>Shifeng Liu,  Yifang Sun, Bing Li, <a href="http://www.cse.unsw.edu.au/~weiw/" target="_blank">Wei Wang</a>, <b>Xiang Zhao</b>. <b>AAAI</b>, 2020.</p></li>
   
   <li><p><b>On Continuous Matching of Evolving Graph Patterns</b><br/>Qianzhen Zhang, <a href="http://www.greenorbs.org/people/liu/guodeke/" target="_blank">Deke Guo</a>, <b>Xiang Zhao</b>, Aibo Guo. ACM <b>CIKM</b>,<b> </b>2019 (short).</p></li>
   
