@@ -37,7 +37,7 @@
   He is a member of <a href="http://www.ccf.org.cn/sites/ccf/" target="_blank">China Computer Federation</a> (CCF) <a href="http://tcdb.ccf.org.cn/" target="_blank">Technical Committee on Databases</a>, a communication member of CCF <a href="http://www.ccf.org.cn/sites/ccf/dsfzw.jsp" target="_blank">Task Force on Big Data</a>, and a member of Technical Commitees on <a href="http://www.cipsc.org.cn/sigkg/" target = "_blank">Language and Knowledge Computing</a>, and BigSearch, <a href="http://www.cipsc.org.cn/index.php" target = "_blank">Chinese Information Processing Society of China</a> (CIPSC). He was a recipient of <a href ="https://china.acm.org/awards.html" target="_blank">ACM SIGMOD China Rising Star award</a> (2018), <a href = "http://www.cast.org.cn/art/2018/9/30/art_19_35872.html" target = "_blank">Young Talents Lift-up Program</a> (2018) for <a href = "http://www.cast.org.cn/" target = "_blank">China Association for Science and Technology</a> (CAST), and <a href = "http://kjt.hunan.gov.cn/zxgz/zkjj/" target = "_blank">Hunan Provincial Natural Science Fund</a> (2019) for Distinguished Young Scholars.
   </p>
   
-  <b>Xiang</b>'s research interests include: Knowledge Graphs, Graph Analytics, and Natural Language Understanding.
+  <b>Xiang</b>'s research interests include: Knowledge Graphs, Graph Data Analytics, and Natural Language Understanding.
 </div>
 
 <div style="width:860px;margin:0px auto">
@@ -60,7 +60,7 @@
   <h3><b style="color:#0b5394">Selected Publications</b> (Full list @<a href = "https://scholar.google.com/citations?user=7IZ4kgwAAAAJ&hl=en" target = "_blank">Google Scholar</a>, @<a href = "https://dblp.uni-trier.de/pers/hd/z/Zhao_0002:Xiang" target = "_blank">DBLP</a>, @<a href = "https://orcid.org/0000-0001-6339-0219" target = "_blank">ORCID</a>)</h3>
   <ul>
   
-  <li><p><b>Effective Entity Alignment via Adaptive Features</b><br/>
+  <li><p><b>Effective Entity Alignment via Stable Matching</b><br/>
   Weixin Zeng, <b>Xiang Zhao</b>, Jiuyang Tang, <a href = "https://sites.google.com/site/dbhongzhi/" target = "_blank">Xuemin Lin</a>. IEEE <b>ICDE</b>, 2020 (short).</p></li>
   
   <li><p><b>Local Variational Feature-based Similarity Models for Recommending Top-N New Items</b><br/>
