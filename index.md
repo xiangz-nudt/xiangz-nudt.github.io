@@ -60,8 +60,8 @@
   <h3><b style="color:#0b5394">Selected Publications</b> (Full list @<a href = "https://scholar.google.com/citations?user=7IZ4kgwAAAAJ&hl=en" target = "_blank">Google Scholar</a>, @<a href = "https://dblp.uni-trier.de/pers/hd/z/Zhao_0002:Xiang" target = "_blank">DBLP</a>, @<a href = "https://orcid.org/0000-0001-6339-0219" target = "_blank">ORCID</a>)</h3>
   <ul>
   
-  <li><p><b>Effective Entity Alignment via Stable Matching</b><br/>
-  Weixin Zeng, <b>Xiang Zhao</b>, Jiuyang Tang, <a href = "https://sites.google.com/site/dbhongzhi/" target = "_blank">Xuemin Lin</a>. IEEE <b>ICDE</b>, 2020 (short).</p></li>
+  <li><p><b>Collective Entity Alignment via Stable Matching</b><br/>
+  Weixin Zeng, <b>Xiang Zhao</b>, Jiuyang Tang, <a href = "http://www.cse.unsw.edu.au/~lxue/" target = "_blank">Xuemin Lin</a>. IEEE <b>ICDE</b>, 2020 (short).</p></li>
   
   <li><p><b>Local Variational Feature-based Similarity Models for Recommending Top-N New Items</b><br/>
   <a href = "https://sites.google.com/view/yifanchenuva/home" target = "_blank">Yifan Chen</a>, <a href = "https://sites.google.com/view/wayag/home" target = "_blank">Yang Wang</a>, <b>Xiang Zhao</b>, <a href = "https://sites.google.com/site/dbhongzhi/" target = "_blank">Hongzhi Yin</a>, <a href = "https://staff.fnwi.uva.nl/i.markov/" target = "_blank">Ilya Markov</a>, <a href = "https://staff.fnwi.uva.nl/m.derijke/" target = "_blank">Maarten de Rijke</a>. <i>ACM <b>Trans. Info. Syst.</b></i> <b>(TOIS)</b>, in press.</p></li>
