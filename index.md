@@ -43,12 +43,12 @@
 <div style="width:860px;margin:0px auto">
   <h3 style="color:#b45f06"><b>News</b></h3>
   <ul style="list-style-type:none; line-height:1">
+    <li><p>* <i>2020/02: Invited to serve as a meta-reviewer of <a href = "http://www.tjudb.cn/apwebwaim2020/" target = "_blank">APWeb-WAIM 2020</a>.</i></p></li>
     <li><p>* <i>2020/01: Invited to serve as a PC member of <a href = "http://www.vldb.org/pvldb/submission_vol14.html" target = "_blank">VLDB 2021</a>.</i></p></li>
     <li><p>* <i>2019/12: Invited to serve as a PC member of <a href = "http://www.pkaw.org/pkaw2020/" target = "_blank">PKAW 2020</a> (in conjunction with <a href = "http://ijcai20.org/" target = "_blank">IJCAI 2020</a>).</i></p></li>
     <li><p>* <i>2019/12: <font color="color:#cc0000">We have a new paper on entity alignment accepted by IEEE <a href = "https://www.utdallas.edu/icde/index.html" target = "_blank">ICDE 2020</a>!</font></i></p></li>
     <li><p>* <i>2019/12: Invited to serve as a PC member of <a href = "https://www.softconf.com/coling2020/TextGraphs" target = "_blank">TextGraph 2020</a> (in conjunction with <a href = "https://coling2020.org" target = "_blank">COLING 2020</a>).</i></p></li>
     <li><p>* <i>2019/12: <font color="color:#cc0000">We have two papers on NER accepted by <a href = "https://aaai.org/Conferences/AAAI-20/" target = "_blank">AAAI 2020</a>!</font></i></p></li>
-    <li><p>* <i>2019/12: Invited to serve as a PC member of <a href = "https://acl2020.org/" target = "_blank">ACL 2020</a>.</i></p></li>
     <li><p>* <i>2019/11: <font color="color:#cc0000">We have an article on top-N recommendation accepted by ACM <a href = "http://tois.acm.org/" target = "_blank">TOIS</a>!</font></i></p></li>
     <li><p>* <i>2019/10: Invited to serve as a PC member of <a href = "http://db.pknu.ac.kr/dasfaa2020/" target = "_blank">DASFAA 2020</a>.</i></p></li>
     <li><p>* <i>Welcom to check out our <a href="https://github.com/nudtnlp/" target="_blank">GitHub page</a> for our recent progress on NLP!</i></p></li>
