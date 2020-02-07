@@ -60,7 +60,7 @@
   <h3><b style="color:#0b5394">Selected Publications</b> (Full list @<a href = "https://scholar.google.com/citations?user=7IZ4kgwAAAAJ&hl=en" target = "_blank">Google Scholar</a>, @<a href = "https://dblp.uni-trier.de/pers/hd/z/Zhao_0002:Xiang" target = "_blank">DBLP</a>, @<a href = "https://orcid.org/0000-0001-6339-0219" target = "_blank">ORCID</a>)</h3>
   <ul>
   
-  <li><p><b>Collective Entity Alignment via Stable Matching</b><br/>
+  <li><p><b>Collective Entity Alignment via Adaptive Features</b><br/>
   Weixin Zeng, <b>Xiang Zhao</b>, Jiuyang Tang, <a href = "http://www.cse.unsw.edu.au/~lxue/" target = "_blank">Xuemin Lin</a>. IEEE <b>ICDE</b>, 2020 (short).</p></li>
   
   <li><p><b>Local Variational Feature-based Similarity Models for Recommending Top-N New Items</b><br/>
@@ -116,11 +116,11 @@
   
   <li><p><b><a href="https://sites.google.com/site/xzhaounsw/ICDE2012-GSimJoin.pdf?attredirects=0">Efficient Graph Similarity Joins with Edit Distance Constraints</a> </b> [<a href="https://sites.google.com/site/xzhaounsw/ICDE2012_Talk.pptx?attredirects=0"  >slides</a>]<br /><b>Xiang Zhao</b>, <a href="https://sites.google.com/site/chuanxiao1983/" target="_blank">Chuan Xiao</a>, <a href="http://www.cse.unsw.edu.au/~lxue/" target="_blank">Xuemin Lin</a>, <a href="http://www.cse.unsw.edu.au/~weiw/" target="_blank">Wei Wang</a>. IEEE <b>ICDE</b>, 2012.</p></li>
   
+  <li><p><b>面向高效并行Skyline计算的数据划分方法</b><br/><b>赵翔</b>, 商海川. <b>计算机学报</b>, 2019, in press.</p></li>
+    
   <li><p><b>基于重排序的迭代式实体对齐</b><br/>曾维新, <b>赵翔</b>, 唐九阳, 谭真, <a href="http://www.cse.unsw.edu.au/~weiw/" target="_blank">王炜</a>. <b>计算机研究与发展</b>, 2019, in press.</p></li>
   
-  <li><p><b><a href="http://crad.ict.ac.cn/CN/abstract/abstract4057.shtml">融合对抗训练的端到端知识三元组联合抽取</a></b><br/>黄培馨, <b>赵翔</b>, 方阳, 朱慧明, 肖卫东. <b>计算机研究与发展</b>, 2019, in press.</p></li>
-  
-  <li><p><b>面向高效并行Skyline计算的数据划分方法</b><br/><b>赵翔</b>, 商海川. <b>计算机学报</b>, 2019, in press.</p></li>
+  <li><p><b><a href="http://crad.ict.ac.cn/CN/abstract/abstract4057.shtml">融合对抗训练的端到端知识三元组联合抽取</a></b><br/>黄培馨, <b>赵翔</b>, 方阳, 朱慧明, 肖卫东. <b>计算机研究与发展</b>, 2019, 56(12): 2536-2548.</p></li>
   
   <li><p><b><a href="http://www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=5444&journal_id=jos">动态图模式匹配技术综述</a></b><br/>许嘉, 张千桢, <b>赵翔</b>, 吕品, 李陶深. <b>软件学报</b>, 2018, 29(3): 663-688.</p></li>
   
