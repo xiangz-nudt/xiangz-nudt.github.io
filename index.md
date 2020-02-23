@@ -60,6 +60,9 @@
   <h3><b style="color:#0b5394">Selected Publications</b> (Full list @<a href = "https://scholar.google.com/citations?user=7IZ4kgwAAAAJ&hl=en" target = "_blank">Google Scholar</a>, @<a href = "https://dblp.uni-trier.de/pers/hd/z/Zhao_0002:Xiang" target = "_blank">DBLP</a>, @<a href = "https://orcid.org/0000-0001-6339-0219" target = "_blank">ORCID</a>)</h3>
   <ul>
   
+  <li><p><b>Item Cold-start Recommendation with Personalized Feature Selection</b><br/>
+  <a href = "https://sites.google.com/view/yifanchenuva/home" target = "_blank">Yifan Chen</a>, <b>Xiang Zhao</b>, Jinyuan Liu, Bin Ge, Weiming Zhang. <i><b> J. Comput. Sci. Technol.</b></i> <b>(JCST)</b>, in press.</p></li>
+  
   <li><p><b>Collective Entity Alignment via Adaptive Features</b><br/>
   Weixin Zeng, <b>Xiang Zhao</b>, Jiuyang Tang, <a href = "http://www.cse.unsw.edu.au/~lxue/" target = "_blank">Xuemin Lin</a>. IEEE <b>ICDE</b>, 2020 (short).</p></li>
   
