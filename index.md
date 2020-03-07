@@ -43,6 +43,7 @@
 <div style="width:860px;margin:0px auto">
   <h3 style="color:#b45f06"><b>News</b></h3>
   <ul style="list-style-type:none; line-height:1">
+    <li><p>* <i>2020/02: Invited to serve as a PC reviewer of <a href = "https://coling2020.org/" target = "_blank">COLING 2020</a>.</i></p></li>
     <li><p>* <i>2020/02: <font color="color:#cc0000">We have two papers on graph processing just accepted by <a href = "http://db.pknu.ac.kr/dasfaa2020/" target = "_blank">DASFAA 2020</a>!</font></i></p></li>
     <li><p>* <i>2020/02: Invited to serve as a meta-reviewer of <a href = "http://www.tjudb.cn/apwebwaim2020/" target = "_blank">APWeb-WAIM 2020</a>.</i></p></li>
     <li><p>* <i>2020/01: Invited to serve as a PC member of <a href = "http://www.vldb.org/pvldb/submission_vol14.html" target = "_blank">VLDB 2021</a>.</i></p></li>
@@ -169,7 +170,9 @@
   <a href="http://www.vldb.org/pvldb/" target="_blank">VLDB</a>, 
   IEEE <a href="http://conferences.cis.umac.mo/icde2019/" target="_blank">ICDE</a>, 
   <a href="https://aaai.org/Conferences/AAAI-20/" target="_blank">AAAI</a>, 
-  <a href="https://acl2020.org/" target="_blank">ACL</a>, ACM <a href="http://cikm2019.net/" target="_blank">CIKM</a>, 
+  <a href="https://acl2020.org/" target="_blank">ACL</a>, 
+  ACM <a href="http://cikm2019.net/" target="_blank">CIKM</a>,
+  <a href="https://coling2020.org/" target="_blank">COLING</a>,
   <a href="http://ada.suda.edu.cn/apweb2016/" target="_blank">APWeb</a>, 
   <a href="http://www.akbc.ws/" target="_blank">AKBC</a>, 
   <a href="http://conference.eng.unimelb.edu.au/adc/" target="_blank">ADC</a>, 
