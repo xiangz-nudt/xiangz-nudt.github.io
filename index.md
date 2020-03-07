@@ -43,8 +43,8 @@
 <div style="width:860px;margin:0px auto">
   <h3 style="color:#b45f06"><b>News</b></h3>
   <ul style="list-style-type:none; line-height:1">
-    <li><p>* <i>2020/02: Invited to serve as a PC reviewer of <a href = "https://coling2020.org/" target = "_blank">COLING 2020</a>.</i></p></li>
-    <li><p>* <i>2020/02: <font color="color:#cc0000">We have two papers on graph processing just accepted by <a href = "http://db.pknu.ac.kr/dasfaa2020/" target = "_blank">DASFAA 2020</a>!</font></i></p></li>
+    <li><p>* <i>2020/03: Invited to serve as a PC member of <a href = "https://coling2020.org/" target = "_blank">COLING 2020</a>.</i></p></li>
+    <li><p>* <i>2020/02: <font color="color:#cc0000">We have two papers on graph processing accepted by <a href = "http://db.pknu.ac.kr/dasfaa2020/" target = "_blank">DASFAA 2020</a>!</font></i></p></li>
     <li><p>* <i>2020/02: Invited to serve as a meta-reviewer of <a href = "http://www.tjudb.cn/apwebwaim2020/" target = "_blank">APWeb-WAIM 2020</a>.</i></p></li>
     <li><p>* <i>2020/01: Invited to serve as a PC member of <a href = "http://www.vldb.org/pvldb/submission_vol14.html" target = "_blank">VLDB 2021</a>.</i></p></li>
     <li><p>* <i>2019/12: Invited to serve as a PC member of <a href = "http://www.pkaw.org/pkaw2020/" target = "_blank">PKAW 2020</a> (in conjunction with <a href = "http://ijcai20.org/" target = "_blank">IJCAI 2020</a>).</i></p></li>
@@ -60,6 +60,12 @@
 <div style="width:860px;margin:0px auto">
   <h3><b style="color:#0b5394">Selected Publications</b> (Full list @<a href = "https://scholar.google.com/citations?user=7IZ4kgwAAAAJ&hl=en" target = "_blank">Google Scholar</a>, @<a href = "https://dblp.uni-trier.de/pers/hd/z/Zhao_0002:Xiang" target = "_blank">DBLP</a>, @<a href = "https://orcid.org/0000-0001-6339-0219" target = "_blank">ORCID</a>)</h3>
   <ul>
+  
+  <li><p><b>GQA_RDF: A Graph-based Approach towards Efficient SPARQL Query Answering</b><br/>
+  Xi Wang, Qianzhen Zhang, <a href = "http://www.cse.unsw.edu.au/~lxue/" target = "_blank">Deke Guo</a>, <b>Xiang Zhao</b>, <a href = "http://csee.hnu.edu.cn/people/yangjianye" target = "_blank">Jianye Yang</a>. <b>DASFAA</b>, 2020.</p></li>
+  
+  <li><p><b>Cross-Graph Representation Learning for Unsupervised Graph Alignment</b><br/>
+  Weifan Wang, <a href = "http://gr.xjtu.edu.cn/web/minnluo/home" target = "_blank">Minnan Luo</a>, Caixia Yan, <a href = "http://seu.wangmengsd.com/" target = "_blank">Meng Wang</a>, <b>Xiang Zhao</b>, <a href = "http://gr.xjtu.edu.cn/web/qhzheng" target = "_blank">Qinghua Zheng</a>. <b>DASFAA</b>, 2020.</p></li>
   
   <li><p><b>Item Cold-start Recommendation with Personalized Feature Selection</b><br/>
   <a href = "https://sites.google.com/view/yifanchenuva/home" target = "_blank">Yifan Chen</a>, <b>Xiang Zhao</b>, Jinyuan Liu, Bin Ge, Weiming Zhang. <i><b> J. Comput. Sci. Technol.</b></i> <b>(JCST)</b>, in press.</p></li>
