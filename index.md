@@ -57,7 +57,7 @@
     <li><p>* <i>2019/12: <font color="color:#cc0000">We have two papers on NER accepted by <a href = "https://aaai.org/Conferences/AAAI-20/" target = "_blank">AAAI 2020</a>!</font></i></p></li>
     <li><p>* <i>Welcom to check out our <a href="https://github.com/nudtnlp/" target="_blank">GitHub page</a> for our recent progress on NLP!</i></p></li>
     <li><p>* <i>Looking for motivated post-docs & students to work on advanced analytics and NLU. Welcome to drop me a line!</i></p></li>
-    <li><p>* <i>I am serving the publication co-chair of <a href="http://ksem2020.org/" target="_blank">KSEM 2020</a>. Calling for various types of contributions!</i></p></li>
+    <li><p>* <i>I am serving as the publication co-chair of <a href="http://ksem2020.org/" target="_blank">KSEM 2020</a>. Calling for various types of contributions!</i></p></li>
   </ul>
 </div>
 <hr/>
