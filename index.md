@@ -19,7 +19,7 @@
     <img src="https://github.com/xiangz-nudt/xiangz-nudt.github.io/blob/master/Pic.jpg?raw=true" alt="Xiang Zhao">
   </div>
   <div style="height:280px;width:570px;margin:60px auto 30px 15px;float:left">
-    <h2><b>Xiang Zhao</b> [赵 翔], PhD UNSW</h2>
+    <h2><b>Xiang Zhao</b>, PhD UNSW</h2>
     <p>
     <b>Associate Professor</b>
       <br/><font size="3">- National Key Laboratory of Science and Technology on Information Systems Engineering
