@@ -68,7 +68,7 @@
   Weixin Zeng, <b>Xiang Zhao</b>, <a href="http://www.cse.unsw.edu.au/~weiw/" target="_blank">Wei Wang</a>, Jiuyang Tang, Zhen Tan. ACM <b>SIGIR</b>, 2020.</p></li>
     
   <li><p><b>GQA_RDF: A Graph-based Approach towards Efficient SPARQL Query Answering</b><br/>
-  Xi Wang, Qianzhen Zhang, <a href = "http://www.cse.unsw.edu.au/~lxue/" target = "_blank">Deke Guo</a>, <b>Xiang Zhao</b>, <a href = "http://csee.hnu.edu.cn/people/yangjianye" target = "_blank">Jianye Yang</a>. <b>DASFAA</b>, 2020.</p></li>
+  Xi Wang, Qianzhen Zhang, <a href = "http://www.greenorbs.org/people/liu/guodeke/" target = "_blank">Deke Guo</a>, <b>Xiang Zhao</b>, <a href = "http://csee.hnu.edu.cn/people/yangjianye" target = "_blank">Jianye Yang</a>. <b>DASFAA</b>, 2020.</p></li>
   
   <li><p><b>Cross-Graph Representation Learning for Unsupervised Graph Alignment</b><br/>
   Weifan Wang, <a href = "http://gr.xjtu.edu.cn/web/minnluo/home" target = "_blank">Minnan Luo</a>, Caixia Yan, <a href = "http://seu.wangmengsd.com/" target = "_blank">Meng Wang</a>, <b>Xiang Zhao</b>, <a href = "http://gr.xjtu.edu.cn/web/qhzheng" target = "_blank">Qinghua Zheng</a>. <b>DASFAA</b>, 2020.</p></li>
