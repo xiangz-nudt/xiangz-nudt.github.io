@@ -79,8 +79,8 @@
   <li><p><b>Collective Entity Alignment via Adaptive Features</b> [<a href="https://github.com/DexterZeng/CEA" target="_blank">code</a>]<br/>
   Weixin Zeng, <b>Xiang Zhao</b>, Jiuyang Tang, <a href = "http://www.cse.unsw.edu.au/~lxue/" target = "_blank">Xuemin Lin</a>. IEEE <b>ICDE</b>, 2020 (short).</p></li>
   
-  <li><p><b>Local Variational Feature-based Similarity Models for Recommending Top-N New Items</b><br/>
-  <a href = "https://sites.google.com/view/yifanchenuva/home" target = "_blank">Yifan Chen</a>, <a href = "https://sites.google.com/view/wayag/home" target = "_blank">Yang Wang</a>, <b>Xiang Zhao</b>, <a href = "https://sites.google.com/site/dbhongzhi/" target = "_blank">Hongzhi Yin</a>, <a href = "https://staff.fnwi.uva.nl/i.markov/" target = "_blank">Ilya Markov</a>, <a href = "https://staff.fnwi.uva.nl/m.derijke/" target = "_blank">Maarten de Rijke</a>. <i>ACM <b>Trans. Info. Syst.</b></i> <b>(TOIS)</b>, in press.</p></li>
+  <li><p><b>Local Variational Feature-Based Similarity Models for Recommending Top-N New Items</b><br/>
+  <a href = "https://sites.google.com/view/yifanchenuva/home" target = "_blank">Yifan Chen</a>, <a href = "https://sites.google.com/view/wayag/home" target = "_blank">Yang Wang</a>, <b>Xiang Zhao</b>, <a href = "https://sites.google.com/site/dbhongzhi/" target = "_blank">Hongzhi Yin</a>, <a href = "https://staff.fnwi.uva.nl/i.markov/" target = "_blank">Ilya Markov</a>, <a href = "https://staff.fnwi.uva.nl/m.derijke/" target = "_blank">Maarten de Rijke</a>. <i>ACM <b>Trans. Info. Syst.</b></i> <b>(TOIS)</b>, 2020, 38(2): Article No. 12, 1-33.</p></li>
   
   <li><p><b>Recursively Binary Modification Model for Nested Named Entity Recognition</b><br/>Bing Li, Shifeng Liu,  Yifang Sun, <a href="http://www.cse.unsw.edu.au/~weiw/" target="_blank">Wei Wang</a>, <b>Xiang Zhao</b>. <b>AAAI</b>, 2020. </p></li>
   
