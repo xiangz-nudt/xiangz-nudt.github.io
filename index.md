@@ -64,7 +64,7 @@
 <div style="width:860px;margin:0px auto">
   <h3><b style="color:#0b5394">Selected Publications</b> (Full list @<a href = "https://scholar.google.com/citations?user=7IZ4kgwAAAAJ&hl=en" target = "_blank">Google Scholar</a>, @<a href = "https://dblp.uni-trier.de/pers/hd/z/Zhao_0002:Xiang" target = "_blank">DBLP</a>, @<a href = "https://orcid.org/0000-0001-6339-0219" target = "_blank">ORCID</a>)</h3>
   <ul>
-  <li><p><b>Degree-Aware Alignment for Entities in Tail</b>[<a href="https://github.com/DexterZeng/DAT" target="_blank">code</a>]<br/>
+  <li><p><b>Degree-Aware Alignment for Entities in Tail</b> [<a href="https://github.com/DexterZeng/DAT" target="_blank">code</a>]<br/>
   Weixin Zeng, <b>Xiang Zhao</b>, <a href="http://www.cse.unsw.edu.au/~weiw/" target="_blank">Wei Wang</a>, Jiuyang Tang, Zhen Tan. ACM <b>SIGIR</b>, 2020.</p></li>
     
   <li><p><b>GQA_RDF: A Graph-based Approach towards Efficient SPARQL Query Answering</b><br/>
@@ -76,7 +76,7 @@
   <li><p><b>Item Cold-start Recommendation with Personalized Feature Selection</b><br/>
   <a href = "https://sites.google.com/view/yifanchenuva/home" target = "_blank">Yifan Chen</a>, <b>Xiang Zhao</b>, Jinyuan Liu, Bin Ge, Weiming Zhang. <i><b> J. Comput. Sci. Technol.</b></i> <b>(JCST)</b>, in press.</p></li>
   
-  <li><p><b>Collective Entity Alignment via Adaptive Features</b><br/>
+  <li><p><b>Collective Entity Alignment via Adaptive Features</b> [<a href="https://github.com/DexterZeng/CEA" target="_blank">code</a>]<br/>
   Weixin Zeng, <b>Xiang Zhao</b>, Jiuyang Tang, <a href = "http://www.cse.unsw.edu.au/~lxue/" target = "_blank">Xuemin Lin</a>. IEEE <b>ICDE</b>, 2020 (short).</p></li>
   
   <li><p><b>Local Variational Feature-based Similarity Models for Recommending Top-N New Items</b><br/>
