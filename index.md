@@ -73,18 +73,18 @@
   <li><p><b>Cross-Graph Representation Learning for Unsupervised Graph Alignment</b><br/>
   Weifan Wang, <a href = "http://gr.xjtu.edu.cn/web/minnluo/home" target = "_blank">Minnan Luo</a>, Caixia Yan, <a href = "http://seu.wangmengsd.com/" target = "_blank">Meng Wang</a>, <b>Xiang Zhao</b>, <a href = "http://gr.xjtu.edu.cn/web/qhzheng" target = "_blank">Qinghua Zheng</a>. <b>DASFAA</b>, 2020.</p></li>
   
-  <li><p><b>Item Cold-start Recommendation with Personalized Feature Selection</b><br/>
+  <li><p><b><a href="http://jcst.ict.ac.cn/EN/10.1007/s11390-020-9864-z#1">Item Cold-start Recommendation with Personalized Feature Selection</b><br/>
   <a href = "https://sites.google.com/view/yifanchenuva/home" target = "_blank">Yifan Chen</a>, <b>Xiang Zhao</b>, Jinyuan Liu, Bin Ge, Weiming Zhang. <i><b> J. Comput. Sci. Technol.</b></i> <b>(JCST)</b>, in press.</p></li>
   
   <li><p><b>Collective Entity Alignment via Adaptive Features</b> [<a href="https://github.com/DexterZeng/CEA" target="_blank">code</a>]<br/>
   Weixin Zeng, <b>Xiang Zhao</b>, Jiuyang Tang, <a href = "http://www.cse.unsw.edu.au/~lxue/" target = "_blank">Xuemin Lin</a>. IEEE <b>ICDE</b>, 2020 (short).</p></li>
   
-  <li><p><b>Local Variational Feature-Based Similarity Models for Recommending Top-N New Items</b><br/>
+  <li><p><b><a href="https://dl.acm.org/doi/pdf/10.1145/3372154">Local Variational Feature-Based Similarity Models for Recommending Top-N New Items</b><br/>
   <a href = "https://sites.google.com/view/yifanchenuva/home" target = "_blank">Yifan Chen</a>, <a href = "https://sites.google.com/view/wayag/home" target = "_blank">Yang Wang</a>, <b>Xiang Zhao</b>, <a href = "https://sites.google.com/site/dbhongzhi/" target = "_blank">Hongzhi Yin</a>, <a href = "https://staff.fnwi.uva.nl/i.markov/" target = "_blank">Ilya Markov</a>, <a href = "https://staff.fnwi.uva.nl/m.derijke/" target = "_blank">Maarten de Rijke</a>. <i>ACM <b>Trans. Info. Syst.</b></i> <b>(TOIS)</b>, 2020, 38(2): Article No. 12, 1-33.</p></li>
   
-  <li><p><b>Recursively Binary Modification Model for Nested Named Entity Recognition</b><br/>Bing Li, Shifeng Liu,  Yifang Sun, <a href="http://www.cse.unsw.edu.au/~weiw/" target="_blank">Wei Wang</a>, <b>Xiang Zhao</b>. <b>AAAI</b>, 2020. </p></li>
+  <li><p><b><a href="https://aaai.org/ojs/index.php/AAAI/article/view/6329/6185">Recursively Binary Modification Model for Nested Named Entity Recognition</b><br/>Bing Li, Shifeng Liu,  Yifang Sun, <a href="http://www.cse.unsw.edu.au/~weiw/" target="_blank">Wei Wang</a>, <b>Xiang Zhao</b>. <b>AAAI</b>, 2020. </p></li>
   
-  <li><p><b>HAMNER: Headword Amplified Multi-span Distantly Supervised Method for Domain Specific Named Entity Recognition</b><br/>Shifeng Liu,  Yifang Sun, Bing Li, <a href="http://www.cse.unsw.edu.au/~weiw/" target="_blank">Wei Wang</a>, <b>Xiang Zhao</b>. <b>AAAI</b>, 2020.</p></li>
+  <li><p><b><a href="https://aaai.org/ojs/index.php/AAAI/article/view/6358/6214">HAMNER: Headword Amplified Multi-span Distantly Supervised Method for Domain Specific Named Entity Recognition</b><br/>Shifeng Liu,  Yifang Sun, Bing Li, <a href="http://www.cse.unsw.edu.au/~weiw/" target="_blank">Wei Wang</a>, <b>Xiang Zhao</b>. <b>AAAI</b>, 2020.</p></li>
   
   <li><p><b>On Continuous Matching of Evolving Graph Patterns</b><br/>Qianzhen Zhang, <a href="http://www.greenorbs.org/people/liu/guodeke/" target="_blank">Deke Guo</a>, <b>Xiang Zhao</b>, Aibo Guo. ACM <b>CIKM</b>,<b> </b>2019 (short).</p></li>
   
