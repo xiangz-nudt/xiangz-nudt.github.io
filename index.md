@@ -63,52 +63,37 @@
 <div style="width:860px;margin:0px auto">
   <h3><b style="color:#0b5394">Selected Publications</b> (Full list @<a href = "https://scholar.google.com/citations?user=7IZ4kgwAAAAJ&hl=en" target = "_blank">Google Scholar</a>, @<a href = "https://dblp.uni-trier.de/pers/hd/z/Zhao_0002:Xiang" target = "_blank">DBLP</a>, @<a href = "https://orcid.org/0000-0001-6339-0219" target = "_blank">ORCID</a>)</h3>
   <ul>
-  <li><p><b>Degree-Aware Alignment for Entities in Tail</b> [<a href="https://github.com/DexterZeng/DAT" target="_blank">code</a>]<br/>
-  Weixin Zeng, <b>Xiang Zhao</b>, <a href="http://www.cse.unsw.edu.au/~weiw/" target="_blank">Wei Wang</a>, Jiuyang Tang, Zhen Tan. ACM <b>SIGIR</b>, 2020.</p></li>
+  <li><p><b>Degree-Aware Alignment for Entities in Tail</b> [<a href="https://github.com/DexterZeng/DAT" target="_blank">code</a>]<br/>Weixin Zeng, <b>Xiang Zhao</b>, <a href="http://www.cse.unsw.edu.au/~weiw/" target="_blank">Wei Wang</a>, Jiuyang Tang, Zhen Tan. ACM <b>SIGIR</b>, 2020.</p></li>
     
-  <li><p><b>GQA_RDF: A Graph-based Approach towards Efficient SPARQL Query Answering</b><br/>
-  Xi Wang, Qianzhen Zhang, <a href = "http://www.greenorbs.org/people/liu/guodeke/" target = "_blank">Deke Guo</a>, <b>Xiang Zhao</b>, <a href = "http://csee.hnu.edu.cn/people/yangjianye" target = "_blank">Jianye Yang</a>. <b>DASFAA</b>, 2020.</p></li>
+  <li><p><b>GQA_RDF: A Graph-based Approach towards Efficient SPARQL Query Answering</b><br/>Xi Wang, Qianzhen Zhang, <a href = "http://www.greenorbs.org/people/liu/guodeke/" target = "_blank">Deke Guo</a>, <b>Xiang Zhao</b>, <a href = "http://csee.hnu.edu.cn/people/yangjianye" target = "_blank">Jianye Yang</a>. <b>DASFAA</b>, 2020.</p></li>
   
-  <li><p><b>Cross-Graph Representation Learning for Unsupervised Graph Alignment</b><br/>
-  Weifan Wang, <a href = "http://gr.xjtu.edu.cn/web/minnluo/home" target = "_blank">Minnan Luo</a>, Caixia Yan, <a href = "http://seu.wangmengsd.com/" target = "_blank">Meng Wang</a>, <b>Xiang Zhao</b>, <a href = "http://gr.xjtu.edu.cn/web/qhzheng" target = "_blank">Qinghua Zheng</a>. <b>DASFAA</b>, 2020.</p></li>
+  <li><p><b>Cross-Graph Representation Learning for Unsupervised Graph Alignment</b><br/>Weifan Wang, <a href = "http://gr.xjtu.edu.cn/web/minnluo/home" target = "_blank">Minnan Luo</a>, Caixia Yan, <a href = "http://seu.wangmengsd.com/" target = "_blank">Meng Wang</a>, <b>Xiang Zhao</b>, <a href = "http://gr.xjtu.edu.cn/web/qhzheng" target = "_blank">Qinghua Zheng</a>. <b>DASFAA</b>, 2020.</p></li>
   
-  <li><p><b><a href="http://jcst.ict.ac.cn/EN/10.1007/s11390-020-9864-z">Item Cold-start Recommendation with Personalized Feature Selection</b><br/>
-  <a href = "https://sites.google.com/view/yifanchenuva/home" target = "_blank">Yifan Chen</a>, <b>Xiang Zhao</b>, Jinyuan Liu, Bin Ge, Weiming Zhang. <i><b> J. Comput. Sci. Technol.</b></i> <b>(JCST)</b>, in press.</p></li>
+  <li><p><b><a href="http://jcst.ict.ac.cn/EN/10.1007/s11390-020-9864-z">Item Cold-start Recommendation with Personalized Feature Selection</a></b><br/><a href = "https://sites.google.com/view/yifanchenuva/home" target = "_blank">Yifan Chen</a>, <b>Xiang Zhao</b>, Jinyuan Liu, Bin Ge, Weiming Zhang. <i><b> J. Comput. Sci. Technol.</b></i> <b>(JCST)</b>, in press.</p></li>
   
-  <li><p><b>Collective Entity Alignment via Adaptive Features</b> [<a href="https://github.com/DexterZeng/CEA" target="_blank">code</a>]<br/>
-  Weixin Zeng, <b>Xiang Zhao</b>, Jiuyang Tang, <a href = "http://www.cse.unsw.edu.au/~lxue/" target = "_blank">Xuemin Lin</a>. IEEE <b>ICDE</b>, 2020 (short).</p></li>
+  <li><p><b>Collective Entity Alignment via Adaptive Features</b> [<a href="https://github.com/DexterZeng/CEA" target="_blank">code</a>]<br/>Weixin Zeng, <b>Xiang Zhao</b>, Jiuyang Tang, <a href = "http://www.cse.unsw.edu.au/~lxue/" target = "_blank">Xuemin Lin</a>. IEEE <b>ICDE</b>, 2020 (short).</p></li>
   
-  <li><p><b><a href="https://dl.acm.org/doi/pdf/10.1145/3372154">Local Variational Feature-Based Similarity Models for Recommending Top-N New Items</b><br/>
-  <a href = "https://sites.google.com/view/yifanchenuva/home" target = "_blank">Yifan Chen</a>, <a href = "https://sites.google.com/view/wayag/home" target = "_blank">Yang Wang</a>, <b>Xiang Zhao</b>, <a href = "https://sites.google.com/site/dbhongzhi/" target = "_blank">Hongzhi Yin</a>, <a href = "https://staff.fnwi.uva.nl/i.markov/" target = "_blank">Ilya Markov</a>, <a href = "https://staff.fnwi.uva.nl/m.derijke/" target = "_blank">Maarten de Rijke</a>. <i>ACM <b>Trans. Info. Syst.</b></i> <b>(TOIS)</b>, 2020, 38(2): Article No. 12, 1-33.</p></li>
+  <li><p><b><a href="https://dl.acm.org/doi/pdf/10.1145/3372154">Local Variational Feature-Based Similarity Models for Recommending Top-N New Items</a></b><br/><a href = "https://sites.google.com/view/yifanchenuva/home" target = "_blank">Yifan Chen</a>, <a href = "https://sites.google.com/view/wayag/home" target = "_blank">Yang Wang</a>, <b>Xiang Zhao</b>, <a href = "https://sites.google.com/site/dbhongzhi/" target = "_blank">Hongzhi Yin</a>, <a href = "https://staff.fnwi.uva.nl/i.markov/" target = "_blank">Ilya Markov</a>, <a href = "https://staff.fnwi.uva.nl/m.derijke/" target = "_blank">Maarten de Rijke</a>. <i>ACM <b>Trans. Info. Syst.</b></i> <b>(TOIS)</b>, 2020, 38(2): Article No. 12, 1-33.</p></li>
   
-  <li><p><b><a href="https://aaai.org/ojs/index.php/AAAI/article/view/6329/6185">Recursively Binary Modification Model for Nested Named Entity Recognition</b><br/>
-  Bing Li, Shifeng Liu,  Yifang Sun, <a href="http://www.cse.unsw.edu.au/~weiw/" target="_blank">Wei Wang</a>, <b>Xiang Zhao</b>. <b>AAAI</b>, 2020. </p></li>
+  <li><p><b><a href="https://aaai.org/ojs/index.php/AAAI/article/view/6329/6185">Recursively Binary Modification Model for Nested Named Entity Recognition</a></b><br/>Bing Li, Shifeng Liu,  Yifang Sun, <a href="http://www.cse.unsw.edu.au/~weiw/" target="_blank">Wei Wang</a>, <b>Xiang Zhao</b>. <b>AAAI</b>, 2020. </p></li>
   
-  <li><p><b><a href="https://aaai.org/ojs/index.php/AAAI/article/view/6358/6214">HAMNER: Headword Amplified Multi-span Distantly Supervised Method for Domain Specific Named Entity Recognition</b><br/>
-  Shifeng Liu,  Yifang Sun, Bing Li, <a href="http://www.cse.unsw.edu.au/~weiw/" target="_blank">Wei Wang</a>, <b>Xiang Zhao</b>. <b>AAAI</b>, 2020.</p></li>
+  <li><p><b><a href="https://aaai.org/ojs/index.php/AAAI/article/view/6358/6214">HAMNER: Headword Amplified Multi-span Distantly Supervised Method for Domain Specific Named Entity Recognition</a></b><br/>Shifeng Liu,  Yifang Sun, Bing Li, <a href="http://www.cse.unsw.edu.au/~weiw/" target="_blank">Wei Wang</a>, <b>Xiang Zhao</b>. <b>AAAI</b>, 2020.</p></li>
   
-  <li><p><b>On Continuous Matching of Evolving Graph Patterns</b><br/>
-  Qianzhen Zhang, <a href="http://www.greenorbs.org/people/liu/guodeke/" target="_blank">Deke Guo</a>, <b>Xiang Zhao</b>, Aibo Guo. ACM <b>CIKM</b>,<b> </b>2019 (short).</p></li>
+  <li><p><b>On Continuous Matching of Evolving Graph Patterns</b><br/>Qianzhen Zhang, <a href="http://www.greenorbs.org/people/liu/guodeke/" target="_blank">Deke Guo</a>, <b>Xiang Zhao</b>, Aibo Guo. ACM <b>CIKM</b>,<b> </b>2019 (short).</p></li>
   
-  <li><p><b>M-HIN: Complex Embedding for Heterogeneous Information Networks via Metagraphs</b><br/>
-  Yang Fang, <b>Xiang Zhao</b>, Peixin Huang, Weidong Xiao, <a href="https://staff.fnwi.uva.nl/m.derijke/" target="_blank">Maarten de Rijke</a>. ACM <b>SIGIR</b>,<b> </b>2019 (short).</p></li>
+  <li><p><b>M-HIN: Complex Embedding for Heterogeneous Information Networks via Metagraphs</b><br/>Yang Fang, <b>Xiang Zhao</b>, Peixin Huang, Weidong Xiao, <a href="https://staff.fnwi.uva.nl/m.derijke/" target="_blank">Maarten de Rijke</a>. ACM <b>SIGIR</b>,<b> </b>2019 (short).</p></li>
   
-  <li><p><b>Near-accurate Multiset Reconciliation (Extended Abstract)</b><br/>
-  <a href="http://scholar.google.com/citations?user=Ta1jm9wAAAAJ&amp;hl=en">Lailong Luo</a>, <a href="http://www.greenorbs.org/people/liu/guodeke/" target="_blank">Deke Guo</a>, <b>Xiang Zhao</b>, <a href="https://cis.temple.edu/~wu/" target="_blank">Jie Wu</a>, <a href="https://sites.google.com/site/orirottenstreich/" target="_blank">Ori Rottenstreich</a>, Xueshan Luo. IEEE <b>ICDE</b>,<b> </b>2019 (poster).</p></li>
+  <li><p><b>Near-accurate Multiset Reconciliation (Extended Abstract)</b><br/><a href="http://scholar.google.com/citations?user=Ta1jm9wAAAAJ&amp;hl=en">Lailong Luo</a>, <a href="http://www.greenorbs.org/people/liu/guodeke/" target="_blank">Deke Guo</a>, <b>Xiang Zhao</b>, <a href="https://cis.temple.edu/~wu/" target="_blank">Jie Wu</a>, <a href="https://sites.google.com/site/orirottenstreich/" target="_blank">Ori Rottenstreich</a>, Xueshan Luo. IEEE <b>ICDE</b>,<b> </b>2019 (poster).</p></li>
   
-  <li><p><b>Relevance-based Entity Embedding</b><br/>
-  Weixin Zeng, <b>Xiang Zhao</b>, Jiuyang Tang, Jinzhi Liao, <a href="http://sdcs.sysu.edu.cn/node/2465" target="_blank">Chang-Dong Wang</a>. <b>DASFAA</b>,<b> </b>2019 (short).</p></li>
+  <li><p><b>Relevance-based Entity Embedding</b><br/>Weixin Zeng, <b>Xiang Zhao</b>, Jiuyang Tang, Jinzhi Liao, <a href="http://sdcs.sysu.edu.cn/node/2465" target="_blank">Chang-Dong Wang</a>. <b>DASFAA</b>,<b> </b>2019 (short).</p></li>
   
-  <li><p><b><a href="https://www.aaai.org/ojs/index.php/AAAI/article/view/4689/4567">Jointly Extracting Multiple Triplets with Multilayer Translation Constraints</a></b><br/>
-  Zhen Tan, <b>Xiang Zhao</b>, <a href="http://www.cse.unsw.edu.au/~weiw/" target="_blank">Wei Wang</a>, Weidong Xiao. <b>AAAI</b>,<b> </b>2019.</p></li>
+  <li><p><b><a href="https://www.aaai.org/ojs/index.php/AAAI/article/view/4689/4567">Jointly Extracting Multiple Triplets with Multilayer Translation Constraints</a></b><br/>Zhen Tan, <b>Xiang Zhao</b>, <a href="http://www.cse.unsw.edu.au/~weiw/" target="_blank">Wei Wang</a>, Weidong Xiao. <b>AAAI</b>,<b> </b>2019.</p></li>
   
-  <li><p><b><a href="https://www.aaai.org/ojs/index.php/AAAI/article/view/4579">Antonym-Synonym Classification based on New Sub-space Embeddings</a></b><br/>
-  Muhammad Asif Ali, Yifang Sun, Xiaoling Zhou, <a href="http://www.cse.unsw.edu.au/~weiw/" target="_blank">Wei Wang</a>, <b>Xiang Zhao</b>. <b>AAAI</b>, 2019.</p></li>
+  <li><p><b><a href="https://www.aaai.org/ojs/index.php/AAAI/article/view/4579">Antonym-Synonym Classification based on New Sub-space Embeddings</a></b><br/>Muhammad Asif Ali, Yifang Sun, Xiaoling Zhou, <a href="http://www.cse.unsw.edu.au/~weiw/" target="_blank">Wei Wang</a>, <b>Xiang Zhao</b>. <b>AAAI</b>, 2019.</p></li>
   
   <li><p><b>Near-accurate Multiset Reconciliation<br /></b><a href="http://scholar.google.com/citations?user=Ta1jm9wAAAAJ&amp;hl=en">Lailong Luo</a>, <a href="http://www.greenorbs.org/people/liu/guodeke/" target="_blank">Deke Guo</a>, <b>Xiang Zhao</b>, <a href="https://cis.temple.edu/~jiewu/" target="_blank">Jie Wu</a>, <a href="https://sites.google.com/site/orirottenstreich" target="_blank">Ori Rottenstreich</a>, Xueshan Luo. <i>IEEE </i><b><i>Trans. Know. Data Eng.</i></b> (<b>TKDE</b>), 2019, 31(5): 952-964.</p></li>
   
-  <li><p><b>SISE: Self-updating of Indoor Semantic Floorplans for General Entities</b><br />    
-  <a href="https://scholar.google.com/citations?hl=en&amp;user=FXZfajQAAAAJ">Xiaoqiang Teng</a>, <a href="http://www.greenorbs.org/people/liu/guodeke/" target="_blank">Deke Guo</a>, <a href="http://yulanguo.me/" target="_blank">Yulan Guo</a>, <b>Xiang Zhao</b>, Zhong Liu. <i>IEEE </i><b><i>Trans. Mob. Comput. </i></b>(<b>TMC</b>), 2018, 17(11): 2646-2659.</p></li>
+  <li><p><b>SISE: Self-updating of Indoor Semantic Floorplans for General Entities</b><br/><a href="https://scholar.google.com/citations?hl=en&amp;user=FXZfajQAAAAJ">Xiaoqiang Teng</a>, <a href="http://www.greenorbs.org/people/liu/guodeke/" target="_blank">Deke Guo</a>, <a href="http://yulanguo.me/" target="_blank">Yulan Guo</a>, <b>Xiang Zhao</b>, Zhong Liu. <i>IEEE </i><b><i>Trans. Mob. Comput. </i></b>(<b>TMC</b>), 2018, 17(11): 2646-2659.</p></li>
   
   <li><p><b>Efficient Mining of Frequent Patterns on Uncertain Graphs</b> [<a href="https://github.com/yifanclifford/fanta" target="_blank">code</a>]<br/>    
   <a href="https://sites.google.com/view/yifanchenuva/home" target="_blank">Yifan Chen</a>,<b> Xiang Zhao</b>, <a href="http://www.cse.unsw.edu.au/~lxue/" target="_blank">Xuemin Lin</a>, <a href="https://sites.google.com/view/wayag/home" target="_blank">Yang Wang</a>, <a href="http://www.greenorbs.org/people/liu/guodeke/" target="_blank">Deke Guo</a>. <i>IEEE </i><b><i>Trans. Know. Data Eng.</i></b> (<b>TKDE</b>), 2019, 31(2): 287-300.</p></li>
