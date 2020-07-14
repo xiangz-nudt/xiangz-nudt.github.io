@@ -73,7 +73,7 @@
   <li><p><b>Cross-Graph Representation Learning for Unsupervised Graph Alignment</b><br/>
   Weifan Wang, <a href = "http://gr.xjtu.edu.cn/web/minnluo/home" target = "_blank">Minnan Luo</a>, Caixia Yan, <a href = "http://seu.wangmengsd.com/" target = "_blank">Meng Wang</a>, <b>Xiang Zhao</b>, <a href = "http://gr.xjtu.edu.cn/web/qhzheng" target = "_blank">Qinghua Zheng</a>. <b>DASFAA</b>, 2020.</p></li>
   
-  <li><p><b><a href="http://jcst.ict.ac.cn/EN/10.1007/s11390-020-9864-z#1">Item Cold-start Recommendation with Personalized Feature Selection</b><br/>
+  <li><p><b><a href="http://jcst.ict.ac.cn/EN/10.1007/s11390-020-9864-z#1" target="_blank">Item Cold-start Recommendation with Personalized Feature Selection</b><br/>
   <a href = "https://sites.google.com/view/yifanchenuva/home" target = "_blank">Yifan Chen</a>, <b>Xiang Zhao</b>, Jinyuan Liu, Bin Ge, Weiming Zhang. <i><b> J. Comput. Sci. Technol.</b></i> <b>(JCST)</b>, in press.</p></li>
   
   <li><p><b>Collective Entity Alignment via Adaptive Features</b> [<a href="https://github.com/DexterZeng/CEA" target="_blank">code</a>]<br/>
