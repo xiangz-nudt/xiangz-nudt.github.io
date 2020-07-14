@@ -55,9 +55,8 @@
     <li><p>* <i>2019/12: <font color="color:#cc0000">We have a new paper on entity alignment accepted by IEEE <a href = "https://www.utdallas.edu/icde/index.html" target = "_blank">ICDE 2020</a>!</font></i></p></li>
     <li><p>* <i>2019/12: Invited to serve as a PC member of <a href = "https://www.softconf.com/coling2020/TextGraphs" target = "_blank">TextGraph 2020</a> (in conjunction with <a href = "https://coling2020.org" target = "_blank">COLING 2020</a>).</i></p></li>
     <li><p>* <i>2019/12: <font color="color:#cc0000">We have two papers on NER accepted by <a href = "https://aaai.org/Conferences/AAAI-20/" target = "_blank">AAAI 2020</a>!</font></i></p></li>
-    <li><p>* <i>Welcom to check out our <a href="https://github.com/nudtnlp/" target="_blank">GitHub page</a> for our recent progress on NLP!</i></p></li>
     <li><p>* <i>Looking for post-docs & students to work on advanced data analytics and NLP. Welcome to drop me a line!</i></p></li>
-    <li><p>* <i>I am serving as the publication co-chair of <a href="http://ksem2020.org/" target="_blank">KSEM 2020</a>. Calling for various types of contributions!</i></p></li>
+    <li><p>* <i>I am serving as the publication co-chair of <a href="http://ksem2020.org/" target="_blank">KSEM 2020</a>. Calling for online participation!</i></p></li>
   </ul>
 </div>
 <hr/>
@@ -73,7 +72,7 @@
   <li><p><b>Cross-Graph Representation Learning for Unsupervised Graph Alignment</b><br/>
   Weifan Wang, <a href = "http://gr.xjtu.edu.cn/web/minnluo/home" target = "_blank">Minnan Luo</a>, Caixia Yan, <a href = "http://seu.wangmengsd.com/" target = "_blank">Meng Wang</a>, <b>Xiang Zhao</b>, <a href = "http://gr.xjtu.edu.cn/web/qhzheng" target = "_blank">Qinghua Zheng</a>. <b>DASFAA</b>, 2020.</p></li>
   
-  <li><p><b><a href="http://jcst.ict.ac.cn/EN/10.1007/s11390-020-9864-z#1" target="_blank">Item Cold-start Recommendation with Personalized Feature Selection</b><br/>
+  <li><p><b><a href="http://jcst.ict.ac.cn/EN/10.1007/s11390-020-9864-z">Item Cold-start Recommendation with Personalized Feature Selection</b><br/>
   <a href = "https://sites.google.com/view/yifanchenuva/home" target = "_blank">Yifan Chen</a>, <b>Xiang Zhao</b>, Jinyuan Liu, Bin Ge, Weiming Zhang. <i><b> J. Comput. Sci. Technol.</b></i> <b>(JCST)</b>, in press.</p></li>
   
   <li><p><b>Collective Entity Alignment via Adaptive Features</b> [<a href="https://github.com/DexterZeng/CEA" target="_blank">code</a>]<br/>
@@ -82,13 +81,17 @@
   <li><p><b><a href="https://dl.acm.org/doi/pdf/10.1145/3372154">Local Variational Feature-Based Similarity Models for Recommending Top-N New Items</b><br/>
   <a href = "https://sites.google.com/view/yifanchenuva/home" target = "_blank">Yifan Chen</a>, <a href = "https://sites.google.com/view/wayag/home" target = "_blank">Yang Wang</a>, <b>Xiang Zhao</b>, <a href = "https://sites.google.com/site/dbhongzhi/" target = "_blank">Hongzhi Yin</a>, <a href = "https://staff.fnwi.uva.nl/i.markov/" target = "_blank">Ilya Markov</a>, <a href = "https://staff.fnwi.uva.nl/m.derijke/" target = "_blank">Maarten de Rijke</a>. <i>ACM <b>Trans. Info. Syst.</b></i> <b>(TOIS)</b>, 2020, 38(2): Article No. 12, 1-33.</p></li>
   
-  <li><p><b><a href="https://aaai.org/ojs/index.php/AAAI/article/view/6329/6185">Recursively Binary Modification Model for Nested Named Entity Recognition</b><br/>Bing Li, Shifeng Liu,  Yifang Sun, <a href="http://www.cse.unsw.edu.au/~weiw/" target="_blank">Wei Wang</a>, <b>Xiang Zhao</b>. <b>AAAI</b>, 2020. </p></li>
+  <li><p><b><a href="https://aaai.org/ojs/index.php/AAAI/article/view/6329/6185">Recursively Binary Modification Model for Nested Named Entity Recognition</b><br/>
+  Bing Li, Shifeng Liu,  Yifang Sun, <a href="http://www.cse.unsw.edu.au/~weiw/" target="_blank">Wei Wang</a>, <b>Xiang Zhao</b>. <b>AAAI</b>, 2020. </p></li>
   
-  <li><p><b><a href="https://aaai.org/ojs/index.php/AAAI/article/view/6358/6214">HAMNER: Headword Amplified Multi-span Distantly Supervised Method for Domain Specific Named Entity Recognition</b><br/>Shifeng Liu,  Yifang Sun, Bing Li, <a href="http://www.cse.unsw.edu.au/~weiw/" target="_blank">Wei Wang</a>, <b>Xiang Zhao</b>. <b>AAAI</b>, 2020.</p></li>
+  <li><p><b><a href="https://aaai.org/ojs/index.php/AAAI/article/view/6358/6214">HAMNER: Headword Amplified Multi-span Distantly Supervised Method for Domain Specific Named Entity Recognition</b><br/>
+  Shifeng Liu,  Yifang Sun, Bing Li, <a href="http://www.cse.unsw.edu.au/~weiw/" target="_blank">Wei Wang</a>, <b>Xiang Zhao</b>. <b>AAAI</b>, 2020.</p></li>
   
-  <li><p><b>On Continuous Matching of Evolving Graph Patterns</b><br/>Qianzhen Zhang, <a href="http://www.greenorbs.org/people/liu/guodeke/" target="_blank">Deke Guo</a>, <b>Xiang Zhao</b>, Aibo Guo. ACM <b>CIKM</b>,<b> </b>2019 (short).</p></li>
+  <li><p><b>On Continuous Matching of Evolving Graph Patterns</b><br/>
+  Qianzhen Zhang, <a href="http://www.greenorbs.org/people/liu/guodeke/" target="_blank">Deke Guo</a>, <b>Xiang Zhao</b>, Aibo Guo. ACM <b>CIKM</b>,<b> </b>2019 (short).</p></li>
   
-  <li><p><b>M-HIN: Complex Embedding for Heterogeneous Information Networks via Metagraphs</b><br/>Yang Fang, <b>Xiang Zhao</b>, Peixin Huang, Weidong Xiao, <a href="https://staff.fnwi.uva.nl/m.derijke/" target="_blank">Maarten de Rijke</a>. ACM <b>SIGIR</b>,<b> </b>2019 (short).</p></li>
+  <li><p><b>M-HIN: Complex Embedding for Heterogeneous Information Networks via Metagraphs</b><br/>
+  Yang Fang, <b>Xiang Zhao</b>, Peixin Huang, Weidong Xiao, <a href="https://staff.fnwi.uva.nl/m.derijke/" target="_blank">Maarten de Rijke</a>. ACM <b>SIGIR</b>,<b> </b>2019 (short).</p></li>
   
   <li><p><b>Near-accurate Multiset Reconciliation (Extended Abstract)</b><br/>    <a href="http://scholar.google.com/citations?user=Ta1jm9wAAAAJ&amp;hl=en">Lailong Luo</a>, <a href="http://www.greenorbs.org/people/liu/guodeke/" target="_blank">Deke Guo</a>, <b>Xiang Zhao</b>, <a href="https://cis.temple.edu/~wu/" target="_blank">Jie Wu</a>, <a href="https://sites.google.com/site/orirottenstreich/" target="_blank">Ori Rottenstreich</a>, Xueshan Luo. IEEE <b>ICDE</b>,<b> </b>2019 (poster).</p></li>
   
