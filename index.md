@@ -93,23 +93,31 @@
   <li><p><b>M-HIN: Complex Embedding for Heterogeneous Information Networks via Metagraphs</b><br/>
   Yang Fang, <b>Xiang Zhao</b>, Peixin Huang, Weidong Xiao, <a href="https://staff.fnwi.uva.nl/m.derijke/" target="_blank">Maarten de Rijke</a>. ACM <b>SIGIR</b>,<b> </b>2019 (short).</p></li>
   
-  <li><p><b>Near-accurate Multiset Reconciliation (Extended Abstract)</b><br/>    <a href="http://scholar.google.com/citations?user=Ta1jm9wAAAAJ&amp;hl=en">Lailong Luo</a>, <a href="http://www.greenorbs.org/people/liu/guodeke/" target="_blank">Deke Guo</a>, <b>Xiang Zhao</b>, <a href="https://cis.temple.edu/~wu/" target="_blank">Jie Wu</a>, <a href="https://sites.google.com/site/orirottenstreich/" target="_blank">Ori Rottenstreich</a>, Xueshan Luo. IEEE <b>ICDE</b>,<b> </b>2019 (poster).</p></li>
+  <li><p><b>Near-accurate Multiset Reconciliation (Extended Abstract)</b><br/>
+  <a href="http://scholar.google.com/citations?user=Ta1jm9wAAAAJ&amp;hl=en">Lailong Luo</a>, <a href="http://www.greenorbs.org/people/liu/guodeke/" target="_blank">Deke Guo</a>, <b>Xiang Zhao</b>, <a href="https://cis.temple.edu/~wu/" target="_blank">Jie Wu</a>, <a href="https://sites.google.com/site/orirottenstreich/" target="_blank">Ori Rottenstreich</a>, Xueshan Luo. IEEE <b>ICDE</b>,<b> </b>2019 (poster).</p></li>
   
-  <li><p><b>Relevance-based Entity Embedding</b><br/>Weixin Zeng, <b>Xiang Zhao</b>, Jiuyang Tang, Jinzhi Liao, <a href="http://sdcs.sysu.edu.cn/node/2465" target="_blank">Chang-Dong Wang</a>. <b>DASFAA</b>,<b> </b>2019 (short).</p></li>
+  <li><p><b>Relevance-based Entity Embedding</b><br/>
+  Weixin Zeng, <b>Xiang Zhao</b>, Jiuyang Tang, Jinzhi Liao, <a href="http://sdcs.sysu.edu.cn/node/2465" target="_blank">Chang-Dong Wang</a>. <b>DASFAA</b>,<b> </b>2019 (short).</p></li>
   
-  <li><p><b><a href="https://www.aaai.org/ojs/index.php/AAAI/article/view/4689/4567">Jointly Extracting Multiple Triplets with Multilayer Translation Constraints</a></b><br/>Zhen Tan, <b>Xiang Zhao</b>, <a href="http://www.cse.unsw.edu.au/~weiw/" target="_blank">Wei Wang</a>, Weidong Xiao. <b>AAAI</b>,<b> </b>2019.</p></li>
+  <li><p><b><a href="https://www.aaai.org/ojs/index.php/AAAI/article/view/4689/4567">Jointly Extracting Multiple Triplets with Multilayer Translation Constraints</a></b><br/>
+  Zhen Tan, <b>Xiang Zhao</b>, <a href="http://www.cse.unsw.edu.au/~weiw/" target="_blank">Wei Wang</a>, Weidong Xiao. <b>AAAI</b>,<b> </b>2019.</p></li>
   
-  <li><p><b><a href="https://www.aaai.org/ojs/index.php/AAAI/article/view/4579">Antonym-Synonym Classification based on New Sub-space Embeddings</a></b><br/>Muhammad Asif Ali, Yifang Sun, Xiaoling Zhou, <a href="http://www.cse.unsw.edu.au/~weiw/" target="_blank">Wei Wang</a>, <b>Xiang Zhao</b>. <b>AAAI</b>, 2019.</p></li>
+  <li><p><b><a href="https://www.aaai.org/ojs/index.php/AAAI/article/view/4579">Antonym-Synonym Classification based on New Sub-space Embeddings</a></b><br/>
+  Muhammad Asif Ali, Yifang Sun, Xiaoling Zhou, <a href="http://www.cse.unsw.edu.au/~weiw/" target="_blank">Wei Wang</a>, <b>Xiang Zhao</b>. <b>AAAI</b>, 2019.</p></li>
   
   <li><p><b>Near-accurate Multiset Reconciliation<br /></b><a href="http://scholar.google.com/citations?user=Ta1jm9wAAAAJ&amp;hl=en">Lailong Luo</a>, <a href="http://www.greenorbs.org/people/liu/guodeke/" target="_blank">Deke Guo</a>, <b>Xiang Zhao</b>, <a href="https://cis.temple.edu/~jiewu/" target="_blank">Jie Wu</a>, <a href="https://sites.google.com/site/orirottenstreich" target="_blank">Ori Rottenstreich</a>, Xueshan Luo. <i>IEEE </i><b><i>Trans. Know. Data Eng.</i></b> (<b>TKDE</b>), 2019, 31(5): 952-964.</p></li>
   
-  <li><p><b>SISE: Self-updating of Indoor Semantic Floorplans for General Entities</b><br />    <a href="https://scholar.google.com/citations?hl=en&amp;user=FXZfajQAAAAJ">Xiaoqiang Teng</a>, <a href="http://www.greenorbs.org/people/liu/guodeke/" target="_blank">Deke Guo</a>, <a href="http://yulanguo.me/" target="_blank">Yulan Guo</a>, <b>Xiang Zhao</b>, Zhong Liu. <i>IEEE </i><b><i>Trans. Mob. Comput. </i></b>(<b>TMC</b>), 2018, 17(11): 2646-2659.</p></li>
+  <li><p><b>SISE: Self-updating of Indoor Semantic Floorplans for General Entities</b><br />    
+  <a href="https://scholar.google.com/citations?hl=en&amp;user=FXZfajQAAAAJ">Xiaoqiang Teng</a>, <a href="http://www.greenorbs.org/people/liu/guodeke/" target="_blank">Deke Guo</a>, <a href="http://yulanguo.me/" target="_blank">Yulan Guo</a>, <b>Xiang Zhao</b>, Zhong Liu. <i>IEEE </i><b><i>Trans. Mob. Comput. </i></b>(<b>TMC</b>), 2018, 17(11): 2646-2659.</p></li>
   
-  <li><p><b>Efficient Mining of Frequent Patterns on Uncertain Graphs</b> [<a href="https://github.com/yifanclifford/fanta" target="_blank">code</a>]<br/>    <a href="https://sites.google.com/view/yifanchenuva/home" target="_blank">Yifan Chen</a>,<b> Xiang Zhao</b>, <a href="http://www.cse.unsw.edu.au/~lxue/" target="_blank">Xuemin Lin</a>, <a href="https://sites.google.com/view/wayag/home" target="_blank">Yang Wang</a>, <a href="http://www.greenorbs.org/people/liu/guodeke/" target="_blank">Deke Guo</a>. <i>IEEE </i><b><i>Trans. Know. Data Eng.</i></b> (<b>TKDE</b>), 2019, 31(2): 287-300.</p></li>
+  <li><p><b>Efficient Mining of Frequent Patterns on Uncertain Graphs</b> [<a href="https://github.com/yifanclifford/fanta" target="_blank">code</a>]<br/>    
+  <a href="https://sites.google.com/view/yifanchenuva/home" target="_blank">Yifan Chen</a>,<b> Xiang Zhao</b>, <a href="http://www.cse.unsw.edu.au/~lxue/" target="_blank">Xuemin Lin</a>, <a href="https://sites.google.com/view/wayag/home" target="_blank">Yang Wang</a>, <a href="http://www.greenorbs.org/people/liu/guodeke/" target="_blank">Deke Guo</a>. <i>IEEE </i><b><i>Trans. Know. Data Eng.</i></b> (<b>TKDE</b>), 2019, 31(2): 287-300.</p></li>
   
-  <li><p><b>Efficient Structure Similarity Search: </b><b>A Partition-Based Approach</b><br /><b>Xiang Zhao</b>, <a href="https://sites.google.com/site/chuanxiao1983/" target="_blank">Chuan Xiao</a>, <a href="http://www.cse.unsw.edu.au/~lxue/" target="_blank">Xuemin Lin</a>, <a href="http://www.cse.unsw.edu.au/~zhangw/" target="_blank">Wenjie Zhang</a>, <a href="https://sites.google.com/view/wayag/home" target="_blank">Yang Wang</a>. <i><b>VLDB J.</b></i>, 2018, 27(1): 53-78.</p></li>
+  <li><p><b>Efficient Structure Similarity Search: </b><b>A Partition-Based Approach</b><br />
+  <b>Xiang Zhao</b>, <a href="https://sites.google.com/site/chuanxiao1983/" target="_blank">Chuan Xiao</a>, <a href="http://www.cse.unsw.edu.au/~lxue/" target="_blank">Xuemin Lin</a>, <a href="http://www.cse.unsw.edu.au/~zhangw/" target="_blank">Wenjie Zhang</a>, <a href="https://sites.google.com/view/wayag/home" target="_blank">Yang Wang</a>. <i><b>VLDB J.</b></i>, 2018, 27(1): 53-78.</p></li>
   
-  <li><p><b>Representation Learning of Large-Scale Knowledge Graphs via Entity Feature Combinations</b><br />Zhen Tan, <b >Xiang Zhao</b>, <a href="http://www.cse.unsw.edu.au/~weiw/" target="_blank">Wei Wang</a>. ACM <b>CIKM</b>,<b> </b>2017.</p></li>
+  <li><p><b>Representation Learning of Large-Scale Knowledge Graphs via Entity Feature Combinations</b><br />
+  Zhen Tan, <b >Xiang Zhao</b>, <a href="http://www.cse.unsw.edu.au/~weiw/" target="_blank">Wei Wang</a>. ACM <b>CIKM</b>,<b> </b>2017.</p></li>
   
   <li><p><b>Top-<i>N</i> Recommendation with High-Dimensional Side Information via Locality Preserving Projection</b> [<a href="https://github.com/yifanclifford/Prism" target="_blank">code</a>]<br />    <a href="https://sites.google.com/view/yifanchenuva/home" target="_blank">Yifan Chen</a>, <b>Xiang Zhao</b>, <a href="https://staff.fnwi.uva.nl/m.derijke/" target="_blank">Maarten de Rijke</a>. ACM <b>SIGIR</b>,<b> </b>2017 (Short).</p></li>
   
