@@ -1,4 +1,2 @@
 # xiangz-nudt.github.io
-Xiang Zhao's Homepage, PhD UNSW.
-Xiang is an associate professor at College of Systems Engineering, National University of Defense Technology (NUDT).
-Xiang's research interests include Knowledge Graphs, Graph Data Analytics, and Natural Language Processing.
+This is the homepage of A/Prof. Xiang Zhao, PhD UNSW, who is currently with College of Systems Engineering, National University of Defense Technology (NUDT). His research interests include Knowledge Graphs, Graph Data Analytics, and Natural Language Processing. Thank you for passing by.
