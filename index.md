@@ -40,13 +40,13 @@
   He is a member of <a href="http://www.ccf.org.cn/sites/ccf/" target="_blank">China Computer Federation</a> (CCF) <a href="http://tcdb.ccf.org.cn/" target="_blank">Technical Committee on Databases</a>, a communication member of CCF <a href="http://www.ccf.org.cn/sites/ccf/dsfzw.jsp" target="_blank">Task Force on Big Data</a>, and a member of Technical Commitees on <a href="http://www.cipsc.org.cn/sigkg/" target = "_blank">Language and Knowledge Computing</a>, and BigSearch, <a href="http://www.cipsc.org.cn/index.php" target = "_blank">Chinese Information Processing Society of China</a> (CIPSC). He was a recipient of <a href ="https://china.acm.org/awards.html" target="_blank">ACM SIGMOD China Rising Star award</a> (2018), <a href = "http://www.cast.org.cn/art/2018/9/30/art_19_35872.html" target = "_blank">Young Talents Lift-up Program</a> (2018) for <a href = "http://www.cast.org.cn/" target = "_blank">China Association for Science and Technology</a> (CAST), and <a href = "http://kjt.hunan.gov.cn/zxgz/zkjj/" target = "_blank">Hunan Provincial Natural Science Fund</a> (2019) for Distinguished Young Scholars.
   </p>
   
-  <b>Xiang</b>'s research interests include: Knowledge Graphs, Graph Data Analytics, and Natural Language Understanding.
+  <b>Xiang</b>'s research interests include: Knowledge Graphs, Graph Data Analytics, and Natural Language Processing.
 </div>
 
 <div style="width:860px;margin:0px auto">
   <h3 style="color:#b45f06"><b>News</b></h3>
   <ul style="list-style-type:none; line-height:1">
-    <li><p>* <i>2020/07: <font color="color:#cc0000">We have an article on top-N recommendation accepted by <a href = "https://dl.acm.org/journal/tois" target = "_blank">ACM TOIS</a>!</font></i></p></li>
+    <li><p>* <i>2020/07: <font color="color:#cc0000">We have an article on top-N recommendation accepted by ACM <a href = "https://dl.acm.org/journal/tois" target = "_blank">TOIS</a>!</font></i></p></li>
     <li><p>* <i>2020/04: <font color="color:#cc0000">We have a paper on entity alignment accepted by ACM <a href = "https://sigir.org/sigir2020/" target = "_blank">SIGIR 2020</a>!</font></i></p></li>
     <li><p>* <i>2020/03: Invited to serve as a PC member of <a href = "http://aacl2020.org/" target = "_blank">AACL-IJCNLP 2020</a>.</i></p></li>
     <li><p>* <i>2020/03: Invited to serve as a PC member of <a href = "https://coling2020.org/" target = "_blank">COLING 2020</a>.</i></p></li>
