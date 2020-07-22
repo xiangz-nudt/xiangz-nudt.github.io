@@ -46,7 +46,7 @@
 <div style="width:860px;margin:0px auto">
   <h3 style="color:#b45f06"><b>News</b></h3>
   <ul style="list-style-type:none; line-height:1">
-    <li><p>* <i>2020/07: <font color="color:#cc0000">We have an article on top-N recommendation accepted by <a href = "http://tois.acm.org/" target = "_blank">ACM TOIS</a>!</font></i></p></li>
+    <li><p>* <i>2020/07: <font color="color:#cc0000">We have an article on top-N recommendation accepted by <a href = "https://dl.acm.org/journal/tois" target = "_blank">ACM TOIS</a>!</font></i></p></li>
     <li><p>* <i>2020/04: <font color="color:#cc0000">We have a paper on entity alignment accepted by ACM <a href = "https://sigir.org/sigir2020/" target = "_blank">SIGIR 2020</a>!</font></i></p></li>
     <li><p>* <i>2020/03: Invited to serve as a PC member of <a href = "http://aacl2020.org/" target = "_blank">AACL-IJCNLP 2020</a>.</i></p></li>
     <li><p>* <i>2020/03: Invited to serve as a PC member of <a href = "https://coling2020.org/" target = "_blank">COLING 2020</a>.</i></p></li>
