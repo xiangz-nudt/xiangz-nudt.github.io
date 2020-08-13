@@ -56,13 +56,14 @@
     <li><p>* <i>2019/12: <font color="color:#cc0000">We have a new paper on entity alignment accepted by IEEE <a href = "https://www.utdallas.edu/icde/index.html" target = "_blank">ICDE 2020</a>!</font></i></p></li>
     <li><p>* <i>2019/12: Invited to serve as a PC member of <a href = "https://www.softconf.com/coling2020/TextGraphs" target = "_blank">TextGraph 2020</a> (in conjunction with <a href = "https://coling2020.org" target = "_blank">COLING 2020</a>).</i></p></li>
     <li><p>* <i>Looking for post-docs & students to work on advanced data analytics and NLP. Welcome to drop me a line!</i></p></li>
-    <li><p>* <i>I am serving as the publication co-chair of <a href="http://ksem2020.org/" target="_blank">KSEM 2020</a>. Calling for online participation!</i></p></li>
   </ul>
 </div>
 <hr/>
 <div style="width:860px;margin:0px auto">
   <h3><b style="color:#0b5394">Selected Publications</b> (Full list @<a href = "https://scholar.google.com/citations?user=7IZ4kgwAAAAJ&hl=en" target = "_blank">Google Scholar</a>, @<a href = "https://dblp.uni-trier.de/pers/hd/z/Zhao_0002:Xiang" target = "_blank">DBLP</a>, @<a href = "https://orcid.org/0000-0001-6339-0219" target = "_blank">ORCID</a>)</h3>
   <ul>
+  <li><p><b>An Experimental Study of State-of-the-Art Entity Alignment Approaches</b><br/><b>Xiang Zhao</b>, Weixin Zeng, Jiuyang Tang, <a href="http://www.cse.unsw.edu.au/~weiw/" target="_blank">Wei Wang</a>, <a href="https://suchanek.name/" target="_blank">Fabian M. </a>. <i>IEEE </i><b><i>Trans. Know. Data Eng.</i></b> (<b>TKDE</b>), 2020, in press.</p></li>
+    
   <li><p><b>Block-aware Item Similarity Models for Top-N Recommendations</b><br/><a href = "https://sites.google.com/view/yifanchenuva/home" target = "_blank">Yifan Chen</a>, <a href = "https://sites.google.com/view/wayag/home" target = "_blank">Yang Wang</a>, <b>Xiang Zhao</b>, <a href = "https://sites.google.com/site/jiezou0806" target = "_blank">Jie Zou</a>, <a href = "https://staff.fnwi.uva.nl/m.derijke/" target = "_blank">Maarten de Rijke</a>. <i>ACM <b>Trans. Info. Syst.</b></i> <b>(TOIS)</b>, 2020, in press.</p></li>
 
   <li><p><b>Seasonal-Periodic Subgraph Mining in Temporal Networks</b><br/>Qianzhen Zhang, <a href="http://www.greenorbs.org/people/liu/guodeke/" target="_blank">Deke Guo</a>, <b>Xiang Zhao</b>, Xinyi Li, Xi Wang. ACM <b>CIKM</b>,<b> </b>2020 (Short).</p></li>
