@@ -219,6 +219,18 @@
   
   </ul></li>
 
+<li>
+  <p><b>Member of organization committees:</b></p>
+  <ul>
+  <li><p>
+  <b>Publication co-chairs:</b> <a href="http://ksem2020.org/" target="_blank">KSEM 2020</a>
+  </p></li>
+  <li><p>
+  <b>Web co-chairs:</b> <a href="http://www1.se.cuhk.edu.hk/~apweb/previous/apweb2013/index.html" target="_blank">APWeb 2013</a>, BigDIA 2016
+  </p></li>  
+  </ul>
+</li>
+  
   </ul>
 </div>
 <hr/>
