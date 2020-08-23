@@ -24,7 +24,7 @@
     <b>Associate Professor</b>
       <br/><font size="3">- National Key Laboratory of Science and Technology on Information Systems Engineering
       <br/>- College of Systems Engineering, <a href="https://english.nudt.edu.cn/" target="_blank">National University of Defense Technology</a>
-      <br/>- “2011 Program” <a href="http://innogst.whu.edu.cn/" target="blank">Collaborative Innovation Center of Geospatial Technology</a>, China</font><br/>
+      <br/>- “2011 Program” <a href="http://innogst.whu.edu.cn/" target="blank">Collaborative Innovation Center of Geospatial Technology</a></font><br/>
     <b>Email</b>: xiangzhao <i>at</i> nudt.edu.cn<br/><b>Phone</b>: +86 731 8700 6407<br/><b>Facsimile</b>: +86 731 8457 3514<br/><b>Address</b>: 109 Deya Road, Changsha, Hunan, China (410073)</p>
   </div>
 </div>
@@ -136,7 +136,7 @@
   
   <li><p><b>面向高效并行Skyline计算的数据划分方法</b><br/><b>赵翔</b>, 商海川. <b>计算机学报</b>, 2019, in press.</p></li>
     
-  <li><p><b>基于重排序的迭代式实体对齐</b><br/>曾维新, <b>赵翔</b>, 唐九阳, 谭真, <a href="http://www.cse.unsw.edu.au/~weiw/" target="_blank">王炜</a>. <b>计算机研究与发展</b>, 2019, in press.</p></li>
+  <li><p><b><a href="http://crad.ict.ac.cn/CN/10.7544/issn1000-1239.2020.20190643">基于重排序的迭代式实体对齐</a></b><br/>曾维新, <b>赵翔</b>, 唐九阳, 谭真, <a href="http://www.cse.unsw.edu.au/~weiw/" target="_blank">王炜</a>. <b>计算机研究与发展</b>, 2020, 57(7): 1460-1471.</p></li>
   
   <li><p><b><a href="http://crad.ict.ac.cn/CN/abstract/abstract4057.shtml">融合对抗训练的端到端知识三元组联合抽取</a></b><br/>黄培馨, <b>赵翔</b>, 方阳, 朱慧明, 肖卫东. <b>计算机研究与发展</b>, 2019, 56(12): 2536-2548.</p></li>
   
