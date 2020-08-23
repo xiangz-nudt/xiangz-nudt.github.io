@@ -169,11 +169,15 @@
   <a href="http://www.journals.elsevier.com/information-sciences/" target="_blank">Information Sciences</a>,
   <a href="http://link.springer.com/journal/11280" target="_blank">WWW Journal</a>, 
   <a href="https://www.journals.elsevier.com/engineering-applications-of-artificial-intelligence" target="_blank">Eng. Appl. of AI</a>,
-  <a href="https://www.journals.elsevier.com/knowledge-based-systems/" target="_blank">KBS</a>,
+  <a href="https://www.journals.elsevier.com/knowledge-based-systems/" target="_blank">Knowl. Based Syst.</a>,
   <a href="http://www.journals.elsevier.com/journal-of-computer-and-system-sciences/" target="_blank">JCSS</a>, 
   <a href="http://www.iis.sinica.edu.tw/page/jise/Introduction.html" target="_blank">JISE</a>, 
   <a href="http://jgaa.info/" target="_blank">JGAA</a>, <a href="http://www.academypublisher.com/jcp/" target="_blank">JCP</a>, 
-  <a href="https://www.igi-global.com/journal/information-resources-management-journal/1073" target="_blank">IRMJ</a>
+  <a href="https://www.igi-global.com/journal/information-resources-management-journal/1073" target="_blank">IRMJ</a>,
+  <a href="https://www.emeraldinsight.com/journal/dta" target="_blank">Data Techn. and Applic.</a>,
+  <a href="http://link.springer.com/journal/41019" target="_blank">Data Sci. and Eng.</a>,
+  <a href="http://link.springer.com/journal/10796" target="_blank">Info. Syst. Frontier</a>,
+  <a href="http://www.sciencedirect.com/science/journal/01650114" target="_blank">Fuzzy Sets Syst.</a>
   </p></li>
   <li>
   <p><b>Member of program committees:</b></p>
@@ -187,11 +191,14 @@
   <a href="https://acl2020.org/" target="_blank">ACL</a>, 
   ACM <a href="http://cikm2019.net/" target="_blank">CIKM</a>,
   <a href="https://coling2020.org/" target="_blank">COLING</a>,
-  <a href="http://ada.suda.edu.cn/apweb2016/" target="_blank">APWeb</a>, 
+  <a href="http://ada.suda.edu.cn/apweb2016/" target="_blank">APWeb</a>,
+  <a href="http://aacl2020.org/" target="_blank">AACL</a>,
   <a href="http://www.akbc.ws/" target="_blank">AKBC</a>, 
-  <a href="http://conference.eng.unimelb.edu.au/adc/" target="_blank">ADC</a>, 
-  <a href="http://www.ieeebigdata.org/2016/" target="_blank">BigData</a>, 
-  FCST, FAB, BigCom, SC2, SoICT, PRICAI, IEEE DSC</p></li>
+  <a href="http://conference.eng.unimelb.edu.au/adc/" target="_blank">ADC</a>,
+  <a href="http://wisa.pmease.cn/wisa2020/index.html" target="_blank">WISA</a>,
+  <a href="http://www.ieeebigdata.org/2016/" target="_blank">BigData</a>,
+  IEEE <a href="http://www.ieee-dsc.org/" target="_blank">DSC</a>,
+  FCST, FAB, PRICAI, BigCom, SC2, SoICT</p></li>
   <li><p>
   <b>National conferences:</b> CCF <a href="http://dm.ustc.edu.cn/ccf-bigdata2015/" target="_blank">BigData</a>, <a href="http://ndbc2019.sdu.edu.cn/" target="_blank">NDBC</a>
   </p></li>
@@ -201,6 +208,8 @@
   <a href="https://lsgda.github.io/" target="_blank">LSGDA</a>,
   <a href="https://sites.google.com/view/textgraphs2019/home" target="_blank">TextGraphs</a>, 
   <a href="http://kbcom.org/" target="_blank">KBCOM</a>, 
+  <a href="http://www.prg.nii.ac.jp/projects/biscuits/fourth-workshop/" target="_blank">SFDI</a>,
+  <a href="https://www.ifis.uni-luebeck.de/~groppe/bidede/?page=pcinvitation&year=2021&id=22_951246088" target="_blank">BiDEDE</a>,
   <a href="http://www.ifis.uni-luebeck.de/~groppe/sbd/2016/home" target="_blank">SBD</a>, 
   <a href="http://www.cse.unsw.edu.au/~gap/" target="_blank">GAP</a>, 
   <a href="http://www.csiro.au/Organisation-Structure/Flagships/Digital-Productivity-and-Services/BioBAD-2015.aspx" target="_blank">BioBAD</a>, 
