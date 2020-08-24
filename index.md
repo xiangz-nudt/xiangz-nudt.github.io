@@ -178,7 +178,10 @@
   <a href="https://www.emeraldinsight.com/journal/dta" target="_blank">Data Techn. and Applic.</a>,
   <a href="http://link.springer.com/journal/41019" target="_blank">Data Sci. and Eng.</a>,
   <a href="http://link.springer.com/journal/10796" target="_blank">Info. Syst. Frontier</a>,
-  <a href="http://www.sciencedirect.com/science/journal/01650114" target="_blank">Fuzzy Sets Syst.</a>
+  <a href="http://www.sciencedirect.com/science/journal/01650114" target="_blank">Fuzzy Sets Syst.</a>,
+  <a href="http://cjc.ict.ac.cn/" target="_blank">计算机学报</a>,
+  <a href="http://www.jos.org.cn/jos/ch/index.aspx" target="_blank">软件学报</a>,
+  <a href="http://www.jsjc.chinajournal.net.cn/WKE/WebPublication/index.aspx?mid=JSJC" target="_blank">计算机工程</a>
   </p></li>
   <li>
   <p><b>Member of program committees:</b></p>
