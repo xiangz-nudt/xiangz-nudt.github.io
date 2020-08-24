@@ -32,7 +32,7 @@
 <div style="width:860px;margin:0px auto">
 <h3><b>Short Biography</b></h3>
   <p style="text-align:justify; text-justify:inter-ideograph">
-    <b>Xiang Zhao</b> (赵翔) is currently an associate professor at College of Systems Engineering, <a href="https://english.nudt.edu.cn/" target="_blank">National University of Defense Technology</a> (NUDT), China. He also serves as the head of the knowledge systems engineering.
+    <b>Xiang Zhao</b> (赵翔) is currently an associate professor at College of Systems Engineering, <a href="https://english.nudt.edu.cn/" target="_blank">National University of Defense Technology</a> (NUDT), China, where he also serves as the head of the direction of knowledge systems engineering.
     </p>
   
   <p style="text-align:justify; text-justify:inter-ideograph">
