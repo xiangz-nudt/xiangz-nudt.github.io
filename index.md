@@ -64,7 +64,9 @@
   <h3><b style="color:#0b5394">Selected Publications</b> (Full list @<a href = "https://scholar.google.com/citations?user=7IZ4kgwAAAAJ&hl=en" target = "_blank">Google Scholar</a>, @<a href = "https://dblp.uni-trier.de/pers/hd/z/Zhao_0002:Xiang" target = "_blank">DBLP</a>, @<a href = "https://orcid.org/0000-0001-6339-0219" target = "_blank">ORCID</a>)</h3>
   <ul>
   <li><p><b>An Experimental Study of State-of-the-Art Entity Alignment Approaches</b><br/><b>Xiang Zhao</b>, Weixin Zeng, Jiuyang Tang, <a href="http://www.cse.unsw.edu.au/~weiw/" target="_blank">Wei Wang</a>, <a href="https://suchanek.name/" target="_blank">Fabian M. Suchanek</a>. <i>IEEE </i><b><i>Trans. Know. Data Eng.</i></b> (<b>TKDE</b>), 2020, in press.</p></li>
-    
+  
+  <li><p><b>Few-shot Text Classification by Leveraging Bi-directional Attention and Cross-class Knowledge</b><br/>Ning Pang, <b>Xiang Zhao</b>, <a href="http://www.cse.unsw.edu.au/~weiw/" target="_blank">Wei Wang</a>, Weidong Xiao, <a href="http://www.greenorbs.org/people/liu/guodeke/" target="_blank">Deke Guo</a>. <i><b>Sci. China Inf. Sci.</b></i> <b>(SCIS)</b>, 2020, in press.</p></li>
+  
   <li><p><b>Block-aware Item Similarity Models for Top-N Recommendations</b><br/><a href = "https://sites.google.com/view/yifanchenuva/home" target = "_blank">Yifan Chen</a>, <a href = "https://sites.google.com/view/wayag/home" target = "_blank">Yang Wang</a>, <b>Xiang Zhao</b>, <a href = "https://sites.google.com/site/jiezou0806" target = "_blank">Jie Zou</a>, <a href = "https://staff.fnwi.uva.nl/m.derijke/" target = "_blank">Maarten de Rijke</a>. <i>ACM <b>Trans. Info. Syst.</b></i> <b>(TOIS)</b>, 2020, in press.</p></li>
 
   <li><p><b>Seasonal-Periodic Subgraph Mining in Temporal Networks</b><br/>Qianzhen Zhang, <a href="http://www.greenorbs.org/people/liu/guodeke/" target="_blank">Deke Guo</a>, <b>Xiang Zhao</b>, Xinyi Li, Xi Wang. ACM <b>CIKM</b>,<b> </b>2020 (Short).</p></li>
@@ -248,8 +250,7 @@
   <li><p><b>Third Prize in Teng-da Contest for Science and Technology Innovation</b>, <a href="http://s5.nudt.edu.cn/" target="_blank">College of Information System and Management</a> (CISM), NUDT, 2009</p></li>
   <li><p><b>Elite Student</b> of NUDT, 2008; <b>Elite Graduate</b> of CISM, 2008; <b>Elite Student</b> of CISM, 2004 - 2008</p></li>
   <li><p><b>Meritorious in Mathematical Contest in Modeling (MCM) / Interdisciplinary Contest in Modeling (ICM)</b>, organized by <a href="http://www.comap.com/" target="_blank">COMAP</a>, 2008</p></li>
-  <li><p><b>First Prize</b> (<front style="color:#cc0000">One of the Best Papers</front>) in China Undergraduate Mathematical Contest in Modeling (CUMCM), organized by <a href="http://www.moe.edu.cn/" target="_blank">Ministry of Education of China</a> and <a href="http://csiam.edu.cn/" target="_blank">CSIAM</a>, 2007; <b>Second Prize</b>, CUMCM 2006
-</p></li>
+  <li><p><b>First Prize</b> (<front style="color:#cc0000">One of the Best Papers</front>) in China Undergraduate Mathematical Contest in Modeling (CUMCM), organized by <a href="http://www.moe.edu.cn/" target="_blank">Ministry of Education of China</a> and <a href="http://csiam.edu.cn/" target="_blank">CSIAM</a>, 2007; <b>Second Prize</b>, CUMCM 2006</p></li>
 
   </ul>
 </div>
