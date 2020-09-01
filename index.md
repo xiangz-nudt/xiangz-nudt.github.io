@@ -49,7 +49,7 @@
 <div style="width:860px;margin:0px auto">
   <h3 style="color:#b45f06"><b>News</b></h3>
   <ul style="list-style-type:none; line-height:1">
-    <li><p>* <i>2020/09: <font color="color:#cc0000">Congratulations to Ning on receiving the Best Student Paper Award Runne-up at <a href = "http://ksem2020.org/" target = "_blank">KSEM 2020</a>!</font></i></p></li>
+    <li><p>* <i>2020/09: <font color="color:#cc0000">Congrats to Ning on receiving the Best Student Paper Award Runne-up at <a href = "http://ksem2020.org/" target = "_blank">KSEM 2020</a>!</font></i></p></li>
 <li><p>* <i>2020/08: Invited to serve as a PC member of <a href = "https://aaai.org/Conferences/AAAI-21/" target = "_blank">AAAI 2021</a>.</i></p></li>
     <li><p>* <i>2020/08: <font color="color:#cc0000">We have an article on KG alignment accepted by IEEE <a href = "https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69" target = "_blank">TKDE</a>!</font> Welcome to check out the Github repo <a href = "https://github.com/DexterZeng/EAE" target = "_blank">here</a>.</i></p></li>
     <li><p>* <i>2020/07: <font color="color:#cc0000">We have an article on top-N recommendation accepted by ACM <a href = "https://dl.acm.org/journal/tois" target = "_blank">TOIS</a>!</font></i></p></li>
