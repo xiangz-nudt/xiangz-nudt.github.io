@@ -83,6 +83,8 @@
 
   <li><p><b>Seasonal-Periodic Subgraph Mining in Temporal Networks</b><br/>Qianzhen Zhang, <a href="http://www.greenorbs.org/people/liu/guodeke/" target="_blank">Deke Guo</a>, <b>Xiang Zhao</b>, Xinyi Li, Xi Wang. ACM <b>CIKM</b>,<b> </b>2020 (Short).</p></li>
   
+  <li><p><b>Chinese Text Classification via Bidirectional Lattice LSTM</b><br/>Ning Pang, Weidong Xiao, <b>Xiang Zhao</b>. <b>KSEM</b>, 2020 [<font color="#cc0000" >Best Student Paper Runner-up</font>].</p></li>
+  
   <li><p><b>Degree-Aware Alignment for Entities in Tail</b> [<a href="https://github.com/DexterZeng/DAT" target="_blank">code</a>]<br/>Weixin Zeng, <b>Xiang Zhao</b>, <a href="http://www.cse.unsw.edu.au/~weiw/" target="_blank">Wei Wang</a>, Jiuyang Tang, Zhen Tan. ACM <b>SIGIR</b>, 2020.</p></li>
     
   <li><p><b>GQA_RDF: A Graph-based Approach towards Efficient SPARQL Query Answering</b><br/>Xi Wang, Qianzhen Zhang, <a href = "http://www.greenorbs.org/people/liu/guodeke/" target = "_blank">Deke Guo</a>, <b>Xiang Zhao</b>, <a href = "http://csee.hnu.edu.cn/people/yangjianye" target = "_blank">Jianye Yang</a>. <b>DASFAA</b>, 2020.</p></li>
