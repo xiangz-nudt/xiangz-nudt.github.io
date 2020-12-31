@@ -50,6 +50,7 @@
   <h3 style="color:#b45f06"><b>News</b></h3>
   <ul style="list-style-type:none; line-height:1">
     <li><p>* <i>2021/01: <font color="color:#cc0000">We have an article on RL-based entity alignment accepted by ACM <a href = "https://dl.acm.org/journal/tois" target = "_blank">TOIS</a>!</font></i></p></li>
+    <li><p>* <i>2020/12: Invited to serve as a PC member of <a href = "https://sites.google.com/view/textgraphs2021" target = "_blank">TextGraphs@NAACL 2021</a>.</i></p></li>
     <li><p>* <i>2020/12: <font color="color:#cc0000">We have an article on continuous graph matching accepted by <a href = "https://www.springer.com/journal/11280" target = "_blank">WWW Journal</a>!</font></i></p></li>
     <li><p>* <i>2020/09: <font color="color:#cc0000">We won the Best Paper Award at <a href = "udb.cn/apwebwaim2020/" target = "_blank">APWeb-WAIM 2020</a>!</font></i></p></li>
     <li><p>* <i>2020/09: <font color="color:#cc0000">Congrats to Ning on winning the Best Student Paper Award Runne-up at <a href = "http://ksem2020.org/" target = "_blank">KSEM 2020</a>!</font></i></p></li>
@@ -58,8 +59,8 @@
     <li><p>* <i>2020/07: <font color="color:#cc0000">We have an article on top-N recommendation accepted by ACM <a href = "https://dl.acm.org/journal/tois" target = "_blank">TOIS</a>!</font></i></p></li>
     <li><p>* <i>2020/04: <font color="color:#cc0000">We have a paper on KG alignment accepted by ACM <a href = "https://sigir.org/sigir2020/" target = "_blank">SIGIR 2020</a>!</font></i></p></li>
     <li><p>* <i>2020/03: Invited to serve as a PC member of <a href = "http://aacl2020.org/" target = "_blank">AACL-IJCNLP 2020</a>.</i></p></li>
-    <li><p>* <i>2020/03: Invited to serve as a PC member of <a href = "https://coling2020.org/" target = "_blank">COLING 2020</a>.</i></p></li>
 <!--
+    <li><p>* <i>2020/03: Invited to serve as a PC member of <a href = "https://coling2020.org/" target = "_blank">COLING 2020</a>.</i></p></li>
     <li><p>* <i>2020/02: <font color="color:#cc0000">We have two papers on graph processing accepted by <a href = "http://db.pknu.ac.kr/dasfaa2020/" target = "_blank">DASFAA 2020</a>!</font></i></p></li>
     <li><p>* <i>2020/01: Invited to serve as a PC member of <a href = "http://www.vldb.org/pvldb/submission_vol14.html" target = "_blank">VLDB 2021</a>.</i></p></li>
 -->
