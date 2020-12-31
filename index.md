@@ -80,6 +80,8 @@
   <li><p><b>Few-shot Text Classification by Leveraging Bi-directional Attention and Cross-class Knowledge</b><br/>Ning Pang, <b>Xiang Zhao</b>, <a href="http://www.cse.unsw.edu.au/~weiw/" target="_blank">Wei Wang</a>, Weidong Xiao, <a href="http://www.greenorbs.org/people/liu/guodeke/" target="_blank">Deke Guo</a>. <i><b>Sci. China Inf. Sci.</b></i> <b>(SCIS)</b>, 2020, in press.</p></li>
   
   <li><p><b>Block-aware Item Similarity Models for Top-N Recommendations</b><br/><a href = "https://sites.google.com/view/yifanchenuva/home" target = "_blank">Yifan Chen</a>, <a href = "https://sites.google.com/view/wayag/home" target = "_blank">Yang Wang</a>, <b>Xiang Zhao</b>, <a href = "https://sites.google.com/site/jiezou0806" target = "_blank">Jie Zou</a>, <a href = "https://staff.fnwi.uva.nl/m.derijke/" target = "_blank">Maarten de Rijke</a>. <i>ACM <b>Trans. Info. Syst.</b></i> <b>(TOIS)</b>, 2020, in press.</p></li>
+  
+  <li><p><b>Multi-hop Reading Comprehension Incorporating Sentence-Based Reasoning</b><br/>Lijun Huo, Bin Ge, <b>Xiang Zhao</b>. <b>APWeb-WAIM</b>, 2020 [<font color="#cc0000" >Best Paper</font>].</p></li>
 
   <li><p><b>Seasonal-Periodic Subgraph Mining in Temporal Networks</b><br/>Qianzhen Zhang, <a href="http://www.greenorbs.org/people/liu/guodeke/" target="_blank">Deke Guo</a>, <b>Xiang Zhao</b>, Xinyi Li, Xi Wang. ACM <b>CIKM</b>,<b> </b>2020 (Short).</p></li>
   
