@@ -79,7 +79,7 @@
     
   <li><p><b><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9174835" target="_blank">An Experimental Study of State-of-the-Art Entity Alignment Approaches</a></b> [<a href="https://github.com/DexterZeng/EAE" target="_blank">code</a>]<br/><b>Xiang Zhao</b>, Weixin Zeng, Jiuyang Tang, <a href="http://www.cse.unsw.edu.au/~weiw/" target="_blank">Wei Wang</a>, <a href="https://suchanek.name/" target="_blank">Fabian M. Suchanek</a>. <i>IEEE </i><b><i>Trans. Know. Data Eng.</i></b> (<b>TKDE</b>), 2020, in press.</p></li>
   
-  <li><p><b>Few-shot Text Classification by Leveraging Bi-directional Attention and Cross-class Knowledge</b><br/>Ning Pang, <b>Xiang Zhao</b>, <a href="http://www.cse.unsw.edu.au/~weiw/" target="_blank">Wei Wang</a>, Weidong Xiao, <a href="http://www.greenorbs.org/people/liu/guodeke/" target="_blank">Deke Guo</a>. <i><b>Sci. China Inf. Sci.</b></i> <b>(SCIS)</b>, 2020, in press.</p></li>
+  <li><p><b><a href="http://scis.scichina.com/en/2021/130103.pdf">Few-shot Text Classification by Leveraging Bi-directional Attention and Cross-class Knowledge</a></b><br/>Ning Pang, <b>Xiang Zhao</b>, <a href="http://www.cse.unsw.edu.au/~weiw/" target="_blank">Wei Wang</a>, Weidong Xiao, <a href="http://www.greenorbs.org/people/liu/guodeke/" target="_blank">Deke Guo</a>. <i><b>Sci. China Inf. Sci.</b></i> <b>(SCIS)</b>, 2021, 64: Article No. 130103, 1-13.</p></li>
   
   <li><p><b>Block-aware Item Similarity Models for Top-N Recommendations</b><br/><a href = "https://sites.google.com/view/yifanchenuva/home" target = "_blank">Yifan Chen</a>, <a href = "https://sites.google.com/view/wayag/home" target = "_blank">Yang Wang</a>, <b>Xiang Zhao</b>, <a href = "https://sites.google.com/site/jiezou0806" target = "_blank">Jie Zou</a>, <a href = "https://staff.fnwi.uva.nl/m.derijke/" target = "_blank">Maarten de Rijke</a>. <i>ACM <b>Trans. Info. Syst.</b></i> <b>(TOIS)</b>, 2020, in press.</p></li>
   
@@ -95,7 +95,7 @@
   
   <li><p><b>Cross-Graph Representation Learning for Unsupervised Graph Alignment</b><br/>Weifan Wang, <a href = "http://gr.xjtu.edu.cn/web/minnluo/home" target = "_blank">Minnan Luo</a>, Caixia Yan, <a href = "http://seu.wangmengsd.com/" target = "_blank">Meng Wang</a>, <b>Xiang Zhao</b>, <a href = "http://gr.xjtu.edu.cn/web/qhzheng" target = "_blank">Qinghua Zheng</a>. <b>DASFAA</b>, 2020.</p></li>
   
-  <li><p><b><a href="http://jcst.ict.ac.cn/EN/10.1007/s11390-020-9864-z">Item Cold-start Recommendation with Personalized Feature Selection</a></b><br/><a href = "https://sites.google.com/view/yifanchenuva/home" target = "_blank">Yifan Chen</a>, <b>Xiang Zhao</b>, Jinyuan Liu, Bin Ge, Weiming Zhang. <i><b> J. Comput. Sci. Technol.</b></i> <b>(JCST)</b>, in press.</p></li>
+  <li><p><b><a href="http://jcst.ict.ac.cn/EN/10.1007/s11390-020-9864-z">Item Cold-start Recommendation with Personalized Feature Selection</a></b><br/><a href = "https://sites.google.com/view/yifanchenuva/home" target = "_blank">Yifan Chen</a>, <b>Xiang Zhao</b>, Jinyuan Liu, Bin Ge, Weiming Zhang. <i><b> J. Comput. Sci. Technol.</b></i> <b>(JCST)</b>, 2020, 35(5): 1217-1230.</p></li>
   
   <li><p><b>Collective Entity Alignment via Adaptive Features</b> [<a href="https://github.com/DexterZeng/CEA" target="_blank">code</a>]<br/>Weixin Zeng, <b>Xiang Zhao</b>, Jiuyang Tang, <a href = "http://www.cse.unsw.edu.au/~lxue/" target = "_blank">Xuemin Lin</a>. IEEE <b>ICDE</b>, 2020 (short).</p></li>
   
