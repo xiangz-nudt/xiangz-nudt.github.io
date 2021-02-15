@@ -154,7 +154,7 @@
   
   <li><p><b><a href="https://sites.google.com/site/xzhaounsw/ICDE2012-GSimJoin.pdf?attredirects=0">Efficient Graph Similarity Joins with Edit Distance Constraints</a> </b> [<a href="https://sites.google.com/site/xzhaounsw/ICDE2012_Talk.pptx?attredirects=0"  >slides</a>]<br /><b>Xiang Zhao</b>, <a href="https://sites.google.com/site/chuanxiao1983/" target="_blank">Chuan Xiao</a>, <a href="http://www.cse.unsw.edu.au/~lxue/" target="_blank">Xuemin Lin</a>, <a href="http://www.cse.unsw.edu.au/~weiw/" target="_blank">Wei Wang</a>. IEEE <b>ICDE</b>, 2012.</p></li>
   
-  <li><p><b>面向高效并行Skyline计算的数据划分方法</b><br/><b>赵翔</b>, 商海川. <b>计算机学报</b>, 2019, in press.</p></li>
+  <li><p><b><a href="http://cjc.ict.ac.cn/online/onlinepaper/zx-2020115164805.pdf">面向高效并行Skyline计算的数据划分方法</a></b><br/><b>赵翔</b>, 商海川. <b>计算机学报</b>, 2020, 43(11): 2050-2066.</p></li>
     
   <li><p><b><a href="http://crad.ict.ac.cn/CN/10.7544/issn1000-1239.2020.20190643">基于重排序的迭代式实体对齐</a></b><br/>曾维新, <b>赵翔</b>, 唐九阳, 谭真, <a href="http://www.cse.unsw.edu.au/~weiw/" target="_blank">王炜</a>. <b>计算机研究与发展</b>, 2020, 57(7): 1460-1471.</p></li>
   
