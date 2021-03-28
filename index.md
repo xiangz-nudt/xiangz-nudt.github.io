@@ -182,15 +182,17 @@
   <li><p><b>Journal editorial review board:</b></p><p>since 2018: <a href="https://www.igi-global.com/journal/journal-database-management-jdm/1072" target="_blank">Journal of Database Management</a></p></li>
 
   <li><p><b>Invited journal reviewers:</b></p><p>
+  <a href="http://vldb.org/pvldb/" target="_blank">Proc. VLDB</a>,
   <a href="http://link.springer.com/journal/778" target="_blank">VLDB Journal</a>, 
   IEEE <a href="http://www.computer.org/portal/web/tkde" target="_blank">TKDE</a>, 
   ACM <a href="https://tois.acm.org/" target="_blank">TOIS</a>, 
   IEEE <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385" target="_blank">TNNLS</a>, 
   IEEE <a href="http://www.computer.org/portal/web/tpds" target="_blank">TPDS</a>, 
-  <a href="http://www.journals.elsevier.com/information-sciences/" target="_blank">Information Sciences</a>,
-  <a href="http://link.springer.com/journal/11280" target="_blank">WWW Journal</a>, 
-  <a href="https://www.journals.elsevier.com/engineering-applications-of-artificial-intelligence" target="_blank">Eng. Appl. of AI</a>,
+  <a href="http://link.springer.com/journal/11280" target="_blank">WWW Journal</a>,
+  <a href="http://www.journals.elsevier.com/information-sciences/" target="_blank">Inf. Sci.</a>,
   <a href="https://www.journals.elsevier.com/knowledge-based-systems/" target="_blank">Knowl. Based Syst.</a>,
+  <a href="https://onlinelibrary.wiley.com/journal/1098111x" target="_blank">Int. J. Intell. Syst.</a>,
+  <a href="https://www.journals.elsevier.com/engineering-applications-of-artificial-intelligence" target="_blank">Eng. Appl. of AI</a>,
   <a href="http://www.journals.elsevier.com/journal-of-computer-and-system-sciences/" target="_blank">JCSS</a>, 
   <a href="http://www.iis.sinica.edu.tw/page/jise/Introduction.html" target="_blank">JISE</a>, 
   <a href="http://jgaa.info/" target="_blank">JGAA</a>, <a href="http://www.academypublisher.com/jcp/" target="_blank">JCP</a>, 
