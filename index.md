@@ -49,6 +49,7 @@
 <div style="width:860px;margin:0px auto">
   <h3 style="color:#b45f06"><b>News</b></h3>
   <ul style="list-style-type:none; line-height:1">
+    <li><p>* <i>2021/03: Invited to serve as a reviewer for <a href = "http://vldb.org/pvldb/vol15-volume-info/" target = "_blank">PVLDB Vol. 15</a>.</i></p></li>
     <li><p>* <i>2021/01: <font color="color:#cc0000">We have a paper on unsupervised entity alignment accepted by <a href = "http://dm.iis.sinica.edu.tw/DASFAA2021/" target = "_blank">DASFAA 2021</a>!</font></i></p></li>
     <li><p>* <i>2021/01: <font color="color:#cc0000">We have an article on RL-based entity alignment accepted by ACM <a href = "https://dl.acm.org/journal/tois" target = "_blank">TOIS</a>!</font></i></p></li>
     <li><p>* <i>2020/12: Invited to serve as a PC member of <a href = "https://sites.google.com/view/textgraphs2021" target = "_blank">TextGraphs@NAACL 2021</a>.</i></p></li>
@@ -58,8 +59,8 @@
 <li><p>* <i>2020/08: Invited to serve as a PC member of <a href = "https://aaai.org/Conferences/AAAI-21/" target = "_blank">AAAI 2021</a>.</i></p></li>
     <li><p>* <i>2020/08: <font color="color:#cc0000">We have an article on KG alignment accepted by IEEE <a href = "https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69" target = "_blank">TKDE</a>!</font> Welcome to check out the Github repo <a href = "https://github.com/DexterZeng/EAE" target = "_blank">here</a>.</i></p></li>
     <li><p>* <i>2020/07: <font color="color:#cc0000">We have an article on top-N recommendation accepted by ACM <a href = "https://dl.acm.org/journal/tois" target = "_blank">TOIS</a>!</font></i></p></li>
-    <li><p>* <i>2020/04: <font color="color:#cc0000">We have a paper on KG alignment accepted by ACM <a href = "https://sigir.org/sigir2020/" target = "_blank">SIGIR 2020</a>!</font></i></p></li>
-<!--<li><p>* <i>2020/03: Invited to serve as a PC member of <a href = "http://aacl2020.org/" target = "_blank">AACL-IJCNLP 2020</a>.</i></p></li>
+    <!--<li><p>* <i>2020/04: <font color="color:#cc0000">We have a paper on KG alignment accepted by ACM <a href = "https://sigir.org/sigir2020/" target = "_blank">SIGIR 2020</a>!</font></i></p></li>
+    <li><p>* <i>2020/03: Invited to serve as a PC member of <a href = "http://aacl2020.org/" target = "_blank">AACL-IJCNLP 2020</a>.</i></p></li>
     <li><p>* <i>2020/03: Invited to serve as a PC member of <a href = "https://coling2020.org/" target = "_blank">COLING 2020</a>.</i></p></li>
     <li><p>* <i>2020/02: <font color="color:#cc0000">We have two papers on graph processing accepted by <a href = "http://db.pknu.ac.kr/dasfaa2020/" target = "_blank">DASFAA 2020</a>!</font></i></p></li>
     <li><p>* <i>2020/01: Invited to serve as a PC member of <a href = "http://www.vldb.org/pvldb/submission_vol14.html" target = "_blank">VLDB 2021</a>.</i></p></li>
