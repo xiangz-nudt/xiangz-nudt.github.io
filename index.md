@@ -81,7 +81,7 @@
     
   <li><p><b>Reinforcement Learning based Collective Entity Alignment with Adaptive Features</b><br/>Weixin Zeng, <b>Xiang Zhao</b>, Jiuyang Tang, <a href = "http://www.cse.unsw.edu.au/~lxue/" target = "_blank">Xuemin Lin</a>, <a href = "http://pgroth.com/" target = "_blank">Paul Groth</a>. <i>ACM <b>Trans. Info. Syst.</b></i> <b>(TOIS)</b>, 2021, in press.</p></li>
     
-  <li><p><b>Continuous Matching of Evolving Patterns Over Dynamic Graph Data</b><br/>Qianzhen Zhang, <a href="http://www.greenorbs.org/people/liu/guodeke/" target="_blank">Deke Guo</a>, <b>Xiang Zhao</b>, Xi Wang. <b><i>World Wide Web</i></b>, 2020, in press.</p></li>
+  <li><p><b><a href="https://link.springer.com/content/pdf/10.1007/s11280-020-00860-5.pdf" target="_blank">Continuous Matching of Evolving Patterns Over Dynamic Graph Data</a></b><br/>Qianzhen Zhang, <a href="http://www.greenorbs.org/people/liu/guodeke/" target="_blank">Deke Guo</a>, <b>Xiang Zhao</b>, Xi Wang. <b><i>World Wide Web</i></b>, 2020, in press.</p></li>
     
   <li><p><b><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9174835" target="_blank">An Experimental Study of State-of-the-Art Entity Alignment Approaches</a></b> [<a href="https://github.com/DexterZeng/EAE" target="_blank">code</a>]<br/><b>Xiang Zhao</b>, Weixin Zeng, Jiuyang Tang, <a href="http://www.cse.unsw.edu.au/~weiw/" target="_blank">Wei Wang</a>, <a href="https://suchanek.name/" target="_blank">Fabian M. Suchanek</a>. <i>IEEE </i><b><i>Trans. Know. Data Eng.</i></b> (<b>TKDE</b>), 2020, in press.</p></li>
   
