@@ -51,14 +51,15 @@
   <ul style="list-style-type:none; line-height:1">
     <li><p>* <i>2021/05: <font color="color:#cc0000">We have a paper on event detection accepted by ACM <a href = "https://sigir.org/sigir2021/" target = "_blank">SIGIR 2021</a>!</font></i></p></li>
     <li><p>* <i>2021/04: <font color="color:#cc0000">We won the Best Paper Award at <a href = "http://dm.iis.sinica.edu.tw/DASFAA2021/" target = "_blank">DASFAA 2021</a>!</font></i></p></li>
+    <li><p>* <i>2021/04: Invited to serve as a PC member of ACM <a href = "https://www.cikm2021.org/" target = "_blank">CIKM 2021</a>.</i></p></li>
     <li><p>* <i>2021/04: Invited to serve as a meta-reviewer for <a href = "http://www.apweb-waim2021.com/" target = "_blank">APWeb-WAIM 2021</a>.</i></p></li>
     <li><p>* <i>2021/03: Invited to serve as a reviewer for <a href = "http://vldb.org/pvldb/vol15-volume-info/" target = "_blank">PVLDB Vol. 15</a>.</i></p></li>
     <li><p>* <i>2021/01: <font color="color:#cc0000">We have a paper on unsupervised entity alignment accepted by <a href = "http://dm.iis.sinica.edu.tw/DASFAA2021/" target = "_blank">DASFAA 2021</a>!</font></i></p></li>
     <li><p>* <i>2021/01: <font color="color:#cc0000">We have an article on RL-based entity alignment accepted by ACM <a href = "https://dl.acm.org/journal/tois" target = "_blank">TOIS</a>!</font></i></p></li>
     <li><p>* <i>2020/12: Invited to serve as a PC member of <a href = "https://sites.google.com/view/textgraphs2021" target = "_blank">TextGraphs@NAACL 2021</a>.</i></p></li>
     <li><p>* <i>2020/12: <font color="color:#cc0000">We have an article on continuous graph matching accepted by <a href = "https://www.springer.com/journal/11280" target = "_blank">WWW Journal</a>!</font></i></p></li>
-    <li><p>* <i>2020/09: <font color="color:#cc0000">We won the Best Paper Award at <a href = "http://www.tjudb.cn/apwebwaim2020/" target = "_blank">APWeb-WAIM 2020</a>!</font></i></p></li>
-    <!--<li><p>* <i>2020/09: <font color="color:#cc0000">Congrats to Ning on winning the Best Student Paper Award Runne-up at <a href = "http://ksem2020.org/" target = "_blank">KSEM 2020</a>!</font></i></p></li>
+    <!--<li><p>* <i>2020/09: <font color="color:#cc0000">We won the Best Paper Award at <a href = "http://www.tjudb.cn/apwebwaim2020/" target = "_blank">APWeb-WAIM 2020</a>!</font></i></p></li>
+    <li><p>* <i>2020/09: <font color="color:#cc0000">Congrats to Ning on winning the Best Student Paper Award Runne-up at <a href = "http://ksem2020.org/" target = "_blank">KSEM 2020</a>!</font></i></p></li>
 <li><p>* <i>2020/08: Invited to serve as a PC member of <a href = "https://aaai.org/Conferences/AAAI-21/" target = "_blank">AAAI 2021</a>.</i></p></li>
     <li><p>* <i>2020/08: <font color="color:#cc0000">We have an article on KG alignment accepted by IEEE <a href = "https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69" target = "_blank">TKDE</a>!</font> Welcome to check out the Github repo <a href = "https://github.com/DexterZeng/EAE" target = "_blank">here</a>.</i></p></li>
     <li><p>* <i>2020/07: <font color="color:#cc0000">We have an article on top-N recommendation accepted by ACM <a href = "https://dl.acm.org/journal/tois" target = "_blank">TOIS</a>!</font></i></p></li>
