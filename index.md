@@ -49,6 +49,7 @@
 <div style="width:860px;margin:0px auto">
   <h3 style="color:#b45f06"><b>News</b></h3>
   <ul style="list-style-type:none; line-height:1">
+    <li><p>* <i>2021/06: <font color="color:#cc0000">We have an article on knowledge graph reasoning accepted by <a href = "https://www.springer.com/journal/11280" target = "_blank">WWW Journal</a>!</font></i></p></li>
     <li><p>* <i>2021/05: <font color="color:#cc0000">We have a paper on event detection accepted by ACM <a href = "https://sigir.org/sigir2021/" target = "_blank">SIGIR 2021</a>!</font></i></p></li>
     <li><p>* <i>2021/04: <font color="color:#cc0000">We won the Best Paper Award at <a href = "http://dm.iis.sinica.edu.tw/DASFAA2021/" target = "_blank">DASFAA 2021</a>!</font></i></p></li>
     <li><p>* <i>2021/04: Invited to serve as a PC member of ACM <a href = "https://www.cikm2021.org/" target = "_blank">CIKM 2021</a>.</i></p></li>
@@ -57,8 +58,8 @@
     <li><p>* <i>2021/01: <font color="color:#cc0000">We have a paper on unsupervised entity alignment accepted by <a href = "http://dm.iis.sinica.edu.tw/DASFAA2021/" target = "_blank">DASFAA 2021</a>!</font></i></p></li>
     <li><p>* <i>2021/01: <font color="color:#cc0000">We have an article on RL-based entity alignment accepted by ACM <a href = "https://dl.acm.org/journal/tois" target = "_blank">TOIS</a>!</font></i></p></li>
     <li><p>* <i>2020/12: Invited to serve as a PC member of <a href = "https://sites.google.com/view/textgraphs2021" target = "_blank">TextGraphs@NAACL 2021</a>.</i></p></li>
-    <li><p>* <i>2020/12: <font color="color:#cc0000">We have an article on continuous graph matching accepted by <a href = "https://www.springer.com/journal/11280" target = "_blank">WWW Journal</a>!</font></i></p></li>
-    <!--<li><p>* <i>2020/09: <font color="color:#cc0000">We won the Best Paper Award at <a href = "http://www.tjudb.cn/apwebwaim2020/" target = "_blank">APWeb-WAIM 2020</a>!</font></i></p></li>
+    <!--<li><p>* <i>2020/12: <font color="color:#cc0000">We have an article on continuous graph matching accepted by <a href = "https://www.springer.com/journal/11280" target = "_blank">WWW Journal</a>!</font></i></p></li>
+    <li><p>* <i>2020/09: <font color="color:#cc0000">We won the Best Paper Award at <a href = "http://www.tjudb.cn/apwebwaim2020/" target = "_blank">APWeb-WAIM 2020</a>!</font></i></p></li>
     <li><p>* <i>2020/09: <font color="color:#cc0000">Congrats to Ning on winning the Best Student Paper Award Runne-up at <a href = "http://ksem2020.org/" target = "_blank">KSEM 2020</a>!</font></i></p></li>
 <li><p>* <i>2020/08: Invited to serve as a PC member of <a href = "https://aaai.org/Conferences/AAAI-21/" target = "_blank">AAAI 2021</a>.</i></p></li>
     <li><p>* <i>2020/08: <font color="color:#cc0000">We have an article on KG alignment accepted by IEEE <a href = "https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69" target = "_blank">TKDE</a>!</font> Welcome to check out the Github repo <a href = "https://github.com/DexterZeng/EAE" target = "_blank">here</a>.</i></p></li>
@@ -76,7 +77,9 @@
 <div style="width:860px;margin:0px auto">
   <h3><b style="color:#0b5394">Selected Publications</b> (Full list @<a href="https://scholar.google.com/citations?user=7IZ4kgwAAAAJ&hl=en" target="_blank">Google Scholar</a>, @<a href="https://dblp.uni-trier.de/pers/hd/z/Zhao_0002:Xiang" target="_blank">DBLP</a>, @<a href="https://orcid.org/0000-0001-6339-0219" target="_blank">ORCID</a>, @<a href="https://www.aminer.cn/profile/562d5f7f45cedb3398ddd908" target="_blank">AMiner</a>)</h3>
   <ul>
-  <li><p><b>Learning Discriminative Neural Representations for Event Detection</b> [<a href="https://github.com/passenger20/DNR/tree/master" target="_blank">code</a>]<br/>Jinzhi Liao, <b>Xiang Zhao</b>*, Xinyi Li*, <a href="http://gr.xjtu.edu.cn/en/web/zhanglling/home" target="_blank">Lingling Zhang</a>, Jiuyang Tang. ACM <b>SIGIR</b>, 2021.</p></li>
+  <li><p><b>Contrastive Heterogeneous Graphs Learning for Multi-Hop Machine Reading Comprehension</a></b><br/>Jinzhi Liao, <b>Xiang Zhao</b>*, Xinyi Li, Jiuyang Tang, Bin Ge. <b><i>World Wide Web</i></b>, 2021, in press.</p></li>
+    
+    <li><p><b>Learning Discriminative Neural Representations for Event Detection</b> [<a href="https://github.com/passenger20/DNR/tree/master" target="_blank">code</a>]<br/>Jinzhi Liao, <b>Xiang Zhao</b>*, Xinyi Li*, <a href="http://gr.xjtu.edu.cn/en/web/zhanglling/home" target="_blank">Lingling Zhang</a>, Jiuyang Tang. ACM <b>SIGIR</b>, 2021.</p></li>
     
   <li><p><b>Towards Entity Alignment in the Open World: An Unsupervised Approach</b><br/>Weixin Zeng, <b>Xiang Zhao</b>*, Jiuyang Tang, Xinyi Li, <a href = "http://gr.xjtu.edu.cn/web/minnluo/home" target = "_blank">Minnan Luo</a>, <a href = "http://gr.xjtu.edu.cn/web/qhzheng" target = "_blank">Qinghua Zheng</a>. <b>DASFAA</b>, 2021 [<font color="#cc0000" >Best Paper</font>].</p></li>
     
