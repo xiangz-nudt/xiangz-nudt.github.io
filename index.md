@@ -80,13 +80,13 @@
   <ul>
     <li><p><b>Reinforced Active Entity Alignment</b> [<a href="https://github.com/DexterZeng/RAC" target="_blank">code</a>]<br/>Weixin Zeng, <b>Xiang Zhao</b>*, Jiuyang Tang, Changjun Fan. ACM <b>CIKM</b>, 2021.</p></li>
   
-    <li><p><b><a href="https://link.springer.com/content/pdf/10.1007/s11280-021-00911-5.pdf" target="_blank">To Hop or Not, That is the Question: Towards Effective Multi-hop Reasoning over Knowledge Graphs</b> <br/>Jinzhi Liao, <b>Xiang Zhao</b>*, Jiuyang Tang, Weixin Zeng, Zhen Tan. <b><i>World Wide Web</i></b>, 2021, in press.</p></li>
+    <li><p><b><a href="https://link.springer.com/content/pdf/10.1007/s11280-021-00911-5.pdf" target="_blank">To Hop or Not, That is the Question: Towards Effective Multi-hop Reasoning over Knowledge Graphs</a></b> <br/>Jinzhi Liao, <b>Xiang Zhao</b>*, Jiuyang Tang, Weixin Zeng, Zhen Tan. <b><i>World Wide Web</i></b>, 2021, in press.</p></li>
     
     <li><p><b>Learning Discriminative Neural Representations for Event Detection</b> [<a href="https://github.com/passenger20/DNR/tree/master" target="_blank">code</a>]<br/>Jinzhi Liao, <b>Xiang Zhao</b>*, Xinyi Li*, <a href="http://gr.xjtu.edu.cn/en/web/zhanglling/home" target="_blank">Lingling Zhang</a>, Jiuyang Tang. ACM <b>SIGIR</b>, 2021.</p></li>
     
     <li><p><b>Towards Entity Alignment in the Open World: An Unsupervised Approach</b> [<a href="https://github.com/DexterZeng/UEA" target="_blank">code</a>]<br/>Weixin Zeng, <b>Xiang Zhao</b>*, Jiuyang Tang, Xinyi Li, <a href = "http://gr.xjtu.edu.cn/web/minnluo/home" target = "_blank">Minnan Luo</a>, <a href = "http://gr.xjtu.edu.cn/web/qhzheng" target = "_blank">Qinghua Zheng</a>. <b>DASFAA</b>, 2021 [<font color="#cc0000" >Best Paper</font>].</p></li>
     
-    <li><p><b><a href="https://dl.acm.org/doi/pdf/10.1145/3446428" target="_blank">Reinforcement Learning based Collective Entity Alignment with Adaptive Features</b> [<a href="https://github.com/DexterZeng/CEAFF" target="_blank">code</a>]<br/>Weixin Zeng, <b>Xiang Zhao</b>*, Jiuyang Tang, <a href = "http://www.cse.unsw.edu.au/~lxue/" target = "_blank">Xuemin Lin</a>, <a href = "http://pgroth.com/" target = "_blank">Paul Groth</a>. <i>ACM <b>Trans. Info. Syst.</b></i> <b>(TOIS)</b>, 2021, in press.</p></li>
+    <li><p><b><a href="https://dl.acm.org/doi/pdf/10.1145/3446428" target="_blank">Reinforcement Learning based Collective Entity Alignment with Adaptive Features</a></b> [<a href="https://github.com/DexterZeng/CEAFF" target="_blank">code</a>]<br/>Weixin Zeng, <b>Xiang Zhao</b>*, Jiuyang Tang, <a href = "http://www.cse.unsw.edu.au/~lxue/" target = "_blank">Xuemin Lin</a>, <a href = "http://pgroth.com/" target = "_blank">Paul Groth</a>. <i>ACM <b>Trans. Info. Syst.</b></i> <b>(TOIS)</b>, 2021, in press.</p></li>
     
     <li><p><b><a href="https://link.springer.com/content/pdf/10.1007/s11280-020-00860-5.pdf" target="_blank">Continuous Matching of Evolving Patterns Over Dynamic Graph Data</a></b><br/>Qianzhen Zhang, <a href="http://www.greenorbs.org/people/liu/guodeke/" target="_blank">Deke Guo</a>*, <b>Xiang Zhao</b>*, Xi Wang. <b><i>World Wide Web</i></b>, 2020, in press.</p></li>
   
