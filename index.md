@@ -49,6 +49,7 @@
 <div style="width:860px;margin:0px auto">
   <h3 style="color:#b45f06"><b>News</b></h3>
   <ul style="list-style-type:none; line-height:1">
+    <li><p>* <i>2021/08: <font color="color:#cc0000">We have an article on sentence embeddings accepted by <a href = "https://dl.acm.org/journal/csur" target = "_blank">ACM Computing Surveys</a>!</font></i></p></li>
     <li><p>* <i>2021/08: <font color="color:#cc0000">We have a paper on reinforced active entity alignment accepted by <a href = "https://www.cikm2021.org/" target = "_blank">CIKM 2021</a>!</font></i></p></li>
     <li><p>* <i>2021/06: <font color="color:#cc0000">We have an article on knowledge graph reasoning accepted by <a href = "https://www.springer.com/journal/11280" target = "_blank">WWW Journal</a>!</font></i></p></li>
     <li><p>* <i>2021/05: <font color="color:#cc0000">We have a paper on event detection accepted by ACM <a href = "https://sigir.org/sigir2021/" target = "_blank">SIGIR 2021</a>!</font></i></p></li>
@@ -57,8 +58,8 @@
     <li><p>* <i>2021/04: Invited to serve as a meta-reviewer for <a href = "http://www.apweb-waim2021.com/" target = "_blank">APWeb-WAIM 2021</a>.</i></p></li>
     <li><p>* <i>2021/03: Invited to serve as a reviewer for <a href = "http://vldb.org/pvldb/vol15-volume-info/" target = "_blank">PVLDB Vol. 15</a>.</i></p></li>
     <li><p>* <i>2021/01: <font color="color:#cc0000">We have a paper on unsupervised entity alignment accepted by <a href = "http://dm.iis.sinica.edu.tw/DASFAA2021/" target = "_blank">DASFAA 2021</a>!</font></i></p></li>
-    <li><p>* <i>2021/01: <font color="color:#cc0000">We have an article on RL-based entity alignment accepted by ACM <a href = "https://dl.acm.org/journal/tois" target = "_blank">TOIS</a>!</font></i></p></li>
-    <!--<li><p>* <i>2020/12: Invited to serve as a PC member of <a href = "https://sites.google.com/view/textgraphs2021" target = "_blank">TextGraphs@NAACL 2021</a>.</i></p></li>
+    <!--<li><p>* <i>2021/01: <font color="color:#cc0000">We have an article on RL-based entity alignment accepted by ACM <a href = "https://dl.acm.org/journal/tois" target = "_blank">TOIS</a>!</font></i></p></li>
+    <li><p>* <i>2020/12: Invited to serve as a PC member of <a href = "https://sites.google.com/view/textgraphs2021" target = "_blank">TextGraphs@NAACL 2021</a>.</i></p></li>
     <li><p>* <i>2020/12: <font color="color:#cc0000">We have an article on continuous graph matching accepted by <a href = "https://www.springer.com/journal/11280" target = "_blank">WWW Journal</a>!</font></i></p></li>
     <li><p>* <i>2020/09: <font color="color:#cc0000">We won the Best Paper Award at <a href = "http://www.tjudb.cn/apwebwaim2020/" target = "_blank">APWeb-WAIM 2020</a>!</font></i></p></li>
     <li><p>* <i>2020/09: <font color="color:#cc0000">Congrats to Ning on winning the Best Student Paper Award Runne-up at <a href = "http://ksem2020.org/" target = "_blank">KSEM 2020</a>!</font></i></p></li>
@@ -78,6 +79,8 @@
 <div style="width:860px;margin:0px auto">
   <h3><b style="color:#0b5394">Selected Publications</b> (Full list @<a href="https://scholar.google.com/citations?user=7IZ4kgwAAAAJ&hl=en" target="_blank">Google Scholar</a>, @<a href="https://dblp.uni-trier.de/pers/hd/z/Zhao_0002:Xiang" target="_blank">DBLP</a>, @<a href="https://orcid.org/0000-0001-6339-0219" target="_blank">ORCID</a>, @<a href="https://www.aminer.cn/profile/562d5f7f45cedb3398ddd908" target="_blank">AMiner</a>)</h3>
   <ul>
+    <li><p><b>A Brief Overview of Universal Sentence Representation Methods: A Linguistic View</b> <br/>Ruiqi Li, <b>Xiang Zhao</b>*, <a href="https://people.cs.kuleuven.be/~sien.moens/" target="_blank">Marie-Francine Moens</a>. <b><i>ACM Computing Surveys</i></b>, 2021, in press.</p></li>
+    
     <li><p><b>Reinforced Active Entity Alignment</b> [<a href="https://github.com/DexterZeng/RAC" target="_blank">code</a>]<br/>Weixin Zeng, <b>Xiang Zhao</b>*, Jiuyang Tang, Changjun Fan. ACM <b>CIKM</b>, 2021.</p></li>
   
     <li><p><b><a href="https://link.springer.com/content/pdf/10.1007/s11280-021-00911-5.pdf" target="_blank">To Hop or Not, That is the Question: Towards Effective Multi-hop Reasoning over Knowledge Graphs</a></b> <br/>Jinzhi Liao, <b>Xiang Zhao</b>*, Jiuyang Tang, Weixin Zeng, Zhen Tan. <b><i>World Wide Web</i></b>, 2021, in press.</p></li>
