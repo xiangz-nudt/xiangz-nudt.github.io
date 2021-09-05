@@ -49,6 +49,7 @@
 <div style="width:860px;margin:0px auto">
   <h3 style="color:#b45f06"><b>News</b></h3>
   <ul style="list-style-type:none; line-height:1">
+    <li><p>* <i>2021/09: <font color="color:#cc0000">We have an article on dynamic network embedding accepted by ACM <a href = "https://dl.acm.org/journal/tois" target = "_blank">TOIS</a>!</font></i></p></li>
     <li><p>* <i>2021/08: Invited to serve as a PC member of <a href = "https://www.dasfaa2022.org/" target = "_blank">DASFAA 2022</a>.</i></p></li>
     <li><p>* <i>2021/08: Invited to serve as a PC member of ACM <a href = "http://www.wsdm-conference.org/2022/" target = "_blank">WSDM 2022</a>.</i></p></li>
     <li><p>* <i>2021/08: <font color="color:#cc0000">We have an article on sentence embeddings accepted by <a href = "https://dl.acm.org/journal/csur" target = "_blank">ACM Computing Surveys</a>!</font></i></p></li>
@@ -57,8 +58,8 @@
     <li><p>* <i>2021/05: <font color="color:#cc0000">We have a paper on event detection accepted by ACM <a href = "https://sigir.org/sigir2021/" target = "_blank">SIGIR 2021</a>!</font></i></p></li>
     <li><p>* <i>2021/04: <font color="color:#cc0000">We won the Best Paper Award at <a href = "http://dm.iis.sinica.edu.tw/DASFAA2021/" target = "_blank">DASFAA 2021</a>!</font></i></p></li>
     <li><p>* <i>2021/04: Invited to serve as a PC member of ACM <a href = "https://www.cikm2021.org/" target = "_blank">CIKM 2021</a>.</i></p></li>
-    <li><p>* <i>2021/04: Invited to serve as a meta-reviewer for <a href = "http://www.apweb-waim2021.com/" target = "_blank">APWeb-WAIM 2021</a>.</i></p></li>
-    <!--<li><p>* <i>2021/03: Invited to serve as a reviewer for <a href = "http://vldb.org/pvldb/vol15-volume-info/" target = "_blank">PVLDB Vol. 15</a>.</i></p></li>
+    <!--<li><p>* <i>2021/04: Invited to serve as a meta-reviewer for <a href = "http://www.apweb-waim2021.com/" target = "_blank">APWeb-WAIM 2021</a>.</i></p></li>
+    <li><p>* <i>2021/03: Invited to serve as a reviewer for <a href = "http://vldb.org/pvldb/vol15-volume-info/" target = "_blank">PVLDB Vol. 15</a>.</i></p></li>
     <li><p>* <i>2021/01: <font color="color:#cc0000">We have a paper on unsupervised entity alignment accepted by <a href = "http://dm.iis.sinica.edu.tw/DASFAA2021/" target = "_blank">DASFAA 2021</a>!</font></i></p></li>
     <li><p>* <i>2021/01: <font color="color:#cc0000">We have an article on RL-based entity alignment accepted by ACM <a href = "https://dl.acm.org/journal/tois" target = "_blank">TOIS</a>!</font></i></p></li>
     <li><p>* <i>2020/12: Invited to serve as a PC member of <a href = "https://sites.google.com/view/textgraphs2021" target = "_blank">TextGraphs@NAACL 2021</a>.</i></p></li>
@@ -81,6 +82,8 @@
 <div style="width:860px;margin:0px auto">
   <h3><b style="color:#0b5394">Selected Publications</b> (Full list @<a href="https://scholar.google.com/citations?user=7IZ4kgwAAAAJ&hl=en" target="_blank">Google Scholar</a>, @<a href="https://dblp.uni-trier.de/pers/hd/z/Zhao_0002:Xiang" target="_blank">DBLP</a>, @<a href="https://orcid.org/0000-0001-6339-0219" target="_blank">ORCID</a>, @<a href="https://www.aminer.cn/profile/562d5f7f45cedb3398ddd908" target="_blank">AMiner</a>)</h3>
   <ul>
+    <li><p><b>Scalable Representation Learning for Dynamic Heterogeneous Information Networks via Metagraph</b> <br/>Yang Fang, <b>Xiang Zhao</b>*, Peixin Huang, Weidong Xiao, <a href = "https://staff.fnwi.uva.nl/m.derijke/" target = "_blank">Maarten de Rijke</a>. <i>ACM <b>Trans. Info. Syst.</b></i> <b>(TOIS)</b>, 2021, in press.</p></li>
+    
     <li><p><b>A Brief Overview of Universal Sentence Representation Methods: A Linguistic View</b> <br/>Ruiqi Li, <b>Xiang Zhao</b>*, <a href="https://people.cs.kuleuven.be/~sien.moens/" target="_blank">Marie-Francine Moens</a>. <b><i>ACM Computing Surveys</i></b>, 2021, in press.</p></li>
     
     <li><p><b>Reinforced Active Entity Alignment</b> [<a href="https://github.com/DexterZeng/RAC" target="_blank">code</a>]<br/>Weixin Zeng, <b>Xiang Zhao</b>*, Jiuyang Tang, Changjun Fan. ACM <b>CIKM</b>, 2021.</p></li>
@@ -91,9 +94,9 @@
     
     <li><p><b>Towards Entity Alignment in the Open World: An Unsupervised Approach</b> [<a href="https://github.com/DexterZeng/UEA" target="_blank">code</a>]<br/>Weixin Zeng, <b>Xiang Zhao</b>*, Jiuyang Tang, Xinyi Li, <a href = "http://gr.xjtu.edu.cn/web/minnluo/home" target = "_blank">Minnan Luo</a>, <a href = "http://gr.xjtu.edu.cn/web/qhzheng" target = "_blank">Qinghua Zheng</a>. <b>DASFAA</b>, 2021 [<font color="#cc0000" >Best Paper</font>].</p></li>
     
-    <li><p><b><a href="https://dl.acm.org/doi/pdf/10.1145/3446428" target="_blank">Reinforcement Learning based Collective Entity Alignment with Adaptive Features</a></b> [<a href="https://github.com/DexterZeng/CEAFF" target="_blank">code</a>]<br/>Weixin Zeng, <b>Xiang Zhao</b>*, Jiuyang Tang, <a href = "http://www.cse.unsw.edu.au/~lxue/" target = "_blank">Xuemin Lin</a>, <a href = "http://pgroth.com/" target = "_blank">Paul Groth</a>. <i>ACM <b>Trans. Info. Syst.</b></i> <b>(TOIS)</b>, 2021, in press.</p></li>
+    <li><p><b><a href="https://dl.acm.org/doi/pdf/10.1145/3446428" target="_blank">Reinforcement Learning based Collective Entity Alignment with Adaptive Features</a></b> [<a href="https://github.com/DexterZeng/CEAFF" target="_blank">code</a>]<br/>Weixin Zeng, <b>Xiang Zhao</b>*, Jiuyang Tang, <a href = "http://www.cse.unsw.edu.au/~lxue/" target = "_blank">Xuemin Lin</a>, <a href = "http://pgroth.com/" target = "_blank">Paul Groth</a>. <i>ACM <b>Trans. Info. Syst.</b></i> <b>(TOIS)</b>, 2021, 39(3): 26:1-26:31.</p></li>
     
-    <li><p><b><a href="https://link.springer.com/content/pdf/10.1007/s11280-020-00860-5.pdf" target="_blank">Continuous Matching of Evolving Patterns Over Dynamic Graph Data</a></b><br/>Qianzhen Zhang, <a href="http://www.greenorbs.org/people/liu/guodeke/" target="_blank">Deke Guo</a>*, <b>Xiang Zhao</b>*, Xi Wang. <b><i>World Wide Web</i></b>, 2020, in press.</p></li>
+    <li><p><b><a href="https://link.springer.com/content/pdf/10.1007/s11280-020-00860-5.pdf" target="_blank">Continuous Matching of Evolving Patterns Over Dynamic Graph Data</a></b><br/>Qianzhen Zhang, <a href="http://www.greenorbs.org/people/liu/guodeke/" target="_blank">Deke Guo</a>*, <b>Xiang Zhao</b>*, Xi Wang. <b><i>World Wide Web</i></b>, 2021, 24(3): 721-745.</p></li>
   
     <li><p><b><a href="https://www.aclweb.org/anthology/2020.coling-main.239.pdf" target="_blank">Joint Event Extraction with Hierarchical Policy Network</a></b><br/>Peixin Huang, <b>Xiang Zhao</b>*, Ryuichi Takanobu, Zhen Tan, Weidong Xiao. <b><i>COLING</i></b>, 2020.</p></li>
     
