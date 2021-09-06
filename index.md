@@ -84,7 +84,7 @@
   <ul>
     <li><p><b>Scalable Representation Learning for Dynamic Heterogeneous Information Networks via Metagraph</b> <br/>Yang Fang, <b>Xiang Zhao</b>*, Peixin Huang, Weidong Xiao, <a href = "https://staff.fnwi.uva.nl/m.derijke/" target = "_blank">Maarten de Rijke</a>. <i>ACM <b>Trans. Info. Syst.</b></i> <b>(TOIS)</b>, 2021, in press.</p></li>
     
-    <li><p><b>A Brief Overview of Universal Sentence Representation Methods: A Linguistic View</b> <br/>Ruiqi Li, <b>Xiang Zhao</b>*, <a href="https://people.cs.kuleuven.be/~sien.moens/" target="_blank">Marie-Francine Moens</a>. <b><i>ACM Computing Surveys</i></b>, 2021, in press.</p></li>
+    <li><p><b>A Brief Overview of Universal Sentence Representation Methods: A Linguistic View</b> <br/>Ruiqi Li, <b>Xiang Zhao</b>*, <a href="https://people.cs.kuleuven.be/~sien.moens/" target="_blank">Marie-Francine Moens</a>. <i>ACM <b>Computing Surveys</i></b> <b>(CSUR)</b>, 2021, in press.</p></li>
     
     <li><p><b>Reinforced Active Entity Alignment</b> [<a href="https://github.com/DexterZeng/RAC" target="_blank">code</a>]<br/>Weixin Zeng, <b>Xiang Zhao</b>*, Jiuyang Tang, Changjun Fan. ACM <b>CIKM</b>, 2021.</p></li>
   
