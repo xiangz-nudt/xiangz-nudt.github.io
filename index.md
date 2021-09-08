@@ -5,7 +5,7 @@
     <meta name="renderer" content="webkit" />
     <meta name="viewport" content="width=device-width,initial-scale=1.0" />
     <title>Xiang Zhao's Homepage</title>
-    <meta name="keywords" content="Xiang Zhao,NUDT,UNSW,database,big data,knowledge graph,graph data,representation learning,recommender system,Xuemin Lin,Wei Wang,赵翔,国防科大,大数据,数据库,知识图谱,图数据,表示学习,推荐系统,信息系统,郑庆华,林学民,李德仁,肖卫东,张维明" /> 
+    <meta name="keywords" content="Xiang Zhao,NUDT,UNSW,database,big data,knowledge graph,graph data,representation learning,recommender system,information network,Xuemin Lin,Wei Wang,Raymong Wong,赵翔,国防科大,大数据,数据库,知识图谱,图数据,表示学习,推荐系统,信息系统,信息网络,郑庆华,林学民,王炜,李德仁,肖卫东,张维明" /> 
     <meta name="description" content="Welcome to Xiang Zhao's Personal Homepage! Ph.D., the University of New South Wales (UNSW); Assoc. Prof., National University of Defense Technology (NUDT)" />
     <meta name="google-site-verification" content="e8QBQDtgOAVTuMNJp-5g7BJoPB34wMEFcz0RBBmo5B8" />
     <meta name="baidu-site-verification" content="3FTe6ikuh9" />
@@ -83,7 +83,7 @@
 <div style="width:860px;margin:0px auto">
   <h3><b style="color:#0b5394">Selected Publications</b> (Full list @<a href="https://scholar.google.com/citations?user=7IZ4kgwAAAAJ&hl=en" target="_blank">Google Scholar</a>, @<a href="https://dblp.uni-trier.de/pers/hd/z/Zhao_0002:Xiang" target="_blank">DBLP</a>, @<a href="https://orcid.org/0000-0001-6339-0219" target="_blank">ORCID</a>, @<a href="https://www.aminer.cn/profile/562d5f7f45cedb3398ddd908" target="_blank">AMiner</a>)</h3>
   <ul>
-    <li><p><b>On Entity Alignment at Scale</b> <br/>Weixin Zeng, <b>Xiang Zhao</b>*, Xinyi Li, Jiuyang Tang, Wei Wang. The <b>VLDB Journal</b>, 2021, in press.</p></li>
+    <li><p><b>On Entity Alignment at Scale</b> <br/>Weixin Zeng, <b>Xiang Zhao</b>*, Xinyi Li, Jiuyang Tang, <a href = "https://www.cse.ust.hk/~weiwcs/" target="_blank">Wei Wang</a>. The <b>VLDB Journal</b>, 2021, in press.</p></li>
     
     <li><p><b>Scalable Representation Learning for Dynamic Heterogeneous Information Networks via Metagraph</b> <br/>Yang Fang, <b>Xiang Zhao</b>*, Peixin Huang, Weidong Xiao, <a href = "https://staff.fnwi.uva.nl/m.derijke/" target = "_blank">Maarten de Rijke</a>. <i>ACM <b>Trans. Info. Syst.</b></i> <b>(TOIS)</b>, 2021, in press.</p></li>
     
