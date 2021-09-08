@@ -76,7 +76,7 @@
     <li><p>* <i>2020/02: <font color="color:#cc0000">We have two papers on graph processing accepted by <a href = "http://db.pknu.ac.kr/dasfaa2020/" target = "_blank">DASFAA 2020</a>!</font></i></p></li>
     <li><p>* <i>2020/01: Invited to serve as a PC member of <a href = "http://www.vldb.org/pvldb/submission_vol14.html" target = "_blank">VLDB 2021</a>.</i></p></li>
 -->
-    <li><p>* <i>Looking for post-docs & students to work on advanced data analytics and NLP. Welcome to drop me a line!</i></p></li>
+    <li><i>Looking for post-docs & students to work on advanced data analytics and NLP. Welcome to drop me a line!</i></li>
   </ul>
 </div>
 <hr/>
