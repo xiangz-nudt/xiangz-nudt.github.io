@@ -49,6 +49,7 @@
 <div style="width:860px;margin:0px auto">
   <h3 style="color:#b45f06"><b>News</b></h3>
   <ul style="list-style-type:square; line-height:1">
+    <li><p> <i>2021/10: <font color="color:#cc0000">We have an article on continuous subgraph matching accepted by <a href = "http://www.semantic-web-journal.net/" target = "_blank">The Semantic Web journal</a>!</font></i></p> </li>
     <li><p> <i>2021/09: <font color="color:#cc0000">We have an article on scalable entity alignment accepted by <a href = "https://www.springer.com/journal/778" target = "_blank">The VLDB Journal</a>!</font></i></p> </li>
     <li><p> <i>2021/09: <font color="color:#cc0000">We have an article on dynamic network embedding accepted by ACM <a href = "https://dl.acm.org/journal/tois" target = "_blank">TOIS</a>!</font></i></p> </li>
     <li><p> <i>2021/08: Invited to serve as a PC member of <a href = "https://www.dasfaa2022.org/" target = "_blank">DASFAA 2022</a>.</i></p> </li>
@@ -57,8 +58,8 @@
     <li><p> <i>2021/08: <font color="color:#cc0000">We have a paper on reinforced active entity alignment accepted by <a href = "https://www.cikm2021.org/" target = "_blank">CIKM 2021</a>!</font></i></p> </li>
     <li><p> <i>2021/06: <font color="color:#cc0000">We have an article on knowledge graph reasoning accepted by <a href = "https://www.springer.com/journal/11280" target = "_blank">WWW Journal</a>!</font></i></p> </li>
     <li><p> <i>2021/05: <font color="color:#cc0000">We have a paper on event detection accepted by ACM <a href = "https://sigir.org/sigir2021/" target = "_blank">SIGIR 2021</a>!</font></i></p> </li>
-    <li><p> <i>2021/04: <font color="color:#cc0000">We won the Best Paper Award at <a href = "http://dm.iis.sinica.edu.tw/DASFAA2021/" target = "_blank">DASFAA 2021</a>!</font></i></p> </li>
-    <!--<li><p>* <i>2021/04: Invited to serve as a PC member of ACM <a href = "https://www.cikm2021.org/" target = "_blank">CIKM 2021</a>.</i></p></li>
+    <!--<li><p> <i>2021/04: <font color="color:#cc0000">We won the Best Paper Award at <a href = "http://dm.iis.sinica.edu.tw/DASFAA2021/" target = "_blank">DASFAA 2021</a>!</font></i></p> </li>
+    <li><p>* <i>2021/04: Invited to serve as a PC member of ACM <a href = "https://www.cikm2021.org/" target = "_blank">CIKM 2021</a>.</i></p></li>
     <li><p>* <i>2021/04: Invited to serve as a meta-reviewer for <a href = "http://www.apweb-waim2021.com/" target = "_blank">APWeb-WAIM 2021</a>.</i></p></li>
     <li><p>* <i>2021/03: Invited to serve as a reviewer for <a href = "http://vldb.org/pvldb/vol15-volume-info/" target = "_blank">PVLDB Vol. 15</a>.</i></p></li>
     <li><p>* <i>2021/01: <font color="color:#cc0000">We have a paper on unsupervised entity alignment accepted by <a href = "http://dm.iis.sinica.edu.tw/DASFAA2021/" target = "_blank">DASFAA 2021</a>!</font></i></p></li>
@@ -83,6 +84,9 @@
 <div style="width:860px;margin:0px auto">
   <h3><b style="color:#0b5394">Selected Publications</b> (Full list @<a href="https://scholar.google.com/citations?user=7IZ4kgwAAAAJ&hl=en" target="_blank">Google Scholar</a>, @<a href="https://dblp.uni-trier.de/pers/hd/z/Zhao_0002:Xiang" target="_blank">DBLP</a>, @<a href="https://orcid.org/0000-0001-6339-0219" target="_blank">ORCID</a>, @<a href="https://www.aminer.cn/profile/562d5f7f45cedb3398ddd908" target="_blank">AMiner</a>)</h3>
   <ul>
+    <li><p><b>Continuous Multi-Query Optimization for Subgraph Matching over Dynamic
+Graphs</b> <br/>Xi Wang, Qianzhen Zhang, <a href="http://www.greenorbs.org/people/liu/guodeke/" target="_blank">Deke Guo</a>*, <b>Xiang Zhao</b>*. The <b>Semantic Web Journal</b>, 2021, in press.</p></li>
+    
     <li><p><b>On Entity Alignment at Scale</b> <br/>Weixin Zeng, <b>Xiang Zhao</b>*, Xinyi Li, Jiuyang Tang, <a href = "https://www.cse.ust.hk/~weiwcs/" target="_blank">Wei Wang</a>. The <b>VLDB Journal</b>, 2021, in press.</p></li>
     
     <li><p><b>Scalable Representation Learning for Dynamic Heterogeneous Information Networks via Metagraph</b> <br/>Yang Fang, <b>Xiang Zhao</b>*, Peixin Huang, Weidong Xiao, <a href = "https://staff.fnwi.uva.nl/m.derijke/" target = "_blank">Maarten de Rijke</a>. <i>ACM <b>Trans. Info. Syst.</b></i> <b>(TOIS)</b>, 2021, in press.</p></li>
