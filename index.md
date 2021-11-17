@@ -20,7 +20,7 @@
   <div style="height:280px;width:570px;margin:60px auto 30px 15px;float:left">
     <h2><b>Xiang Zhao</b>, PhD UNSW</h2>
     <p>
-    <b>Associate Professor</b>
+    <b>Professor</b>
       <br/><font size="3">- National Key Laboratory of Science and Technology on Information Systems Engineering
       <br/>- College of Systems Engineering, <a href="https://english.nudt.edu.cn/" target="_blank">National University of Defense Technology</a>
       <br/>- “2011 Program” <a href="http://innogst.whu.edu.cn/" target="blank">Collaborative Innovation Center of Geospatial Technology</a></font><br/>
@@ -32,7 +32,7 @@
 <div style="width:860px;margin:0px auto">
 <h3><b>Short Biography</b></h3>
   <p style="text-align:justify; text-justify:inter-ideograph">
-    <b>Xiang Zhao</b> (赵翔) is currently an associate professor at College of Systems Engineering, <a href="https://english.nudt.edu.cn/" target="_blank">National University of Defense Technology</a> (NUDT), China, where he also serves as the head of the direction of knowledge systems engineering. Since 2015, he is also a concurrent associate research fellow at <a href="http://innogst.whu.edu.cn/" target="_blank">Collaborative Innovation Center of Geospatial Technology</a>, China, led by Prof. <a href = "http://en.whu.edu.cn/info/1073/1569.htm" target = "_blank">Deren Li</a> (李德仁) and Prof. <a href="http://en.whu.edu.cn/info/1073/1568.htm" target="_blank">Jianya Gong</a> (龚健雅).
+    <b>Xiang Zhao</b> (赵翔) is currently a full professor at College of Systems Engineering, <a href="https://english.nudt.edu.cn/" target="_blank">National University of Defense Technology</a> (NUDT), China, where he also serves as the head of the direction of knowledge systems engineering. Since 2015, he is also a concurrent research fellow at <a href="http://innogst.whu.edu.cn/" target="_blank">Collaborative Innovation Center of Geospatial Technology</a>, China, led by Prof. <a href = "http://en.whu.edu.cn/info/1073/1569.htm" target = "_blank">Deren Li</a> (李德仁) and Prof. <a href="http://en.whu.edu.cn/info/1073/1568.htm" target="_blank">Jianya Gong</a> (龚健雅).
     </p>
   
   <p style="text-align:justify; text-justify:inter-ideograph">
