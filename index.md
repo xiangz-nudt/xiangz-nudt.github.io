@@ -88,9 +88,9 @@
     <li><p><b><a href="" target="_blank">Contrastive Heterogeneous Graphs Learning for Multi-Hop Machine Reading Comprehension</a></b> <br/>Jinzhi Liao, <b>Xiang Zhao</b>*, Xinyi Li, Jiuyang Tang, Bin Ge. <b><i>World Wide Web</i></b>, 2021, in press.</p></li>
     
     <li><p><b>Continuous Multi-Query Optimization for Subgraph Matching over Dynamic
-Graphs</b> <br/>Xi Wang, Qianzhen Zhang, <a href="http://www.greenorbs.org/people/liu/guodeke/" target="_blank">Deke Guo</a>*, <b>Xiang Zhao</b>. <b>Semantic Web</b>, 2021, in press.</p></li>
+Graphs</b> <br/>Xi Wang, Qianzhen Zhang, <a href="http://www.greenorbs.org/people/liu/guodeke/" target="_blank">Deke Guo</a>*, <b>Xiang Zhao</b>. <b><i>Semantic Web</i></b>, 2021, in press.</p></li>
     
-    <li><p><b>On Entity Alignment at Scale</b> <br/>Weixin Zeng, <b>Xiang Zhao</b>*, Xinyi Li, Jiuyang Tang, <a href = "https://www.cse.ust.hk/~weiwcs/" target="_blank">Wei Wang</a>. The <b>VLDB Journal</b>, 2021, in press.</p></li>
+    <li><p><b>On Entity Alignment at Scale</b> <br/>Weixin Zeng, <b>Xiang Zhao</b>*, Xinyi Li, Jiuyang Tang, <a href = "https://www.cse.ust.hk/~weiwcs/" target="_blank">Wei Wang</a>. <b><i>VLDB J.</i></b>, 2021, in press.</p></li>
     
     <li><p><b>Scalable Representation Learning for Dynamic Heterogeneous Information Networks via Metagraph</b> <br/>Yang Fang, <b>Xiang Zhao</b>*, Peixin Huang, Weidong Xiao, <a href = "https://staff.fnwi.uva.nl/m.derijke/" target = "_blank">Maarten de Rijke</a>. <i>ACM <b>Trans. Info. Syst.</b></i> <b>(TOIS)</b>, 2021, in press.</p></li>
     
@@ -108,7 +108,7 @@ Graphs</b> <br/>Xi Wang, Qianzhen Zhang, <a href="http://www.greenorbs.org/peopl
     
     <li><p><b><a href="https://link.springer.com/content/pdf/10.1007/s11280-020-00860-5.pdf" target="_blank">Continuous Matching of Evolving Patterns Over Dynamic Graph Data</a></b><br/>Qianzhen Zhang, <a href="http://www.greenorbs.org/people/liu/guodeke/" target="_blank">Deke Guo</a>*, <b>Xiang Zhao</b>*, Xi Wang. <b><i>World Wide Web</i></b>, 2021, 24(3): 721-745.</p></li>
   
-    <li><p><b><a href="https://www.aclweb.org/anthology/2020.coling-main.239.pdf" target="_blank">Joint Event Extraction with Hierarchical Policy Network</a></b><br/>Peixin Huang, <b>Xiang Zhao</b>*, Ryuichi Takanobu, Zhen Tan, Weidong Xiao. <b><i>COLING</i></b>, 2020.</p></li>
+    <li><p><b><a href="https://www.aclweb.org/anthology/2020.coling-main.239.pdf" target="_blank">Joint Event Extraction with Hierarchical Policy Network</a></b><br/>Peixin Huang, <b>Xiang Zhao</b>*, Ryuichi Takanobu, Zhen Tan, Weidong Xiao. <b>COLING</b>, 2020.</p></li>
     
     <li><p><b><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9174835" target="_blank">An Experimental Study of State-of-the-Art Entity Alignment Approaches</a></b> [<a href="https://github.com/DexterZeng/EAE" target="_blank">code</a>]<br/><b>Xiang Zhao</b>*, Weixin Zeng, Jiuyang Tang, <a href="http://www.cse.unsw.edu.au/~weiw/" target="_blank">Wei Wang</a>, <a href="https://suchanek.name/" target="_blank">Fabian M. Suchanek</a>. <i>IEEE </i><b><i>Trans. Know. Data Eng.</i></b> (<b>TKDE</b>), 2020, in press.</p></li>
   
@@ -187,23 +187,23 @@ Graphs</b> <br/>Xi Wang, Qianzhen Zhang, <a href="http://www.greenorbs.org/peopl
   
     <li><p><b><a href="https://sites.google.com/site/xzhaounsw/ICDE2012-GSimJoin.pdf?attredirects=0">Efficient Graph Similarity Joins with Edit Distance Constraints</a> </b> [<a href="https://sites.google.com/site/xzhaounsw/ICDE2012_Talk.pptx?attredirects=0"  >slides</a>]<br /><b>Xiang Zhao</b>, <a href="https://sites.google.com/site/chuanxiao1983/" target="_blank">Chuan Xiao</a>, <a href="http://www.cse.unsw.edu.au/~lxue/" target="_blank">Xuemin Lin</a>, <a href="http://www.cse.unsw.edu.au/~weiw/" target="_blank">Wei Wang</a>. IEEE <b>ICDE</b>, 2012.</p></li>
     
-    <li><p><b><a href="">新一代知识图谱关键技术研究进展综述</a></b><br/>王萌, 王昊奋*, 李博涵, <b>赵翔</b>, 王鑫. <b>计算机研究与发展</b>, 2021, 待刊.</p></li>
+    <li><p><b><a href="">新一代知识图谱关键技术研究进展综述</a></b><br/>王萌, 王昊奋*, 李博涵, <b>赵翔</b>, 王鑫. <b><i>计算机研究与发展</i></b>, 2021, 待刊.</p></li>
   
-    <li><p><b><a href="">可解释深度知识追踪模型</a></b><br/>刘坤佳, 李欣奕*, 唐九阳*, <b>赵翔</b>. <b>计算机研究与发展</b>, 2021, 待刊.</p></li>
+    <li><p><b><a href="">可解释深度知识追踪模型</a></b><br/>刘坤佳, 李欣奕*, 唐九阳*, <b>赵翔</b>. <b><i>计算机研究与发展</i></b>, 2021, 待刊.</p></li>
 
-    <li><p><b><a href="http://cjc.ict.ac.cn/online/onlinepaper/zx-2020115164805.pdf">面向高效并行Skyline计算的数据划分方法</a></b><br/><b>赵翔</b>, 商海川. <b>计算机学报</b>, 2020, 43(11): 2050-2066.</p></li>
+    <li><p><b><a href="http://cjc.ict.ac.cn/online/onlinepaper/zx-2020115164805.pdf">面向高效并行Skyline计算的数据划分方法</a></b><br/><b>赵翔</b>, 商海川. <b><i>计算机学报</i></b>, 2020, 43(11): 2050-2066.</p></li>
     
-    <li><p><b><a href="http://crad.ict.ac.cn/CN/10.7544/issn1000-1239.2020.20190643">基于重排序的迭代式实体对齐</a></b><br/>曾维新, <b>赵翔</b>, 唐九阳, 谭真, <a href="http://www.cse.unsw.edu.au/~weiw/" target="_blank">王炜</a>. <b>计算机研究与发展</b>, 2020, 57(7): 1460-1471.</p></li>
+    <li><p><b><a href="http://crad.ict.ac.cn/CN/10.7544/issn1000-1239.2020.20190643">基于重排序的迭代式实体对齐</a></b><br/>曾维新, <b>赵翔</b>, 唐九阳, 谭真, <a href="http://www.cse.unsw.edu.au/~weiw/" target="_blank">王炜</a>. <b><i>计算机研究与发展</i></b>, 2020, 57(7): 1460-1471.</p></li>
   
-    <li><p><b><a href="http://crad.ict.ac.cn/CN/abstract/abstract4057.shtml">融合对抗训练的端到端知识三元组联合抽取</a></b><br/>黄培馨, <b>赵翔</b>, 方阳, 朱慧明, 肖卫东. <b>计算机研究与发展</b>, 2019, 56(12): 2536-2548.</p></li>
+    <li><p><b><a href="http://crad.ict.ac.cn/CN/abstract/abstract4057.shtml">融合对抗训练的端到端知识三元组联合抽取</a></b><br/>黄培馨, <b>赵翔</b>, 方阳, 朱慧明, 肖卫东. <b><i>计算机研究与发展</i></b>, 2019, 56(12): 2536-2548.</p></li>
   
-    <li><p><b><a href="http://www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=5444&journal_id=jos">动态图模式匹配技术综述</a></b><br/>许嘉, 张千桢, <b>赵翔</b>, 吕品, 李陶深. <b>软件学报</b>, 2018, 29(3): 663-688.</p></li>
+    <li><p><b><a href="http://www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=5444&journal_id=jos">动态图模式匹配技术综述</a></b><br/>许嘉, 张千桢, <b>赵翔</b>, 吕品, 李陶深. <b><i>软件学报</i></b>, 2018, 29(3): 663-688.</p></li>
   
-    <li><p><b><a href="http://crad.ict.ac.cn/CN/Y2018/V55/I1/139#">一种改进的基于翻译的知识图谱表示方法</a></b><br/>方阳, <b>赵翔</b>, 谭真, 肖卫东. <b>计算机研究与发展</b>, 2018, 55(1): 139-150.</p></li>
+    <li><p><b><a href="http://crad.ict.ac.cn/CN/Y2018/V55/I1/139#">一种改进的基于翻译的知识图谱表示方法</a></b><br/>方阳, <b>赵翔</b>, 谭真, 肖卫东. <b><i>计算机研究与发展</i></b>, 2018, 55(1): 139-150.</p></li>
   
-    <li><p><b><a href="http://cjc.ict.ac.cn/online/onlinepaper/zx-20171494354.pdf">一种改进的基于BSP的大图计算模型</a></b><br/><b>赵翔</b>, 李博, 商海川, 肖卫东. <b>计算机学报</b>, 2017, 40(1): 223-235.</p></li>
+    <li><p><b><a href="http://cjc.ict.ac.cn/online/onlinepaper/zx-20171494354.pdf">一种改进的基于BSP的大图计算模型</a></b><br/><b>赵翔</b>, 李博, 商海川, 肖卫东. <b><i>计算机学报</i></b>, 2017, 40(1): 223-235.</p></li>
   
-    <li><p><b><a href="http://www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=3889&journal_id=jos">一种多变元网络可视化方法</a></b><br/>孙杨, <b>赵翔</b>, 唐九阳, 汤大权, 肖卫东. <b>软件学报</b>, 2010, 21(9): 2250-2261.</p></li>
+    <li><p><b><a href="http://www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=3889&journal_id=jos">一种多变元网络可视化方法</a></b><br/>孙杨, <b>赵翔</b>, 唐九阳, 汤大权, 肖卫东. <b><i>软件学报</i></b>, 2010, 21(9): 2250-2261.</p></li>
   
   </ul>
 </div>
