@@ -186,7 +186,11 @@ Graphs</b> <br/>Xi Wang, Qianzhen Zhang, <a href="http://www.greenorbs.org/peopl
     <li><p><b><a href="https://sites.google.com/site/xzhaounsw/DASFAA2013_SsSearch.pdf?attredirects=0" >On Efficient Graph Substructure Selection</a> </b>[<a href="https://sites.google.com/site/xzhaounsw/DASFAA2013_Talk.pptx?attredirects=0">slides</a>]<br /><b>Xiang Zhao</b>, Haichuan Shang, <a href="http://www.cse.unsw.edu.au/~zhangw/" target="_blank">Wenjie Zhang</a>, <a href="http://www.cse.unsw.edu.au/~lxue/" target="_blank">Xuemin Lin</a>, Weidong Xiao. <b>DASFAA</b>, 2013.</p></li>
   
     <li><p><b><a href="https://sites.google.com/site/xzhaounsw/ICDE2012-GSimJoin.pdf?attredirects=0">Efficient Graph Similarity Joins with Edit Distance Constraints</a> </b> [<a href="https://sites.google.com/site/xzhaounsw/ICDE2012_Talk.pptx?attredirects=0"  >slides</a>]<br /><b>Xiang Zhao</b>, <a href="https://sites.google.com/site/chuanxiao1983/" target="_blank">Chuan Xiao</a>, <a href="http://www.cse.unsw.edu.au/~lxue/" target="_blank">Xuemin Lin</a>, <a href="http://www.cse.unsw.edu.au/~weiw/" target="_blank">Wei Wang</a>. IEEE <b>ICDE</b>, 2012.</p></li>
+    
+    <li><p><b><a href="">新一代知识图谱关键技术研究进展综述</a></b><br/>王萌, 王昊奋*, 李博涵, <b>赵翔</b>, 王鑫. <b>计算机研究与发展</b>, 2021, 待刊.</p></li>
   
+    <li><p><b><a href="">可解释深度知识追踪模型</a></b><br/>刘坤佳, 李欣奕*, 唐九阳*, <b>赵翔</b>. <b>计算机研究与发展</b>, 2021, 待刊.</p></li>
+
     <li><p><b><a href="http://cjc.ict.ac.cn/online/onlinepaper/zx-2020115164805.pdf">面向高效并行Skyline计算的数据划分方法</a></b><br/><b>赵翔</b>, 商海川. <b>计算机学报</b>, 2020, 43(11): 2050-2066.</p></li>
     
     <li><p><b><a href="http://crad.ict.ac.cn/CN/10.7544/issn1000-1239.2020.20190643">基于重排序的迭代式实体对齐</a></b><br/>曾维新, <b>赵翔</b>, 唐九阳, 谭真, <a href="http://www.cse.unsw.edu.au/~weiw/" target="_blank">王炜</a>. <b>计算机研究与发展</b>, 2020, 57(7): 1460-1471.</p></li>
