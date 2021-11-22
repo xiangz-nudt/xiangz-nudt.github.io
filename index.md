@@ -49,6 +49,7 @@
 <div style="width:860px;margin:0px auto">
   <h3 style="color:#b45f06"><b>News</b></h3>
   <ul style="list-style-type:square; line-height:1">
+    <li><p> <i>2021/11: Invited to serve as a PC member of <a href = "https://kdd.org/kdd2022/index.html" target = "_blank">SIGKDD 2022</a>.</i></p> </li>
     <li><p> <i>2021/11: <font color="color:#cc0000">We have an article on multi-Hop MRC accepted by <a href = "https://www.springer.com/journal/11280" target = "_blank">WWW Journal</a>!</font></i></p> </li>
     <li><p> <i>2021/10: <font color="color:#cc0000">We have an article on continuous subgraph matching accepted by <a href = "http://www.semantic-web-journal.net/" target = "_blank">Semantic Web journal</a>!</font></i></p> </li>
     <li><p> <i>2021/09: <font color="color:#cc0000">We have an article on scalable entity alignment accepted by <a href = "https://www.springer.com/journal/778" target = "_blank">The VLDB Journal</a>!</font></i></p> </li>
@@ -57,8 +58,8 @@
     <li><p> <i>2021/08: Invited to serve as a PC member of ACM <a href = "http://www.wsdm-conference.org/2022/" target = "_blank">WSDM 2022</a>.</i></p> </li>
     <li><p> <i>2021/08: <font color="color:#cc0000">We have an article on sentence embeddings accepted by <a href = "https://dl.acm.org/journal/csur" target = "_blank">ACM Computing Surveys</a>!</font></i></p> </li>
     <li><p> <i>2021/08: <font color="color:#cc0000">We have a paper on reinforced active entity alignment accepted by <a href = "https://www.cikm2021.org/" target = "_blank">CIKM 2021</a>!</font></i></p> </li>
-    <li><p> <i>2021/06: <font color="color:#cc0000">We have an article on knowledge graph reasoning accepted by <a href = "https://www.springer.com/journal/11280" target = "_blank">WWW Journal</a>!</font></i></p> </li>
-    <!--<li><p> <i>2021/05: <font color="color:#cc0000">We have a paper on event detection accepted by ACM <a href = "https://sigir.org/sigir2021/" target = "_blank">SIGIR 2021</a>!</font></i></p> </li>
+    <!--<li><p> <i>2021/06: <font color="color:#cc0000">We have an article on knowledge graph reasoning accepted by <a href = "https://www.springer.com/journal/11280" target = "_blank">WWW Journal</a>!</font></i></p> </li>
+    <li><p> <i>2021/05: <font color="color:#cc0000">We have a paper on event detection accepted by ACM <a href = "https://sigir.org/sigir2021/" target = "_blank">SIGIR 2021</a>!</font></i></p> </li>
     <li><p> <i>2021/04: <font color="color:#cc0000">We won the Best Paper Award at <a href = "http://dm.iis.sinica.edu.tw/DASFAA2021/" target = "_blank">DASFAA 2021</a>!</font></i></p> </li>
     <li><p>* <i>2021/04: Invited to serve as a PC member of ACM <a href = "https://www.cikm2021.org/" target = "_blank">CIKM 2021</a>.</i></p></li>
     <li><p>* <i>2021/04: Invited to serve as a meta-reviewer for <a href = "http://www.apweb-waim2021.com/" target = "_blank">APWeb-WAIM 2021</a>.</i></p></li>
