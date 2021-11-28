@@ -188,6 +188,8 @@ Graphs</b> <br/>Xi Wang, Qianzhen Zhang, <a href="http://www.greenorbs.org/peopl
   
     <li><p><b><a href="https://sites.google.com/site/xzhaounsw/ICDE2012-GSimJoin.pdf?attredirects=0">Efficient Graph Similarity Joins with Edit Distance Constraints</a> </b> [<a href="https://sites.google.com/site/xzhaounsw/ICDE2012_Talk.pptx?attredirects=0"  >slides</a>]<br /><b>Xiang Zhao</b>, <a href="https://sites.google.com/site/chuanxiao1983/" target="_blank">Chuan Xiao</a>, <a href="http://www.cse.unsw.edu.au/~lxue/" target="_blank">Xuemin Lin</a>, <a href="http://www.cse.unsw.edu.au/~weiw/" target="_blank">Wei Wang</a>. IEEE <b>ICDE</b>, 2012.</p></li>
     
+    <li><p><b><a href="">自适应特征融合的多模态实体对齐研究</a></b><br/>郭浩, 李欣奕*, 唐九阳, 郭延明, <b>赵翔</b>. <b><i>自动化学报</i></b>, 2021, 待刊.</p></li>
+    
     <li><p><b><a href="">新一代知识图谱关键技术研究进展综述</a></b><br/><a href="http://seu.wangmengsd.com/">王萌</a>, <a href="https://tjdi.tongji.edu.cn/teacherdetail.do?id=4991">王昊奋</a>*, <a href="http://faculty.nuaa.edu.cn/lbh">李博涵</a>, <b>赵翔</b>, <a href="http://www.tjudb.cn/dbgroup/Xin_Wang">王鑫</a>. <b><i>计算机研究与发展</i></b>, 2021, 待刊.</p></li>
   
     <li><p><b><a href="">可解释深度知识追踪模型</a></b><br/>刘坤佳, 李欣奕*, 唐九阳*, <b>赵翔</b>. <b><i>计算机研究与发展</i></b>, 2021, 待刊.</p></li>
