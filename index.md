@@ -97,7 +97,7 @@ Graphs</b> <br/>Xi Wang, Qianzhen Zhang, <a href="http://www.greenorbs.org/peopl
     
     <li><p><b>A Brief Overview of Universal Sentence Representation Methods: A Linguistic View</b> <br/>Ruiqi Li, <b>Xiang Zhao</b>*, <a href="https://people.cs.kuleuven.be/~sien.moens/" target="_blank">Marie-Francine Moens</a>. <i>ACM <b>Computing Surveys</b></i> <b>(CSUR)</b>, 2021, in press.</p></li>
     
-    <li><p><b>Reinforced Active Entity Alignment</b> [<a href="https://github.com/DexterZeng/RAC" target="_blank">code</a>]<br/>Weixin Zeng, <b>Xiang Zhao</b>*, Jiuyang Tang, Changjun Fan. ACM <b>CIKM</b>, 2021.</p></li>
+    <li><p><b><a href="https://dl.acm.org/doi/pdf/10.1145/3459637.3482472" target="_blank">Reinforced Active Entity Alignment</a></b> [<a href="https://github.com/DexterZeng/RAC" target="_blank">code</a>]<br/>Weixin Zeng, <b>Xiang Zhao</b>*, Jiuyang Tang, Changjun Fan. ACM <b>CIKM</b>, 2021.</p></li>
   
     <li><p><b><a href="https://link.springer.com/content/pdf/10.1007/s11280-021-00911-5.pdf" target="_blank">To Hop or Not, That is the Question: Towards Effective Multi-hop Reasoning over Knowledge Graphs</a></b> <br/>Jinzhi Liao, <b>Xiang Zhao</b>*, Jiuyang Tang, Weixin Zeng, Zhen Tan. <b><i>World Wide Web</i></b>, 2021, in press.</p></li>
     
