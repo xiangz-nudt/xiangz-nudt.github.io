@@ -49,6 +49,7 @@
 <div style="width:860px;margin:0px auto">
   <h3 style="color:#b45f06"><b>News</b></h3>
   <ul style="list-style-type:square; line-height:1">
+    <li><p> <i>2022/01: <font color="color:#cc0000">We have a paper on bursting pattern in streaming graphs accepted by <a href = "https://www.dasfaa2022.org/" target = "_blank">DAASFAA 2022</a>!</font></i></p></li>
     <li><p> <i>2021/11: Invited to serve as a PC member of ACM <a href = "https://kdd.org/kdd2022/index.html" target = "_blank">SIGKDD 2022</a>.</i></p> </li>
     <li><p> <i>2021/11: <font color="color:#cc0000">We have an article on multi-hop MRC accepted by <a href = "https://www.springer.com/journal/11280" target = "_blank">WWW Journal</a>!</font></i></p> </li>
     <li><p> <i>2021/10: <font color="color:#cc0000">We have an article on continuous subgraph matching accepted by <a href = "http://www.semantic-web-journal.net/" target = "_blank">Semantic Web journal</a>!</font></i></p> </li>
@@ -57,8 +58,8 @@
     <li><p> <i>2021/08: Invited to serve as a PC member of <a href = "https://www.dasfaa2022.org/" target = "_blank">DASFAA 2022</a>.</i></p> </li>
     <li><p> <i>2021/08: Invited to serve as a PC member of ACM <a href = "http://www.wsdm-conference.org/2022/" target = "_blank">WSDM 2022</a>.</i></p> </li>
     <li><p> <i>2021/08: <font color="color:#cc0000">We have an article on sentence embeddings accepted by <a href = "https://dl.acm.org/journal/csur" target = "_blank">ACM Computing Surveys</a>!</font></i></p> </li>
-    <li><p> <i>2021/08: <font color="color:#cc0000">We have a paper on reinforced active entity alignment accepted by <a href = "https://www.cikm2021.org/" target = "_blank">CIKM 2021</a>!</font></i></p> </li>
-    <!--<li><p> <i>2021/06: <font color="color:#cc0000">We have an article on knowledge graph reasoning accepted by <a href = "https://www.springer.com/journal/11280" target = "_blank">WWW Journal</a>!</font></i></p> </li>
+    <!--<li><p> <i>2021/08: <font color="color:#cc0000">We have a paper on reinforced active entity alignment accepted by <a href = "https://www.cikm2021.org/" target = "_blank">CIKM 2021</a>!</font></i></p> </li>
+    <li><p> <i>2021/06: <font color="color:#cc0000">We have an article on knowledge graph reasoning accepted by <a href = "https://www.springer.com/journal/11280" target = "_blank">WWW Journal</a>!</font></i></p> </li>
     <li><p> <i>2021/05: <font color="color:#cc0000">We have a paper on event detection accepted by ACM <a href = "https://sigir.org/sigir2021/" target = "_blank">SIGIR 2021</a>!</font></i></p> </li>
     <li><p> <i>2021/04: <font color="color:#cc0000">We won the Best Paper Award at <a href = "http://dm.iis.sinica.edu.tw/DASFAA2021/" target = "_blank">DASFAA 2021</a>!</font></i></p> </li>
     <li><p>* <i>2021/04: Invited to serve as a PC member of ACM <a href = "https://www.cikm2021.org/" target = "_blank">CIKM 2021</a>.</i></p></li>
@@ -86,6 +87,8 @@
 <div style="width:860px;margin:0px auto">
   <h3><b style="color:#0b5394">Selected Publications</b> (Full list @<a href="https://scholar.google.com/citations?user=7IZ4kgwAAAAJ&hl=en" target="_blank">Google Scholar</a>, @<a href="https://dblp.uni-trier.de/pers/hd/z/Zhao_0002:Xiang" target="_blank">DBLP</a>, @<a href="https://orcid.org/0000-0001-6339-0219" target="_blank">ORCID</a>, @<a href="https://www.aminer.cn/profile/562d5f7f45cedb3398ddd908" target="_blank">AMiner</a>)</h3>
   <ul>
+    <li><p><b>Discovering Bursting Patterns over Streaming Graphs</b> <br/>Qianzhen Zhang, <a href="http://www.greenorbs.org/people/liu/guodeke/" target="_blank">Deke Guo</a>, <b>Xiang Zhao</b>. <b>DASFAA</b>, 2021.</p></li>
+    
     <li><p><b><a href="" target="_blank">Contrastive Heterogeneous Graphs Learning for Multi-Hop Machine Reading Comprehension</a></b> <br/>Jinzhi Liao, <b>Xiang Zhao</b>*, Xinyi Li, Jiuyang Tang, Bin Ge. <b><i>World Wide Web</i></b>, 2021, in press.</p></li>
     
     <li><p><b>Continuous Multi-Query Optimization for Subgraph Matching over Dynamic
