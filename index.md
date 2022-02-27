@@ -94,7 +94,7 @@
     <li><p><b><a href="https://doi.org/10.1007/s11280-021-00980-6" target="_blank">Contrastive Heterogeneous Graphs Learning for Multi-Hop Machine Reading Comprehension</a></b> <br/>Jinzhi Liao, <b>Xiang Zhao</b>*, Xinyi Li, Jiuyang Tang, Bin Ge. <b><i>World Wide Web</i></b>, 2021, in press.</p></li>
     
     <li><p><b><a href="https://content.iospress.com/download/semantic-web/sw212864?id=semantic-web%2Fsw212864" target="_blank">Continuous Multi-Query Optimization for Subgraph Matching over Dynamic
-Graph</a>s</b> <br/>Xi Wang, Qianzhen Zhang, <a href="http://www.greenorbs.org/people/liu/guodeke/" target="_blank">Deke Guo</a>*, <b>Xiang Zhao</b>. <b><i>Semantic Web</i></b>, 2021, in press.</p></li>
+Graphs</a></b> <br/>Xi Wang, Qianzhen Zhang, <a href="http://www.greenorbs.org/people/liu/guodeke/" target="_blank">Deke Guo</a>*, <b>Xiang Zhao</b>. <b><i>Semantic Web</i></b>, 2021, in press.</p></li>
     
     <li><p><b>On Entity Alignment at Scale</b> <br/>Weixin Zeng, <b>Xiang Zhao</b>*, Xinyi Li, Jiuyang Tang, <a href = "https://www.cse.ust.hk/~weiwcs/" target="_blank">Wei Wang</a>. <b><i>VLDB J.</i></b>, 2021, in press.</p></li>
     
