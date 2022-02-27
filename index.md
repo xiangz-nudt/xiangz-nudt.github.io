@@ -49,7 +49,7 @@
 <div style="width:860px;margin:0px auto">
   <h3 style="color:#b45f06"><b><i>News</i></b></h3>
   <ul style="list-style-type:square; line-height:1">
-    <li><p> <i>2022/01: <font color="color:#cc0000">We have a paper on bursting pattern in streaming graphs accepted by <a href = "https://www.dasfaa2022.org/" target = "_blank">DAASFAA 2022</a>!</font></i></p></li>
+    <li><p> <i>2022/01: <font color="color:#cc0000">We have a paper on bursting pattern in streaming graphs accepted by <a href = "https://www.dasfaa2022.org/" target = "_blank">DASFAA 2022</a>!</font></i></p></li>
     <li><p> <i>2021/11: Invited to serve as a PC member of ACM <a href = "https://kdd.org/kdd2022/index.html" target = "_blank">SIGKDD 2022</a>.</i></p> </li>
     <li><p> <i>2021/11: <font color="color:#cc0000">We have an article on multi-hop MRC accepted by <a href = "https://www.springer.com/journal/11280" target = "_blank">WWW Journal</a>!</font></i></p> </li>
     <li><p> <i>2021/10: <font color="color:#cc0000">We have an article on continuous subgraph matching accepted by <a href = "http://www.semantic-web-journal.net/" target = "_blank">Semantic Web journal</a>!</font></i></p> </li>
