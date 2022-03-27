@@ -228,7 +228,10 @@ Graphs</a></b> <br/>Xi Wang, Qianzhen Zhang, <a href="http://www.greenorbs.org/p
     <p>since 2018: IEEE <a href="http://ieeeaccess.ieee.org/" target="_blank">Access</a></p>
     </li>
 
-  <li><p><b>Journal editorial review board:</b></p><p>since 2018: <a href="https://www.igi-global.com/journal/journal-database-management-jdm/1072" target="_blank">Journal of Database Management</a></p></li>
+  <li><p><b>Journal editorial review board:</b></p>
+    <p>since 2021: <a href="http://www.ecice06.com/CN/1000-3428/home.shtml" target="_blank">Computer Engineering</a></p>
+    <p>since 2018: <a href="https://www.igi-global.com/journal/journal-database-management-jdm/1072" target="_blank">Journal of Database Management</a></p>
+    </li>
 
   <li><p><b>Invited journal reviewers:</b></p><p>
   <a href="http://vldb.org/pvldb/" target="_blank">Proc. VLDB</a>,
