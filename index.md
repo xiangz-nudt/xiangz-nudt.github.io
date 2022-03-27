@@ -100,7 +100,7 @@ Graphs</a></b> <br/>Xi Wang, Qianzhen Zhang, <a href="http://www.greenorbs.org/p
     
     <li><p><b>On Entity Alignment at Scale</b> <br/>Weixin Zeng, <b>Xiang Zhao</b>*, Xinyi Li, Jiuyang Tang, <a href = "https://www.cse.ust.hk/~weiwcs/" target="_blank">Wei Wang</a>. <b><i>VLDB J.</i></b>, 2021, in press.</p></li>
     
-    <li><p><b>Scalable Representation Learning for Dynamic Heterogeneous Information Networks via Metagraph</b> <br/>Yang Fang, <b>Xiang Zhao</b>*, Peixin Huang, Weidong Xiao, <a href = "https://staff.fnwi.uva.nl/m.derijke/" target = "_blank">Maarten de Rijke</a>. <i>ACM <b>Trans. Info. Syst.</b></i> <b>(TOIS)</b>, 2021, in press.</p></li>
+    <li><p><b><a href="https://dl.acm.org/doi/pdf/10.1145/3485189" target="_blank">Scalable Representation Learning for Dynamic Heterogeneous Information Networks via Metagraph</a></b> <br/>Yang Fang, <b>Xiang Zhao</b>*, Peixin Huang, Weidong Xiao, <a href = "https://staff.fnwi.uva.nl/m.derijke/" target = "_blank">Maarten de Rijke</a>. <i>ACM <b>Trans. Info. Syst.</b></i> <b>(TOIS)</b>, 2022, 40(4): 64:1-64:27.</p></li>
     
     <li><p><b>A Brief Overview of Universal Sentence Representation Methods: A Linguistic View</b> <br/>Ruiqi Li, <b>Xiang Zhao</b>*, <a href="https://people.cs.kuleuven.be/~sien.moens/" target="_blank">Marie-Francine Moens</a>. <i>ACM <b>Computing Surveys</b></i> <b>(CSUR)</b>, 2021, in press.</p></li>
     
