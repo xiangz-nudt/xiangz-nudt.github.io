@@ -49,6 +49,8 @@
 <div style="width:860px;margin:0px auto">
   <h3 style="color:#b45f06"><b><i>News</i></b></h3>
   <ul style="list-style-type:square; line-height:1">
+    <li><p> <i>2022/03: Invited to serve as an area chair of <a href = "http://sigkg.cn/ccks2022/" target = "_blank">CCKS 2022</a>.</i></p> </li>
+    <li><p> <i>2022/03: Invited to serve as a PC member of <a href = "https://coling2022.org/" target = "_blank">COLING 2022</a>.</i></p> </li>
     <li><p> <i>2022/01: <font color="color:#cc0000">We have a paper on bursting pattern in streaming graphs accepted by <a href = "https://www.dasfaa2022.org/" target = "_blank">DASFAA 2022</a>!</font></i></p></li>
     <li><p> <i>2021/11: Invited to serve as a PC member of ACM <a href = "https://kdd.org/kdd2022/index.html" target = "_blank">SIGKDD 2022</a>.</i></p> </li>
     <li><p> <i>2021/11: <font color="color:#cc0000">We have an article on multi-hop MRC accepted by <a href = "https://www.springer.com/journal/11280" target = "_blank">WWW Journal</a>!</font></i></p> </li>
@@ -56,9 +58,9 @@
     <li><p> <i>2021/09: <font color="color:#cc0000">We have an article on scalable entity alignment accepted by <a href = "https://www.springer.com/journal/778" target = "_blank">The VLDB Journal</a>!</font></i></p> </li>
     <li><p> <i>2021/09: <font color="color:#cc0000">We have an article on dynamic network embedding accepted by ACM <a href = "https://dl.acm.org/journal/tois" target = "_blank">TOIS</a>!</font></i></p> </li>
     <li><p> <i>2021/08: Invited to serve as a PC member of <a href = "https://www.dasfaa2022.org/" target = "_blank">DASFAA 2022</a>.</i></p> </li>
-    <li><p> <i>2021/08: Invited to serve as a PC member of ACM <a href = "http://www.wsdm-conference.org/2022/" target = "_blank">WSDM 2022</a>.</i></p> </li>
+    <!--<li><p> <i>2021/08: Invited to serve as a PC member of ACM <a href = "http://www.wsdm-conference.org/2022/" target = "_blank">WSDM 2022</a>.</i></p> </li>
     <li><p> <i>2021/08: <font color="color:#cc0000">We have an article on sentence embeddings accepted by <a href = "https://dl.acm.org/journal/csur" target = "_blank">ACM Computing Surveys</a>!</font></i></p> </li>
-    <!--<li><p> <i>2021/08: <font color="color:#cc0000">We have a paper on reinforced active entity alignment accepted by <a href = "https://www.cikm2021.org/" target = "_blank">CIKM 2021</a>!</font></i></p> </li>
+    <li><p> <i>2021/08: <font color="color:#cc0000">We have a paper on reinforced active entity alignment accepted by <a href = "https://www.cikm2021.org/" target = "_blank">CIKM 2021</a>!</font></i></p> </li>
     <li><p> <i>2021/06: <font color="color:#cc0000">We have an article on knowledge graph reasoning accepted by <a href = "https://www.springer.com/journal/11280" target = "_blank">WWW Journal</a>!</font></i></p> </li>
     <li><p> <i>2021/05: <font color="color:#cc0000">We have a paper on event detection accepted by ACM <a href = "https://sigir.org/sigir2021/" target = "_blank">SIGIR 2021</a>!</font></i></p> </li>
     <li><p> <i>2021/04: <font color="color:#cc0000">We won the Best Paper Award at <a href = "http://dm.iis.sinica.edu.tw/DASFAA2021/" target = "_blank">DASFAA 2021</a>!</font></i></p> </li>
@@ -221,7 +223,10 @@ Graphs</a></b> <br/>Xi Wang, Qianzhen Zhang, <a href="http://www.greenorbs.org/p
   
   <ul>
 
-  <li><p><b>Journal editorial board:</b></p><p>since 2018: IEEE <a href="http://ieeeaccess.ieee.org/" target="_blank">Access</a></p></li>
+  <li><p><b>Journal editorial board:</b></p>
+    <p>since 2022: <a href="http://www.ceaj.org/CN/jsjgc/home.shtml" target="_blank">Computer Engineering and Applications</a></p>
+    <p>since 2018: IEEE <a href="http://ieeeaccess.ieee.org/" target="_blank">Access</a></p>
+    </li>
 
   <li><p><b>Journal editorial review board:</b></p><p>since 2018: <a href="https://www.igi-global.com/journal/journal-database-management-jdm/1072" target="_blank">Journal of Database Management</a></p></li>
 
@@ -261,7 +266,7 @@ Graphs</a></b> <br/>Xi Wang, Qianzhen Zhang, <a href="http://www.greenorbs.org/p
   <a href="https://acl2020.org/" target="_blank">ACL</a>, 
   ACM <a href="http://cikm2019.net/" target="_blank">CIKM</a>,
   <a href="https://coling2020.org/" target="_blank">COLING</a>,
-  <a href="http://ada.suda.edu.cn/apweb2016/" target="_blank">APWeb</a>,
+  <a href="http://ada.suda.edu.cn/apweb2016/" target="_blank">APWeb-WAIM</a> (meta reviewer),
   <a href="http://aacl2020.org/" target="_blank">AACL</a>,
   <a href="http://www.akbc.ws/" target="_blank">AKBC</a>, 
   <a href="http://conference.eng.unimelb.edu.au/adc/" target="_blank">ADC</a>,
@@ -271,7 +276,10 @@ Graphs</a></b> <br/>Xi Wang, Qianzhen Zhang, <a href="http://www.greenorbs.org/p
   <a href="http://www.icwl.org.cn/Sete.html" target="_blank">SETE</a>,
   FCST, FAB, PRICAI, BigCom, SC2, SoICT</p></li>
   <li><p>
-  <b>National conferences:</b> CCF <a href="http://dm.ustc.edu.cn/ccf-bigdata2015/" target="_blank">BigData</a>, <a href="http://ndbc2019.sdu.edu.cn/" target="_blank">NDBC</a>
+  <b>National conferences:</b> 
+    <a href="http://sigkg.cn/ccks2022/" target="_blank">CCKS</a> (area chair),
+    CCF <a href="http://dm.ustc.edu.cn/ccf-bigdata2015/" target="_blank">BigData</a>, 
+    <a href="http://ndbc2019.sdu.edu.cn/" target="_blank">NDBC</a>
   </p></li>
   
   <li><p>
@@ -293,6 +301,9 @@ Graphs</a></b> <br/>Xi Wang, Qianzhen Zhang, <a href="http://www.greenorbs.org/p
 <li>
   <p><b>Member of organization committees:</b></p>
   <ul>
+  <li><p>
+  <b>Tutorial co-chairs:</b> <a href="https://apweb-waim2022.com/" target="_blank">APWeb-WAIM 2022</a>
+  </p></li>
   <li><p>
   <b>Publication co-chairs:</b> <a href="http://ksem2020.org/" target="_blank">KSEM 2020</a>
   </p></li>
