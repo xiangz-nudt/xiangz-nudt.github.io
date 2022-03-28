@@ -310,7 +310,7 @@ Graphs</a></b> <br/>Xi Wang, Qianzhen Zhang, <a href="http://www.greenorbs.org/p
   <b>Tutorial co-chairs:</b> <a href="https://apweb-waim2022.com/" target="_blank">APWeb-WAIM 2022</a>
   </p></li>
   <li><p>
-  <b>Publication co-chairs:</b> <a href="http://ksem2020.org/" target="_blank">KSEM 2020</a>
+  <b>Publication co-chairs:</b> <a href="https://conf.ccf.org.cn/web/api/m9475032704175349761645943983427.action" target="_blank">WISA 2022</a>, <a href="http://ksem2020.org/" target="_blank">KSEM 2020</a>
   </p></li>
   <li><p>
   <b>Web co-chairs:</b> <a href="http://www1.se.cuhk.edu.hk/~apweb/previous/apweb2013/index.html" target="_blank">APWeb 2013</a>, BigDIA 2016
