@@ -279,7 +279,7 @@ Graphs</a></b> <br/>Xi Wang, Qianzhen Zhang, <a href="http://www.greenorbs.org/p
   <a href="http://www.ieeebigdata.org/2016/" target="_blank">BigData</a>,
   IEEE <a href="http://www.ieee-dsc.org/" target="_blank">DSC</a>,
   <a href="http://www.icwl.org.cn/Sete.html" target="_blank">SETE</a>,
-  FCST, FAB, PRICAI, BigCom, SC2, SoICT</p></li>
+  FCST, FAB, PRICAI, BigCom</p></li>
   <li><p>
   <b>National conferences:</b> 
     <a href="http://sigkg.cn/ccks2022/" target="_blank">CCKS</a> (area chair),
