@@ -224,8 +224,8 @@ Graphs</a></b> <br/>Xi Wang, Qianzhen Zhang, <a href="http://www.greenorbs.org/p
   <ul>
 
   <li><p><b>Journal editorial board:</b></p>
-    <p>since 2022: <a href="http://www.ceaj.org/CN/jsjgc/home.shtml" target="_blank">Computer Engineering and Applications</a></p>
-    <p>since 2018: IEEE <a href="http://ieeeaccess.ieee.org/" target="_blank">Access</a></p>
+    <p><a href="http://www.ceaj.org/CN/jsjgc/home.shtml" target="_blank">Computer Engineering and Applications</a> (since 2022)</p>
+    <p>IEEE <a href="http://ieeeaccess.ieee.org/" target="_blank">Access</a> (2018-2022)</p>
     </li>
 
   <li><p><b>Journal editorial review board:</b></p>
