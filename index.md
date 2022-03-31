@@ -90,6 +90,8 @@
 <div style="width:860px;margin:0px auto">
   <h3><b style="color:#0b5394">Selected Publications</b> (Full list @<a href="https://scholar.google.com/citations?user=7IZ4kgwAAAAJ&hl=en" target="_blank">Google Scholar</a>, @<a href="https://dblp.uni-trier.de/pers/hd/z/Zhao_0002:Xiang" target="_blank">DBLP</a>, @<a href="https://orcid.org/0000-0001-6339-0219" target="_blank">ORCID</a>, @<a href="https://www.aminer.cn/profile/562d5f7f45cedb3398ddd908" target="_blank">AMiner</a>)</h3>
   <ul>
+    <li><p><b>PTAU: Prompt Tuning for Attributing Unanswerable Questions</b> <br/>Jinzhi Liao, <b>Xiang Zhao</b>*, Jianming Zheng, Xinyi Li, Fei Cai and Jiuyang Tang. ACM <b>SIGIR</b>, 2022.</p></li>
+    
     <li><p><b>Extract-Select: A Span Selection Framework for Nested Named Entity Recognition with Generative Adversarial Training</b> <br/>Peixin Huang, <b>Xiang Zhao</b>, Minghao Hu*, Yang Fang, Xinyi Li, Weidong Xiao. <b>Findings of ACL</b>, 2022.</p></li>
     
     <li><p><b>Discovering Bursting Patterns over Streaming Graphs</b> <br/>Qianzhen Zhang, <a href="http://www.greenorbs.org/people/liu/guodeke/" target="_blank">Deke Guo</a>, <b>Xiang Zhao</b>. <b>DASFAA</b>, 2022.</p></li>
