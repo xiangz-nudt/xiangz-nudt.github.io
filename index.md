@@ -109,7 +109,7 @@ Graphs</a></b> <br/>Xi Wang, Qianzhen Zhang, <a href="http://www.greenorbs.org/p
     
     <li><p><b>Reinforced Active Entity Alignment</b> [<a href="https://github.com/DexterZeng/RAC" target="_blank">code</a>]<br/>Weixin Zeng, <b>Xiang Zhao</b>*, Jiuyang Tang, Changjun Fan. ACM <b>CIKM</b>, 2021.</p></li>
   
-    <li><p><b><a href="https://link.springer.com/content/pdf/10.1007/s11280-021-00911-5.pdf" target="_blank">To Hop or Not, That is the Question: Towards Effective Multi-hop Reasoning over Knowledge Graphs</a></b> <br/>Jinzhi Liao, <b>Xiang Zhao</b>*, Jiuyang Tang, Weixin Zeng, Zhen Tan. <b><i>World Wide Web</i></b>, 2021, in press.</p></li>
+    <li><p><b><a href="https://link.springer.com/content/pdf/10.1007/s11280-021-00911-5.pdf" target="_blank">To Hop or Not, That is the Question: Towards Effective Multi-hop Reasoning over Knowledge Graphs</a></b> <br/>Jinzhi Liao, <b>Xiang Zhao</b>*, Jiuyang Tang, Weixin Zeng, Zhen Tan. <b><i>World Wide Web</i></b>, 2021, 24(5): 1837-1856.</p></li>
     
     <li><p><b>Learning Discriminative Neural Representations for Event Detection</b> [<a href="https://github.com/passenger20/DNR/tree/master" target="_blank">code</a>]<br/>Jinzhi Liao, <b>Xiang Zhao</b>*, Xinyi Li*, <a href="http://gr.xjtu.edu.cn/en/web/zhanglling/home" target="_blank">Lingling Zhang</a>, Jiuyang Tang. ACM <b>SIGIR</b>, 2021.</p></li>
     
