@@ -92,7 +92,7 @@
   <ul>
     <li><p><b>PTAU: Prompt Tuning for Attributing Unanswerable Questions</b> <br/>Jinzhi Liao, <b>Xiang Zhao</b>*, Jianming Zheng, Xinyi Li, Fei Cai and Jiuyang Tang. ACM <b>SIGIR</b>, 2022.</p></li>
     
-    <li><p><b>Extract-Select: A Span Selection Framework for Nested Named Entity Recognition with Generative Adversarial Training</b> <br/>Peixin Huang, <b>Xiang Zhao</b>, Minghao Hu*, Yang Fang, Xinyi Li, Weidong Xiao. <b>Findings of ACL</b>, 2022.</p></li>
+    <li><p><b><a href="https://aclanthology.org/2022.findings-acl.9.pdf" target="_blank">Extract-Select: A Span Selection Framework for Nested Named Entity Recognition with Generative Adversarial Training</a></b> <br/>Peixin Huang, <b>Xiang Zhao</b>, Minghao Hu*, Yang Fang, Xinyi Li, Weidong Xiao. <b>Findings of ACL</b>, 2022.</p></li>
     
     <li><p><b>Discovering Bursting Patterns over Streaming Graphs</b> <br/>Qianzhen Zhang, <a href="http://www.greenorbs.org/people/liu/guodeke/" target="_blank">Deke Guo</a>, <b>Xiang Zhao</b>. <b>DASFAA</b>, 2022.</p></li>
     
@@ -101,7 +101,7 @@
     <li><p><b><a href="https://content.iospress.com/download/semantic-web/sw212864?id=semantic-web%2Fsw212864" target="_blank">Continuous Multi-Query Optimization for Subgraph Matching over Dynamic
 Graphs</a></b> <br/>Xi Wang, Qianzhen Zhang, <a href="http://www.greenorbs.org/people/liu/guodeke/" target="_blank">Deke Guo</a>*, <b>Xiang Zhao</b>. <b><i>Semantic Web</i></b>, 2021, in press.</p></li>
     
-    <li><p><b>On Entity Alignment at Scale</b> <br/>Weixin Zeng, <b>Xiang Zhao</b>*, Xinyi Li, Jiuyang Tang, <a href = "https://www.cse.ust.hk/~weiwcs/" target="_blank">Wei Wang</a>. <b><i>VLDB J.</i></b>, 2021, in press.</p></li>
+    <li><p><b><a href="https://link.springer.com/article/10.1007/s00778-021-00703-3" target="_blank">On Entity Alignment at Scale</a></b> <br/>Weixin Zeng, <b>Xiang Zhao</b>*, Xinyi Li, Jiuyang Tang, <a href = "https://www.cse.ust.hk/~weiwcs/" target="_blank">Wei Wang</a>. <b><i>VLDB J.</i></b>, 2021, in press.</p></li>
     
     <li><p><b><a href="https://dl.acm.org/doi/pdf/10.1145/3485189" target="_blank">Scalable Representation Learning for Dynamic Heterogeneous Information Networks via Metagraph</a></b> <br/>Yang Fang, <b>Xiang Zhao</b>*, Peixin Huang, Weidong Xiao, <a href = "https://staff.fnwi.uva.nl/m.derijke/" target = "_blank">Maarten de Rijke</a>. <i>ACM <b>Trans. Info. Syst.</b></i> <b>(TOIS)</b>, 2022, 40(4): 64:1-64:27.</p></li>
     
@@ -151,7 +151,7 @@ Graphs</a></b> <br/>Xi Wang, Qianzhen Zhang, <a href="http://www.greenorbs.org/p
   
     <li><p><b>On Continuous Matching of Evolving Graph Patterns</b> [<a href="https://doi.org/10.1007/s11280-020-00860-5" target="_blank">extended version</a>]<br/>Qianzhen Zhang, <a href="http://www.greenorbs.org/people/liu/guodeke/" target="_blank">Deke Guo</a>*, <b>Xiang Zhao</b>*, Aibo Guo. ACM <b>CIKM</b>,<b> </b>2019 (short).</p></li>
   
-    <li><p><b>M-HIN: Complex Embedding for Heterogeneous Information Networks via Metagraphs</b> [<a href="" target="_blank">extended version</a>]<br/>Yang Fang, <b>Xiang Zhao</b>, Peixin Huang, Weidong Xiao, <a href="https://staff.fnwi.uva.nl/m.derijke/" target="_blank">Maarten de Rijke</a>. ACM <b>SIGIR</b>,<b> </b>2019 (short).</p></li>
+    <li><p><b>M-HIN: Complex Embedding for Heterogeneous Information Networks via Metagraphs</b> [<a href="https://dl.acm.org/doi/pdf/10.1145/3485189" target="_blank">extended version</a>]<br/>Yang Fang, <b>Xiang Zhao</b>, Peixin Huang, Weidong Xiao, <a href="https://staff.fnwi.uva.nl/m.derijke/" target="_blank">Maarten de Rijke</a>. ACM <b>SIGIR</b>,<b> </b>2019 (short).</p></li>
   
     <li><p><b>Near-accurate Multiset Reconciliation (Extended Abstract)</b><br/><a href="http://scholar.google.com/citations?user=Ta1jm9wAAAAJ&amp;hl=en">Lailong Luo</a>, <a href="http://www.greenorbs.org/people/liu/guodeke/" target="_blank">Deke Guo</a>, <b>Xiang Zhao</b>, <a href="https://cis.temple.edu/~wu/" target="_blank">Jie Wu</a>, <a href="https://sites.google.com/site/orirottenstreich/" target="_blank">Ori Rottenstreich</a>, Xueshan Luo. IEEE <b>ICDE</b>,<b> </b>2019 (poster).</p></li>
   
