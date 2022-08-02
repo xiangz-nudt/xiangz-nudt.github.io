@@ -23,7 +23,6 @@
     <b>Professor</b>
       <br/><font size="3">- Laboratory for Big Data and Decision, College of Systems Engineering
       <br/>- <a href="https://english.nudt.edu.cn/" target="_blank">National University of Defense Technology</a></font>
-      <br/>
     <b>Email</b>: xiangzhao <i>at</i> nudt.edu.cn<br/><b>Phone</b>: +86 731 8700 6440<br/><b>Facsimile</b>: +86 731 8457 3514<br/><b>Address</b>: 109 Deya Road, Changsha, Hunan, China (410073)</p>
   </div>
 </div>
