@@ -51,7 +51,7 @@
 <div style="width:860px;margin:0px auto">
   <h3 style="color:#b45f06"><b><i>News</i></b></h3>
   <ul style="list-style-type:square; line-height:1">
-    <li><p> <i>2022/08: <font color="color:#cc0000">We have three full papers on graph processing and learning, a short paper on NL2Cypher accepted by <a href = "https://www.cikm2022.org/" target = "_blank">CIKM 2022</a>!</font></i></p> </li>
+    <li><p> <i>2022/08: <font color="color:#cc0000">We have four papers on graph processing and learning accepted by <a href = "https://www.cikm2022.org/" target = "_blank">CIKM 2022</a>!</font></i></p> </li>
     <li><p> <i>2022/07: <font color="color:#cc0000">We have a survey on dynamic graphs to appear in <a href = "https://www.springer.com/journal/10115" target = "_blank">KAIS</a> journal!</font></i></p> </li>
     <li><p> <i>2022/06: Invited to serve as a PC member of ACM <a href = "http://www.wsdm-conference.org/2023/" target = "_blank">WSDM 2023</a>.</i></p> </li>
     <li><p> <i>2022/04: <font color="color:#cc0000">We have a paper on unanswerablity of questions accepted by ACM <a href = "https://sigir.org/sigir2022/" target = "_blank">SIGIR 2022</a>!</font></i></p> </li>
