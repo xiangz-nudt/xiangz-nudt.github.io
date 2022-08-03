@@ -97,7 +97,7 @@
   <ul>
     <li><p><b>Learning Hypersphere for Few-shot Anomaly Detection on Attributed Networks</b> <br/>Qiuyu Guo, <b>Xiang Zhao</b>*, Yang Fang, Shiyu Yang, Xuemin Lin, Dian Ouyang. ACM <b>CIKM</b>, 2022.</p></li>
     
-    <li><p><b>Few-Shot Relational Triple Extraction with Perspective Transfer Network</b> <br/>Junbo Fei, Weixin Zeng, <b>Xiang Zhao</b>, Xuanyi Li, Weidong Xiao. ACM <b>CIKM</b>, 2022.</p></li>
+    <li><p><b>Few-Shot Relational Triple Extraction with Perspective Transfer Network</b> <br/>Junbo Fei, Weixin Zeng*, <b>Xiang Zhao</b>, Xuanyi Li, Weidong Xiao. ACM <b>CIKM</b>, 2022.</p></li>
     
     <li><p><b>Handling RDF Streams: Harmonizing Subgraph Matching, Adaptive Incremental Maintenance, and Matching-free Updates Together</b> <br/>Qianzhen Zhang, Deke Guo, <b>Xiang Zhao</b>, Lailong Luo. ACM <b>CIKM</b>, 2022.</p></li>
     
