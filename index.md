@@ -51,6 +51,7 @@
 <div style="width:860px;margin:0px auto">
   <h3 style="color:#b45f06"><b><i>News</i></b></h3>
   <ul style="list-style-type:square; line-height:1">
+    <li><p> <i>2022/08: <font color="color:#cc0000">We have three full papers on graph processing and learning, a short paper on NL2Cypher accepted by <a href = "https://www.cikm2022.org/" target = "_blank">CIKM 2022</a>!</font></i></p> </li>
     <li><p> <i>2022/07: <font color="color:#cc0000">We have a survey on dynamic graphs to appear in <a href = "https://www.springer.com/journal/10115" target = "_blank">KAIS</a> journal!</font></i></p> </li>
     <li><p> <i>2022/06: Invited to serve as a PC member of ACM <a href = "http://www.wsdm-conference.org/2023/" target = "_blank">WSDM 2023</a>.</i></p> </li>
     <li><p> <i>2022/04: <font color="color:#cc0000">We have a paper on unanswerablity of questions accepted by ACM <a href = "https://sigir.org/sigir2022/" target = "_blank">SIGIR 2022</a>!</font></i></p> </li>
@@ -59,8 +60,8 @@
     <li><p> <i>2022/01: <font color="color:#cc0000">We have a paper on bursting pattern in streaming graphs accepted by <a href = "https://www.dasfaa2022.org/" target = "_blank">DASFAA 2022</a>!</font></i></p></li>
     <li><p> <i>2021/11: Invited to serve as a PC member of ACM <a href = "https://kdd.org/kdd2022/index.html" target = "_blank">SIGKDD 2022</a>.</i></p> </li>
     <li><p> <i>2021/11: <font color="color:#cc0000">We have an article on multi-hop MRC accepted by <a href = "https://www.springer.com/journal/11280" target = "_blank">WWW Journal</a>!</font></i></p> </li>
-    <li><p> <i>2021/10: <font color="color:#cc0000">We have an article on continuous subgraph matching accepted by <a href = "http://www.semantic-web-journal.net/" target = "_blank">Semantic Web journal</a>!</font></i></p> </li>
-    <!--<li><p> <i>2021/09: <font color="color:#cc0000">We have an article on scalable entity alignment accepted by <a href = "https://www.springer.com/journal/778" target = "_blank">The VLDB Journal</a>!</font></i></p> </li>
+    <!--<li><p> <i>2021/10: <font color="color:#cc0000">We have an article on continuous subgraph matching accepted by <a href = "http://www.semantic-web-journal.net/" target = "_blank">Semantic Web journal</a>!</font></i></p> </li>
+    <li><p> <i>2021/09: <font color="color:#cc0000">We have an article on scalable entity alignment accepted by <a href = "https://www.springer.com/journal/778" target = "_blank">The VLDB Journal</a>!</font></i></p> </li>
     <li><p> <i>2021/09: <font color="color:#cc0000">We have an article on dynamic network embedding accepted by ACM <a href = "https://dl.acm.org/journal/tois" target = "_blank">TOIS</a>!</font></i></p> </li>
     <li><p> <i>2021/08: Invited to serve as a PC member of <a href = "https://www.dasfaa2022.org/" target = "_blank">DASFAA 2022</a>.</i></p> </li>
     <li><p> <i>2021/08: Invited to serve as a PC member of ACM <a href = "http://www.wsdm-conference.org/2022/" target = "_blank">WSDM 2022</a>.</i></p> </li>
@@ -94,6 +95,14 @@
 <div style="width:860px;margin:0px auto">
   <h3><b style="color:#0b5394">Selected Publications</b> (Full list @<a href="https://scholar.google.com/citations?user=7IZ4kgwAAAAJ&hl=en" target="_blank">Google Scholar</a>, @<a href="https://dblp.uni-trier.de/pers/hd/z/Zhao_0002:Xiang" target="_blank">DBLP</a>, @<a href="https://orcid.org/0000-0001-6339-0219" target="_blank">ORCID</a>, @<a href="https://www.aminer.cn/profile/562d5f7f45cedb3398ddd908" target="_blank">AMiner</a>)</h3>
   <ul>
+    <li><p><b>Learning Hypersphere for Few-shot Anomaly Detection on Attributed Networks</b> <br/>Qiuyu Guo, <b>Xiang Zhao</b>*, Yang Fang, Shiyu Yang, Xuemin Lin, Dian Ouyang. ACM <b>CIKM</b>, 2022.</p></li>
+    
+    <li><p><b>Few-Shot Relational Triple Extraction with Perspective Transfer Network</b> <br/>Junbo Fei, Weixin Zeng, <b>Xiang Zhao</b>, Xuanyi Li, Weidong Xiao. ACM <b>CIKM</b>, 2022.</p></li>
+    
+    <li><p><b>Handling RDF Streams: Harmonizing Subgraph Matching, Adaptive Incremental Maintenance, and Matching-free Updates Together</b> <br/>Qianzhen Zhang, Deke Guo, <b>Xiang Zhao</b>, Lailong Luo. ACM <b>CIKM</b>, 2022.</p></li>
+    
+    <li><p><b>SpCQL: A Semantic Parsing Dataset for Converting Natural Language into Cypher</b> <br/>Aibo Guo, Xinyi Li, Guanchen Xiao, Zhen Tan, <b>Xiang Zhao</b>*. ACM <b>CIKM</b>, 2022.</p></li>
+    
     <li><p><b>A Survey of Continuous Subgraph Matching for Dynamic Graphs</b> <br/>Xi Wang, Qianzhen Zhang, <a href="http://www.greenorbs.org/people/liu/guodeke/" target="_blank">Deke Guo</a>*, <b>Xiang Zhao</b>. <b><i>Knowledge and Information Systems</i></b>, 2022, in press.</p></li>
     
     <li><p><b>PTAU: Prompt Tuning for Attributing Unanswerable Questions</b> <br/>Jinzhi Liao, <b>Xiang Zhao</b>*, Jianming Zheng, Xinyi Li, Fei Cai and Jiuyang Tang. ACM <b>SIGIR</b>, 2022.</p></li>
