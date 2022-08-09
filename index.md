@@ -242,13 +242,13 @@ Graphs</a></b> <br/>Xi Wang, Qianzhen Zhang, <a href="http://www.greenorbs.org/p
   <ul>
 
   <li><p><b>Journal editorial board:</b></p>
-    <p><a href="http://www.ceaj.org/CN/jsjgc/home.shtml" target="_blank">计算机工程与应用</a> (since 2022)</p>
-    <p>IEEE <a href="http://ieeeaccess.ieee.org/" target="_blank">Access</a> (2018-2022)</p>
+    <p><a href="http://www.ceaj.org/CN/jsjgc/home.shtml" target="_blank">计算机工程与应用</a> (since 2022), 
+    IEEE <a href="http://ieeeaccess.ieee.org/" target="_blank">Access</a> (2018-2022)</p>
     </li>
 
   <li><p><b>Journal editorial review board:</b></p>
-    <p><a href="http://www.ecice06.com/CN/1000-3428/home.shtml" target="_blank">计算机工程</a> (since 2021)</p>
-    <p><a href="https://www.igi-global.com/journal/journal-database-management-jdm/1072" target="_blank">Journal of Database Management</a> (since 2018)</p>
+    <p><a href="http://www.ecice06.com/CN/1000-3428/home.shtml" target="_blank">计算机工程</a> (since 2021), 
+    <a href="https://www.igi-global.com/journal/journal-database-management-jdm/1072" target="_blank">Journal of Database Management</a> (since 2018)</p>
     </li>
 
   <li><p><b>Invited journal reviewers:</b></p><p>
