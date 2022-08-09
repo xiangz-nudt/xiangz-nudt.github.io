@@ -93,7 +93,7 @@
 </div>
 <hr/>
 <div style="width:860px;margin:0px auto">
-  <h3><b style="color:#0b5394">Selected Publications</b> (<a href="pub.html">Full list</a> @<a href="https://scholar.google.com/citations?user=7IZ4kgwAAAAJ&hl=en" target="_blank">Google Scholar</a>, @<a href="https://dblp.uni-trier.de/pers/hd/z/Zhao_0002:Xiang" target="_blank">DBLP</a>, @<a href="https://orcid.org/0000-0001-6339-0219" target="_blank">ORCID</a>, @<a href="https://www.aminer.cn/profile/562d5f7f45cedb3398ddd908" target="_blank">AMiner</a>)</h3>
+  <h3><b style="color:#0b5394">Selected Publications</b> (<a href="pub.html">Full list</a>, @<a href="https://scholar.google.com/citations?user=7IZ4kgwAAAAJ&hl=en" target="_blank">Google Scholar</a>, @<a href="https://dblp.uni-trier.de/pers/hd/z/Zhao_0002:Xiang" target="_blank">DBLP</a>, @<a href="https://orcid.org/0000-0001-6339-0219" target="_blank">ORCID</a>, @<a href="https://www.aminer.cn/profile/562d5f7f45cedb3398ddd908" target="_blank">AMiner</a>)</h3>
   <ul>
     <!--<li><p><b>Learning Hypersphere for Few-shot Anomaly Detection on Attributed Networks</b> <br/>Qiuyu Guo, <b>Xiang Zhao</b>*, Yang Fang, Shiyu Yang, Xuemin Lin, Dian Ouyang. ACM <b>CIKM</b>, 2022.</p></li>
     
