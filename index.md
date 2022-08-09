@@ -17,7 +17,7 @@
   <div style="height:290px;width:260px;margin:65px 15px 15px auto; float:left; display:flex; align-items:center;justify-content:flex-end">
     <img src="Pic.jpg" alt="Xiang Zhao">
   </div>
-  <div style="height:280px;width:570px;margin:60px auto 30px 15px;float:left">
+  <div style="height:280px;width:570px;margin:90px auto 30px 15px;float:left">
     <h2><b>Xiang Zhao</b>, PhD UNSW</h2>
     <p>
     <b>Professor</b>
