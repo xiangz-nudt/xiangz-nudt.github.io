@@ -95,7 +95,7 @@
 <div style="width:860px;margin:0px auto">
   <h3><b style="color:#0b5394">Selected Publications</b> (<a href="pub.html">Full list</a> @<a href="https://scholar.google.com/citations?user=7IZ4kgwAAAAJ&hl=en" target="_blank">Google Scholar</a>, @<a href="https://dblp.uni-trier.de/pers/hd/z/Zhao_0002:Xiang" target="_blank">DBLP</a>, @<a href="https://orcid.org/0000-0001-6339-0219" target="_blank">ORCID</a>, @<a href="https://www.aminer.cn/profile/562d5f7f45cedb3398ddd908" target="_blank">AMiner</a>)</h3>
   <ul>
-    <li><p><b>Learning Hypersphere for Few-shot Anomaly Detection on Attributed Networks</b> <br/>Qiuyu Guo, <b>Xiang Zhao</b>*, Yang Fang, Shiyu Yang, Xuemin Lin, Dian Ouyang. ACM <b>CIKM</b>, 2022.</p></li>
+    <!--<li><p><b>Learning Hypersphere for Few-shot Anomaly Detection on Attributed Networks</b> <br/>Qiuyu Guo, <b>Xiang Zhao</b>*, Yang Fang, Shiyu Yang, Xuemin Lin, Dian Ouyang. ACM <b>CIKM</b>, 2022.</p></li>
     
     <li><p><b>Few-Shot Relational Triple Extraction with Perspective Transfer Network</b> <br/>Junbo Fei, Weixin Zeng*, <b>Xiang Zhao</b>, Xuanyi Li, Weidong Xiao. ACM <b>CIKM</b>, 2022.</p></li>
     
@@ -103,28 +103,28 @@
     
     <li><p><b>SpCQL: A Semantic Parsing Dataset for Converting Natural Language into Cypher</b> <br/>Aibo Guo, Xinyi Li, Guanchen Xiao, Zhen Tan, <b>Xiang Zhao</b>*. ACM <b>CIKM</b>, 2022.</p></li>
     
-    <li><p><b>A Survey of Continuous Subgraph Matching for Dynamic Graphs</b> <br/>Xi Wang, Qianzhen Zhang, <a href="http://www.greenorbs.org/people/liu/guodeke/" target="_blank">Deke Guo</a>*, <b>Xiang Zhao</b>. <b><i>Knowledge and Information Systems</i></b>, 2022, in press.</p></li>
+    <li><p><b>A Survey of Continuous Subgraph Matching for Dynamic Graphs</b> <br/>Xi Wang, Qianzhen Zhang, <a href="http://www.greenorbs.org/people/liu/guodeke/" target="_blank">Deke Guo</a>*, <b>Xiang Zhao</b>. <b><i>Knowledge and Information Systems</i></b>, 2022, in press.</p></li>-->
     
     <li><p><b>PTAU: Prompt Tuning for Attributing Unanswerable Questions</b> <br/>Jinzhi Liao, <b>Xiang Zhao</b>*, Jianming Zheng, Xinyi Li, Fei Cai and Jiuyang Tang. ACM <b>SIGIR</b>, 2022.</p></li>
     
-    <li><p><b><a href="https://aclanthology.org/2022.findings-acl.9.pdf" target="_blank">Extract-Select: A Span Selection Framework for Nested Named Entity Recognition with Generative Adversarial Training</a></b> <br/>Peixin Huang, <b>Xiang Zhao</b>, Minghao Hu*, Yang Fang, Xinyi Li, Weidong Xiao. <b>Findings of ACL</b>, 2022.</p></li>
+    <!--<li><p><b><a href="https://aclanthology.org/2022.findings-acl.9.pdf" target="_blank">Extract-Select: A Span Selection Framework for Nested Named Entity Recognition with Generative Adversarial Training</a></b> <br/>Peixin Huang, <b>Xiang Zhao</b>, Minghao Hu*, Yang Fang, Xinyi Li, Weidong Xiao. <b>Findings of ACL</b>, 2022.</p></li>
     
     <li><p><b>Discovering Bursting Patterns over Streaming Graphs</b> <br/>Qianzhen Zhang, <a href="http://www.greenorbs.org/people/liu/guodeke/" target="_blank">Deke Guo</a>, <b>Xiang Zhao</b>. <b>DASFAA</b>, 2022.</p></li>
     
     <li><p><b><a href="https://doi.org/10.1007/s11280-021-00980-6" target="_blank">Contrastive Heterogeneous Graphs Learning for Multi-Hop Machine Reading Comprehension</a></b> <br/>Jinzhi Liao, <b>Xiang Zhao</b>*, Xinyi Li, Jiuyang Tang, Bin Ge. <b><i>World Wide Web</i></b>, 2021, in press.</p></li>
     
     <li><p><b><a href="https://content.iospress.com/download/semantic-web/sw212864?id=semantic-web%2Fsw212864" target="_blank">Continuous Multi-Query Optimization for Subgraph Matching over Dynamic
-Graphs</a></b> <br/>Xi Wang, Qianzhen Zhang, <a href="http://www.greenorbs.org/people/liu/guodeke/" target="_blank">Deke Guo</a>*, <b>Xiang Zhao</b>. <b><i>Semantic Web</i></b>, 2021, in press.</p></li>
+Graphs</a></b> <br/>Xi Wang, Qianzhen Zhang, <a href="http://www.greenorbs.org/people/liu/guodeke/" target="_blank">Deke Guo</a>*, <b>Xiang Zhao</b>. <b><i>Semantic Web</i></b>, 2021, in press.</p></li>-->
     
     <li><p><b><a href="https://link.springer.com/article/10.1007/s00778-021-00703-3" target="_blank">On Entity Alignment at Scale</a></b> <br/>Weixin Zeng, <b>Xiang Zhao</b>*, Xinyi Li, Jiuyang Tang, <a href = "https://www.cse.ust.hk/~weiwcs/" target="_blank">Wei Wang</a>. <b><i>VLDB J.</i></b>, 2021, in press.</p></li>
     
     <li><p><b><a href="https://dl.acm.org/doi/pdf/10.1145/3485189" target="_blank">Scalable Representation Learning for Dynamic Heterogeneous Information Networks via Metagraph</a></b> <br/>Yang Fang, <b>Xiang Zhao</b>*, Peixin Huang, Weidong Xiao, <a href = "https://staff.fnwi.uva.nl/m.derijke/" target = "_blank">Maarten de Rijke</a>. <i>ACM <b>Trans. Info. Syst.</b></i> <b>(TOIS)</b>, 2022, 40(4): 64:1-64:27.</p></li>
     
-    <li><p><b><a href="https://doi.org/10.1145/3482853" target="_blank">A Brief Overview of Universal Sentence Representation Methods: A Linguistic View</a></b> <br/>Ruiqi Li, <b>Xiang Zhao</b>*, <a href="https://people.cs.kuleuven.be/~sien.moens/" target="_blank">Marie-Francine Moens</a>. <i>ACM <b>Computing Surveys</b></i> <b>(CSUR)</b>, 2023, 55(3): 56:1-56:42.</p></li>
+    <!--<li><p><b><a href="https://doi.org/10.1145/3482853" target="_blank">A Brief Overview of Universal Sentence Representation Methods: A Linguistic View</a></b> <br/>Ruiqi Li, <b>Xiang Zhao</b>*, <a href="https://people.cs.kuleuven.be/~sien.moens/" target="_blank">Marie-Francine Moens</a>. <i>ACM <b>Computing Surveys</b></i> <b>(CSUR)</b>, 2023, 55(3): 56:1-56:42.</p></li>
     
     <li><p><b>Reinforced Active Entity Alignment</b> [<a href="https://github.com/DexterZeng/RAC" target="_blank">code</a>]<br/>Weixin Zeng, <b>Xiang Zhao</b>*, Jiuyang Tang, Changjun Fan. ACM <b>CIKM</b>, 2021.</p></li>
   
-    <li><p><b><a href="https://link.springer.com/content/pdf/10.1007/s11280-021-00911-5.pdf" target="_blank">To Hop or Not, That is the Question: Towards Effective Multi-hop Reasoning over Knowledge Graphs</a></b> <br/>Jinzhi Liao, <b>Xiang Zhao</b>*, Jiuyang Tang, Weixin Zeng, Zhen Tan. <b><i>World Wide Web</i></b>, 2021, 24(5): 1837-1856.</p></li>
+    <li><p><b><a href="https://link.springer.com/content/pdf/10.1007/s11280-021-00911-5.pdf" target="_blank">To Hop or Not, That is the Question: Towards Effective Multi-hop Reasoning over Knowledge Graphs</a></b> <br/>Jinzhi Liao, <b>Xiang Zhao</b>*, Jiuyang Tang, Weixin Zeng, Zhen Tan. <b><i>World Wide Web</i></b>, 2021, 24(5): 1837-1856.</p></li>-->
     
     <li><p><b>Learning Discriminative Neural Representations for Event Detection</b> [<a href="https://github.com/passenger20/DNR/tree/master" target="_blank">code</a>]<br/>Jinzhi Liao, <b>Xiang Zhao</b>*, Xinyi Li*, <a href="http://gr.xjtu.edu.cn/en/web/zhanglling/home" target="_blank">Lingling Zhang</a>, Jiuyang Tang. ACM <b>SIGIR</b>, 2021.</p></li>
     
@@ -132,29 +132,29 @@ Graphs</a></b> <br/>Xi Wang, Qianzhen Zhang, <a href="http://www.greenorbs.org/p
     
     <li><p><b><a href="https://dl.acm.org/doi/pdf/10.1145/3446428" target="_blank">Reinforcement Learning based Collective Entity Alignment with Adaptive Features</a></b> [<a href="https://github.com/DexterZeng/CEAFF" target="_blank">code</a>]<br/>Weixin Zeng, <b>Xiang Zhao</b>*, Jiuyang Tang, <a href = "http://www.cse.unsw.edu.au/~lxue/" target = "_blank">Xuemin Lin</a>, <a href = "http://pgroth.com/" target = "_blank">Paul Groth</a>. <i>ACM <b>Trans. Info. Syst.</b></i> <b>(TOIS)</b>, 2021, 39(3): 26:1-26:31.</p></li>
     
-    <li><p><b><a href="https://link.springer.com/content/pdf/10.1007/s11280-020-00860-5.pdf" target="_blank">Continuous Matching of Evolving Patterns Over Dynamic Graph Data</a></b><br/>Qianzhen Zhang, <a href="http://www.greenorbs.org/people/liu/guodeke/" target="_blank">Deke Guo</a>*, <b>Xiang Zhao</b>*, Xi Wang. <b><i>World Wide Web</i></b>, 2021, 24(3): 721-745.</p></li>
+    <!--<li><p><b><a href="https://link.springer.com/content/pdf/10.1007/s11280-020-00860-5.pdf" target="_blank">Continuous Matching of Evolving Patterns Over Dynamic Graph Data</a></b><br/>Qianzhen Zhang, <a href="http://www.greenorbs.org/people/liu/guodeke/" target="_blank">Deke Guo</a>*, <b>Xiang Zhao</b>*, Xi Wang. <b><i>World Wide Web</i></b>, 2021, 24(3): 721-745.</p></li>
   
-    <li><p><b><a href="https://www.aclweb.org/anthology/2020.coling-main.239.pdf" target="_blank">Joint Event Extraction with Hierarchical Policy Network</a></b><br/>Peixin Huang, <b>Xiang Zhao</b>*, Ryuichi Takanobu, Zhen Tan, Weidong Xiao. <b>COLING</b>, 2020.</p></li>
+    <li><p><b><a href="https://www.aclweb.org/anthology/2020.coling-main.239.pdf" target="_blank">Joint Event Extraction with Hierarchical Policy Network</a></b><br/>Peixin Huang, <b>Xiang Zhao</b>*, Ryuichi Takanobu, Zhen Tan, Weidong Xiao. <b>COLING</b>, 2020.</p></li>-->
     
     <li><p><b><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9174835" target="_blank">An Experimental Study of State-of-the-Art Entity Alignment Approaches</a></b> [<a href="https://github.com/DexterZeng/EAE" target="_blank">code</a>]<br/><b>Xiang Zhao</b>*, Weixin Zeng, Jiuyang Tang, <a href="http://www.cse.unsw.edu.au/~weiw/" target="_blank">Wei Wang</a>, <a href="https://suchanek.name/" target="_blank">Fabian M. Suchanek</a>. <i>IEEE </i><b><i>Trans. Know. Data Eng.</i></b> (<b>TKDE</b>), 2020, in press.</p></li>
   
-    <li><p><b><a href="http://scis.scichina.com/en/2021/130103.pdf">Few-shot Text Classification by Leveraging Bi-directional Attention and Cross-class Knowledge</a></b><br/>Ning Pang, <b>Xiang Zhao</b>*, <a href="http://www.cse.unsw.edu.au/~weiw/" target="_blank">Wei Wang</a>, Weidong Xiao, <a href="http://www.greenorbs.org/people/liu/guodeke/" target="_blank">Deke Guo</a>. <i><b>Sci. China Inf. Sci.</b></i> <b>(SCIS)</b>, 2021, 64: Article No. 130103, 1-13.</p></li>
+    <!--<li><p><b><a href="http://scis.scichina.com/en/2021/130103.pdf">Few-shot Text Classification by Leveraging Bi-directional Attention and Cross-class Knowledge</a></b><br/>Ning Pang, <b>Xiang Zhao</b>*, <a href="http://www.cse.unsw.edu.au/~weiw/" target="_blank">Wei Wang</a>, Weidong Xiao, <a href="http://www.greenorbs.org/people/liu/guodeke/" target="_blank">Deke Guo</a>. <i><b>Sci. China Inf. Sci.</b></i> <b>(SCIS)</b>, 2021, 64: Article No. 130103, 1-13.</p></li>-->
   
    <li><p><b>Block-aware Item Similarity Models for Top-N Recommendations</b><br/><a href = "https://sites.google.com/view/yifanchenuva/home" target = "_blank">Yifan Chen</a>*, <a href = "https://sites.google.com/view/wayag/home" target = "_blank">Yang Wang</a>, <b>Xiang Zhao</b>, <a href = "https://sites.google.com/site/jiezou0806" target = "_blank">Jie Zou</a>, <a href = "https://staff.fnwi.uva.nl/m.derijke/" target = "_blank">Maarten de Rijke</a>. <i>ACM <b>Trans. Info. Syst.</b></i> <b>(TOIS)</b>, 2020, 38(4): 42:1-42:26.</p></li>
   
     <li><p><b>Multi-hop Reading Comprehension Incorporating Sentence-Based Reasoning</b> [<a href="https://doi.org/10.1007/s11280-021-00980-6" target="_blank">extended version</a>]<br/>Lijun Huo, Bin Ge, <b>Xiang Zhao</b>*. <b>APWeb-WAIM</b>, 2020 [<font color="#cc0000" >Best Paper</font>].</p></li>
 
-    <li><p><b>Seasonal-Periodic Subgraph Mining in Temporal Networks</b><br/>Qianzhen Zhang, <a href="http://www.greenorbs.org/people/liu/guodeke/" target="_blank">Deke Guo</a>*, <b>Xiang Zhao</b>*, Xinyi Li, Xi Wang. ACM <b>CIKM</b>,<b> </b>2020 (Short).</p></li>
+    <!--<li><p><b>Seasonal-Periodic Subgraph Mining in Temporal Networks</b><br/>Qianzhen Zhang, <a href="http://www.greenorbs.org/people/liu/guodeke/" target="_blank">Deke Guo</a>*, <b>Xiang Zhao</b>*, Xinyi Li, Xi Wang. ACM <b>CIKM</b>,<b> </b>2020 (Short).</p></li>-->
   
     <li><p><b>Chinese Text Classification via Bidirectional Lattice LSTM</b><br/>Ning Pang, Weidong Xiao, <b>Xiang Zhao</b>*. <b>KSEM</b>, 2020 [<font color="#cc0000" >Best Student Paper Runner-up</font>].</p></li>
     
     <li><p><b>Degree-Aware Alignment for Entities in Tail</b> [<a href="https://github.com/DexterZeng/DAT" target="_blank">code</a>]<br/>Weixin Zeng, <b>Xiang Zhao</b>*, <a href="http://www.cse.unsw.edu.au/~weiw/" target="_blank">Wei Wang</a>, Jiuyang Tang, Zhen Tan. ACM <b>SIGIR</b>, 2020.</p></li>
     
-    <li><p><b>GQA_RDF: A Graph-based Approach towards Efficient SPARQL Query Answering</b><br/>Xi Wang, Qianzhen Zhang, <a href = "http://www.greenorbs.org/people/liu/guodeke/" target = "_blank">Deke Guo</a>*, <b>Xiang Zhao</b>*, <a href = "http://csee.hnu.edu.cn/people/yangjianye" target = "_blank">Jianye Yang</a>. <b>DASFAA</b>, 2020.</p></li>
+    <!--<li><p><b>GQA_RDF: A Graph-based Approach towards Efficient SPARQL Query Answering</b><br/>Xi Wang, Qianzhen Zhang, <a href = "http://www.greenorbs.org/people/liu/guodeke/" target = "_blank">Deke Guo</a>*, <b>Xiang Zhao</b>*, <a href = "http://csee.hnu.edu.cn/people/yangjianye" target = "_blank">Jianye Yang</a>. <b>DASFAA</b>, 2020.</p></li>
   
     <li><p><b>Cross-Graph Representation Learning for Unsupervised Graph Alignment</b><br/>Weifan Wang, <a href = "http://gr.xjtu.edu.cn/web/minnluo/home" target = "_blank">Minnan Luo</a>*, Caixia Yan, <a href = "http://seu.wangmengsd.com/" target = "_blank">Meng Wang</a>, <b>Xiang Zhao</b>, <a href = "http://gr.xjtu.edu.cn/web/qhzheng" target = "_blank">Qinghua Zheng</a>. <b>DASFAA</b>, 2020.</p></li>
   
-    <li><p><b><a href="http://jcst.ict.ac.cn/EN/10.1007/s11390-020-9864-z">Item Cold-start Recommendation with Personalized Feature Selection</a></b><br/><a href = "https://sites.google.com/view/yifanchenuva/home" target = "_blank">Yifan Chen</a>, <b>Xiang Zhao</b>*, Jinyuan Liu, Bin Ge, Weiming Zhang. <i><b> J. Comput. Sci. Technol.</b></i> <b>(JCST)</b>, 2020, 35(5): 1217-1230.</p></li>
+    <li><p><b><a href="http://jcst.ict.ac.cn/EN/10.1007/s11390-020-9864-z">Item Cold-start Recommendation with Personalized Feature Selection</a></b><br/><a href = "https://sites.google.com/view/yifanchenuva/home" target = "_blank">Yifan Chen</a>, <b>Xiang Zhao</b>*, Jinyuan Liu, Bin Ge, Weiming Zhang. <i><b> J. Comput. Sci. Technol.</b></i> <b>(JCST)</b>, 2020, 35(5): 1217-1230.</p></li>-->
   
     <li><p><b>Collective Entity Alignment via Adaptive Features</b> [<a href="https://github.com/DexterZeng/CEA" target="_blank">code</a>] [<a href="https://doi.org/10.1145/3446428" target="_blank">extended version</a>]<br/>Weixin Zeng, <b>Xiang Zhao</b>*, Jiuyang Tang, <a href = "http://www.cse.unsw.edu.au/~lxue/" target = "_blank">Xuemin Lin</a>. IEEE <b>ICDE</b>, 2020 (short).</p></li>
   
@@ -164,13 +164,13 @@ Graphs</a></b> <br/>Xi Wang, Qianzhen Zhang, <a href="http://www.greenorbs.org/p
   
     <li><p><b><a href="https://aaai.org/ojs/index.php/AAAI/article/view/6358/6214">HAMNER: Headword Amplified Multi-span Distantly Supervised Method for Domain Specific Named Entity Recognition</a></b><br/>Shifeng Liu, Yifang Sun, Bing Li, <a href="http://www.cse.unsw.edu.au/~weiw/" target="_blank">Wei Wang</a>, <b>Xiang Zhao</b>. <b>AAAI</b>, 2020.</p></li>
   
-    <li><p><b>On Continuous Matching of Evolving Graph Patterns</b> [<a href="https://doi.org/10.1007/s11280-020-00860-5" target="_blank">extended version</a>]<br/>Qianzhen Zhang, <a href="http://www.greenorbs.org/people/liu/guodeke/" target="_blank">Deke Guo</a>*, <b>Xiang Zhao</b>*, Aibo Guo. ACM <b>CIKM</b>,<b> </b>2019 (short).</p></li>
+    <!--<li><p><b>On Continuous Matching of Evolving Graph Patterns</b> [<a href="https://doi.org/10.1007/s11280-020-00860-5" target="_blank">extended version</a>]<br/>Qianzhen Zhang, <a href="http://www.greenorbs.org/people/liu/guodeke/" target="_blank">Deke Guo</a>*, <b>Xiang Zhao</b>*, Aibo Guo. ACM <b>CIKM</b>,<b> </b>2019 (short).</p></li>-->
   
     <li><p><b>M-HIN: Complex Embedding for Heterogeneous Information Networks via Metagraphs</b> [<a href="https://dl.acm.org/doi/pdf/10.1145/3485189" target="_blank">extended version</a>]<br/>Yang Fang, <b>Xiang Zhao</b>, Peixin Huang, Weidong Xiao, <a href="https://staff.fnwi.uva.nl/m.derijke/" target="_blank">Maarten de Rijke</a>. ACM <b>SIGIR</b>,<b> </b>2019 (short).</p></li>
   
     <li><p><b>Near-accurate Multiset Reconciliation (Extended Abstract)</b><br/><a href="http://scholar.google.com/citations?user=Ta1jm9wAAAAJ&amp;hl=en">Lailong Luo</a>, <a href="http://www.greenorbs.org/people/liu/guodeke/" target="_blank">Deke Guo</a>, <b>Xiang Zhao</b>, <a href="https://cis.temple.edu/~wu/" target="_blank">Jie Wu</a>, <a href="https://sites.google.com/site/orirottenstreich/" target="_blank">Ori Rottenstreich</a>, Xueshan Luo. IEEE <b>ICDE</b>,<b> </b>2019 (poster).</p></li>
   
-    <li><p><b>Relevance-based Entity Embedding</b><br/>Weixin Zeng, <b>Xiang Zhao</b>*, Jiuyang Tang, Jinzhi Liao, <a href="http://sdcs.sysu.edu.cn/node/2465" target="_blank">Chang-Dong Wang</a>. <b>DASFAA</b>,<b> </b>2019 (short).</p></li>
+    <!--<li><p><b>Relevance-based Entity Embedding</b><br/>Weixin Zeng, <b>Xiang Zhao</b>*, Jiuyang Tang, Jinzhi Liao, <a href="http://sdcs.sysu.edu.cn/node/2465" target="_blank">Chang-Dong Wang</a>. <b>DASFAA</b>,<b> </b>2019 (short).</p></li>-->
   
     <li><p><b><a href="https://www.aaai.org/ojs/index.php/AAAI/article/view/4689/4567">Jointly Extracting Multiple Triplets with Multilayer Translation Constraints</a></b><br/>Zhen Tan, <b>Xiang Zhao</b>*, <a href="http://www.cse.unsw.edu.au/~weiw/" target="_blank">Wei Wang</a>, Weidong Xiao. <b>AAAI</b>,<b> </b>2019.</p></li>
   
@@ -186,22 +186,22 @@ Graphs</a></b> <br/>Xi Wang, Qianzhen Zhang, <a href="http://www.greenorbs.org/p
     <li><p><b>Efficient Structure Similarity Search: </b><b>A Partition-Based Approach</b><br />
   <b>Xiang Zhao</b>, <a href="https://sites.google.com/site/chuanxiao1983/" target="_blank">Chuan Xiao</a>*, <a href="http://www.cse.unsw.edu.au/~lxue/" target="_blank">Xuemin Lin</a>, <a href="http://www.cse.unsw.edu.au/~zhangw/" target="_blank">Wenjie Zhang</a>, <a href="https://sites.google.com/view/wayag/home" target="_blank">Yang Wang</a>. <i><b>VLDB J.</b></i>, 2018, 27(1): 53-78.</p></li>
   
-    <li><p><b>Representation Learning of Large-Scale Knowledge Graphs via Entity Feature Combinations</b><br />
-  Zhen Tan, <b >Xiang Zhao</b>*, <a href="http://www.cse.unsw.edu.au/~weiw/" target="_blank">Wei Wang</a>. ACM <b>CIKM</b>,<b> </b>2017.</p></li>
+    <!--<li><p><b>Representation Learning of Large-Scale Knowledge Graphs via Entity Feature Combinations</b><br />
+  Zhen Tan, <b >Xiang Zhao</b>*, <a href="http://www.cse.unsw.edu.au/~weiw/" target="_blank">Wei Wang</a>. ACM <b>CIKM</b>,<b> </b>2017.</p></li>-->
   
     <li><p><b>Top-<i>N</i> Recommendation with High-Dimensional Side Information via Locality Preserving Projection</b> [<a href="https://github.com/yifanclifford/Prism" target="_blank">code</a>]<br />    <a href="https://sites.google.com/view/yifanchenuva/home" target="_blank">Yifan Chen</a>, <b>Xiang Zhao</b>, <a href="https://staff.fnwi.uva.nl/m.derijke/" target="_blank">Maarten de Rijke</a>. ACM <b>SIGIR</b>,<b> </b>2017 (Short).</p></li>
   
-    <li><p><b>Unsupervised Metric Fusion over Multi-view Data by Graph Random Walk based Cross-view Diffusion</b><br />   <a href="https://sites.google.com/view/wayag/home" target="_blank">Yang Wang</a>, <a href="http://www.cse.unsw.edu.au/~zhangw/"  target="_blank">Wenjie Zhang</a>, <a href="https://sites.google.com/site/linwuuq" target="_blank">Lin Wu</a>, <a href="http://www.cse.unsw.edu.au/~lxue/"   target="_blank">Xuemin Lin</a>, <b >Xiang Zhao</b>. <i >IEEE <b >Trans. Neural Netw. Learning Syst. </b></i> (<b>TNNLS</b>), 2017, 28(1): 57-70.</p></li>
+    <!--<li><p><b>Unsupervised Metric Fusion over Multi-view Data by Graph Random Walk based Cross-view Diffusion</b><br />   <a href="https://sites.google.com/view/wayag/home" target="_blank">Yang Wang</a>, <a href="http://www.cse.unsw.edu.au/~zhangw/"  target="_blank">Wenjie Zhang</a>, <a href="https://sites.google.com/site/linwuuq" target="_blank">Lin Wu</a>, <a href="http://www.cse.unsw.edu.au/~lxue/"   target="_blank">Xuemin Lin</a>, <b >Xiang Zhao</b>. <i >IEEE <b >Trans. Neural Netw. Learning Syst. </b></i> (<b>TNNLS</b>), 2017, 28(1): 57-70.</p></li>
   
-    <li><p><b><a href="https://academic.oup.com/comjnl/article-pdf/59/8/1113/8039116/bxv118.pdf">Frequent Subgraph Mining Based on Pregel</a></b><br /><b>Xiang Zhao</b>*, <a href="https://sites.google.com/view/yifanchenuva/home" target="_blank">Yifan Chen</a>, <a href="https://sites.google.com/site/chuanxiao1983/" target="_blank">Chuan Xiao</a>, <a href="http://www.db.ss.is.nagoya-u.ac.jp/~ishikawa/" target="_blank">Yoshiharu Ishikawa</a>, Jiuyang Tang. <b ><i>Comput. J.</i></b>, 2016, 59(8): 1113-1128.</p></li>
+    <li><p><b><a href="https://academic.oup.com/comjnl/article-pdf/59/8/1113/8039116/bxv118.pdf">Frequent Subgraph Mining Based on Pregel</a></b><br /><b>Xiang Zhao</b>*, <a href="https://sites.google.com/view/yifanchenuva/home" target="_blank">Yifan Chen</a>, <a href="https://sites.google.com/site/chuanxiao1983/" target="_blank">Chuan Xiao</a>, <a href="http://www.db.ss.is.nagoya-u.ac.jp/~ishikawa/" target="_blank">Yoshiharu Ishikawa</a>, Jiuyang Tang. <b ><i>Comput. J.</i></b>, 2016, 59(8): 1113-1128.</p></li>-->
   
     <li><p><b>Content-Based Top-<i>N</i></b><b> Recommendation Using Heterogeneous Relations</b><br /><a href="https://sites.google.com/view/yifanchenuva/home" target="_blank">Yifan Chen</a>, <b>Xiang Zhao</b>, Junjiao Gan, Junkai Ren, Yanli Hu. ADC, 2016 [<font color="#cc0000" >Best Student Paper Runner-up</font>].</p></li>
   
-    <li><p><b>Towards Frequent Subgraph Mining on Single Large Uncertain Graphs</b> [<a href="https://doi.org/10.1109/TKDE.2018.2830336" target="_blank">extended version</a>] <br /><a href="https://sites.google.com/view/yifanchenuva/home" target="_blank">Yifan Chen</a>,<b> Xiang Zhao</b>*, <a href="http://www.cse.unsw.edu.au/~lxue/" target="_blank">Xuemin Lin</a>, <a href="https://sites.google.com/view/wayag/home" target="_blank">Yang Wang</a>. IEEE <b >ICDM</b>, 2015.</p></li>
+    <!--<li><p><b>Towards Frequent Subgraph Mining on Single Large Uncertain Graphs</b> [<a href="https://doi.org/10.1109/TKDE.2018.2830336" target="_blank">extended version</a>] <br /><a href="https://sites.google.com/view/yifanchenuva/home" target="_blank">Yifan Chen</a>,<b> Xiang Zhao</b>*, <a href="http://www.cse.unsw.edu.au/~lxue/" target="_blank">Xuemin Lin</a>, <a href="https://sites.google.com/view/wayag/home" target="_blank">Yang Wang</a>. IEEE <b >ICDM</b>, 2015.</p></li>
   
     <li><p><b>Towards Scale-Out Capability on Social Graphs</b><br />Haichuan Shang,<b> Xiang Zhao</b>, <a href="https://researchweb.iiit.ac.in/~uday_rage/" target="_blank">Uday Kiran</a>, <a href="http://www.tkl.iis.u-tokyo.ac.jp/Kilab/Members/memo/kitsure_e.html" target="_blank">Masaru Kitsuregawa</a>. ACM <b>CIKM</b>, 2015.</p></li>
   
-    <li><p><b>Improving the Performance of Graph Similarity Joins using Selected Substructures </b>[<a href="https://sites.google.com/site/xzhaounsw/DASFAA14_talk.pptx?attredirects=0&amp;d=1">slides</a>]<br /><b>Xiang Zhao</b>, <a href="https://sites.google.com/site/chuanxiao1983/" target="_blank">Chuan Xiao</a>, <a href="http://www.cse.unsw.edu.au/~zhangw/" target="_blank">Wenjie Zhang</a>, <a href="http://www.cse.unsw.edu.au/~lxue/" target="_blank">Xuemin Lin</a>, Jiuyang Tang. <b>DASFAA</b>, 2014.</p></li>
+    <li><p><b>Improving the Performance of Graph Similarity Joins using Selected Substructures </b>[<a href="https://sites.google.com/site/xzhaounsw/DASFAA14_talk.pptx?attredirects=0&amp;d=1">slides</a>]<br /><b>Xiang Zhao</b>, <a href="https://sites.google.com/site/chuanxiao1983/" target="_blank">Chuan Xiao</a>, <a href="http://www.cse.unsw.edu.au/~zhangw/" target="_blank">Wenjie Zhang</a>, <a href="http://www.cse.unsw.edu.au/~lxue/" target="_blank">Xuemin Lin</a>, Jiuyang Tang. <b>DASFAA</b>, 2014.</p></li>-->
   
     <li><p><b><a href="https://sites.google.com/site/xzhaounsw/VLDB2014-PartSearch.pdf?attredirects=0">A Partition-Based Approach to Structure Similarity Search</a> </b> [<a href="https://sites.google.com/site/xzhaounsw/VLDB2014_talk.pptx?attredirects=0&amp;d=1">slides</a>] [<a href="https://doi.org/10.1007/s00778-017-0487-0" target="_blank">extended version</a>]<br /><b>Xiang Zhao</b>, <a href="https://sites.google.com/site/chuanxiao1983/" target="_blank">Chuan Xiao</a>, <a href="http://www.cse.unsw.edu.au/~lxue/" target="_blank">Xuemin Lin</a>, <a href="http://www.ict.csiro.au/staff/q.liu/" target="_blank">Qing Liu</a>, <a href="http://www.cse.unsw.edu.au/~zhangw/" target="_blank">Wenjie Zhang</a>. <i>Proc. of the VLDB Endowment </i>(<b>PVLDB</b>), 2013, 7(3): 169-180.</p></li>
   
@@ -209,7 +209,7 @@ Graphs</a></b> <br/>Xi Wang, Qianzhen Zhang, <a href="http://www.greenorbs.org/p
   
     <li><p> <a href="http://dx.doi.org/10.1007/s00778-013-0306-1" target="_blank"><b>Efficient Processing of Graph Similarity Queries with Edit Distance Constraints</b></a><br /><b>Xiang Zhao</b>*, <a href="https://sites.google.com/site/chuanxiao1983/" target="_blank">Chuan Xiao</a>, <a href="http://www.cse.unsw.edu.au/~lxue/" target="_blank">Xuemin Lin</a>, <a href="http://www.cse.unsw.edu.au/~weiw/" target="_blank">Wei Wang</a>, <a href="http://www.db.ss.is.nagoya-u.ac.jp/~ishikawa/" target="_blank">Yoshiharu Ishikawa</a>. <i><b>VLDB J.</b></i>, 2013, 22(6): 727-752.</p></li>
   
-    <li><p><b><a href="https://sites.google.com/site/xzhaounsw/DASFAA2013_SsSearch.pdf?attredirects=0" >On Efficient Graph Substructure Selection</a> </b>[<a href="https://sites.google.com/site/xzhaounsw/DASFAA2013_Talk.pptx?attredirects=0">slides</a>]<br /><b>Xiang Zhao</b>, Haichuan Shang, <a href="http://www.cse.unsw.edu.au/~zhangw/" target="_blank">Wenjie Zhang</a>, <a href="http://www.cse.unsw.edu.au/~lxue/" target="_blank">Xuemin Lin</a>, Weidong Xiao. <b>DASFAA</b>, 2013.</p></li>
+    <!--<li><p><b><a href="https://sites.google.com/site/xzhaounsw/DASFAA2013_SsSearch.pdf?attredirects=0" >On Efficient Graph Substructure Selection</a> </b>[<a href="https://sites.google.com/site/xzhaounsw/DASFAA2013_Talk.pptx?attredirects=0">slides</a>]<br /><b>Xiang Zhao</b>, Haichuan Shang, <a href="http://www.cse.unsw.edu.au/~zhangw/" target="_blank">Wenjie Zhang</a>, <a href="http://www.cse.unsw.edu.au/~lxue/" target="_blank">Xuemin Lin</a>, Weidong Xiao. <b>DASFAA</b>, 2013.</p></li>-->
   
     <li><p><b><a href="https://sites.google.com/site/xzhaounsw/ICDE2012-GSimJoin.pdf?attredirects=0">Efficient Graph Similarity Joins with Edit Distance Constraints</a> </b> [<a href="https://sites.google.com/site/xzhaounsw/ICDE2012_Talk.pptx?attredirects=0">slides</a>] [<a href="http://dx.doi.org/10.1007/s00778-013-0306-1" target="_blank">extended version</a>] <br /><b>Xiang Zhao</b>, <a href="https://sites.google.com/site/chuanxiao1983/" target="_blank">Chuan Xiao</a>, <a href="http://www.cse.unsw.edu.au/~lxue/" target="_blank">Xuemin Lin</a>, <a href="http://www.cse.unsw.edu.au/~weiw/" target="_blank">Wei Wang</a>. IEEE <b>ICDE</b>, 2012.</p></li>
     
@@ -342,7 +342,7 @@ Graphs</a></b> <br/>Xi Wang, Qianzhen Zhang, <a href="http://www.greenorbs.org/p
 </div>
 <hr/>
 <div style="width:860px;margin:0px auto">
-  <h3> <b style="color:rgb(166,77,121)">Awards</b></h3>
+  <h3> <b style="color:rgb(166,77,121)">Awards and Grants</b></h3>
   <ul>
 
   <li><p><b>ACM SIGMOD China Rising Star Award</b>, awarded by <a href="https://www.acm.org/acm-china-council" target="_blank">ACM China</a>, 2018</p></li>
