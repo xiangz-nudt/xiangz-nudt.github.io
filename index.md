@@ -348,6 +348,7 @@ Graphs</a></b> <br/>Xi Wang, Qianzhen Zhang, <a href="http://www.greenorbs.org/p
     <li><p><b>High-level Young Talents Award Scheme</b>, <a href="http://www.moe.gov.cn/" target="_blank">Ministry of Education of China</a>, 2021- 2023</p></li>  
     <li><p><b>PI of General Project</b>: Harvest and Utilization of Domain Knowledge Graphs with Scarce Sample Constraints, <a href="https://nsfc.gov.cn/" target="_blank">NSFC</a>, 2019 - 2022</p></li>
     <li><p><b>PI of Project for Distinguished Young Scholars</b>: Theory and Method of Graph Data Management and Analytics for Cognitive Intelligence of Intelligence, <a href="http://kjt.hunan.gov.cn/kjt/zxgz/zkjj/index.html" target="_blank">NSF of Hunan</a>, 2019 - 2021</p></li>
+    <li><p><b> Young Talents Lift-up Program</b>, <a href="http://www.cast.org.cn/" target="_blank">China Association for Science and Technology</a>, 2019 - 2021</p></li>
     <li><p><b>ACM SIGMOD China Rising Star Award</b>, awarded by <a href="https://www.acm.org/acm-china-council" target="_blank">ACM China</a>, 2018</p></li>
     <li><p><b>PI of Project for Young Scholars</b>: Processing Structural Similarity Queries on Large-Scale Graph Data, <a href="https://nsfc.gov.cn/" target="_blank">NSFC</a>, 2015 - 2017</p></li>
     <li><p><b>PI of Project for Young Scholars</b>: Frequent Subgraph Mining in Single Massive Graphs, <a href="http://kjt.hunan.gov.cn/kjt/zxgz/zkjj/index.html" target="_blank">NSF of Hunan</a>, 2015 - 2017</p></li>
