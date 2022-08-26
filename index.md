@@ -51,6 +51,7 @@
 <div style="width:860px;margin:0px auto">
   <h3 style="color:#b45f06"><b><i>News</i></b></h3>
   <ul style="list-style-type:square; line-height:1">
+    <li><p> <i>2022/08: <font color="color:#cc0000">We have a paper on mining temporal graphs accepted by IEEE <a href = "https://icde2023.ics.uci.edu/" target = "_blank">ICDE 2023</a>!</font></i></p> </li>
     <li><p> <i>2022/08: <font color="color:#cc0000">We have four papers on graph processing and learning accepted by <a href = "https://www.cikm2022.org/" target = "_blank">CIKM 2022</a>!</font></i></p> </li>
     <li><p> <i>2022/07: <font color="color:#cc0000">We have a survey on dynamic graphs to appear in <a href = "https://www.springer.com/journal/10115" target = "_blank">KAIS</a> journal!</font></i></p> </li>
     <li><p> <i>2022/06: Invited to serve as a PC member of ACM <a href = "http://www.wsdm-conference.org/2023/" target = "_blank">WSDM 2023</a>.</i></p> </li>
@@ -59,8 +60,8 @@
     <li><p> <i>2022/03: Invited to serve as a PC member of <a href = "https://coling2022.org/" target = "_blank">COLING 2022</a>.</i></p> </li>
     <li><p> <i>2022/01: <font color="color:#cc0000">We have a paper on bursting pattern in streaming graphs accepted by <a href = "https://www.dasfaa2022.org/" target = "_blank">DASFAA 2022</a>!</font></i></p></li>
     <li><p> <i>2021/11: Invited to serve as a PC member of ACM <a href = "https://kdd.org/kdd2022/index.html" target = "_blank">SIGKDD 2022</a>.</i></p> </li>
-    <li><p> <i>2021/11: <font color="color:#cc0000">We have an article on multi-hop MRC accepted by <a href = "https://www.springer.com/journal/11280" target = "_blank">WWW Journal</a>!</font></i></p> </li>
-    <!--<li><p> <i>2021/10: <font color="color:#cc0000">We have an article on continuous subgraph matching accepted by <a href = "http://www.semantic-web-journal.net/" target = "_blank">Semantic Web journal</a>!</font></i></p> </li>
+    <!--<li><p> <i>2021/11: <font color="color:#cc0000">We have an article on multi-hop MRC accepted by <a href = "https://www.springer.com/journal/11280" target = "_blank">WWW Journal</a>!</font></i></p> </li>
+    <li><p> <i>2021/10: <font color="color:#cc0000">We have an article on continuous subgraph matching accepted by <a href = "http://www.semantic-web-journal.net/" target = "_blank">Semantic Web journal</a>!</font></i></p> </li>
     <li><p> <i>2021/09: <font color="color:#cc0000">We have an article on scalable entity alignment accepted by <a href = "https://www.springer.com/journal/778" target = "_blank">The VLDB Journal</a>!</font></i></p> </li>
     <li><p> <i>2021/09: <font color="color:#cc0000">We have an article on dynamic network embedding accepted by ACM <a href = "https://dl.acm.org/journal/tois" target = "_blank">TOIS</a>!</font></i></p> </li>
     <li><p> <i>2021/08: Invited to serve as a PC member of <a href = "https://www.dasfaa2022.org/" target = "_blank">DASFAA 2022</a>.</i></p> </li>
