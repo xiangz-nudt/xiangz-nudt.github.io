@@ -98,7 +98,7 @@
   <ul>
     <li><p><b>Discovering Frequency Bursting Patterns in Temporal Graphs</b> <br/>Qianzhen Zhang, <a href="http://www.greenorbs.org/people/liu/guodeke/" target="_blank">Deke Guo</a>, <b>Xiang Zhao</b>, Long Yuan, Lailong Luo. IEEE <b>ICDE</b>, 2023.</p></li>
     
-    <!--<li><p><b>Learning Hypersphere for Few-shot Anomaly Detection on Attributed Networks</b> <br/>Qiuyu Guo, <b>Xiang Zhao</b>*, Yang Fang, Shiyu Yang, Xuemin Lin, Dian Ouyang. ACM <b>CIKM</b>, 2022.</p></li>
+    <!--<li><p><b>Learning Hypersphere for Few-shot Anomaly Detection on Attributed Networks</b> <br/>Qiuyu Guo, <b>Xiang Zhao</b>, Yang Fang, Shiyu Yang*, Xuemin Lin, Dian Ouyang. ACM <b>CIKM</b>, 2022.</p></li>
     
     <li><p><b>Few-Shot Relational Triple Extraction with Perspective Transfer Network</b> <br/>Junbo Fei, Weixin Zeng*, <b>Xiang Zhao</b>, Xuanyi Li, Weidong Xiao. ACM <b>CIKM</b>, 2022.</p></li>
     
