@@ -350,7 +350,7 @@
   <ul>
 
     <li><p><b>PI of General Project</b>: Research on Key Technologies of Temporal Knowledge Graphs under Incomplete Information, approved by <a href="https://nsfc.gov.cn/" target="_blank">NSFC</a>, 2023-2026</p></li>
-    <li><p><b>High-level Young Talents Award Scheme</b>, awarded by <a href="http://www.moe.gov.cn/" target="_blank">Ministry of Education of China</a>, 202-2023</p></li>  
+    <li><p><b>High-level Young Talents Award Scheme</b>, awarded by <a href="http://www.moe.gov.cn/" target="_blank">Ministry of Education of China</a>, 2021-2023</p></li>  
     <li><p><b>PI of General Project</b>: Harvest and Utilization of Domain Knowledge Graphs with Scarce Sample Constraints, approved by <a href="https://nsfc.gov.cn/" target="_blank">NSFC</a>, 2019-2022</p></li>
     <li><p><b>PI of Project for Distinguished Young Scholars</b>: Theory and Method of Graph Data Management and Analytics for Cognitive Intelligence of Intelligence, approved by <a href="http://kjt.hunan.gov.cn/kjt/zxgz/zkjj/index.html" target="_blank">NSF of Hunan</a>, 2019-2021</p></li>
     <li><p><b> Young Talents Lift-up Program</b>, awarded by <a href="http://www.cast.org.cn/" target="_blank">China Association for Science and Technology</a>, 2019-2021</p></li>
