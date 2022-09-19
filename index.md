@@ -97,7 +97,7 @@
 <div style="width:860px;margin:0px auto">
   <h3><b style="color:#0b5394">Selected Publications</b> (<a href="pub.html">Extended List</a>, @<a href="https://scholar.google.com/citations?user=7IZ4kgwAAAAJ&hl=en" target="_blank">Google Scholar</a>, @<a href="https://dblp.uni-trier.de/pers/hd/z/Zhao_0002:Xiang" target="_blank">DBLP</a>, @<a href="https://orcid.org/0000-0001-6339-0219" target="_blank">ORCID</a>, @<a href="https://www.aminer.cn/profile/562d5f7f45cedb3398ddd908" target="_blank">AMiner</a>)</h3>
   <ul>
-    <li><p><b><a href="" target="_blank">PF-HIN: Pre-Training for Heterogeneous Information Networks</a></b> <br/>Yang Fang, Xiang Zhao*, Yifan Chen, Weidong Xiao, <a href = "https://staff.fnwi.uva.nl/m.derijke/" target = "_blank">Maarten de Rijke</a>. <i>IEEE </i><b><i>Trans. Know. Data Eng.</i></b> (<b>TKDE</b>), 2022, in press.</p></li>
+    <li><p><b><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9891783" target="_blank">PF-HIN: Pre-Training for Heterogeneous Information Networks</a></b> <br/>Yang Fang, Xiang Zhao*, Yifan Chen, Weidong Xiao, <a href = "https://staff.fnwi.uva.nl/m.derijke/" target = "_blank">Maarten de Rijke</a>. <i>IEEE </i><b><i>Trans. Know. Data Eng.</i></b> (<b>TKDE</b>), 2022, in press.</p></li>
     
     <li><p><b>Discovering Frequency Bursting Patterns in Temporal Graphs</b> <br/>Qianzhen Zhang, <a href="http://www.greenorbs.org/people/liu/guodeke/" target="_blank">Deke Guo*</a>, <b>Xiang Zhao</b>*, Long Yuan, Lailong Luo. IEEE <b>ICDE</b>, 2023.</p></li>
     
