@@ -134,7 +134,7 @@
     
     <li><p><b>Learning Discriminative Neural Representations for Event Detection</b> [<a href="https://github.com/passenger20/DNR/tree/master" target="_blank">code</a>]<br/>Jinzhi Liao, <b>Xiang Zhao</b>*, Xinyi Li*, <a href="http://gr.xjtu.edu.cn/en/web/zhanglling/home" target="_blank">Lingling Zhang</a>, Jiuyang Tang. ACM <b>SIGIR</b>, 2021.</p></li>
     
-    <li><p><b>Towards Entity Alignment in the Open World: An Unsupervised Approach</b> [<a href="https://github.com/DexterZeng/UEA" target="_blank">code</a>]<br/>Weixin Zeng, <b>Xiang Zhao</b>*, Jiuyang Tang, Xinyi Li, <a href = "http://gr.xjtu.edu.cn/web/minnluo/home" target = "_blank">Minnan Luo</a>, <a href = "http://gr.xjtu.edu.cn/web/qhzheng" target = "_blank">Qinghua Zheng</a>. <b>DASFAA</b>, 2021 [<font color="#cc0000" >Best Paper</font>].</p></li>
+    <li><p><b>Towards Entity Alignment in the Open World: An Unsupervised Approach</b> [<a href="https://github.com/DexterZeng/UEA" target="_blank">code</a>]<br/>Weixin Zeng, <b>Xiang Zhao</b>*, Jiuyang Tang, Xinyi Li, <a href = "http://gr.xjtu.edu.cn/web/minnluo/home" target = "_blank">Minnan Luo</a>, <a href = "http://gr.xjtu.edu.cn/web/qhzheng" target = "_blank">Qinghua Zheng</a>. <b>DASFAA</b>, 2021. [<font color="#cc0000" >Best Paper</font>]</p></li>
     
     <li><p><b><a href="https://dl.acm.org/doi/pdf/10.1145/3446428" target="_blank">Reinforcement Learning based Collective Entity Alignment with Adaptive Features</a></b> [<a href="https://github.com/DexterZeng/CEAFF" target="_blank">code</a>]<br/>Weixin Zeng, <b>Xiang Zhao</b>*, Jiuyang Tang, <a href = "http://www.cse.unsw.edu.au/~lxue/" target = "_blank">Xuemin Lin</a>, <a href = "http://pgroth.com/" target = "_blank">Paul Groth</a>. <i>ACM <b>Trans. Info. Syst.</b></i> <b>(TOIS)</b>, 2021, 39(3): 26:1-26:31.</p></li>
     
@@ -142,17 +142,17 @@
   
     <li><p><b><a href="https://www.aclweb.org/anthology/2020.coling-main.239.pdf" target="_blank">Joint Event Extraction with Hierarchical Policy Network</a></b><br/>Peixin Huang, <b>Xiang Zhao</b>*, Ryuichi Takanobu, Zhen Tan, Weidong Xiao. <b>COLING</b>, 2020.</p></li>-->
     
-    <li><p><b><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9174835" target="_blank">An Experimental Study of State-of-the-Art Entity Alignment Approaches</a></b> [<a href="https://github.com/DexterZeng/EAE" target="_blank">code</a>]<br/><b>Xiang Zhao</b>*, Weixin Zeng, Jiuyang Tang, <a href="http://www.cse.unsw.edu.au/~weiw/" target="_blank">Wei Wang</a>, <a href="https://suchanek.name/" target="_blank">Fabian M. Suchanek</a>. <i>IEEE </i><b><i>Trans. Know. Data Eng.</i></b> (<b>TKDE</b>), 2020, in press.</p></li>
+    <li><p><b><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9174835" target="_blank">An Experimental Study of State-of-the-Art Entity Alignment Approaches</a></b> [<a href="https://github.com/DexterZeng/EAE" target="_blank">code</a>]<br/><b>Xiang Zhao</b>*, Weixin Zeng, Jiuyang Tang, <a href="http://www.cse.unsw.edu.au/~weiw/" target="_blank">Wei Wang</a>, <a href="https://suchanek.name/" target="_blank">Fabian M. Suchanek</a>. <i>IEEE </i><b><i>Trans. Know. Data Eng.</i></b> (<b>TKDE</b>), 2020, 34(6): 2610-2625. [<font color="#cc0000" >ESI Highly Cited Paper</font>]</p></li>
   
     <!--<li><p><b><a href="http://scis.scichina.com/en/2021/130103.pdf">Few-shot Text Classification by Leveraging Bi-directional Attention and Cross-class Knowledge</a></b><br/>Ning Pang, <b>Xiang Zhao</b>*, <a href="http://www.cse.unsw.edu.au/~weiw/" target="_blank">Wei Wang</a>, Weidong Xiao, <a href="http://www.greenorbs.org/people/liu/guodeke/" target="_blank">Deke Guo</a>. <i><b>Sci. China Inf. Sci.</b></i> <b>(SCIS)</b>, 2021, 64: Article No. 130103, 1-13.</p></li>-->
   
    <li><p><b>Block-aware Item Similarity Models for Top-N Recommendations</b><br/><a href = "https://sites.google.com/view/yifanchenuva/home" target = "_blank">Yifan Chen</a>*, <a href = "https://sites.google.com/view/wayag/home" target = "_blank">Yang Wang</a>, <b>Xiang Zhao</b>, <a href = "https://sites.google.com/site/jiezou0806" target = "_blank">Jie Zou</a>, <a href = "https://staff.fnwi.uva.nl/m.derijke/" target = "_blank">Maarten de Rijke</a>. <i>ACM <b>Trans. Info. Syst.</b></i> <b>(TOIS)</b>, 2020, 38(4): 42:1-42:26.</p></li>
   
-    <li><p><b>Multi-hop Reading Comprehension Incorporating Sentence-Based Reasoning</b> [<a href="https://doi.org/10.1007/s11280-021-00980-6" target="_blank">extended version</a>]<br/>Lijun Huo, Bin Ge, <b>Xiang Zhao</b>*. <b>APWeb-WAIM</b>, 2020 [<font color="#cc0000" >Best Paper</font>].</p></li>
+    <li><p><b>Multi-hop Reading Comprehension Incorporating Sentence-Based Reasoning</b> [<a href="https://doi.org/10.1007/s11280-021-00980-6" target="_blank">extended version</a>]<br/>Lijun Huo, Bin Ge, <b>Xiang Zhao</b>*. <b>APWeb-WAIM</b>, 2020. [<font color="#cc0000" >Best Paper</font>]</p></li>
 
     <!--<li><p><b>Seasonal-Periodic Subgraph Mining in Temporal Networks</b><br/>Qianzhen Zhang, <a href="http://www.greenorbs.org/people/liu/guodeke/" target="_blank">Deke Guo</a>*, <b>Xiang Zhao</b>*, Xinyi Li, Xi Wang. ACM <b>CIKM</b>,<b> </b>2020 (Short).</p></li>-->
   
-    <li><p><b>Chinese Text Classification via Bidirectional Lattice LSTM</b><br/>Ning Pang, Weidong Xiao, <b>Xiang Zhao</b>*. <b>KSEM</b>, 2020 [<font color="#cc0000" >Best Student Paper Runner-up</font>].</p></li>
+    <li><p><b>Chinese Text Classification via Bidirectional Lattice LSTM</b><br/>Ning Pang, Weidong Xiao, <b>Xiang Zhao</b>*. <b>KSEM</b>, 2020. [<font color="#cc0000" >Best Student Paper Runner-up</font>]</p></li>
     
     <li><p><b>Degree-Aware Alignment for Entities in Tail</b> [<a href="https://github.com/DexterZeng/DAT" target="_blank">code</a>]<br/>Weixin Zeng, <b>Xiang Zhao</b>*, <a href="http://www.cse.unsw.edu.au/~weiw/" target="_blank">Wei Wang</a>, Jiuyang Tang, Zhen Tan. ACM <b>SIGIR</b>, 2020.</p></li>
     
@@ -201,7 +201,7 @@
   
     <li><p><b><a href="https://academic.oup.com/comjnl/article-pdf/59/8/1113/8039116/bxv118.pdf">Frequent Subgraph Mining Based on Pregel</a></b><br /><b>Xiang Zhao</b>*, <a href="https://sites.google.com/view/yifanchenuva/home" target="_blank">Yifan Chen</a>, <a href="https://sites.google.com/site/chuanxiao1983/" target="_blank">Chuan Xiao</a>, <a href="http://www.db.ss.is.nagoya-u.ac.jp/~ishikawa/" target="_blank">Yoshiharu Ishikawa</a>, Jiuyang Tang. <b ><i>Comput. J.</i></b>, 2016, 59(8): 1113-1128.</p></li>-->
   
-    <li><p><b>Content-Based Top-<i>N</i></b><b> Recommendation Using Heterogeneous Relations</b><br /><a href="https://sites.google.com/view/yifanchenuva/home" target="_blank">Yifan Chen</a>, <b>Xiang Zhao</b>, Junjiao Gan, Junkai Ren, Yanli Hu. ADC, 2016 [<font color="#cc0000" >Best Student Paper Runner-up</font>].</p></li>
+    <li><p><b>Content-Based Top-<i>N</i></b><b> Recommendation Using Heterogeneous Relations</b><br /><a href="https://sites.google.com/view/yifanchenuva/home" target="_blank">Yifan Chen</a>, <b>Xiang Zhao</b>, Junjiao Gan, Junkai Ren, Yanli Hu. ADC, 2016. [<font color="#cc0000" >Best Student Paper Runner-up</font>]</p></li>
   
     <!--<li><p><b>Towards Frequent Subgraph Mining on Single Large Uncertain Graphs</b> [<a href="https://doi.org/10.1109/TKDE.2018.2830336" target="_blank">extended version</a>] <br /><a href="https://sites.google.com/view/yifanchenuva/home" target="_blank">Yifan Chen</a>,<b> Xiang Zhao</b>*, <a href="http://www.cse.unsw.edu.au/~lxue/" target="_blank">Xuemin Lin</a>, <a href="https://sites.google.com/view/wayag/home" target="_blank">Yang Wang</a>. IEEE <b >ICDM</b>, 2015.</p></li>
   
