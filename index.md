@@ -122,7 +122,7 @@
     
     <li><p><b><a href="https://content.iospress.com/download/semantic-web/sw212864?id=semantic-web%2Fsw212864" target="_blank">Continuous Multi-Query Optimization for Subgraph Matching over Dynamic Graphs</a></b> <br/>Xi Wang, Qianzhen Zhang, <a href="http://www.greenorbs.org/people/liu/guodeke/" target="_blank">Deke Guo</a>*, <b>Xiang Zhao</b>. <b><i>Semantic Web</i></b>, 2021, in press.</p></li>-->
     
-    <li><p><b><a href="https://link.springer.com/article/10.1007/s00778-021-00703-3" target="_blank">On Entity Alignment at Scale</a></b> <br/>Weixin Zeng, <b>Xiang Zhao</b>*, Xinyi Li, Jiuyang Tang, <a href = "https://www.cse.ust.hk/~weiwcs/" target="_blank">Wei Wang</a>. <b><i>VLDB J.</i></b>, 2021, in press.</p></li>
+    <li><p><b><a href="https://link.springer.com/article/10.1007/s00778-021-00703-3" target="_blank">On Entity Alignment at Scale</a></b> <br/>Weixin Zeng, <b>Xiang Zhao</b>*, Xinyi Li, Jiuyang Tang, <a href = "https://www.cse.ust.hk/~weiwcs/" target="_blank">Wei Wang</a>. <b><i>VLDB J.</i></b>, 2022, 31(5): 1009-1033.</p></li>
     
     <li><p><b><a href="https://dl.acm.org/doi/pdf/10.1145/3485189" target="_blank">Scalable Representation Learning for Dynamic Heterogeneous Information Networks via Metagraph</a></b> <br/>Yang Fang, <b>Xiang Zhao</b>*, Peixin Huang, Weidong Xiao, <a href = "https://staff.fnwi.uva.nl/m.derijke/" target = "_blank">Maarten de Rijke</a>. <i>ACM <b>Trans. Info. Syst.</b></i> <b>(TOIS)</b>, 2022, 40(4): 64:1-64:27.</p></li>
     
