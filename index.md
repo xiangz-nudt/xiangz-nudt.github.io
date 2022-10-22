@@ -227,6 +227,8 @@
   <a href="http://www.sciencedirect.com/science/journal/01650114" target="_blank">Fuzzy Sets Syst.</a>,
   <a href="http://cjc.ict.ac.cn/" target="_blank">计算机学报</a>,
   <a href="http://www.jos.org.cn/jos/ch/index.aspx" target="_blank">软件学报</a>,
+  <a href="http://www.ceaj.org/CN/jsjgc/home.shtml" target="_blank">计算机科学与探索</a>,
+  <a href="https://www.jsjkx.com/CN/1002-137X/home.shtml" target="_blank">计算机科学</a>,
   <a href="http://www.jsjc.chinajournal.net.cn/WKE/WebPublication/index.aspx?mid=JSJC" target="_blank">计算机工程</a>
   </p></li>
   <li>
