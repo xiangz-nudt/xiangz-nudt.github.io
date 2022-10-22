@@ -213,8 +213,8 @@
   IEEE <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=5962385" target="_blank">TNNLS</a>, 
   IEEE <a href="http://www.computer.org/portal/web/tpds" target="_blank">TPDS</a>, 
   <a href="http://link.springer.com/journal/11280" target="_blank">WWW Journal</a>,
-  <a href="http://www.journals.elsevier.com/information-sciences/" target="_blank">Inf. Sci.</a>,
   <a href="https://www.journals.elsevier.com/knowledge-based-systems/" target="_blank">Knowl. Based Syst.</a>,
+  <a href="http://www.journals.elsevier.com/information-sciences/" target="_blank">Inf. Sci.</a>,
   <a href="https://onlinelibrary.wiley.com/journal/1098111x" target="_blank">Int. J. Intell. Syst.</a>,
   <a href="https://www.journals.elsevier.com/engineering-applications-of-artificial-intelligence" target="_blank">Eng. Appl. of AI</a>,
   <a href="http://www.journals.elsevier.com/journal-of-computer-and-system-sciences/" target="_blank">JCSS</a>, 
@@ -323,7 +323,6 @@
 
   </ul>
 </div>
-
 </div>
 </body>
 </html>
