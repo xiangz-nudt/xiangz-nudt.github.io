@@ -14,7 +14,7 @@
 <body style="background:#dddddd">
   <div style="width:920px;background:#ffffff;margin:10px auto;border:2px solid #eeeeee">
   <div style="height:360px;width:860px;margin:0px auto">
-  <div style="height:290px;width:260px;margin:65px 15px 15px auto; float:left; display:flex; align-items:center;justify-content:flex-end">
+  <div style="height:290px;width:260px;margin:65px 15px 15px auto; float:left; display:flex; align-items:center;justify-content:center">
     <img src="profile.jpg" alt="Xiang Zhao"
          style="object-fit:scale-down; object-position:center; width:100px; height:300x" />
   </div>
