@@ -103,7 +103,7 @@
   <ul>
     <li><p><b><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9891783" target="_blank">PF-HIN: Pre-Training for Heterogeneous Information Networks</a></b> <br/>Yang Fang, Xiang Zhao*, Yifan Chen, Weidong Xiao, <a href = "https://staff.fnwi.uva.nl/m.derijke/" target = "_blank">Maarten de Rijke</a>. <i>IEEE </i><b><i>Trans. Know. Data Eng.</i></b> (<b>TKDE</b>), 2022, in press.</p></li>
     
-    <li><p><b>Discovering Frequency Bursting Patterns in Temporal Graphs</b> <br/>Qianzhen Zhang, <a href="http://www.greenorbs.org/people/liu/guodeke/" target="_blank">Deke Guo*</a>, <b>Xiang Zhao</b>*, Long Yuan, Lailong Luo. IEEE <b>ICDE</b>, 2023.</p></li>
+    <!--<li><p><b>Discovering Frequency Bursting Patterns in Temporal Graphs</b> <br/>Qianzhen Zhang, <a href="http://www.greenorbs.org/people/liu/guodeke/" target="_blank">Deke Guo*</a>, <b>Xiang Zhao</b>*, Long Yuan, Lailong Luo. IEEE <b>ICDE</b>, 2023.</p></li>-->
     
     <li><p><b><a href="https://dl.acm.org/doi/pdf/10.1145/3477495.3532048" target="_blank">PTAU: Prompt Tuning for Attributing Unanswerable Questions</a></b> <br/>Jinzhi Liao, <b>Xiang Zhao</b>*, Jianming Zheng, Xinyi Li, Fei Cai and Jiuyang Tang. ACM <b>SIGIR</b>, 2022.</p></li>
     
