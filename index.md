@@ -264,31 +264,33 @@
 
   <li><p>
   <b>International conferences:</b>
-  <a href="http://www.vldb.org/pvldb/" target="_blank">VLDB</a>, 
-  <a href="https://www2022.thewebconf.org/" target="_blank">TheWebConf</a>,
-  IEEE <a href="http://conferences.cis.umac.mo/icde2019/" target="_blank">ICDE</a>,
-  ACM <a href="https://www.kdd.org/kdd2022/" target="_blank">SIGKDD</a>,
-  <a href="https://aaai.org/Conferences/AAAI-20/" target="_blank">AAAI</a>, 
-  <a href="https://acl2020.org/" target="_blank">ACL</a>, 
-  ACM <a href="http://cikm2019.net/" target="_blank">CIKM</a>,
-  ACM <a href="https://www.wsdm-conference.org/2021/" target="_blank">WSDM</a>,
-  <a href="http://www.tjudb.cn/dasfaa2023/" target="_blank">DASFAA</a> (SPC),
-  <a href="https://coling2020.org/" target="_blank">COLING</a>,
-  <a href="http://ada.suda.edu.cn/apweb2016/" target="_blank">APWeb-WAIM</a> (SPC),
-  <a href="http://aacl2020.org/" target="_blank">AACL</a>,
-  <a href="http://dsaa2022.dsaa.co/" target="_blank">DASS</a>,
-  <a href="http://www.akbc.ws/" target="_blank">AKBC</a>, 
-  <a href="http://conference.eng.unimelb.edu.au/adc/" target="_blank">ADC</a>,
-  <a href="http://www.ieeebigdata.org/2016/" target="_blank">BigData</a>,
-  IEEE <a href="http://www.ieee-dsc.org/" target="_blank">DSC</a>,
-  <a href="http://www.icwl.org.cn/Sete.html" target="_blank">SETE</a>,
-  FCST, FAB, PRICAI</p></li>
+    <a href="http://www.vldb.org/pvldb/" target="_blank">VLDB</a>, 
+    <a href="https://www2022.thewebconf.org/" target="_blank">TheWebConf</a>,
+    IEEE <a href="http://conferences.cis.umac.mo/icde2019/" target="_blank">ICDE</a>,
+    ACM <a href="https://www.kdd.org/kdd2022/" target="_blank">SIGKDD</a>,
+    <a href="https://aaai.org/Conferences/AAAI-20/" target="_blank">AAAI</a>, 
+    <a href="https://acl2020.org/" target="_blank">ACL</a>, 
+    ACM <a href="http://cikm2019.net/" target="_blank">CIKM</a>,
+    ACM <a href="https://www.wsdm-conference.org/2021/" target="_blank">WSDM</a>,
+    <a href="http://www.tjudb.cn/dasfaa2023/" target="_blank">DASFAA</a> (SPC),
+    <a href="https://coling2020.org/" target="_blank">COLING</a>,
+    <a href="http://ada.suda.edu.cn/apweb2016/" target="_blank">APWeb-WAIM</a> (SPC),
+    <a href="http://aacl2020.org/" target="_blank">AACL</a>,
+    IEEE <a href="http://www.ieee-dsc.org/" target="_blank">DSC</a>,
+    <a href="https://csse.szu.edu.cn/dsaa2022/" target="_blank">DASS</a>,
+    <a href="http://www.akbc.ws/" target="_blank">AKBC</a>, 
+    <a href="http://conference.eng.unimelb.edu.au/adc/" target="_blank">ADC</a>,
+    <a href="http://www.ieeebigdata.org/2016/" target="_blank">BigData</a>,
+    <a href="http://www.icwl.org.cn/Sete.html" target="_blank">SETE</a>,
+    FCST, FAB, PRICAI
+  </p></li>
   <li><p>
   <b>National conferences:</b> 
     <a href="http://sigkg.cn/ccks2022/" target="_blank">CCKS</a> (area chair),
     <a href="https://conf.ccf.org.cn/wisa2020" target="_blank">WISA</a>,
     CCF <a href="http://dm.ustc.edu.cn/ccf-bigdata2015/" target="_blank">BigData</a>, 
     <a href="http://ndbc2019.sdu.edu.cn/" target="_blank">NDBC</a>
+    <a href="http://cips-cl.org/static/CCL2022/en/index.html" target="_blank">CCL</a>
   </p></li>
   
   <li><p>
