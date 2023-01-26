@@ -322,24 +322,24 @@
     <li><p><b>Best Paper Award</b> of <a href="http://www.tjudb.cn/apwebwaim2020/" target="_blank">APWeb-WAIM</a> 2020</p></li>
     <li><p><b>Best Student Paper Award</b> of <a href="https://www.ksem.conferences.academy/" target="_blank">KSEM</a> 2020</p></li>
     <li><p><b>Best Student Paper Award</b> of <a href="https://adc2016.cse.unsw.edu.au/" target="_blank">ADC</a> 2016</p></li>  
-    <li><p><b>High-level Young Talents Award Scheme</b>, awarded by <a href="http://www.moe.gov.cn/" target="_blank">Ministry of Education, China</a>, 2021-2023</p></li>
-    <li><p><b> Young Talents Lift-up Program</b>, awarded by <a href="http://www.cast.org.cn/" target="_blank">China Association for Science and Technology</a>, 2019-2021</p></li>
-    <li><p><b>ACM SIGMOD China Rising Star Award</b>, awarded by <a href="https://www.acm.org/acm-china-council" target="_blank">ACM China</a>, 2018</p></li>
-    <li><p><b>PI of NSF General Project</b>: Research on Key Technologies of Temporal Knowledge Graphs under Incomplete Information, approved by <a href="https://nsfc.gov.cn/" target="_blank">NSFC</a>, 2023-2026</p></li>
-    <li><p><b>PI of National Key R&D Program (Young Scientist Project)</b>: Misinformation Detection and Source Localization Methods in Social Networks under Limited Perception, approved by <a href="https://www.most.gov.cn/index.html" target="_blank">Minitry of Science and Technology, China</a>, 2022-2025</p></li>    
-    <li><p><b>PI of NSF General Project</b>: Harvest and Utilization of Domain Knowledge Graphs with Scarce Sample Constraints, approved by <a href="https://nsfc.gov.cn/" target="_blank">NSFC</a>, 2019-2022</p></li>
-    <li><p><b>PI of NSF Project for Distinguished Young Scholars</b>: Theory and Method of Graph Data Management and Analytics for Cognitive Intelligence of Intelligence, approved by <a href="http://kjt.hunan.gov.cn/kjt/zxgz/zkjj/index.html" target="_blank">Department of Science and Technology of Hunan Province</a>, 2019-2021</p></li>
-    <li><p><b>PI of NSF Project for Young Scholars</b>: Processing Structural Similarity Queries on Large-Scale Graph Data, approved by <a href="https://nsfc.gov.cn/" target="_blank">NSFC</a>, 2015-2017</p></li>
-    <li><p><b>PI of NSF Project for Young Scholars</b>: Frequent Subgraph Mining in Single Massive Graphs, approved by <a href="http://kjt.hunan.gov.cn/kjt/zxgz/zkjj/index.html" target="_blank">Department of Science and Technology of Hunan Province</a>, 2015-2017</p></li>
-    <!--<li><p><b>CSC-UNSW Joint PhD Student Program Scholarship</b>, awarded by <a href="http://www.csc.edu.cn/" target="_blank">China Scholarship Council</a> and UNSW, 2009-2013</p></li>
-    <li><p><b>CSE CSC-Student Stipend Scholarship</b>, awarded by <a href="https://www.engineering.unsw.edu.au/computer-science-engineering" target="_blank">School of Computer Science and Engineering</a>, UNSW, 2009-2011</p></li>
-    <li><p><b>National ICT Australia Research Project Award</b>, awarded by NICTA, 2009-2013</p></li>
-    <li><p><b>Postgraduate Research Support Scheme funding</b>, awarded by <a href="http://research.unsw.edu.au/" target="_blank">Graduate Research School</a>, UNSW, 2012</p></li>
-    <li><p><b>Google CSE Travel Prize</b>, awarded by <a href="https://careers.google.com/locations/sydney/" target="_blank">Google Australia</a> and CSE, UNSW, 2011</p></li>
-    <li><p><b>ARC Network <a href="http://www.eii.com.au/" target="_blank">Enterprise Information Infrastructure</a> PhD School Travel Bursary</b>, <a href="http://www.uq.edu.au/" target="_blank">The University of Queensland</a>, 2010</p></li>
-    <li><p><b>Third Prize in Teng-da Contest for Science and Technology Innovation</b>, College of Information Systems and Management (CISM), NUDT, 2009</p></li>
+    <li><p><b>High-level Young Talents Award Scheme</b> (2020), awarded by <a href="http://www.moe.gov.cn/" target="_blank">Ministry of Education, China</a></p></li>
+    <li><p><b> Young Talents Lift-up Program</b> (2018), awarded by <a href="http://www.cast.org.cn/" target="_blank">China Association for Science and Technology</a></p></li>
+    <li><p><b>ACM SIGMOD China Rising Star Award</b> (2018), awarded by <a href="https://www.acm.org/acm-china-council" target="_blank">ACM China</a></p></li>
+    <li><p><b>PI of NSF General Project</b> (2023-2026): Research on Key Technologies of Temporal Knowledge Graphs under Incomplete Information, approved by <a href="https://nsfc.gov.cn/" target="_blank">NSFC</a></p></li>
+    <li><p><b>PI of National Key R&D Program for Young Scientist</b> (2022-2025): Misinformation Detection and Source Localization Methods in Social Networks under Limited Perception, approved by <a href="https://www.most.gov.cn/index.html" target="_blank">Minitry of Science and Technology, China</a></p></li>    
+    <li><p><b>PI of NSF General Project</b> (2019-2022): Harvest and Utilization of Domain Knowledge Graphs with Scarce Sample Constraints, approved by <a href="https://nsfc.gov.cn/" target="_blank">NSFC</a></p></li>
+    <li><p><b>PI of NSF Project for Distinguished Young Scholars</b> (2019-2021): Theory and Method of Graph Data Management and Analytics for Cognitive Intelligence of Intelligence, approved by <a href="http://kjt.hunan.gov.cn/kjt/zxgz/zkjj/index.html" target="_blank">Department of Science and Technology of Hunan</a></p></li>
+    <li><p><b>PI of NSF Project for Young Scholars</b> (2015-2017): Processing Structural Similarity Queries on Large-Scale Graph Data, approved by <a href="https://nsfc.gov.cn/" target="_blank">NSFC</a></p></li>
+    <li><p><b>PI of NSF Project for Young Scholars</b> (2015-2017): Frequent Subgraph Mining in Single Massive Graphs, approved by <a href="http://kjt.hunan.gov.cn/kjt/zxgz/zkjj/index.html" target="_blank">Department of Science and Technology of Hunan</a></p></li>
+    <!--<li><p><b>CSC-UNSW Joint PhD Student Program Scholarship</b> (2009-2013), awarded by <a href="http://www.csc.edu.cn/" target="_blank">China Scholarship Council</a> and UNSW</p></li>
+    <li><p><b>CSE CSC-Student Stipend Scholarship</b> (2009-2011), awarded by <a href="https://www.engineering.unsw.edu.au/computer-science-engineering" target="_blank">School of Computer Science and Engineering</a>, UNSW</p></li>
+    <li><p><b>National ICT Australia Research Project Award</b> (2009-2013), awarded by NICTA</p></li>
+    <li><p><b>Postgraduate Research Support Scheme funding</b> (2012), awarded by <a href="http://research.unsw.edu.au/" target="_blank">Graduate Research School</a>, UNSW</p></li>
+    <li><p><b>Google CSE Travel Prize</b> (2011), awarded by <a href="https://careers.google.com/locations/sydney/" target="_blank">Google Australia</a> and CSE, UNSW</p></li>
+    <li><p><b>ARC Network <a href="http://www.eii.com.au/" target="_blank">Enterprise Information Infrastructure</a> PhD School Travel Bursary</b> (2010), <a href="http://www.uq.edu.au/" target="_blank">The University of Queensland</a></p></li>
+    <li><p><b>Third Prize in Teng-da Contest for Science and Technology Innovation</b> (2009), College of Information Systems and Management (CISM), NUDT</p></li>
     <li><p><b>Elite Student</b> of NUDT, 2008; <b>Elite Graduate</b> of CISM, 2008; <b>Elite Student</b> of CISM, 2004-2008</p></li>
-    <li><p><b>Meritorious in Mathematical Contest in Modeling (MCM) / Interdisciplinary Contest in Modeling (ICM)</b>, organized by <a href="http://www.comap.com/" target="_blank">COMAP</a>, 2008</p></li>
+    <li><p><b>Meritorious in Mathematical Contest in Modeling (MCM) / Interdisciplinary Contest in Modeling (ICM)</b> (2008), organized by <a href="http://www.comap.com/" target="_blank">COMAP</a></p></li>
     <li><p><b>First Prize</b> (<front style="color:#cc0000">One of the Best Papers</front>) in China Undergraduate Mathematical Contest in Modeling (CUMCM), organized by <a href="http://www.moe.edu.cn/" target="_blank">Ministry of Education of China</a> and <a href="http://csiam.edu.cn/" target="_blank">CSIAM</a>, 2007; <b>Second Prize</b>, CUMCM 2006</p></li>-->
 
   </ul>
