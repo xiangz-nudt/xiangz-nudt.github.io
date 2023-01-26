@@ -53,6 +53,7 @@
   <h3 style="color:#b45f06"><b><i>News</i></b></h3>
   <ul style="list-style-type:square; line-height:1">
     <li><p> <i>2023/01: <font color="color:#cc0000">We have a paper on graph learning accepted by The ACM <a href = "https://www2023.thewebconf.org/" target = "_blank">Web Conference 2023</a>!</font></i></p> </li>
+    <li><p> <i>2023/01: <font color="color:#cc0000">We have an article on biclique counting accepted by <a href = "https://www.springer.com/journal/778" target = "_blank">The VLDB Journal</a>!</font></i></p> </li>
     <li><p> <i>2022/12: <font color="color:#cc0000">We won the Best Paper Award at <a href = "https://conf.ccf.org.cn/web/html7/index.html?globalId=m9475032704175349761645943983427&type=1" target = "_blank">WISA 2022</a>!</font></i></p> </li>
     <li><p> <i>2022/10: Invited to serve as a senior PC member of <a href = "http://www.tjudb.cn/dasfaa2023/" target = "_blank">DASFAA 2023</a>.</i></p> </li>
     <li><p> <i>2022/09: Invited to serve as a PC member of <a href = "https://www2023.thewebconf.org/" target = "_blank">The Web Conference 2023</a>.</i></p></li>
@@ -60,8 +61,8 @@
     <li><p> <i>2022/08: <font color="color:#cc0000">We have a paper on mining temporal graphs accepted by IEEE <a href = "https://icde2023.ics.uci.edu/" target = "_blank">ICDE 2023</a>!</font></i></p> </li>
     <li><p> <i>2022/08: <font color="color:#cc0000">We have four papers on graph processing and learning accepted by <a href = "https://www.cikm2022.org/" target = "_blank">CIKM 2022</a>!</font></i></p> </li>
     <li><p> <i>2022/07: <font color="color:#cc0000">We have a survey on dynamic graphs to appear in <a href = "https://www.springer.com/journal/10115" target = "_blank">KAIS</a> journal!</font></i></p> </li>
-    <li><p> <i>2022/06: Invited to serve as a PC member of ACM <a href = "http://www.wsdm-conference.org/2023/" target = "_blank">WSDM 2023</a>.</i></p> </li>
-    <!--<li><p> <i>2022/04: <font color="color:#cc0000">We have a paper on unanswerablity of questions accepted by ACM <a href = "https://sigir.org/sigir2022/" target = "_blank">SIGIR 2022</a>!</font></i></p> </li>
+    <!--<li><p> <i>2022/06: Invited to serve as a PC member of ACM <a href = "http://www.wsdm-conference.org/2023/" target = "_blank">WSDM 2023</a>.</i></p> </li>
+    <li><p> <i>2022/04: <font color="color:#cc0000">We have a paper on unanswerablity of questions accepted by ACM <a href = "https://sigir.org/sigir2022/" target = "_blank">SIGIR 2022</a>!</font></i></p> </li>
     <li><p> <i>2022/03: Invited to serve as an area chair of <a href = "http://sigkg.cn/ccks2022/" target = "_blank">CCKS 2022</a>.</i></p> </li>
     <li><p> <i>2022/03: Invited to serve as a PC member of <a href = "https://coling2022.org/" target = "_blank">COLING 2022</a>.</i></p> </li>
     <li><p> <i>2022/01: <font color="color:#cc0000">We have a paper on bursting pattern in streaming graphs accepted by <a href = "https://www.dasfaa2022.org/" target = "_blank">DASFAA 2022</a>!</font></i></p></li>
