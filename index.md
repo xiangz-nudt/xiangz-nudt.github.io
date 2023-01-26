@@ -239,6 +239,25 @@
   <a href="https://www.jsjkx.com/CN/1002-137X/home.shtml" target="_blank">计算机科学</a>,
   <a href="http://www.jsjc.chinajournal.net.cn/WKE/WebPublication/index.aspx?mid=JSJC" target="_blank">计算机工程</a>
   </p></li>
+  
+  <li>
+    <p><b>Member of organization committees:</b></p>
+    <ul>
+      <li><p>
+      <b>Program co-chairs:</b> <a href="https://conf.ccf.org.cn/wisa2023" target="_blank">WISA 2023</a>
+      </p></li>
+    <li><p>
+    <b>Tutorial co-chairs:</b> <a href="https://apweb-waim2022.com/" target="_blank">APWeb-WAIM 2022</a>
+    </p></li>
+    <li><p>
+    <b>Publication co-chairs:</b> <a href="https://conf.ccf.org.cn/wisa2022" target="_blank">WISA 2022</a>, <a href="http://ksem2020.org/" target="_blank">KSEM 2020</a>
+    </p></li>
+    <li><p>
+    <b>Web co-chairs:</b> <a href="http://www1.se.cuhk.edu.hk/~apweb/previous/apweb2013/index.html" target="_blank">APWeb 2013</a>, BigDIA 2016
+    </p></li>  
+    </ul>
+  </li>
+    
   <li>
   <p><b>Member of program committees:</b></p>
   <ul>
@@ -257,9 +276,9 @@
   <a href="https://coling2020.org/" target="_blank">COLING</a>,
   <a href="http://ada.suda.edu.cn/apweb2016/" target="_blank">APWeb-WAIM</a> (SPC),
   <a href="http://aacl2020.org/" target="_blank">AACL</a>,
+  <a href="http://dsaa2022.dsaa.co/" target="_blank">DASS</a>,
   <a href="http://www.akbc.ws/" target="_blank">AKBC</a>, 
   <a href="http://conference.eng.unimelb.edu.au/adc/" target="_blank">ADC</a>,
-  <a href="http://wisa.pmease.cn/wisa2020/index.html" target="_blank">WISA</a>,
   <a href="http://www.ieeebigdata.org/2016/" target="_blank">BigData</a>,
   IEEE <a href="http://www.ieee-dsc.org/" target="_blank">DSC</a>,
   <a href="http://www.icwl.org.cn/Sete.html" target="_blank">SETE</a>,
@@ -285,23 +304,7 @@
   <a href="http://wp.csiro.au/kmba2013/" target="_blank">KMBA</a>,  
   <a href="https://www.trustie.net/users/iwcse/homepage" target="_blank">IWCSE</a>
   </p></li>
-  
   </ul></li>
-
-<li>
-  <p><b>Member of organization committees:</b></p>
-  <ul>
-  <li><p>
-  <b>Tutorial co-chairs:</b> <a href="https://apweb-waim2022.com/" target="_blank">APWeb-WAIM 2022</a>
-  </p></li>
-  <li><p>
-  <b>Publication co-chairs:</b> <a href="https://conf.ccf.org.cn/wisa2022" target="_blank">WISA 2022</a>, <a href="http://ksem2020.org/" target="_blank">KSEM 2020</a>
-  </p></li>
-  <li><p>
-  <b>Web co-chairs:</b> <a href="http://www1.se.cuhk.edu.hk/~apweb/previous/apweb2013/index.html" target="_blank">APWeb 2013</a>, BigDIA 2016
-  </p></li>  
-  </ul>
-</li>
   
   </ul>
 </div>
