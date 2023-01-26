@@ -281,7 +281,7 @@
     <a href="http://www.akbc.ws/" target="_blank">AKBC</a>, 
     <a href="http://conference.eng.unimelb.edu.au/adc/" target="_blank">ADC</a>,
     <a href="http://www.ieeebigdata.org/2016/" target="_blank">BigData</a>,
-    <a href="http://www.icwl.org.cn/Sete.html" target="_blank">SETE</a>,
+    <a href="http://www.icwl.org.cn/Sete.html" target="_blank">SETE</a> (track chair),
     FCST, FAB, PRICAI
   </p></li>
   <li><p>
