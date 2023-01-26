@@ -52,6 +52,7 @@
 <div style="width:860px;margin:0px auto">
   <h3 style="color:#b45f06"><b><i>News</i></b></h3>
   <ul style="list-style-type:square; line-height:1">
+    <li><p> <i>2023/01: <font color="color:#cc0000">We have a paper on graph learning accepted by The ACM <a href = "https://www2023.thewebconf.org/" target = "_blank">Web Conference 2023</a>!</font></i></p> </li>
     <li><p> <i>2022/12: <font color="color:#cc0000">We won the Best Paper Award at <a href = "https://conf.ccf.org.cn/web/html7/index.html?globalId=m9475032704175349761645943983427&type=1" target = "_blank">WISA 2022</a>!</font></i></p> </li>
     <li><p> <i>2022/10: Invited to serve as a senior PC member of <a href = "http://www.tjudb.cn/dasfaa2023/" target = "_blank">DASFAA 2023</a>.</i></p> </li>
     <li><p> <i>2022/09: Invited to serve as a PC member of <a href = "https://www2023.thewebconf.org/" target = "_blank">The Web Conference 2023</a>.</i></p></li>
@@ -60,8 +61,8 @@
     <li><p> <i>2022/08: <font color="color:#cc0000">We have four papers on graph processing and learning accepted by <a href = "https://www.cikm2022.org/" target = "_blank">CIKM 2022</a>!</font></i></p> </li>
     <li><p> <i>2022/07: <font color="color:#cc0000">We have a survey on dynamic graphs to appear in <a href = "https://www.springer.com/journal/10115" target = "_blank">KAIS</a> journal!</font></i></p> </li>
     <li><p> <i>2022/06: Invited to serve as a PC member of ACM <a href = "http://www.wsdm-conference.org/2023/" target = "_blank">WSDM 2023</a>.</i></p> </li>
-    <li><p> <i>2022/04: <font color="color:#cc0000">We have a paper on unanswerablity of questions accepted by ACM <a href = "https://sigir.org/sigir2022/" target = "_blank">SIGIR 2022</a>!</font></i></p> </li>
-    <!--<li><p> <i>2022/03: Invited to serve as an area chair of <a href = "http://sigkg.cn/ccks2022/" target = "_blank">CCKS 2022</a>.</i></p> </li>
+    <!--<li><p> <i>2022/04: <font color="color:#cc0000">We have a paper on unanswerablity of questions accepted by ACM <a href = "https://sigir.org/sigir2022/" target = "_blank">SIGIR 2022</a>!</font></i></p> </li>
+    <li><p> <i>2022/03: Invited to serve as an area chair of <a href = "http://sigkg.cn/ccks2022/" target = "_blank">CCKS 2022</a>.</i></p> </li>
     <li><p> <i>2022/03: Invited to serve as a PC member of <a href = "https://coling2022.org/" target = "_blank">COLING 2022</a>.</i></p> </li>
     <li><p> <i>2022/01: <font color="color:#cc0000">We have a paper on bursting pattern in streaming graphs accepted by <a href = "https://www.dasfaa2022.org/" target = "_blank">DASFAA 2022</a>!</font></i></p></li>
     <li><p> <i>2021/11: Invited to serve as a PC member of ACM <a href = "https://kdd.org/kdd2022/index.html" target = "_blank">SIGKDD 2022</a>.</i></p> </li>
@@ -101,9 +102,13 @@
 <div style="width:860px;margin:0px auto">
   <h3><b style="color:#0b5394">Selected Publications</b> (<a href="pub.html">Extended List</a>, @<a href="https://scholar.google.com/citations?user=7IZ4kgwAAAAJ&hl=en" target="_blank">Google Scholar</a>, @<a href="https://dblp.uni-trier.de/pers/hd/z/Zhao_0002:Xiang" target="_blank">DBLP</a>, @<a href="https://orcid.org/0000-0001-6339-0219" target="_blank">ORCID</a>, @<a href="https://www.aminer.cn/profile/562d5f7f45cedb3398ddd908" target="_blank">AMiner</a>)</h3>
   <ul>
+    <li><p><b>Graph Self-supervised Learning with Augmentation-aware Contrastive Learning</b> <br/>Dong Chen, <b>Xiang Zhao</b>, <a href="https://cse.hkust.edu.hk/~weiwcs/" target="_blank>Wei Wang</a>, Zhen Tan, Weidong Xiao. The ACM <b>Web Conference</b>, 2023.</p></li>
+    
+    <li><p><b>(p,q)-biclique counting and enumeration for large sparse bipartite graphs</b> <br/><a href="https://jianye1hnu.github.io/" target="_blank">Jianye Yang</a>, Yun Peng, Dian Ouyang, <a href="https://www.cse.unsw.edu.au/~zhangw/" target="_blank">Wenjie Zhang</a>, <a href="https://www.cse.unsw.edu.au/~lxue" target="_blank">Xuemin Lin</a>, <b>Xiang Zhao</b>. <b><i>VLDB J.</i></b>, 2023, in press.</p></li>
+    
     <li><p><b><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9891783" target="_blank">PF-HIN: Pre-Training for Heterogeneous Information Networks</a></b> <br/>Yang Fang, Xiang Zhao*, Yifan Chen, Weidong Xiao, <a href = "https://staff.fnwi.uva.nl/m.derijke/" target = "_blank">Maarten de Rijke</a>. <i>IEEE </i><b><i>Trans. Know. Data Eng.</i></b> (<b>TKDE</b>), 2022, in press.</p></li>
     
-    <!--<li><p><b>Discovering Frequency Bursting Patterns in Temporal Graphs</b> <br/>Qianzhen Zhang, <a href="http://www.greenorbs.org/people/liu/guodeke/" target="_blank">Deke Guo*</a>, <b>Xiang Zhao</b>*, Long Yuan, Lailong Luo. IEEE <b>ICDE</b>, 2023.</p></li>-->
+    <li><p><b>Discovering Frequency Bursting Patterns in Temporal Graphs</b> <br/>Qianzhen Zhang, <a href="http://www.greenorbs.org/people/liu/guodeke/" target="_blank">Deke Guo*</a>, <b>Xiang Zhao</b>*, Long Yuan, Lailong Luo. IEEE <b>ICDE</b>, 2023.</p></li>
     
     <li><p><b><a href="https://dl.acm.org/doi/pdf/10.1145/3477495.3532048" target="_blank">PTAU: Prompt Tuning for Attributing Unanswerable Questions</a></b> <br/>Jinzhi Liao, <b>Xiang Zhao</b>*, Jianming Zheng, Xinyi Li, Fei Cai and Jiuyang Tang. ACM <b>SIGIR</b>, 2022.</p></li>
     
