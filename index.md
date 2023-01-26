@@ -208,10 +208,10 @@
     IEEE <a href="http://ieeeaccess.ieee.org/" target="_blank">Access</a> (2018-2022)</p>
     </li>
 
-  <li><p><b>Journal editorial review board:</b></p>
+  <!--<li><p><b>Journal editorial review board:</b></p>
     <p><a href="http://www.ecice06.com/CN/1000-3428/home.shtml" target="_blank">计算机工程</a> (since 2021), 
     <a href="https://www.igi-global.com/journal/journal-database-management-jdm/1072" target="_blank">Journal of Database Management</a> (since 2018)</p>
-    </li>
+  </li>-->
 
   <li><p><b>Invited journal reviewers:</b></p><p>
   <a href="http://vldb.org/pvldb/" target="_blank">Proc. VLDB</a>,
