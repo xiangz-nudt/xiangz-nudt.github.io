@@ -112,7 +112,7 @@
     
     <li><p><b><a href="https://dl.acm.org/doi/pdf/10.1145/3477495.3532048" target="_blank">PTAU: Prompt Tuning for Attributing Unanswerable Questions</a></b> <br/>Jinzhi Liao, <b>Xiang Zhao</b>*, Jianming Zheng, Xinyi Li, Fei Cai and Jiuyang Tang. ACM <b>SIGIR</b>, 2022.</p></li>
     
-    <li><p><b><a href="https://link.springer.com/article/10.1007/s00778-021-00703-3" target="_blank">On Entity Alignment at Scale</a></b> <br/>Weixin Zeng, <b>Xiang Zhao</b>*, Xinyi Li, Jiuyang Tang, <a href = "https://www.cse.ust.hk/~weiwcs/" target="_blank">Wei Wang</a>. <b><i>VLDB J.</i></b>, 2022, 31(5): 1009-1033.</p></li>
+    <li><p><b>On Entity Alignment at Scale</b> <br/>Weixin Zeng, <b>Xiang Zhao</b>*, Xinyi Li, Jiuyang Tang, <a href = "https://www.cse.ust.hk/~weiwcs/" target="_blank">Wei Wang</a>. <b><i>VLDB J.</i></b>, 2022, 31(5): 1009-1033.</p></li>
     
     <li><p><b><a href="https://dl.acm.org/doi/pdf/10.1145/3485189" target="_blank">Scalable Representation Learning for Dynamic Heterogeneous Information Networks via Metagraph</a></b> <br/>Yang Fang, <b>Xiang Zhao</b>*, Peixin Huang, Weidong Xiao, <a href = "https://staff.fnwi.uva.nl/m.derijke/" target = "_blank">Maarten de Rijke</a>. <i>ACM <b>Trans. Info. Syst.</b></i> <b>(TOIS)</b>, 2022, 40(4): 64:1-64:27.</p></li>
     
