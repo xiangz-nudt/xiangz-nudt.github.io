@@ -244,7 +244,9 @@
     <p><b>Member of organization committees:</b></p>
     <ul>
       <li><p>
-      <b>Program co-chairs:</b> <a href="https://conf.ccf.org.cn/wisa2023" target="_blank">WISA 2023</a>
+      <b>Program co-chairs:</b> 
+        <a href="https://conf.ccf.org.cn/wisa2023" target="_blank">WISA 2023</a>，
+        <a href="https://kgma2023.github.io/" target="_blank">KGMA 2023</a>
       </p></li>
     <li><p>
     <b>Tutorial co-chairs:</b> <a href="https://apweb-waim2022.com/" target="_blank">APWeb-WAIM 2022</a>
