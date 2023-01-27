@@ -106,7 +106,7 @@
   <ul>
     <li><p><b>Graph Self-supervised Learning with Augmentation-aware Contrastive Learning</b> <br/>Dong Chen, <b>Xiang Zhao</b>*, <a href="https://cse.hkust.edu.hk/~weiwcs/" target="_blank">Wei Wang</a>, Zhen Tan, Weidong Xiao. The ACM <b>Web Conference</b>, 2023.</p></li>
     
-    <li><p><b>(<i>p,q</i>)-biclique counting and enumeration for large sparse bipartite graphs</b> <br/><a href="https://jianye1hnu.github.io/" target="_blank">Jianye Yang</a>, Yun Peng, Dian Ouyang, <a href="https://www.cse.unsw.edu.au/~zhangw/" target="_blank">Wenjie Zhang</a>, <a href="https://www.cse.unsw.edu.au/~lxue" target="_blank">Xuemin Lin</a>, <b>Xiang Zhao</b>. <b><i>VLDB J.</i></b>, 2023, in press.</p></li>
+    <li><p><b>(<i>p,q</i>)-Biclique Counting and Enumeration for Large Sparse Bipartite Graphs</b> <br/><a href="https://jianye1hnu.github.io/" target="_blank">Jianye Yang</a>, Yun Peng, Dian Ouyang, <a href="https://www.cse.unsw.edu.au/~zhangw/" target="_blank">Wenjie Zhang</a>, <a href="https://www.cse.unsw.edu.au/~lxue" target="_blank">Xuemin Lin</a>, <b>Xiang Zhao</b>. <b><i>VLDB J.</i></b>, 2023, in press.</p></li>
     
     <li><p><b><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9891783" target="_blank">PF-HIN: Pre-Training for Heterogeneous Information Networks</a></b> <br/>Yang Fang, Xiang Zhao*, Yifan Chen, Weidong Xiao, <a href = "https://staff.fnwi.uva.nl/m.derijke/" target = "_blank">Maarten de Rijke</a>. <i>IEEE </i><b><i>Trans. Know. Data Eng.</i></b> (<b>TKDE</b>), 2022, in press.</p></li>
     
