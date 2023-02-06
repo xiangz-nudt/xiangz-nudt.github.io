@@ -297,7 +297,7 @@
       <a href="http://sigkg.cn/ccks2022/" target="_blank">CCKS</a> (area chair),
       <a href="https://conf.ccf.org.cn/wisa2020" target="_blank">WISA</a>,
       CCF <a href="http://dm.ustc.edu.cn/ccf-bigdata2015/" target="_blank">BigData</a>, 
-      <a href="http://ndbc2019.sdu.edu.cn/" target="_blank">NDBC</a>
+      <a href="http://ndbc2019.sdu.edu.cn/" target="_blank">NDBC</a>,
       <a href="http://cips-cl.org/static/CCL2022/en/index.html" target="_blank">CCL</a>
     </p></li>
     <li><p>
