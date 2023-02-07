@@ -53,7 +53,7 @@
   <h3 style="color:#b45f06"><b><i>News</i></b></h3>
   <ul style="list-style-type:square; line-height:1">
     <li><p> <i>2023/02: Invited to serve as an area chair of <a href = "https://sigkg.cn/ccks2023/" target = "_blank">CCKS 2023</a>.</i></p></li>
-    <li><p> <i>2023/01: We are organizing <a href = "https://kgma2023.github.io/" target = "_blank">KGMA 2023</a> workshop, co-located with APWeb-WAIM in Wuhan!</i></p> </li>
+    <li><p> <i>2023/01: We are organizing <a href = "https://kgma2023.github.io/" target = "_blank">KGMA 2023</a> workshop, co-located with <a href="http://www.apweb-waim2023.com/" target="_blank">APWeb-WAIM</a> in Wuhan!</i></p> </li>
     <li><p> <i>2023/01: <font color="color:#cc0000">We have a paper on graph learning accepted by The ACM <a href = "https://www2023.thewebconf.org/" target = "_blank">Web Conference 2023</a>!</font></i></p> </li>
     <li><p> <i>2023/01: <font color="color:#cc0000">We have an article on biclique counting accepted by <a href = "https://www.springer.com/journal/778" target = "_blank">The VLDB Journal</a>!</font></i></p> </li>
     <li><p> <i>2022/12: <font color="color:#cc0000">We won the Best Paper Award at <a href = "https://conf.ccf.org.cn/web/html7/index.html?globalId=m9475032704175349761645943983427&type=1" target = "_blank">WISA 2022</a>!</font></i></p> </li>
