@@ -227,6 +227,7 @@
   <a href="http://www.journals.elsevier.com/information-sciences/" target="_blank">Inf. Sci.</a>,
   <a href="https://onlinelibrary.wiley.com/journal/1098111x" target="_blank">Int. J. Intell. Syst.</a>,
   <a href="https://www.journals.elsevier.com/engineering-applications-of-artificial-intelligence" target="_blank">Eng. Appl. of AI</a>,
+  <a href="https://www.sciencedirect.com/journal/pattern-recognition-letters" target="_blank">Pattern Recognit. Lett.</a>,
   <a href="http://www.journals.elsevier.com/journal-of-computer-and-system-sciences/" target="_blank">JCSS</a>, 
   <a href="http://www.iis.sinica.edu.tw/page/jise/Introduction.html" target="_blank">JISE</a>, 
   <a href="http://jgaa.info/" target="_blank">JGAA</a>, <a href="http://www.academypublisher.com/jcp/" target="_blank">JCP</a>, 
