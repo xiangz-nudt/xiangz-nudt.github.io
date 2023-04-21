@@ -116,7 +116,7 @@
     
     <li><p><b>(<i>p,q</i>)-Biclique Counting and Enumeration for Large Sparse Bipartite Graphs</b> <br/><a href="https://jianye1hnu.github.io/" target="_blank">Jianye Yang</a>, Yun Peng, Dian Ouyang, <a href="https://www.cse.unsw.edu.au/~zhangw/" target="_blank">Wenjie Zhang</a>, <a href="https://www.cse.unsw.edu.au/~lxue" target="_blank">Xuemin Lin</a>, <b>Xiang Zhao</b>. <b><i>VLDB J.</i></b>, 2023, in press.</p></li>
     
-    <li><p><b><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9891783" target="_blank">PF-HIN: Pre-Training for Heterogeneous Information Networks</a></b> <br/>Yang Fang, Xiang Zhao*, Yifan Chen, Weidong Xiao, <a href = "https://staff.fnwi.uva.nl/m.derijke/" target = "_blank">Maarten de Rijke</a>. <i>IEEE </i><b><i>Trans. Know. Data Eng.</i></b> (<b>TKDE</b>), 2022, in press.</p></li>
+    <li><p><b><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9891783" target="_blank">PF-HIN: Pre-Training for Heterogeneous Information Networks</a></b> <br/>Yang Fang, <b>Xiang Zhao</b>*, Yifan Chen, Weidong Xiao, <a href = "https://staff.fnwi.uva.nl/m.derijke/" target = "_blank">Maarten de Rijke</a>. <i>IEEE </i><b><i>Trans. Know. Data Eng.</i></b> (<b>TKDE</b>), 2022, in press.</p></li>
     
     <li><p><b>Discovering Frequency Bursting Patterns in Temporal Graphs</b> <br/>Qianzhen Zhang, <a href="http://www.greenorbs.org/people/liu/guodeke/" target="_blank">Deke Guo*</a>, <b>Xiang Zhao</b>*, Long Yuan, Lailong Luo. IEEE <b>ICDE</b>, 2023.</p></li>
     
