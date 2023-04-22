@@ -213,7 +213,9 @@
   <ul>
 
   <li><p><b>Journal editorial board:</b></p>
-    <p><a href="http://www.ceaj.org/CN/jsjgc/home.shtml" target="_blank">计算机工程与应用</a> (since 2022), 
+    <p><a href="http://www.jos.org.cn/jos/home" target="_blank">软件学报</a> (guest member), 
+      <a href="http://www.ceaj.org/CN/jsjgc/home.shtml" target="_blank">计算机工程与应用</a> (since 2022), 
+      <a href="http://www.ecice06.com/CN/1000-3428/home.shtml" target="_blank">计算机工程</a> (young member since 2020),
     IEEE <a href="http://ieeeaccess.ieee.org/" target="_blank">Access</a> (2018-2022)</p>
     </li>
 
