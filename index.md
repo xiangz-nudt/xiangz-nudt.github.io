@@ -55,13 +55,14 @@
     <li><p> <i>2023/05: <font color="color:#cc0000">We have a paper on question answering over temporal KGs accepted by <a href = "https://2023.aclweb.org/" target = "_blank">ACL 2023</a>!</font></i></p> </li>
     <li><p> <i>2023/04: <font color="color:#cc0000">We have an article on graph matching in press in IEEE <a href = "https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69" target = "_blank">TKDE</a>!</font></i></p> </li>
     <li><p> <i>2023/04: <font color="color:#cc0000">We have a paper on federated relation classification accepted by ACM <a href = "https://sigir.org/sigir2023/" target = "_blank">SIGIR 2023</a>!</font></i></p> </li>
+    <li><p> <i>2023/04: Invited to serve as a vice co-chair of IEEE <a href = "http://bigdataieee.org/BigData2023/index.html" target = "_blank">BigData 2023</a>.</i></p> </li>
     <li><p> <i>2023/03: Invited to serve as a member of review board of <a href = "http://vldb.org/pvldb/volumes/17/review-board" target = "_blank">VLDB 2024</a>.</i></p> </li>
     <li><p> <i>2023/02: Invited to serve as an area chair of <a href = "https://sigkg.cn/ccks2023/" target = "_blank">CCKS 2023</a>.</i></p></li>
     <li><p> <i>2023/01: We are organizing <a href = "https://kgma2023.github.io/" target = "_blank">KGMA 2023</a> workshop, co-located with <a href="http://www.apweb-waim2023.com/" target="_blank">APWeb-WAIM</a> in Wuhan!</i></p> </li>
     <li><p> <i>2023/01: <font color="color:#cc0000">We have a paper on graph learning accepted by The ACM <a href = "https://www2023.thewebconf.org/" target = "_blank">Web Conference 2023</a>!</font></i></p> </li>
     <li><p> <i>2023/01: <font color="color:#cc0000">We have an article on biclique counting accepted by <a href = "https://www.springer.com/journal/778" target = "_blank">The VLDB Journal</a>!</font></i></p> </li>
-    <li><p> <i>2022/12: <font color="color:#cc0000">We won the Best Paper Award at <a href = "https://conf.ccf.org.cn/web/html7/index.html?globalId=m9475032704175349761645943983427&type=1" target = "_blank">WISA 2022</a>!</font></i></p> </li>
-    <!--<li><p> <i>2022/10: Invited to serve as a senior PC member of <a href = "http://www.tjudb.cn/dasfaa2023/" target = "_blank">DASFAA 2023</a>.</i></p> </li>
+    <!--<li><p> <i>2022/12: <font color="color:#cc0000">We won the Best Paper Award at <a href = "https://conf.ccf.org.cn/web/html7/index.html?globalId=m9475032704175349761645943983427&type=1" target = "_blank">WISA 2022</a>!</font></i></p> </li>
+    <li><p> <i>2022/10: Invited to serve as a senior PC member of <a href = "http://www.tjudb.cn/dasfaa2023/" target = "_blank">DASFAA 2023</a>.</i></p> </li>
     <li><p> <i>2022/09: Invited to serve as a PC member of <a href = "https://www2023.thewebconf.org/" target = "_blank">The Web Conference 2023</a>.</i></p></li>
     <li><p> <i>2022/09: <font color="color:#cc0000">We have an article on network pre-training in press in IEEE <a href = "https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69" target = "_blank">TKDE</a>!</font></i></p> </li>
     <li><p> <i>2022/08: <font color="color:#cc0000">We have a paper on mining temporal graphs accepted by IEEE <a href = "https://icde2023.ics.uci.edu/" target = "_blank">ICDE 2023</a>!</font></i></p> </li>
