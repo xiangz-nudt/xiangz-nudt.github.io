@@ -116,7 +116,7 @@
     
     <li><p><b><a href=" " target="_blank">Personalized Federated Relation Classification over Heterogeneous Texts</a></b> [<a href="https://github.com/ningpang/pf-RC" target="_blank">code</a>] <br/>Ning Pang, <b>Xiang Zhao</b>*, Weixin Zeng, Ji Wang, Weidong Xiao. ACM <b>SIGIR</b>, 2023.</p></li>
     
-    <li><p><b>Graph Self-supervised Learning with Augmentation-aware Contrastive Learning</b> <br/>Dong Chen, <b>Xiang Zhao</b>*, <a href="https://cse.hkust.edu.hk/~weiwcs/" target="_blank">Wei Wang</a>, Zhen Tan, Weidong Xiao. The ACM <b>Web Conference</b>, 2023.</p></li>
+    <li><p><b><a href="https://dl.acm.org/doi/pdf/10.1145/3543507.3583246" target="_blank">Graph Self-supervised Learning with Augmentation-aware Contrastive Learning</a></b> <br/>Dong Chen, <b>Xiang Zhao</b>*, <a href="https://cse.hkust.edu.hk/~weiwcs/" target="_blank">Wei Wang</a>, Zhen Tan, Weidong Xiao. The ACM <b>Web Conference</b>, 2023.</p></li>
     
     <li><p><b>(<i>p,q</i>)-Biclique Counting and Enumeration for Large Sparse Bipartite Graphs</b> <br/><a href="https://jianye1hnu.github.io/" target="_blank">Jianye Yang</a>, Yun Peng, Dian Ouyang, <a href="https://www.cse.unsw.edu.au/~zhangw/" target="_blank">Wenjie Zhang</a>, <a href="https://www.cse.unsw.edu.au/~lxue" target="_blank">Xuemin Lin</a>, <b>Xiang Zhao</b>. <b><i>VLDB J.</i></b>, 2023, in press.</p></li>
     
