@@ -113,7 +113,7 @@
   <ul>
     <li><p><b><a href="" target="_blank">Multi-granularity Temporal Question Answering over Knowledge Graphs</a></b> [<a href="https://github.com/czy1999/MultiTQ" target="_blank">code</a>] <br/>Ziyang Chen, Jinzhi Liao, <b>Xiang Zhao</b>*. <b>ACL</b>, 2023.</p></li>
     
-    <li><p><b><a href="" target="_blank">Matching Knowledge Graphs in Entity Embedding Spaces: An Experimental Study</a></b> [<a href="https://github.com/DexterZeng/EntMatcher" target="_blank">code</a>] <br/>Weixin Zeng, <b>Xiang Zhao</b>*, Zhen Tan, Jiuyang Tang, <a href = "http://www.ict.cas.cn/sourcedb_2018_ict_cas/cn/jssrck/200909/t20090917_2496598.html" target = "_blank">Xueqi Cheng</a>. <i>IEEE </i><b><i>Trans. Know. Data Eng.</i></b> (<b>TKDE</b>), 2023, in press.</p></li>
+    <li><p><b><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10114983" target="_blank">Matching Knowledge Graphs in Entity Embedding Spaces: An Experimental Study</a></b> [<a href="https://github.com/DexterZeng/EntMatcher" target="_blank">code</a>] <br/>Weixin Zeng, <b>Xiang Zhao</b>*, Zhen Tan, Jiuyang Tang, <a href = "http://www.ict.cas.cn/sourcedb_2018_ict_cas/cn/jssrck/200909/t20090917_2496598.html" target = "_blank">Xueqi Cheng</a>. <i>IEEE </i><b><i>Trans. Know. Data Eng.</i></b> (<b>TKDE</b>), 2023, in press.</p></li>
     
     <li><p><b><a href=" " target="_blank">Personalized Federated Relation Classification over Heterogeneous Texts</a></b> [<a href="https://github.com/ningpang/pf-RC" target="_blank">code</a>] <br/>Ning Pang, <b>Xiang Zhao</b>*, Weixin Zeng, Ji Wang, Weidong Xiao. ACM <b>SIGIR</b>, 2023.</p></li>
     
