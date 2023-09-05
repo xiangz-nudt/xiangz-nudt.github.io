@@ -52,6 +52,7 @@
 <div style="width:860px;margin:0px auto">
   <h3 style="color:#b45f06"><b><i>News</i></b></h3>
   <ul style="list-style-type:square; line-height:1">
+    <li><p> <i>2023/09: Invited to serve as an SPC for <a href = "https://www.dasfaa2024.org/" target = "_blank">DASFAA 2024</a>.</i></p></li>
     <li><p> <i>2023/08: <font color="color:#cc0000">We have two papers, respectively, on fake news detection and multi-modal NER accepted by <a href = "https://www.cikm2023.org/" target = "_blank">CIKM 2023</a>!</font></i></p> </li>
     <li><p> <i>2023/05: Invited to serve as a PC member of ACM <a href = "https://uobevents.eventsair.com/cikm2023/" target = "_blank">CIKM 2023</a>.</i></p></li>
     <li><p> <i>2023/05: <font color="color:#cc0000">We have a paper on question answering over temporal KGs accepted by <a href = "https://2023.aclweb.org/" target = "_blank">ACL 2023</a>!</font></i></p> </li>
@@ -219,8 +220,9 @@
   <ul>
 
   <li><p><b>Journal editorial board:</b></p>
-    <p><a href="http://www.jos.org.cn/jos/home" target="_blank">软件学报</a> (guest member), 
-      <a href="http://www.ceaj.org/CN/jsjgc/home.shtml" target="_blank">计算机工程与应用</a> (since 2022), 
+    <p><a href="http://www.jos.org.cn/jos/home" target="_blank">软件学报</a> (guest member),
+      <a href="http://fcst.ceaj.org/CN/1673-9418/home.shtml" target="_blank">计算机科学与探索</a> (guest member),
+      <a href="http://cea.ceaj.org/CN/1002-8331/home.shtml" target="_blank">计算机工程与应用</a> (since 2022), 
       <a href="http://www.ecice06.com/CN/1000-3428/home.shtml" target="_blank">计算机工程</a> (young member since 2020),
     IEEE <a href="http://ieeeaccess.ieee.org/" target="_blank">Access</a> (2018-2022)</p>
     </li>
@@ -339,7 +341,7 @@
   <h3> <b style="color:rgb(166,77,121)">Awards and Grants</b></h3>
   <ul>
 
-    <li><p><b>The 1st Prize of CICC Scientific and Technological Progress Award</b>, awarded by <a href="http://www.c2.org.cn/h-col-136.html" target="_blank">Chiese Institute of Command and Control</a>, 2023</p></li>
+    <li><p><b>The 1st Prize of CICC Scientific and Technological Progress Award</b>, awarded by <a href="http://www.c2.org.cn/h-col-136.html" target="_blank">Chinese Institute of Command and Control</a>, 2023</p></li>
     <li><p><b>The 2nd Prize of CCF Natural Science Award</b>, awarded by <a href="https://www.ccf.org.cn/Awards/" target="_blank">China Computer Federation</a>, 2022</p></li>
     <li><p><b>The 2nd Prize of Ministerial and Provincial Scientific and Technological Progress Award</b>, 2020</p></li>
     <li><p><b>Best Paper Award</b> of <a href="https://conf.ccf.org.cn/web/html7/index.html?globalId=m9475032704175349761645943983427&type=1" target="_blank">WISA</a> 2022</p></li>
