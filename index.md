@@ -339,8 +339,9 @@
   <h3> <b style="color:rgb(166,77,121)">Awards and Grants</b></h3>
   <ul>
 
+    <li><p><b>The 1st Prize of CICC Scientific and Technological Progress Award</b>, awarded by <a href="http://www.c2.org.cn/h-col-136.html" target="_blank">Chiese Institute of Command and Control</a>, 2023</p></li>
     <li><p><b>The 2nd Prize of CCF Natural Science Award</b>, awarded by <a href="https://www.ccf.org.cn/Awards/" target="_blank">China Computer Federation</a>, 2022</p></li>
-    <li><p><b>The 2nd Prize of Provincial Scientific and Technological Progress Award</b>, 2020</p></li>
+    <li><p><b>The 2nd Prize of Ministerial and Provincial Scientific and Technological Progress Award</b>, 2020</p></li>
     <li><p><b>Best Paper Award</b> of <a href="https://conf.ccf.org.cn/web/html7/index.html?globalId=m9475032704175349761645943983427&type=1" target="_blank">WISA</a> 2022</p></li>
     <li><p><b>Best Paper Award</b> of <a href="https://dm.iis.sinica.edu.tw/DASFAA2021/index.html" target="_blank">DASFAA</a> 2021</p></li> 
     <li><p><b>Best Paper Award</b> of <a href="http://www.tjudb.cn/apwebwaim2020/" target="_blank">APWeb-WAIM</a> 2020</p></li>
