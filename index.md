@@ -349,6 +349,7 @@
     <li><p><b>Best Paper Award</b> of <a href="http://www.tjudb.cn/apwebwaim2020/" target="_blank">APWeb-WAIM</a> 2020</p></li>
     <li><p><b>Best Student Paper Award</b> of <a href="https://www.ksem.conferences.academy/" target="_blank">KSEM</a> 2020</p></li>
     <li><p><b>Best Student Paper Award</b> of <a href="https://adc2016.cse.unsw.edu.au/" target="_blank">ADC</a> 2016</p></li>  
+    <li><p><b>The Science and Technology Innovation Program of Hunan Province</b> (2023), awarded by <a href="http://kjt.hunan.gov.cn/" target="_blank">Department of Science and Technology of Hunan</a></p></li>
     <li><p><b>High-level Young Talents Award Scheme</b> (2020), awarded by <a href="http://www.moe.gov.cn/" target="_blank">Ministry of Education, China</a></p></li>
     <li><p><b>Young Talents Lift-up Program</b> (2018), awarded by <a href="http://www.cast.org.cn/" target="_blank">China Association for Science and Technology</a></p></li>
     <li><p><b>ACM SIGMOD China Rising Star Award</b> (2018), awarded by <a href="https://www.acm.org/acm-china-council" target="_blank">ACM China</a></p></li>
