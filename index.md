@@ -187,6 +187,10 @@
   
     <li><p><b><a href="https://sites.google.com/site/xzhaounsw/ICDE2012-GSimJoin.pdf?attredirects=0">Efficient Graph Similarity Joins with Edit Distance Constraints</a> </b> [<a href="https://sites.google.com/site/xzhaounsw/ICDE2012_Talk.pptx?attredirects=0">slides</a>] [<a href="http://dx.doi.org/10.1007/s00778-013-0306-1" target="_blank">extended version</a>] <br /><b>Xiang Zhao</b>, <a href="https://sites.google.com/site/chuanxiao1983/" target="_blank">Chuan Xiao</a>, <a href="http://www.cse.unsw.edu.au/~lxue/" target="_blank">Xuemin Lin</a>, <a href="http://www.cse.unsw.edu.au/~weiw/" target="_blank">Wei Wang</a>. IEEE <b>ICDE</b>, 2012.</p></li>
     
+    <li><p><b><a href="">时序知识图谱表示与推理的研究进展</a></b><br/>[3]	王俞涵, 陈子阳, <b>赵翔</b>*, 谭真, 肖卫东, 程学旗. <b><i>软件学报</i></b>, 2022, 待刊.</p></li>
+    
+    <li><p><b><a href="">面向时序图数据的季节突发性子图挖掘算法</a></b><br/>张千桢, 郭得科, <b>赵翔</b>. <b><i>软件学报</i></b>, 2023, 待刊.</p></li>
+    
     <li><p><b><a href="https://crad.ict.ac.cn/CN/10.7544/issn1000-1239.20220458#1">一种面向云边端系统的分层异构联邦学习方法</a></b><br/>钟正仪, 包卫东, 王吉*, 吴冠霖, <b>赵翔</b>. <b><i>计算机研究与发展</i></b>, 2022, 59(11): 2408-2422.</p></li>
     
     <li><p><b><a href="">跳跃滤波:一种面向大数据治理的动态数据摘要技术</a></b><br/>符鹏涛, 罗来龙, 郭得科, <b>赵翔</b>, 李尚森, 王怀民. <b><i>软件学报</i></b>, 2022, 待刊.</p></li>
@@ -274,6 +278,7 @@
     </p></li>
     <li><p>
     <b>Publication co-chairs:</b>
+      <a href="https://2023.bigdia.org/" target="_blank">BigDIA 2023</a>
       <a href="https://conf.ccf.org.cn/wisa2022" target="_blank">WISA 2022</a>,
       <a href="http://ksem2020.org/" target="_blank">KSEM 2020</a>
     </p></li>
