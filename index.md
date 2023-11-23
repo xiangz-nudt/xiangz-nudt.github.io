@@ -187,7 +187,7 @@
   
     <li><p><b><a href="https://sites.google.com/site/xzhaounsw/ICDE2012-GSimJoin.pdf?attredirects=0">Efficient Graph Similarity Joins with Edit Distance Constraints</a> </b> [<a href="https://sites.google.com/site/xzhaounsw/ICDE2012_Talk.pptx?attredirects=0">slides</a>] [<a href="http://dx.doi.org/10.1007/s00778-013-0306-1" target="_blank">extended version</a>] <br /><b>Xiang Zhao</b>, <a href="https://sites.google.com/site/chuanxiao1983/" target="_blank">Chuan Xiao</a>, <a href="http://www.cse.unsw.edu.au/~lxue/" target="_blank">Xuemin Lin</a>, <a href="http://www.cse.unsw.edu.au/~weiw/" target="_blank">Wei Wang</a>. IEEE <b>ICDE</b>, 2012.</p></li>
     
-    <li><p><b><a href="">时序知识图谱表示与推理的研究进展</a></b><br/>王俞涵, 陈子阳, <b>赵翔</b>*, 谭真, 肖卫东, 程学旗. <b><i>软件学报</i></b>, 2022, 待刊.</p></li>
+    <li><p><b><a href="">时序知识图谱表示与推理的研究进展</a></b><br/>王俞涵, 陈子阳, <b>赵翔</b>*, 谭真, 肖卫东, 程学旗. <b><i>软件学报</i></b>, 2023, 待刊.</p></li>
     
     <li><p><b><a href="">面向时序图数据的季节突发性子图挖掘算法</a></b><br/>张千桢, 郭得科, <b>赵翔</b>. <b><i>软件学报</i></b>, 2023, 待刊.</p></li>
     
