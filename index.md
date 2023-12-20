@@ -232,6 +232,7 @@
       <a href="http://fcst.ceaj.org/CN/1673-9418/home.shtml" target="_blank">计算机科学与探索</a> (guest member),
       <a href="http://cea.ceaj.org/CN/1002-8331/home.shtml" target="_blank">计算机工程与应用</a> (since 2022), 
       <a href="http://www.ecice06.com/CN/1000-3428/home.shtml" target="_blank">计算机工程</a> (young member since 2020),
+      <a href="https://www.mdpi.com/journal/applsci/special_issues/42Z7WVR42J" target="_blank">Applied Sciences</a> (guest member),
     IEEE <a href="http://ieeeaccess.ieee.org/" target="_blank">Access</a> (2018-2022)</p>
     </li>
 
