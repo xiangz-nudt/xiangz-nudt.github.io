@@ -116,7 +116,7 @@
 <div style="width:860px;margin:0px auto">
   <h3><b style="color:#0b5394">Selected Publications</b> (<a href="pub.html">Extended List</a>, @<a href="https://scholar.google.com/citations?user=7IZ4kgwAAAAJ&hl=en" target="_blank">Google Scholar</a>, @<a href="https://dblp.uni-trier.de/pers/hd/z/Zhao_0002:Xiang" target="_blank">DBLP</a>, @<a href="https://orcid.org/0000-0001-6339-0219" target="_blank">ORCID</a>, @<a href="https://www.aminer.cn/profile/562d5f7f45cedb3398ddd908" target="_blank">AMiner</a>)</h3>
   <ul>
-    <li><p><b>Few-shot Learning for Heterogeneous Information Networks</b><br/>Yang Fang, <b>Xiang Zhao</b>, Weidong Xiao, <a href = "https://staff.fnwi.uva.nl/m.derijke/" target = "_blank">Maarten de Rijke</a>. <i>ACM <b>Trans. Info. Syst.</b></i> <b>(TOIS)</b>, 2024, in press.</p></li>
+    <li><p><b>Few-shot Learning for Heterogeneous Information Networks</b><br/>Yang Fang, <b>Xiang Zhao</b>*, Weidong Xiao, <a href = "https://staff.fnwi.uva.nl/m.derijke/" target = "_blank">Maarten de Rijke</a>. <i>ACM <b>Trans. Info. Syst.</b></i> <b>(TOIS)</b>, 2024, in press.</p></li>
     
     <li><p><b>Fine-grained Anomaly Detection on Dynamic Graphs via Attention Alignment</b><br/>Dong Chen, <b>Xiang Zhao</b>*, Weidong Xiao. IEEE <b>ICDE</b>, 2024.</p></li>
     
