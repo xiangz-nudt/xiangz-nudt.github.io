@@ -163,7 +163,7 @@
     
     <li><p><b><a href="http://www.jos.org.cn/jos/article/pdf/6782">跳跃滤波:一种面向大数据治理的动态数据摘要技术</a></b><br/>符鹏涛, 罗来龙, 郭得科, <b>赵翔</b>, 李尚森, 王怀民. <b><i>软件学报</i></b>, 2023, 34(3): 1193-1212.</p></li>
     
-    <li><p><b><a href="http://www.aas.net.cn/article/doi/10.16383/j.aas.c210518">自适应特征融合的多模态实体对齐研究</a></b><br/>郭浩, 李欣奕*, 唐九阳, 郭延明, <b>赵翔</b>. <b><i>自动化学报</i></b>, 2021, 待刊.</p></li>
+    <li><p><b><a href="http://www.aas.net.cn/article/doi/10.16383/j.aas.c210518">自适应特征融合的多模态实体对齐研究</a></b><br/>郭浩, 李欣奕*, 唐九阳, 郭延明, <b>赵翔</b>. <b><i>自动化学报</i></b>, 2024, 50(4): 1001−1013.</p></li>
     
     <li><p><b><a href="https://crad.ict.ac.cn/CN/10.7544/issn1000-1239.20210829#1">新一代知识图谱关键技术研究进展综述</a></b><br/><a href="http://seu.wangmengsd.com/">王萌</a>, <a href="https://tjdi.tongji.edu.cn/teacherdetail.do?id=4991">王昊奋</a>*, <a href="http://faculty.nuaa.edu.cn/lbh">李博涵</a>, <b>赵翔</b>, <a href="http://www.tjudb.cn/dbgroup/Xin_Wang">王鑫</a>. <b><i>计算机研究与发展</i></b>, 2022, 59(9): 1947-1965.</p></li>
   
