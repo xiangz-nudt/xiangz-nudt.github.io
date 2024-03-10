@@ -52,7 +52,7 @@
 <div style="width:860px;margin:0px auto">
   <h3 style="color:#b45f06"><b><i>News</i></b></h3>
   <ul style="list-style-type:square; line-height:1">
-    <li><p> <i>2024/3: <font color="color:#cc0000">We have three full papers and one poster paper accepted by IEEE <a href = "https://icde2024.github.io/" target = "_blank">ICDE 2024</a>!</font></i></p> </li>
+    <li><p> <i>2024/03: <font color="color:#cc0000">We have three full papers and one poster paper accepted by IEEE <a href = "https://icde2024.github.io/" target = "_blank">ICDE 2024</a>!</font></i></p> </li>
     <li><p> <i>2024/01: <font color="color:#cc0000">We have an article on network representation learning in press in ACM <a href = "https://dl.acm.org/journal/tois" target = "_blank">TOIS</a>!</font></i></p> </li>
     <li><p> <i>2023/12: Invited to serve as a PC member of ACM <a href = "https://sigir.org/sigir2024/" target = "_blank">SIGIR 2024</a>.</i></p> </li>
     <li><p> <i>2023/09: Invited to serve as an SPC for <a href = "https://www.dasfaa2024.org/" target = "_blank">DASFAA 2024</a>.</i></p></li>
