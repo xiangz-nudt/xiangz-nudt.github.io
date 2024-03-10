@@ -52,9 +52,9 @@
 <div style="width:860px;margin:0px auto">
   <h3 style="color:#b45f06"><b><i>News</i></b></h3>
   <ul style="list-style-type:square; line-height:1">
+    <li><p> <i>2024/3: <font color="color:#cc0000">We have three full papers and one poster paper accepted by IEEE <a href = "https://icde2024.github.io/" target = "_blank">ICDE 2024</a>!</font></i></p> </li>
     <li><p> <i>2024/01: <font color="color:#cc0000">We have an article on network representation learning in press in ACM <a href = "https://dl.acm.org/journal/tois" target = "_blank">TOIS</a>!</font></i></p> </li>
     <li><p> <i>2023/12: Invited to serve as a PC member of ACM <a href = "https://sigir.org/sigir2024/" target = "_blank">SIGIR 2024</a>.</i></p> </li>
-    <li><p> <i>2023/12: <font color="color:#cc0000">We have a paper on graph anomaly detection accepted by IEEE <a href = "https://icde2024.github.io/" target = "_blank">ICDE 2024</a>!</font></i></p> </li>
     <li><p> <i>2023/09: Invited to serve as an SPC for <a href = "https://www.dasfaa2024.org/" target = "_blank">DASFAA 2024</a>.</i></p></li>
     <li><p> <i>2023/08: <font color="color:#cc0000">We have two papers, respectively, on fake news detection and multi-modal NER accepted by <a href = "https://www.cikm2023.org/" target = "_blank">CIKM 2023</a>!</font></i></p> </li>
     <li><p> <i>2023/05: Invited to serve as a PC member of ACM <a href = "https://uobevents.eventsair.com/cikm2023/" target = "_blank">CIKM 2023</a>.</i></p></li>
@@ -116,6 +116,9 @@
 <div style="width:860px;margin:0px auto">
   <h3><b style="color:#0b5394">Selected Publications</b> (<a href="pub.html">Extended List</a>, @<a href="https://scholar.google.com/citations?user=7IZ4kgwAAAAJ&hl=en" target="_blank">Google Scholar</a>, @<a href="https://dblp.uni-trier.de/pers/hd/z/Zhao_0002:Xiang" target="_blank">DBLP</a>, @<a href="https://orcid.org/0000-0001-6339-0219" target="_blank">ORCID</a>, @<a href="https://www.aminer.cn/profile/562d5f7f45cedb3398ddd908" target="_blank">AMiner</a>)</h3>
   <ul>
+    <li><p><b>LearnSC: An Efficient and Unified Learning-based Framework for Subgraph Counting Problem</b><br/>Wenzhe Hou, <b>Xiang Zhao</b>, Bo Tang. IEEE <b>ICDE</b>, 2024.</p></li>
+    <li><p><b>Cooperative Air-Ground Instant Delivery by UAVs and Crowdsourced Taxis</b><br/>Junhui Gao, Qianru Wang, Xin Zhang, Juan Shi, <b>Xiang Zhao</b>, Qingye Han, Yan Pan. IEEE <b>ICDE</b>, 2024.</p></li>
+    <li><p><b>Matching Knowledge Graphs in Entity Embedding Spaces: An Experimental Study [Extended abstract]</b><br/>Weixin Zeng, <b>Xiang Zhao</b>*, Zhen Tan, Jiuyang Tang, <a href = "http://www.ict.cas.cn/sourcedb_2018_ict_cas/cn/jssrck/200909/t20090917_2496598.html" target = "_blank">Xueqi Cheng</a>. IEEE <b>ICDE</b>,<b> </b>2024 (poster).</p></li>
     <li><p><b>Few-shot Learning for Heterogeneous Information Networks</b><br/>Yang Fang, <b>Xiang Zhao</b>*, Weidong Xiao, <a href = "https://staff.fnwi.uva.nl/m.derijke/" target = "_blank">Maarten de Rijke</a>. <i>ACM <b>Trans. Info. Syst.</b></i> <b>(TOIS)</b>, 2024, in press.</p></li>   
     <li><p><b>Fine-grained Anomaly Detection on Dynamic Graphs via Attention Alignment</b><br/>Dong Chen, <b>Xiang Zhao</b>*, Weidong Xiao. IEEE <b>ICDE</b>, 2024.</p></li> 
     <li><p><b><a href="https://aclanthology.org/2023.acl-long.637.pdf" target="_blank">Multi-granularity Temporal Question Answering over Knowledge Graphs</a></b> [<a href="https://github.com/czy1999/MultiTQ" target="_blank">code</a>] <br/>Ziyang Chen, Jinzhi Liao, <b>Xiang Zhao</b>*. <b>ACL</b>, 2023.</p></li>    
