@@ -52,6 +52,7 @@
 <div style="width:860px;margin:0px auto">
   <h3 style="color:#b45f06"><b><i>News</i></b></h3>
   <ul style="list-style-type:square; line-height:1">
+    <li><p> <i>2024/03: Invited to serve as a PC member of ACM <a href = "https://cikm2024.org/" target = "_blank">CIKM 2024</a>.</i></p></li>
     <li><p> <i>2024/03: <font color="color:#cc0000">We have three full papers and one poster paper accepted by IEEE <a href = "https://icde2024.github.io/" target = "_blank">ICDE 2024</a>!</font></i></p> </li>
     <li><p> <i>2024/01: <font color="color:#cc0000">We have an article on network representation learning in press in ACM <a href = "https://dl.acm.org/journal/tois" target = "_blank">TOIS</a>!</font></i></p> </li>
     <li><p> <i>2023/12: Invited to serve as a PC member of ACM <a href = "https://sigir.org/sigir2024/" target = "_blank">SIGIR 2024</a>.</i></p> </li>
@@ -60,8 +61,8 @@
     <li><p> <i>2023/05: Invited to serve as a PC member of ACM <a href = "https://uobevents.eventsair.com/cikm2023/" target = "_blank">CIKM 2023</a>.</i></p></li>
     <li><p> <i>2023/05: <font color="color:#cc0000">We have a paper on question answering over temporal KGs accepted by <a href = "https://2023.aclweb.org/" target = "_blank">ACL 2023</a>!</font></i></p> </li>
     <li><p> <i>2023/04: <font color="color:#cc0000">We have an article on graph matching in press in IEEE <a href = "https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69" target = "_blank">TKDE</a>!</font></i></p> </li>
-    <li><p> <i>2023/04: <font color="color:#cc0000">We have a paper on federated relation classification accepted by ACM <a href = "https://sigir.org/sigir2023/" target = "_blank">SIGIR 2023</a>!</font></i></p> </li>
-    <!--<li><p> <i>2023/04: Invited to serve as a vice co-chair of IEEE <a href = "http://bigdataieee.org/BigData2023/index.html" target = "_blank">BigData 2023</a>.</i></p> </li>
+    <!--<li><p> <i>2023/04: <font color="color:#cc0000">We have a paper on federated relation classification accepted by ACM <a href = "https://sigir.org/sigir2023/" target = "_blank">SIGIR 2023</a>!</font></i></p> </li>
+    <li><p> <i>2023/04: Invited to serve as a vice co-chair of IEEE <a href = "http://bigdataieee.org/BigData2023/index.html" target = "_blank">BigData 2023</a>.</i></p> </li>
     <li><p> <i>2023/03: Invited to serve as a member of review board of <a href = "http://vldb.org/pvldb/volumes/17/review-board" target = "_blank">VLDB 2024</a>.</i></p> </li>
     <li><p> <i>2023/02: Invited to serve as an area chair of <a href = "https://sigkg.cn/ccks2023/" target = "_blank">CCKS 2023</a>.</i></p></li>
     <li><p> <i>2023/01: We are organizing <a href = "https://kgma2023.github.io/" target = "_blank">KGMA 2023</a> workshop, co-located with <a href="http://www.apweb-waim2023.com/" target="_blank">APWeb-WAIM</a> in Wuhan!</i></p> </li>
