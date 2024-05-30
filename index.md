@@ -5,7 +5,7 @@
     <meta name="renderer" content="webkit" />
     <meta name="viewport" content="width=device-width,initial-scale=1.0" />
     <title>Xiang Zhao's Homepage</title>
-    <meta name="keywords" content="Xiang Zhao,NUDT,UNSW,database,big data,knowledge graph,graph data,representation learning,recommender system,information network,Xuemin Lin,Wei Wang,Raymong Wong,赵翔,国防科大,大数据,大模型,数据库,知识图谱,图数据,表示学习,推荐系统,信息系统,信息网络,郑庆华,林学民,王炜,李德仁,肖卫东,张维明,程学旗,王怀民" /> 
+    <meta name="keywords" content="Xiang Zhao,NUDT,UNSW,database,big data,knowledge graph,graph data,representation learning,LLM,information network,Xuemin Lin,Wei Wang,Raymong Wong,赵翔,国防科大,大数据,大模型,数据库,知识图谱,图数据,表示学习,推荐系统,信息系统,信息网络,郑庆华,林学民,王炜,李德仁,肖卫东,张维明,程学旗,王怀民" /> 
     <meta name="description" content="Welcome to Xiang Zhao's Personal Homepage! Ph.D., the University of New South Wales (UNSW); Prof., National University of Defense Technology (NUDT)" />
     <meta name="google-site-verification" content="e8QBQDtgOAVTuMNJp-5g7BJoPB34wMEFcz0RBBmo5B8" />
     <meta name="baidu-site-verification" content="3FTe6ikuh9" />
@@ -46,7 +46,7 @@
   He is a distinguished member of <a href="http://www.ccf.org.cn/sites/ccf/" target="_blank">China Computer Federation</a> (CCF), the deputy secretary general of CCF <a href="https://www.ccf.org.cn/Chapters/TC/TC_Listing/TCIS_/" target="_blank">Technical Committee on Information Systems</a>, a member of CCF <a href="http://www.ccf.org.cn/sites/ccf/dsfzw.jsp" target="_blank">Expert Committee on Big Data</a>, an executive member of CCF <a href="http://tcdb.ccf.org.cn/" target="_blank">Technical Committee on Databases</a> and <a href="https://www.ccf.org.cn/sjzlfzwyh/" target="_blank">Data Governance Development Committee</a>, a member of Technical Committees on <a href="http://www.cipsc.org.cn/sigkg/" target = "_blank">Language and Knowledge Computing</a>, and BigSearch, <a href="http://www.cipsc.org.cn/index.php" target = "_blank">Chinese Information Processing Society of China</a>, and a member of society council of <a href="http://www.glkxygc.cn/" target="_blank">Management Science and Engineering of China</a>. He was selected for the project for high-level young talents of <a href="http://www.moe.gov.cn/" target="_blank">Ministry of Education of China</a> (国家级青年人才, 2020) and <a href = "http://www.cast.org.cn/art/2018/9/30/art_19_35872.html" target = "_blank">Young Talents Lift-up Program</a> (中国科协青托, 2018) of <a href = "http://www.cast.org.cn/" target = "_blank">China Association for Science and Technology</a>, also a recipient of National Key R&D Program for Young Scientists (青年科学家, 2022), Hunan Provincial Leading Talents (湖南省领军人才, 2023)， <a href = "http://kjt.hunan.gov.cn/zxgz/zkjj/" target = "_blank">Hunan Provincial Natural Science Fund</a> for Distinguished Young Scholars (湖南省杰青, 2019), <a href ="https://china.acm.org/awards.html" target="_blank">ACM SIGMOD China Rising Star Award</a> (新星奖, 2018) and the 1st Prize of Innovation for young faculty at NUDT (青年创新奖, 2020).
   </p>
   
-  <b>Xiang</b>'s research interests include: Knowledge Graphs, Advanced Data Management, and Information Retrieval.
+  <b>Xiang</b>'s research interests include: Knowledge Graphs, Advanced Data Management, and LLMs.
 </div>
 
 <div style="width:860px;margin:0px auto">
@@ -163,9 +163,9 @@
     <li><p> <a href="http://dx.doi.org/10.1007/s00778-013-0306-1" target="_blank"><b>Efficient Processing of Graph Similarity Queries with Edit Distance Constraints</b></a><br /><b>Xiang Zhao</b>*, <a href="https://sites.google.com/site/chuanxiao1983/" target="_blank">Chuan Xiao</a>, <a href="http://www.cse.unsw.edu.au/~lxue/" target="_blank">Xuemin Lin</a>, <a href="http://www.cse.unsw.edu.au/~weiw/" target="_blank">Wei Wang</a>, <a href="http://www.db.ss.is.nagoya-u.ac.jp/~ishikawa/" target="_blank">Yoshiharu Ishikawa</a>. <i><b>VLDB J.</b></i>, 2013, 22(6): 727-752.</p></li> 
     <li><p><b><a href="https://sites.google.com/site/xzhaounsw/ICDE2012-GSimJoin.pdf?attredirects=0">Efficient Graph Similarity Joins with Edit Distance Constraints</a> </b> [<a href="https://sites.google.com/site/xzhaounsw/ICDE2012_Talk.pptx?attredirects=0">slides</a>] [<a href="http://dx.doi.org/10.1007/s00778-013-0306-1" target="_blank">extended version</a>] <br /><b>Xiang Zhao</b>, <a href="https://sites.google.com/site/chuanxiao1983/" target="_blank">Chuan Xiao</a>, <a href="http://www.cse.unsw.edu.au/~lxue/" target="_blank">Xuemin Lin</a>, <a href="http://www.cse.unsw.edu.au/~weiw/" target="_blank">Wei Wang</a>. IEEE <b>ICDE</b>, 2012.</p></li>
     
-    <li><p><b><a href="">基于事件驱动超图卷积网络的谣言检测方法</a></b><br/>赵书庆, 曾智, 刘欢, <b>赵翔</b>, 罗敏楠. <b><i>计算机研究与发展</i></b>, 2024, 待刊.</p></li>
+    <li><p><b><a href="">基于事件驱动超图卷积网络的谣言检测方法</a></b><br/>赵书庆, 曾智, <a href = "https://gr.xjtu.edu.cn/en/web/liuhuan" target = "_blank">刘欢</a>, <b>赵翔</b>, <a href = "http://gr.xjtu.edu.cn/web/minnluo/home" target = "_blank">罗敏楠</a>. <b><i>计算机研究与发展</i></b>, 2024, 待刊.</p></li>
     <li><p><b><a href="">时序知识图谱表示与推理的研究进展</a></b><br/>王俞涵, 陈子阳, <b>赵翔</b>*, 谭真, 肖卫东, 程学旗. <b><i>软件学报</i></b>, 2023, 待刊.</p></li>
-    <li><p><b><a href="">基于信息瓶颈理论的鲁棒少标签虚假信息检测</a></b><br/>王吉宏, 赵书庆, 罗敏楠, 刘欢, <b>赵翔</b>, 郑庆华. <b><i>计算机研究与发展</i></b>, 2023, 待刊.</p></li>
+    <li><p><b><a href="">基于信息瓶颈理论的鲁棒少标签虚假信息检测</a></b><br/>王吉宏, 赵书庆, <a href = "http://gr.xjtu.edu.cn/web/minnluo/home" target = "_blank">罗敏楠</a>, <a href = "https://gr.xjtu.edu.cn/en/web/liuhuan" target = "_blank">刘欢</a>, <b>赵翔</b>, <a href = "https://www.tongji.edu.cn/info/1122/35385.htm" target = "_blank">郑庆华</a>. <b><i>计算机研究与发展</i></b>, 2023, 待刊.</p></li>
     <li><p><b><a href="">面向时序图数据的季节突发性子图挖掘算法</a></b><br/>张千桢, 郭得科, <b>赵翔</b>. <b><i>软件学报</i></b>, 2023, 待刊.</p></li>
     
     <li><p><b><a href="https://crad.ict.ac.cn/CN/10.7544/issn1000-1239.20220458#1">一种面向云边端系统的分层异构联邦学习方法</a></b><br/>钟正仪, 包卫东, 王吉*, 吴冠霖, <b>赵翔</b>. <b><i>计算机研究与发展</i></b>, 2022, 59(11): 2408-2422.</p></li>
