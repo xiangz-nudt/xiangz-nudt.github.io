@@ -163,8 +163,9 @@
     <li><p> <a href="http://dx.doi.org/10.1007/s00778-013-0306-1" target="_blank"><b>Efficient Processing of Graph Similarity Queries with Edit Distance Constraints</b></a><br /><b>Xiang Zhao</b>*, <a href="https://sites.google.com/site/chuanxiao1983/" target="_blank">Chuan Xiao</a>, <a href="http://www.cse.unsw.edu.au/~lxue/" target="_blank">Xuemin Lin</a>, <a href="http://www.cse.unsw.edu.au/~weiw/" target="_blank">Wei Wang</a>, <a href="http://www.db.ss.is.nagoya-u.ac.jp/~ishikawa/" target="_blank">Yoshiharu Ishikawa</a>. <i><b>VLDB J.</b></i>, 2013, 22(6): 727-752.</p></li> 
     <li><p><b><a href="https://sites.google.com/site/xzhaounsw/ICDE2012-GSimJoin.pdf?attredirects=0">Efficient Graph Similarity Joins with Edit Distance Constraints</a> </b> [<a href="https://sites.google.com/site/xzhaounsw/ICDE2012_Talk.pptx?attredirects=0">slides</a>] [<a href="http://dx.doi.org/10.1007/s00778-013-0306-1" target="_blank">extended version</a>] <br /><b>Xiang Zhao</b>, <a href="https://sites.google.com/site/chuanxiao1983/" target="_blank">Chuan Xiao</a>, <a href="http://www.cse.unsw.edu.au/~lxue/" target="_blank">Xuemin Lin</a>, <a href="http://www.cse.unsw.edu.au/~weiw/" target="_blank">Wei Wang</a>. IEEE <b>ICDE</b>, 2012.</p></li>
     
+    <li><p><b><a href="">基于事件驱动超图卷积网络的谣言检测方法</a></b><br/>赵书庆, 曾智, 刘欢, <b>赵翔</b>, 罗敏楠. <b><i>计算机研究与发展</i></b>, 2024, 待刊.</p></li>
     <li><p><b><a href="">时序知识图谱表示与推理的研究进展</a></b><br/>王俞涵, 陈子阳, <b>赵翔</b>*, 谭真, 肖卫东, 程学旗. <b><i>软件学报</i></b>, 2023, 待刊.</p></li>
-    
+    <li><p><b><a href="">基于信息瓶颈理论的鲁棒少标签虚假信息检测</a></b><br/>王吉宏, 赵书庆, 罗敏楠, 刘欢, <b>赵翔</b>, 郑庆华. <b><i>计算机研究与发展</i></b>, 2023, 待刊.</p></li>
     <li><p><b><a href="">面向时序图数据的季节突发性子图挖掘算法</a></b><br/>张千桢, 郭得科, <b>赵翔</b>. <b><i>软件学报</i></b>, 2023, 待刊.</p></li>
     
     <li><p><b><a href="https://crad.ict.ac.cn/CN/10.7544/issn1000-1239.20220458#1">一种面向云边端系统的分层异构联邦学习方法</a></b><br/>钟正仪, 包卫东, 王吉*, 吴冠霖, <b>赵翔</b>. <b><i>计算机研究与发展</i></b>, 2022, 59(11): 2408-2422.</p></li>
