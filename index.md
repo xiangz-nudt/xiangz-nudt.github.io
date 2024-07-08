@@ -335,11 +335,11 @@
     <li><p><b>Best Paper Award</b> of <a href="http://www.tjudb.cn/apwebwaim2020/" target="_blank">APWeb-WAIM</a> 2020</p></li>
     <li><p><b>Best Student Paper Award</b> of <a href="https://www.ksem.conferences.academy/" target="_blank">KSEM</a> 2020</p></li>
     <li><p><b>Best Student Paper Award</b> of <a href="https://adc2016.cse.unsw.edu.au/" target="_blank">ADC</a> 2016</p></li>  
-    <li><p><b>The Science and Technology Innovation Program (Leading Talents) of Hunan Province</b> (2023), awarded by <a href="http://kjt.hunan.gov.cn/" target="_blank">Department of Science and Technology of Hunan</a></p></li>
-    <li><p><b>High-level Young Talents Award Scheme</b> (2020), awarded by <a href="http://www.moe.gov.cn/" target="_blank">Ministry of Education, China</a></p></li>
-    <li><p><b>Young Talents Lift-up Program</b> (2018), awarded by <a href="http://www.cast.org.cn/" target="_blank">China Association for Science and Technology</a></p></li>
     <li><p><b>CICC Youth Science and Technology Award</b> (2024), awarded by <a href="https://www.c2.org.cn/h-nd-1110.html" target="_blank">Chinese Institute of Command and Control</a></p></li>
     <li><p><b>ACM SIGMOD China Rising Star Award</b> (2018), awarded by <a href="https://www.acm.org/acm-china-council" target="_blank">ACM China</a></p></li>
+    <li><p><b>The Science and Technology Innovation Program (Leading Talents) of Hunan Province</b> (2023), awarded by <a href="http://kjt.hunan.gov.cn/" target="_blank">Department of Science and Technology of Hunan</a></p></li>
+    <li><p><b>High-level Young Talents Award Scheme</b> (2020), awarded by <a href="http://www.moe.gov.cn/" target="_blank">Ministry of Education, China</a></p></li>
+    <li><p><b>Young Talents Lift-up Program</b> (2018), awarded by <a href="http://www.cast.org.cn/" target="_blank">China Association for Science and Technology</a></p></li>    
     <li><p><b>Co-PI of NSFC Joint Fund for Regional Innovation and Development</b> (2024-2027): Research on Intelligent Computing Fundamental Theories and Key Algorithms for Heterogeneous Big Data, approved by <a href="https://nsfc.gov.cn/" target="_blank">NSFC</a></p></li>
     <li><p><b>PI of NSF General Project</b> (2023-2026): Research on Key Technologies of Temporal Knowledge Graphs under Incomplete Information, approved by <a href="https://nsfc.gov.cn/" target="_blank">NSFC</a></p></li>
     <li><p><b>PI of National Key R&D Program for Young Scientists</b> (2022-2025): Misinformation Detection and Source Localization Methods in Social Networks under Limited Perception, approved by <a href="https://www.most.gov.cn/index.html" target="_blank">Ministry of Science and Technology, China</a></p></li>
