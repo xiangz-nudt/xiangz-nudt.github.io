@@ -52,6 +52,7 @@
 <div style="width:860px;margin:0px auto">
   <h3 style="color:#b45f06"><b><i>News</i></b></h3>
   <ul style="list-style-type:square; line-height:1">
+    <li><p> <i>2024/07: Invited to serve as a PC member of <a href = "https://aaai.org/conference/aaai/aaai-25/" target = "_blank">AAAI 2025</a>.</i></p> </li>
     <li><p> <i>2024/07: Invited to serve as a PC member of ACM <a href = "https://kdd2025.kdd.org/" target = "_blank">KDD 2025</a>.</i></p> </li>
     <li><p> <i>2024/07: Invited to serve as a PC member of IEEE <a href = "https://ieee-icde.org/2025/" target = "_blank">ICDE 2025</a>.</i></p> </li>
     <li><p> <i>2024/05: <font color="color:#cc0000">We have two papers accepted by the main conference of <a href = "https://2024.aclweb.org/" target = "_blank">ACL 2024</a>!</font></i></p> </li>
@@ -59,9 +60,9 @@
     <li><p> <i>2024/03: <font color="color:#cc0000">We have three full papers and one poster paper accepted by IEEE <a href = "https://icde2024.github.io/" target = "_blank">ICDE 2024</a>!</font></i></p> </li>
     <li><p> <i>2024/01: <font color="color:#cc0000">We have an article on network representation learning in press in ACM <a href = "https://dl.acm.org/journal/tois" target = "_blank">TOIS</a>!</font></i></p> </li>
     <li><p> <i>2023/12: Invited to serve as a PC member of ACM <a href = "https://sigir.org/sigir2024/" target = "_blank">SIGIR 2024</a>.</i></p> </li>
-    <li><p> <i>2023/09: Invited to serve as an SPC for <a href = "https://www.dasfaa2024.org/" target = "_blank">DASFAA 2024</a>.</i></p></li>
+    <!--<li><p> <i>2023/09: Invited to serve as an SPC for <a href = "https://www.dasfaa2024.org/" target = "_blank">DASFAA 2024</a>.</i></p></li>
     <li><p> <i>2023/08: <font color="color:#cc0000">We have two papers, respectively, on fake news detection and multi-modal NER accepted by <a href = "https://www.cikm2023.org/" target = "_blank">CIKM 2023</a>!</font></i></p> </li>
-    <!--<li><p> <i>2023/05: Invited to serve as a PC member of ACM <a href = "https://uobevents.eventsair.com/cikm2023/" target = "_blank">CIKM 2023</a>.</i></p></li>
+    <li><p> <i>2023/05: Invited to serve as a PC member of ACM <a href = "https://uobevents.eventsair.com/cikm2023/" target = "_blank">CIKM 2023</a>.</i></p></li>
     <li><p> <i>2023/05: <font color="color:#cc0000">We have a paper on question answering over temporal KGs accepted by <a href = "https://2023.aclweb.org/" target = "_blank">ACL 2023</a>!</font></i></p> </li>
     <li><p> <i>2023/04: <font color="color:#cc0000">We have an article on graph matching in press in IEEE <a href = "https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69" target = "_blank">TKDE</a>!</font></i></p> </li>
     <li><p> <i>2023/04: <font color="color:#cc0000">We have a paper on federated relation classification accepted by ACM <a href = "https://sigir.org/sigir2023/" target = "_blank">SIGIR 2023</a>!</font></i></p> </li>
@@ -113,7 +114,8 @@
     <li><p>* <i>2020/02: <font color="color:#cc0000">We have two papers on graph processing accepted by <a href = "http://db.pknu.ac.kr/dasfaa2020/" target = "_blank">DASFAA 2020</a>!</font></i></p></li>
     <li><p>* <i>2020/01: Invited to serve as a PC member of <a href = "http://www.vldb.org/pvldb/submission_vol14.html" target = "_blank">VLDB 2021</a>.</i></p></li>
 -->
-    <li><p> <i>Looking for post-docs & students to work on big data and knowledge engineering. Welcome to drop me a line!</i></p></li>
+    <li><p> <i>Book on entity alignment, freely available at <a href = "https://link.springer.com/book/10.1007/978-981-99-4250-3" target = "_blank">SpringerLink</a>. Welcome to read and share!</i></p></li>
+    <li><p> <i>Looking for post-docs & students to work on big data and knowledge engineering!</i></p></li>
   </ul>
 </div>
 <hr/>
