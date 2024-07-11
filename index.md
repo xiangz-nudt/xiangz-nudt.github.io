@@ -22,7 +22,7 @@
     <h2><b>Xiang Zhao</b>, PhD UNSW</h2>
     <p>
     <b>Professor</b>
-      <br/><font size="3">- Laboratory for Big Data and Decision, College of Systems Engineering
+      <br/><font size="3">- <a href="https://d2.nudt.edu.cn/" target="_blank">Laboratory for Big Data and Decision</a>, College of Systems Engineering
       <br/>- <a href="https://english.nudt.edu.cn/" target="_blank">National University of Defense Technology</a></font>
       <br/><b>Email</b>: xiangzhao <i>at</i> nudt.edu.cn
       <br/><b>Phone</b>: +86 731 8700 6440
