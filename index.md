@@ -115,7 +115,7 @@
     <li><p>* <i>2020/01: Invited to serve as a PC member of <a href = "http://www.vldb.org/pvldb/submission_vol14.html" target = "_blank">VLDB 2021</a>.</i></p></li>
 -->
     <li><p> <i>Book on entity alignment, freely available at <a href = "https://link.springer.com/book/10.1007/978-981-99-4250-3" target = "_blank">SpringerLink</a>. Welcome to read and share!</i></p></li>
-    <li><p> <i>Looking for post-docs & students to work on big data and knowledge engineering!</i></p></li>
+    <li><p> <i>Looking for post-docs & students to work on big data, knowledge engineering and LLMs!</i></p></li>
   </ul>
 </div>
 <hr/>
