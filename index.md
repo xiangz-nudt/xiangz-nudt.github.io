@@ -52,6 +52,7 @@
 <div style="width:860px;margin:0px auto">
   <h3 style="color:#b45f06"><b><i>News</i></b></h3>
   <ul style="list-style-type:square; line-height:1">
+    <li><p> <i>2024/07: <font color="color:#cc0000">We have an article on graph contrastive learning in press in IEEE <a href = "https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69" target = "_blank">TKDE</a>!</font></i></p> </li>
     <li><p> <i>2024/07: <font color="color:#cc0000">We have three full papers, one short paper and one resource paper accepted by ACM <a href = "https://cikm2024.org/" target = "_blank">CIKM 2024</a>!</font></i></p></li>
     <li><p> <i>2024/07: Invited to serve as a PC member of <a href = "https://aaai.org/conference/aaai/aaai-25/" target = "_blank">AAAI 2025</a>.</i></p> </li>
     <li><p> <i>2024/07: Invited to serve as a PC member of ACM <a href = "https://kdd2025.kdd.org/" target = "_blank">KDD 2025</a>.</i></p> </li>
@@ -59,8 +60,8 @@
     <li><p> <i>2024/05: <font color="color:#cc0000">We have two papers accepted by the main conference of <a href = "https://2024.aclweb.org/" target = "_blank">ACL 2024</a>!</font></i></p> </li>
     <li><p> <i>2024/03: Invited to serve as a PC member of ACM <a href = "https://cikm2024.org/" target = "_blank">CIKM 2024</a>.</i></p></li>
     <li><p> <i>2024/03: <font color="color:#cc0000">We have three full papers and one poster paper accepted by IEEE <a href = "https://icde2024.github.io/" target = "_blank">ICDE 2024</a>!</font></i></p> </li>
-    <li><p> <i>2024/01: <font color="color:#cc0000">We have an article on network representation learning in press in ACM <a href = "https://dl.acm.org/journal/tois" target = "_blank">TOIS</a>!</font></i></p> </li>
-    <!--<li><p> <i>2023/12: Invited to serve as a PC member of ACM <a href = "https://sigir.org/sigir2024/" target = "_blank">SIGIR 2024</a>.</i></p> </li>
+    <!--<li><p> <i>2024/01: <font color="color:#cc0000">We have an article on network representation learning in press in ACM <a href = "https://dl.acm.org/journal/tois" target = "_blank">TOIS</a>!</font></i></p> </li>
+    <li><p> <i>2023/12: Invited to serve as a PC member of ACM <a href = "https://sigir.org/sigir2024/" target = "_blank">SIGIR 2024</a>.</i></p> </li>
     <li><p> <i>2023/09: Invited to serve as an SPC for <a href = "https://www.dasfaa2024.org/" target = "_blank">DASFAA 2024</a>.</i></p></li>
     <li><p> <i>2023/08: <font color="color:#cc0000">We have two papers, respectively, on fake news detection and multi-modal NER accepted by <a href = "https://www.cikm2023.org/" target = "_blank">CIKM 2023</a>!</font></i></p> </li>
     <li><p> <i>2023/05: Invited to serve as a PC member of ACM <a href = "https://uobevents.eventsair.com/cikm2023/" target = "_blank">CIKM 2023</a>.</i></p></li>
@@ -123,6 +124,7 @@
 <div style="width:860px;margin:0px auto">
   <h3><b style="color:#0b5394">Selected Publications</b> (<a href="pub.html">Extended List</a>, @<a href="https://scholar.google.com/citations?user=7IZ4kgwAAAAJ&hl=en" target="_blank">Google Scholar</a>, @<a href="https://dblp.uni-trier.de/pers/hd/z/Zhao_0002:Xiang" target="_blank">DBLP</a>, @<a href="https://orcid.org/0000-0001-6339-0219" target="_blank">ORCID</a>, @<a href="https://www.aminer.cn/profile/562d5f7f45cedb3398ddd908" target="_blank">AMiner</a>)</h3>
   <ul>
+    <li><p><b>Hyperedge Graph Contrastive Learning</b><br/>Junfeng Zhang, Weixin Zeng, Jiuyang Tang, <b>Xiang Zhao</b>. <i>IEEE </i><b><i>Trans. Know. Data Eng.</i></b> (<b>TKDE</b>), 2024, in press.</p></li>
     <li><p><b>I/O Efficient Label-Constrained Reachability Queries in Large Graphs</b> <br/><a href="https://gsmis.njust.edu.cn/open/TutorInfo.aspx?dsbh=nXFO!nUWfotKotrLBNQq0g==&yxsh=4iVdgPyuKTE=&zydm=fY2NaWnaNpk=" target="_blank">Long Yuan</a>, Xia Li, Zi Chen, <a href="http://www.cse.unsw.edu.au/~lxue/" target="_blank">Xuemin Lin</a>, <b>Xiang Zhao</b>, <a href="http://www.cse.unsw.edu.au/~zhangw/" target="_blank">Wenjie Zhang</a>. <i>Proc. of the VLDB Endowment </i>(<b>PVLDB</b>), 2024, in press.</p></li>
     <li><p><b>Temporal Knowledge Question Answering via Abstract Reasoning Induction</b> <br/><a href = "https://czy1999.github.io/" target = "_blank">Ziyang Chen</a>, <a href = "https://crazyofapple.github.io/" target = "_blank">Dongfang Li</a>, <b>Xiang Zhao</b>, <a href = "https://faculty.hitsz.edu.cn/hubaotian" target = "_blank">Baotian Hu</a>, <a href = "https://zhangmin-nlp-ai.github.io/" target = "_blank">Min Zhang</a>. <b>ACL</b>, 2024.</p></li>
     <li><p><b>Event-Radar: Event-driven Multi-View Learning for Multimodal Fake News Detection</b> <br/>Zihan Ma, <a href = "http://gr.xjtu.edu.cn/web/minnluo/home" target = "_blank">Minnan Luo</a>, Hao Guo, Zhi Zeng, Yiran Hao, <b>Xiang Zhao</b>. <b>ACL</b>, 2024.</p></li>
