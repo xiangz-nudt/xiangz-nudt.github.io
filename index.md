@@ -212,6 +212,7 @@
 
   <li><p><b>Journal editorial board:</b></p>
     <p><a href="http://www.jos.org.cn/jos/home" target="_blank">软件学报</a> (guest member),
+      <a href="https://crad.ict.ac.cn/" target="_blank">计算机研究与发展</a> (guest member),
       <a href="http://fcst.ceaj.org/CN/1673-9418/home.shtml" target="_blank">计算机科学与探索</a> (guest member),
       <a href="http://journal.nudt.edu.cn/gfkjdxxb/ch/index.aspx" target="_blank">国防科技大学学报</a> (since 2024),
       <a href="http://cea.ceaj.org/CN/1002-8331/home.shtml" target="_blank">计算机工程与应用</a> (since 2022), 
@@ -258,11 +259,14 @@
     <ul>
       <li><p>
       <b>Program co-chairs:</b> 
+        MLNLP 2024,
         <a href="https://conf.ccf.org.cn/wisa2023" target="_blank">WISA 2023</a>,
+        <a href="https://apweb2024.zjnu.edu.cn/_upload/tpl/06/0b/1547/template1547/all_files/AIEDM2024.html" target="_blank">AIEDM 2024</a>,
         <a href="https://kgma2023.github.io/" target="_blank">KGMA 2023</a>
       </p></li>
     <li><p>
     <b>Tutorial co-chairs:</b>
+      <a href="https://apweb2024.zjnu.edu.cn/" target="_blank">APWeb-WAIM 2024</a>
       <a href="https://apweb-waim2022.com/" target="_blank">APWeb-WAIM 2022</a>
     </p></li>
     <li><p>
