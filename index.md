@@ -211,20 +211,26 @@
   <ul>
 
   <li><p><b>Journal editorial board:</b></p>
-    <p><a href="http://www.jos.org.cn/jos/home" target="_blank">软件学报</a> (guest member),
+    <ul>
+      <li><p>
+      <b>Regular members:</b> 
+        <a href="http://journal.nudt.edu.cn/gfkjdxxb/ch/index.aspx" target="_blank">国防科技大学学报</a> (since 2024),
+        <a href="http://cea.ceaj.org/CN/1002-8331/home.shtml" target="_blank">计算机工程与应用</a> (since 2022),
+        IEEE <a href="http://ieeeaccess.ieee.org/" target="_blank">Access</a> (2018-2022)</p>
+      </p></li>
+    <li><p>
+    <b>Guest members:</b>
+      <a href="http://www.jos.org.cn/jos/home" target="_blank">软件学报</a> (guest member),
       <a href="https://crad.ict.ac.cn/" target="_blank">计算机研究与发展</a> (guest member),
       <a href="http://fcst.ceaj.org/CN/1673-9418/home.shtml" target="_blank">计算机科学与探索</a> (guest member),
-      <a href="http://journal.nudt.edu.cn/gfkjdxxb/ch/index.aspx" target="_blank">国防科技大学学报</a> (since 2024),
-      <a href="http://cea.ceaj.org/CN/1002-8331/home.shtml" target="_blank">计算机工程与应用</a> (since 2022), 
-      <a href="http://www.ecice06.com/CN/1000-3428/home.shtml" target="_blank">计算机工程</a> (young member since 2020),
       <a href="https://www.mdpi.com/journal/applsci/special_issues/42Z7WVR42J" target="_blank">Applied Sciences</a> (guest member),
-    IEEE <a href="http://ieeeaccess.ieee.org/" target="_blank">Access</a> (2018-2022)</p>
-    </li>
-
-  <!--<li><p><b>Journal editorial review board:</b></p>
-    <p><a href="http://www.ecice06.com/CN/1000-3428/home.shtml" target="_blank">计算机工程</a> (since 2021), 
-    <a href="https://www.igi-global.com/journal/journal-database-management-jdm/1072" target="_blank">Journal of Database Management</a> (since 2018)</p>
-  </li>-->
+    </p></li>
+    <li><p>
+    <b>Youth members</b>
+      <a href="https://spj.science.org/journal/icomputing" target="_blank">Intelligent Computing</a> (young member since 2020)
+      <a href="http://www.ecice06.com/CN/1000-3428/home.shtml" target="_blank">计算机工程</a> (young member since 2020)
+    </p></li>
+  </ul>
 
   <li><p><b>Invited journal reviewers:</b></p><p>
   <a href="http://vldb.org/pvldb/" target="_blank">Proc. VLDB</a>,
