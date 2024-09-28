@@ -337,9 +337,6 @@
       <a href="https://www.trustie.net/users/iwcse/homepage" target="_blank">IWCSE</a>
     </p></li>
     </ul></li>
-  
-  </ul>
-</div>
 <hr/>
 <div style="width:860px;margin:0px auto">
   <h3> <b style="color:rgb(166,77,121)">Awards and Grants</b></h3>
