@@ -227,7 +227,7 @@
     </p></li>
     <li><p>
     <b>Youth members</b>
-      <a href="https://spj.science.org/journal/icomputing" target="_blank">Intelligent Computing</a> (young member since 2020)
+      <a href="https://spj.science.org/journal/icomputing" target="_blank">Intelligent Computing</a> (young member since 2020),
       <a href="http://www.ecice06.com/CN/1000-3428/home.shtml" target="_blank">计算机工程</a> (young member since 2020)
     </p></li>
   </ul>
@@ -272,12 +272,12 @@
       </p></li>
     <li><p>
     <b>Tutorial co-chairs:</b>
-      <a href="https://apweb2024.zjnu.edu.cn/" target="_blank">APWeb-WAIM 2024</a>
+      <a href="https://apweb2024.zjnu.edu.cn/" target="_blank">APWeb-WAIM 2024</a>,
       <a href="https://apweb-waim2022.com/" target="_blank">APWeb-WAIM 2022</a>
     </p></li>
     <li><p>
     <b>Publication co-chairs:</b>
-      <a href="https://2023.bigdia.org/" target="_blank">BigDIA 2023</a>
+      <a href="https://2023.bigdia.org/" target="_blank">BigDIA 2023</a>,
       <a href="https://conf.ccf.org.cn/wisa2022" target="_blank">WISA 2022</a>,
       <a href="http://ksem2020.org/" target="_blank">KSEM 2020</a>
     </p></li>
