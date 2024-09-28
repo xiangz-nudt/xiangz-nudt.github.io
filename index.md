@@ -214,16 +214,16 @@
     <ul>
       <li><p>
       <b>Regular members:</b> 
-        <a href="http://journal.nudt.edu.cn/gfkjdxxb/ch/index.aspx" target="_blank">国防科技大学学报</a> (since 2024),
-        <a href="http://cea.ceaj.org/CN/1002-8331/home.shtml" target="_blank">计算机工程与应用</a> (since 2022),
+        <a href="http://journal.nudt.edu.cn/gfkjdxxb/ch/index.aspx" target="_blank">国防科技大学学报</a> (2024-),
+        <a href="http://cea.ceaj.org/CN/1002-8331/home.shtml" target="_blank">计算机工程与应用</a> (2022-),
         IEEE <a href="http://ieeeaccess.ieee.org/" target="_blank">Access</a> (2018-2022)
       </p></li>
     <li><p>
     <b>Guest members:</b>
-      <a href="http://www.jos.org.cn/jos/home" target="_blank">软件学报</a> (guest member),
-      <a href="https://crad.ict.ac.cn/" target="_blank">计算机研究与发展</a> (guest member),
-      <a href="http://fcst.ceaj.org/CN/1673-9418/home.shtml" target="_blank">计算机科学与探索</a> (guest member),
-      <a href="https://www.mdpi.com/journal/applsci/special_issues/42Z7WVR42J" target="_blank">Applied Sciences</a> (guest member),
+      <a href="http://www.jos.org.cn/jos/home" target="_blank">软件学报</a> (2023),
+      <a href="https://crad.ict.ac.cn/" target="_blank">计算机研究与发展</a> (2024),
+      <a href="http://fcst.ceaj.org/CN/1673-9418/home.shtml" target="_blank">计算机科学与探索</a> (2023),
+      <a href="https://www.mdpi.com/journal/applsci/special_issues/42Z7WVR42J" target="_blank">Applied Sciences</a> (2024)
     </p></li>
     <li><p>
     <b>Youth members</b>
