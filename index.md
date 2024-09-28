@@ -216,7 +216,7 @@
       <b>Regular members:</b> 
         <a href="http://journal.nudt.edu.cn/gfkjdxxb/ch/index.aspx" target="_blank">国防科技大学学报</a> (since 2024),
         <a href="http://cea.ceaj.org/CN/1002-8331/home.shtml" target="_blank">计算机工程与应用</a> (since 2022),
-        IEEE <a href="http://ieeeaccess.ieee.org/" target="_blank">Access</a> (2018-2022)</p>
+        IEEE <a href="http://ieeeaccess.ieee.org/" target="_blank">Access</a> (2018-2022)
       </p></li>
     <li><p>
     <b>Guest members:</b>
