@@ -53,14 +53,15 @@
   <h3 style="color:#b45f06"><b><i>News</i></b></h3>
   <ul style="list-style-type:square; line-height:1">
     <li><p> <i>2024/11: <font color="color:#cc0000">We have three full papers accepted by <a href = "https://coling2025.org/" target = "_blank">COLING 2025</a>!</font></i></p> </li>
+    <li><p> <i>2024/10: Awarded with <b>CICC Youth Science and Technology Award</b>.</p></li>
     <li><p> <i>2024/07: <font color="color:#cc0000">We have an article on graph contrastive learning in press in IEEE <a href = "https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69" target = "_blank">TKDE</a>!</font></i></p> </li>
     <li><p> <i>2024/07: <font color="color:#cc0000">We have three full papers, one short paper and one resource paper accepted by ACM <a href = "https://cikm2024.org/" target = "_blank">CIKM 2024</a>!</font></i></p></li>
     <li><p> <i>2024/07: Invited to serve as a PC member of <a href = "https://aaai.org/conference/aaai/aaai-25/" target = "_blank">AAAI 2025</a>.</i></p> </li>
     <li><p> <i>2024/07: Invited to serve as a PC member of ACM <a href = "https://kdd2025.kdd.org/" target = "_blank">KDD 2025</a>.</i></p> </li>
     <li><p> <i>2024/07: Invited to serve as a PC member of IEEE <a href = "https://ieee-icde.org/2025/" target = "_blank">ICDE 2025</a>.</i></p> </li>
     <li><p> <i>2024/05: <font color="color:#cc0000">We have two papers accepted by the main conference of <a href = "https://2024.aclweb.org/" target = "_blank">ACL 2024</a>!</font></i></p> </li>
-    <li><p> <i>2024/03: Invited to serve as a PC member of ACM <a href = "https://cikm2024.org/" target = "_blank">CIKM 2024</a>.</i></p></li>
-    <!--<li><p> <i>2024/03: <font color="color:#cc0000">We have three full papers and one poster paper accepted by IEEE <a href = "https://icde2024.github.io/" target = "_blank">ICDE 2024</a>!</font></i></p> </li>
+    <!--<li><p> <i>2024/03: Invited to serve as a PC member of ACM <a href = "https://cikm2024.org/" target = "_blank">CIKM 2024</a>.</i></p></li>
+    <li><p> <i>2024/03: <font color="color:#cc0000">We have three full papers and one poster paper accepted by IEEE <a href = "https://icde2024.github.io/" target = "_blank">ICDE 2024</a>!</font></i></p> </li>
     <li><p> <i>2024/01: <font color="color:#cc0000">We have an article on network representation learning in press in ACM <a href = "https://dl.acm.org/journal/tois" target = "_blank">TOIS</a>!</font></i></p> </li>
     <li><p> <i>2023/12: Invited to serve as a PC member of ACM <a href = "https://sigir.org/sigir2024/" target = "_blank">SIGIR 2024</a>.</i></p> </li>
     <li><p> <i>2023/09: Invited to serve as an SPC for <a href = "https://www.dasfaa2024.org/" target = "_blank">DASFAA 2024</a>.</i></p></li>
@@ -215,7 +216,8 @@
     <ul>
       <li><p>
       <b>Regular members:</b> 
-        <a href="http://journal.nudt.edu.cn/gfkjdxxb/ch/index.aspx" target="_blank">国防科技大学学报</a> (2024- ),
+        <a href="http://www.xitonggongcheng.cn/" target="_blank">系统工程</a> (2025- )
+        <a href="http://journal.nudt.edu.cn/gfkjdxxb/ch/index.aspx" target="_blank">国防科技大学学报</a> (2024- )
         <a href="http://cea.ceaj.org/CN/1002-8331/home.shtml" target="_blank">计算机工程与应用</a> (2022- ),
         IEEE <a href="http://ieeeaccess.ieee.org/" target="_blank">Access</a> (2018-2022)
       </p></li>
