@@ -114,8 +114,8 @@
     <li><p>* <i>2020/02: <font color="color:#cc0000">We have two papers on graph processing accepted by <a href = "http://db.pknu.ac.kr/dasfaa2020/" target = "_blank">DASFAA 2020</a>!</font></i></p></li>
     <li><p>* <i>2020/01: Invited to serve as a PC member of <a href = "http://www.vldb.org/pvldb/submission_vol14.html" target = "_blank">VLDB 2021</a>.</i></p></li>
 -->
-    <li><p> <i>Monograph on knowledge structurization, on shelf by <a href = "https://www.ecsponline.com/goods.php?id=226150" target = "_blank">Science Press</a>. Welcome to read and share!</i></p></li>
-    <li><p> <i>Monograph on entity alignment, freely available at <a href = "https://link.springer.com/book/10.1007/978-981-99-4250-3" target = "_blank">SpringerLink</a>. Welcome to read and share!</i></p></li>
+    <li><p> <i>Monograph on <b>knowledge structurization</b>a, on shelf by <a href = "https://www.ecsponline.com/goods.php?id=226150" target = "_blank">Science Press</a>. Welcome to read and share!</i></p></li>
+    <li><p> <i>Monograph on <b>entity alignment</b>, freely available at <a href = "https://link.springer.com/book/10.1007/978-981-99-4250-3" target = "_blank">SpringerLink</a>. Welcome to read and share!</i></p></li>
     <li><p> <i>Looking for post-docs & students to work on big data, knowledge engineering and LLMs!</i></p></li>
   </ul>
 </div>
@@ -171,36 +171,23 @@
     <li><p><b><a href="https://sites.google.com/site/xzhaounsw/SIGMOD2013-CTrace.pdf?attredirects=0">CTrace: Semantic Comparison of Multi-Granularity Process Traces</a></b> [<a href="https://doi.org/10.1016/j.knosys.2013.07.009" target="_blank">extended version</a>]<br />    <a href="http://www.ict.csiro.au/staff/q.liu/" target="_blank">Qing Liu</a>, <a href="http://www.ict.csiro.au/staff/kerry.taylor/" target="_blank">Kerry Taylor</a>, <b>Xiang Zhao</b>, <a href="http://www.ict.csiro.au/staff/geoffrey.squire/" target="_blank">Geoffrey Squire</a>, <a href="http://www.cse.unsw.edu.au/~lxue/" target="_blank">Xuemin Lin</a>, <a href="http://www.ict.csiro.au/staff/corne.kloppers/" target="_blank">Corne Kloppers</a>, Richard Miller. ACM <b>SIGMOD</b> Conference, 2013 (Demo).</p></li>  
     <li><p> <a href="http://dx.doi.org/10.1007/s00778-013-0306-1" target="_blank"><b>Efficient Processing of Graph Similarity Queries with Edit Distance Constraints</b></a><br /><b>Xiang Zhao</b>*, <a href="https://sites.google.com/site/chuanxiao1983/" target="_blank">Chuan Xiao</a>, <a href="http://www.cse.unsw.edu.au/~lxue/" target="_blank">Xuemin Lin</a>, <a href="http://www.cse.unsw.edu.au/~weiw/" target="_blank">Wei Wang</a>, <a href="http://www.db.ss.is.nagoya-u.ac.jp/~ishikawa/" target="_blank">Yoshiharu Ishikawa</a>. <i><b>VLDB J.</b></i>, 2013, 22(6): 727-752.</p></li> 
     <li><p><b><a href="https://sites.google.com/site/xzhaounsw/ICDE2012-GSimJoin.pdf?attredirects=0">Efficient Graph Similarity Joins with Edit Distance Constraints</a> </b> [<a href="https://sites.google.com/site/xzhaounsw/ICDE2012_Talk.pptx?attredirects=0">slides</a>] [<a href="http://dx.doi.org/10.1007/s00778-013-0306-1" target="_blank">extended version</a>] <br /><b>Xiang Zhao</b>, <a href="https://sites.google.com/site/chuanxiao1983/" target="_blank">Chuan Xiao</a>, <a href="http://www.cse.unsw.edu.au/~lxue/" target="_blank">Xuemin Lin</a>, <a href="http://www.cse.unsw.edu.au/~weiw/" target="_blank">Wei Wang</a>. IEEE <b>ICDE</b>, 2012.</p></li>
-    
-    <li><p><b><a href="">基于事件驱动超图卷积网络的谣言检测方法</a></b><br/>赵书庆, 曾智, <a href = "https://gr.xjtu.edu.cn/en/web/liuhuan" target = "_blank">刘欢</a>, <b>赵翔</b>, <a href = "http://gr.xjtu.edu.cn/web/minnluo/home" target = "_blank">罗敏楠</a>. <b><i>计算机研究与发展</i></b>, 2024, 待刊.</p></li>
-    <li><p><b><a href="">时序知识图谱表示与推理的研究进展</a></b><br/>王俞涵, 陈子阳, <b>赵翔</b>*, 谭真, 肖卫东, 程学旗. <b><i>软件学报</i></b>, 2023, 待刊.</p></li>
-    <li><p><b><a href="">基于信息瓶颈理论的鲁棒少标签虚假信息检测</a></b><br/>王吉宏, 赵书庆, <a href = "http://gr.xjtu.edu.cn/web/minnluo/home" target = "_blank">罗敏楠</a>, <a href = "https://gr.xjtu.edu.cn/en/web/liuhuan" target = "_blank">刘欢</a>, <b>赵翔</b>, <a href = "https://www.tongji.edu.cn/info/1122/35385.htm" target = "_blank">郑庆华</a>. <b><i>计算机研究与发展</i></b>, 2023, 待刊.</p></li>
-    <li><p><b><a href="">面向时序图数据的季节突发性子图挖掘算法</a></b><br/>张千桢, 郭得科, <b>赵翔</b>. <b><i>软件学报</i></b>, 2023, 待刊.</p></li>
-    
+    <li><p><b><a href="">基于人机协作的多智能体科学假设生成</a></b><br/><a href = "https://czy1999.github.io/" target = "_blank">陈子阳</a>, <b>赵翔</b>, 赵润豪, 倪子淇, 叶益聪. <b><i>计算机研究与发展</i></b>, 2025, 待刊.</p></li>
+    <li><p><b><a href="https://crad.ict.ac.cn/article/doi/10.7544/issn1000-1239.202440136">基于事件驱动的超图卷积网络的谣言检测方法</a></b><br/>赵书庆, 曾智, <a href = "https://gr.xjtu.edu.cn/en/web/liuhuan" target = "_blank">刘欢</a>, <b>赵翔</b>, <a href = "http://gr.xjtu.edu.cn/web/minnluo/home" target = "_blank">罗敏楠</a>. <b><i>计算机研究与发展</i></b>, 2024, 61(8): 1982-1992.</p></li>
+    <li><p><b><a href="https://jos.org.cn/jos/article/pdf/7093">时序知识图谱表示与推理的研究进展</a></b><br/>王俞涵, 陈子阳, <b>赵翔</b>*, 谭真, 肖卫东, 程学旗. <b><i>软件学报</i></b>, 2024, 35(8):3923-3951.</p></li>
+    <li><p><b><a href="https://crad.ict.ac.cn/article/doi/10.7544/issn1000-1239.202330506">基于信息瓶颈理论的鲁棒少标签虚假信息检测</a></b><br/>王吉宏, 赵书庆, <a href = "http://gr.xjtu.edu.cn/web/minnluo/home" target = "_blank">罗敏楠</a>, <a href = "https://gr.xjtu.edu.cn/en/web/liuhuan" target = "_blank">刘欢</a>, <b>赵翔</b>, <a href = "https://www.tongji.edu.cn/info/1122/35385.htm" target = "_blank">郑庆华</a>. <b><i>计算机研究与发展</i></b>, 2024, 61(7): 1629-1642.</p></li>
+    <li><p><b><a href="https://www.jos.org.cn/jos/article/pdf/7064">面向时序图数据的季节突发性子图挖掘算法</a></b><br/>张千桢, 郭得科, <b>赵翔</b>. <b><i>软件学报</i></b>, 2024, 35(12):5526-5543.</p></li>
     <li><p><b><a href="https://crad.ict.ac.cn/CN/10.7544/issn1000-1239.20220458#1">一种面向云边端系统的分层异构联邦学习方法</a></b><br/>钟正仪, 包卫东, 王吉*, 吴冠霖, <b>赵翔</b>. <b><i>计算机研究与发展</i></b>, 2022, 59(11): 2408-2422.</p></li>
-    
     <li><p><b><a href="http://www.jos.org.cn/jos/article/pdf/6782">跳跃滤波:一种面向大数据治理的动态数据摘要技术</a></b><br/>符鹏涛, 罗来龙, 郭得科, <b>赵翔</b>, 李尚森, 王怀民. <b><i>软件学报</i></b>, 2023, 34(3): 1193-1212.</p></li>
-    
-    <li><p><b><a href="http://www.aas.net.cn/article/doi/10.16383/j.aas.c210518">自适应特征融合的多模态实体对齐研究</a></b><br/>郭浩, 李欣奕*, 唐九阳, 郭延明, <b>赵翔</b>. <b><i>自动化学报</i></b>, 2024, 50(4): 1001−1013.</p></li>
-    
-    <li><p><b><a href="https://crad.ict.ac.cn/CN/10.7544/issn1000-1239.20210829#1">新一代知识图谱关键技术研究进展综述</a></b><br/><a href="http://seu.wangmengsd.com/">王萌</a>, <a href="https://tjdi.tongji.edu.cn/teacherdetail.do?id=4991">王昊奋</a>*, <a href="http://faculty.nuaa.edu.cn/lbh">李博涵</a>, <b>赵翔</b>, <a href="http://www.tjudb.cn/dbgroup/Xin_Wang">王鑫</a>. <b><i>计算机研究与发展</i></b>, 2022, 59(9): 1947-1965.</p></li>
-  
+    <li><p><b><a href="http://www.aas.net.cn/article/doi/10.16383/j.aas.c210518">自适应特征融合的多模态实体对齐研究</a></b><br/>郭浩, 李欣奕*, 唐九阳, 郭延明, <b>赵翔</b>. <b><i>自动化学报</i></b>, 2024, 50(4): 1001−1013.</p></li>  
+    <li><p><b><a href="https://crad.ict.ac.cn/CN/10.7544/issn1000-1239.20210829#1">新一代知识图谱关键技术研究进展综述</a></b><br/><a href="http://seu.wangmengsd.com/">王萌</a>, <a href="https://tjdi.tongji.edu.cn/teacherdetail.do?id=4991">王昊奋</a>*, <a href="http://faculty.nuaa.edu.cn/lbh">李博涵</a>, <b>赵翔</b>, <a href="http://www.tjudb.cn/dbgroup/Xin_Wang">王鑫</a>. <b><i>计算机研究与发展</i></b>, 2022, 59(9): 1947-1965.</p></li> 
     <li><p><b><a href="https://crad.ict.ac.cn/CN/10.7544/issn1000-1239.2021.20211021#1">可解释深度知识追踪模型</a></b><br/>刘坤佳, 李欣奕*, 唐九阳*, <b>赵翔</b>. <b><i>计算机研究与发展</i></b>, 2021, 58(12): 2618-2629.</p></li>
-
-    <li><p><b><a href="http://cjc.ict.ac.cn/online/onlinepaper/zx-2020115164805.pdf">面向高效并行Skyline计算的数据划分方法</a></b><br/><b>赵翔</b>, 商海川. <b><i>计算机学报</i></b>, 2020, 43(11): 2050-2066.</p></li>
-    
+    <li><p><b><a href="http://cjc.ict.ac.cn/online/onlinepaper/zx-2020115164805.pdf">面向高效并行Skyline计算的数据划分方法</a></b><br/><b>赵翔</b>, 商海川. <b><i>计算机学报</i></b>, 2020, 43(11): 2050-2066.</p></li>    
     <li><p><b><a href="http://crad.ict.ac.cn/CN/10.7544/issn1000-1239.2020.20190643">基于重排序的迭代式实体对齐</a></b><br/>曾维新, <b>赵翔</b>, 唐九阳, 谭真, <a href="http://www.cse.unsw.edu.au/~weiw/" target="_blank">王炜</a>. <b><i>计算机研究与发展</i></b>, 2020, 57(7): 1460-1471.</p></li>
-  
-    <li><p><b><a href="http://crad.ict.ac.cn/CN/abstract/abstract4057.shtml">融合对抗训练的端到端知识三元组联合抽取</a></b><br/>黄培馨, <b>赵翔</b>, 方阳, 朱慧明, 肖卫东. <b><i>计算机研究与发展</i></b>, 2019, 56(12): 2536-2548.</p></li>
-  
-    <li><p><b><a href="http://www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=5444&journal_id=jos">动态图模式匹配技术综述</a></b><br/>许嘉, 张千桢, <b>赵翔</b>, 吕品, 李陶深. <b><i>软件学报</i></b>, 2018, 29(3): 663-688.</p></li>
-  
-    <li><p><b><a href="http://crad.ict.ac.cn/CN/Y2018/V55/I1/139#">一种改进的基于翻译的知识图谱表示方法</a></b><br/>方阳, <b>赵翔</b>, 谭真, 肖卫东. <b><i>计算机研究与发展</i></b>, 2018, 55(1): 139-150.</p></li>
-  
-    <li><p><b><a href="http://cjc.ict.ac.cn/online/onlinepaper/zx-20171494354.pdf">一种改进的基于BSP的大图计算模型</a></b><br/><b>赵翔</b>, 李博, 商海川, 肖卫东. <b><i>计算机学报</i></b>, 2017, 40(1): 223-235.</p></li>
-  
-    <li><p><b><a href="http://www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=3889&journal_id=jos">一种多变元网络可视化方法</a></b><br/>孙杨, <b>赵翔</b>, 唐九阳, 汤大权, 肖卫东. <b><i>软件学报</i></b>, 2010, 21(9): 2250-2261.</p></li>
-  
+    <li><p><b><a href="http://crad.ict.ac.cn/CN/abstract/abstract4057.shtml">融合对抗训练的端到端知识三元组联合抽取</a></b><br/>黄培馨, <b>赵翔</b>, 方阳, 朱慧明, 肖卫东. <b><i>计算机研究与发展</i></b>, 2019, 56(12): 2536-2548.</p></li>  
+    <li><p><b><a href="http://www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=5444&journal_id=jos">动态图模式匹配技术综述</a></b><br/>许嘉, 张千桢, <b>赵翔</b>, 吕品, 李陶深. <b><i>软件学报</i></b>, 2018, 29(3): 663-688.</p></li>  
+    <li><p><b><a href="http://crad.ict.ac.cn/CN/Y2018/V55/I1/139#">一种改进的基于翻译的知识图谱表示方法</a></b><br/>方阳, <b>赵翔</b>, 谭真, 肖卫东. <b><i>计算机研究与发展</i></b>, 2018, 55(1): 139-150.</p></li> 
+    <li><p><b><a href="http://cjc.ict.ac.cn/online/onlinepaper/zx-20171494354.pdf">一种改进的基于BSP的大图计算模型</a></b><br/><b>赵翔</b>, 李博, 商海川, 肖卫东. <b><i>计算机学报</i></b>, 2017, 40(1): 223-235.</p></li>  
+    <li><p><b><a href="http://www.jos.org.cn/jos/ch/reader/create_pdf.aspx?file_no=3889&journal_id=jos">一种多变元网络可视化方法</a></b><br/>孙杨, <b>赵翔</b>, 唐九阳, 汤大权, 肖卫东. <b><i>软件学报</i></b>, 2010, 21(9): 2250-2261.</p></li>  
   </ul>
 </div>
 <hr/>
