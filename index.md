@@ -213,9 +213,9 @@
     <ul>
       <li><p>
       <b>Regular members:</b> 
-        <a href="http://www.xitonggongcheng.cn/" target="_blank">系统工程</a> (2025- )
-        <a href="http://journal.nudt.edu.cn/gfkjdxxb/ch/index.aspx" target="_blank">国防科技大学学报</a> (2024- )
+        <a href="http://journal.nudt.edu.cn/gfkjdxxb/ch/index.aspx" target="_blank">国防科技大学学报</a> (2024- ),
         <a href="http://cea.ceaj.org/CN/1002-8331/home.shtml" target="_blank">计算机工程与应用</a> (2022- ),
+        <a href="http://www.xitonggongcheng.cn/" target="_blank">系统工程</a> (2025- ),
         IEEE <a href="http://ieeeaccess.ieee.org/" target="_blank">Access</a> (2018-2022)
       </p></li>
     <li><p>
@@ -265,27 +265,32 @@
     <ul>
       <li><p>
       <b>Program co-chairs:</b> 
-        MLNLP 2024,
+        <a href="https://mlnlp.org/mlnlp2024/" target="_blank">MLNLP 2024</a>,
+        IEEE <a href="https://bigdataieee.org/BigData2023/" target="_blank">BigData 2023</a> (vice),
         <a href="https://conf.ccf.org.cn/wisa2023" target="_blank">WISA 2023</a>,
         <a href="https://apweb2024.zjnu.edu.cn/_upload/tpl/06/0b/1547/template1547/all_files/AIEDM2024.html" target="_blank">AIEDM 2024</a>,
         <a href="https://kgma2023.github.io/" target="_blank">KGMA 2023</a>
       </p></li>
-    <li><p>
-    <b>Tutorial co-chairs:</b>
-      <a href="https://apweb2024.zjnu.edu.cn/" target="_blank">APWeb-WAIM 2024</a>,
-      <a href="https://apweb-waim2022.com/" target="_blank">APWeb-WAIM 2022</a>
-    </p></li>
-    <li><p>
-    <b>Publication co-chairs:</b>
-      <a href="https://2023.bigdia.org/" target="_blank">BigDIA 2023</a>,
-      <a href="https://conf.ccf.org.cn/wisa2022" target="_blank">WISA 2022</a>,
-      <a href="http://ksem2020.org/" target="_blank">KSEM 2020</a>
-    </p></li>
-    <li><p>
-    <b>Web co-chairs:</b>
-      <a href="http://www1.se.cuhk.edu.hk/~apweb/previous/apweb2013/index.html" target="_blank">APWeb 2013</a>,
+      <li><p>
+        <b>Demo co-chairs:</b>
+        <a href="https://conf.ccf.org.cn/web/api/m1218982079254106112171066957528.action" target="_blank">NDBC 2024</a>
+      </p></li>
+      <li><p>
+        <b>Tutorial co-chairs:</b>
+        <a href="https://apweb2024.zjnu.edu.cn/" target="_blank">APWeb-WAIM 2024</a>,
+        <a href="https://apweb-waim2022.com/" target="_blank">APWeb-WAIM 2022</a>
+      </p></li>
+      <li><p>
+        <b>Publication co-chairs:</b>
+        <a href="https://2023.bigdia.org/" target="_blank">BigDIA 2023</a>,
+        <a href="https://conf.ccf.org.cn/wisa2022" target="_blank">WISA 2022</a>,
+        <a href="http://ksem2020.org/" target="_blank">KSEM 2020</a>
+      </p></li>
+      <li><p>
+        <b>Web co-chairs:</b>
+        <a href="http://www1.se.cuhk.edu.hk/~apweb/previous/apweb2013/index.html" target="_blank">APWeb 2013</a>,
       BigDIA 2016
-    </p></li>  
+      </p></li>  
     </ul>
   </li>
     
