@@ -213,7 +213,7 @@
       <a href="https://www.mdpi.com/journal/applsci/special_issues/42Z7WVR42J" target="_blank">Applied Sciences</a> (2024)
     </p></li>
     <li><p>
-    <b>Youth members</b>
+    <b>Youth members:</b>
       <a href="https://spj.science.org/journal/icomputing" target="_blank">Intelligent Computing</a> (2020- ),
       <a href="http://www.ecice06.com/CN/1000-3428/home.shtml" target="_blank">计算机工程</a> (2020- )
     </p></li>
