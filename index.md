@@ -48,6 +48,7 @@
 <div style="width:860px;margin:0px auto">
   <h3 style="color:#b45f06"><b><i>News</i></b></h3>
   <ul style="list-style-type:square; line-height:1">
+    <li><p> <i>2024/12: <font color="color:#cc0000">We have three full papers accepted by <a href = "https://aaai.org/conference/aaai/aaai-25/" target = "_blank">AAAI 2025</a>!</font></i></p> </li>
     <li><p> <i>2024/11: <font color="color:#cc0000">We have three full papers accepted by <a href = "https://coling2025.org/" target = "_blank">COLING 2025</a>!</font></i></p> </li>
     <li><p> <i>2024/10: Awarded with <b>Youth Science and Technology Award</b> by <a href="http://www.c2.org.cn/h-col-136.html" target="_blank">CICC</a>.</i></p></li>
     <li><p> <i>2024/07: <font color="color:#cc0000">We have an article on graph contrastive learning in press in IEEE <a href = "https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69" target = "_blank">TKDE</a>!</font></i></p> </li>
@@ -55,8 +56,8 @@
     <li><p> <i>2024/07: Invited to serve as a PC member of <a href = "https://aaai.org/conference/aaai/aaai-25/" target = "_blank">AAAI 2025</a>.</i></p> </li>
     <li><p> <i>2024/07: Invited to serve as a PC member of ACM <a href = "https://kdd2025.kdd.org/" target = "_blank">KDD 2025</a>.</i></p> </li>
     <li><p> <i>2024/07: Invited to serve as a PC member of IEEE <a href = "https://ieee-icde.org/2025/" target = "_blank">ICDE 2025</a>.</i></p> </li>
-    <li><p> <i>2024/05: <font color="color:#cc0000">We have two papers accepted by the main conference of <a href = "https://2024.aclweb.org/" target = "_blank">ACL 2024</a>!</font></i></p> </li>
-    <!--<li><p> <i>2024/03: Invited to serve as a PC member of ACM <a href = "https://cikm2024.org/" target = "_blank">CIKM 2024</a>.</i></p></li>
+    <!--<li><p> <i>2024/05: <font color="color:#cc0000">We have two papers accepted by the main conference of <a href = "https://2024.aclweb.org/" target = "_blank">ACL 2024</a>!</font></i></p> </li>
+    <li><p> <i>2024/03: Invited to serve as a PC member of ACM <a href = "https://cikm2024.org/" target = "_blank">CIKM 2024</a>.</i></p></li>
     <li><p> <i>2024/03: <font color="color:#cc0000">We have three full papers and one poster paper accepted by IEEE <a href = "https://icde2024.github.io/" target = "_blank">ICDE 2024</a>!</font></i></p> </li>
     <li><p> <i>2024/01: <font color="color:#cc0000">We have an article on network representation learning in press in ACM <a href = "https://dl.acm.org/journal/tois" target = "_blank">TOIS</a>!</font></i></p> </li>
     <li><p> <i>2023/12: Invited to serve as a PC member of ACM <a href = "https://sigir.org/sigir2024/" target = "_blank">SIGIR 2024</a>.</i></p> </li>
@@ -123,6 +124,9 @@
 <div style="width:860px;margin:0px auto">
   <h3><b style="color:#0b5394">Selected Publications</b> (<a href="pub.html">Extended List</a>, @<a href="https://scholar.google.com/citations?user=7IZ4kgwAAAAJ&hl=en" target="_blank">Google Scholar</a>, @<a href="https://dblp.uni-trier.de/pers/hd/z/Zhao_0002:Xiang" target="_blank">DBLP</a>, @<a href="https://orcid.org/0000-0001-6339-0219" target="_blank">ORCID</a>, @<a href="https://www.aminer.cn/profile/562d5f7f45cedb3398ddd908" target="_blank">AMiner</a>)</h3>
   <ul>
+    <li><p><b>Logic Induced High-Order Reasoning Network for Event-Event Relation Extraction</b><br/>Peixin Huang, <b>Xiang Zhao</b>, Minghao Hu, Zhen Tan, Weidong Xiao. <b>AAAI</b>, 2025. </p></li> 
+    <li><p><b>Cross-modal Multi-task Learning for Multimedia Event Extraction</b><br/>Jianwei Cao, Yanli Hu, Zhen Tan, <b>Xiang Zhao</b>. <b>AAAI</b>, 2025. </p></li>  
+    <li><p><b>Each Fake News is Fake in its Own Way: An Attribution Multi-Granularity Benchmark for Multimodal Fake News Detection</b><br/>Hao Guo, Zihan Ma, Zhi Zeng, Minnan Luo, Weixin Zeng, Jiuyang Tang, <b>Xiang Zhao</b>. <b>AAAI</b>, 2025. </p></li>  
     <li><p><b>Temporal Knowledge Graph Diffusion Model for Open-World Reasoning</b> <br/>Yuhan Wang, <b>Xiang Zhao</b>*, Zhen Tan, Weidong Xiao, <a href = "https://www.ict.ac.cn/sourcedb/cn/jssrck/200909/t20090917_2496598.html" target = "_blank">Xueqi Cheng</a>. <b><i>Sci. China Inf. Sci.</i> (SCIS)</b>, 2024, in press.</p></li>
     <li><p><b>Mitigating World Biases: A Multimodal Multi-View Debiasing Framework for Fake News Video Detection</b> <br/>Zhi Zeng, <a href = "http://gr.xjtu.edu.cn/web/minnluo/home" target = "_blank">Minnan Luo</a>, Xiangzheng Kong, Huan Liu, Hao Guo, Hao Yang, Zihan Ma, <b>Xiang Zhao</b>. ACM <b>MM</b>, 2024.</p></li>
     <li><p><b>Hyperedge Graph Contrastive Learning</b><br/>Junfeng Zhang, Weixin Zeng, Jiuyang Tang, <b>Xiang Zhao</b>. <i>IEEE </i><b><i>Trans. Know. Data Eng.</i></b> (<b>TKDE</b>), 2024, in press.</p></li>
