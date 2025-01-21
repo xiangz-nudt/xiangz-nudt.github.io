@@ -4,7 +4,7 @@
     <meta name="renderer" content="webkit" />
     <meta name="viewport" content="width=device-width,initial-scale=1.0" />
     <title>Xiang Zhao's Homepage</title>
-    <meta name="keywords" content="Xiang Zhao,NUDT,UNSW,database,big data,knowledge graph,graph data,representation learning,LLM,information network,Xuemin Lin,Wei Wang,Raymong Wong,赵翔,国防科大,大数据,大模型,数据库,知识图谱,图数据,表示学习,推荐系统,信息系统,信息网络,郑庆华,林学民,王炜,李德仁,肖卫东,张维明,程学旗,王怀民" /> 
+    <meta name="keywords" content="Xiang Zhao,NUDT,UNSW,database,big data,knowledge graph,graph data,representation learning,LLM,information network,Xuemin Lin,Wei Wang,Raymong Wong,赵翔,国防科大,大数据,大模型,数据库,知识图谱,图数据,表示学习,推荐系统,信息系统,信息网络,郑庆华,林学民,王炜,李德仁,肖卫东,张维明,程学旗,王怀民,刘忠,黄金才,范长俊,吕欣,郭得科" /> 
     <meta name="description" content="Welcome to Xiang Zhao's Personal Homepage! Ph.D., the University of New South Wales (UNSW); Prof., National University of Defense Technology (NUDT)" />
     <meta name="google-site-verification" content="e8QBQDtgOAVTuMNJp-5g7BJoPB34wMEFcz0RBBmo5B8" />
     <meta name="baidu-site-verification" content="3FTe6ikuh9" />
@@ -48,6 +48,7 @@
 <div style="width:860px;margin:0px auto">
   <h3 style="color:#b45f06"><b><i>News</i></b></h3>
   <ul style="list-style-type:square; line-height:1">
+    <li><p> <i>2025/01: <font color="color:#cc0000">We have a full paper on LLMs accepted by The ACM <a href = "https://www2025.thewebconf.org/" target = "_blank">Web Conference 2025</a>!</font></i></p> </li>
     <li><p> <i>2024/12: <font color="color:#cc0000">We have a survey on GNNs in press in IEEE <a href = "https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69" target = "_blank">TKDE</a>!</font></i></p> </li>
     <li><p> <i>2024/12: <font color="color:#cc0000">We have three full papers accepted by <a href = "https://aaai.org/conference/aaai/aaai-25/" target = "_blank">AAAI 2025</a>!</font></i></p> </li>
     <li><p> <i>2024/11: <font color="color:#cc0000">We have three full papers accepted by <a href = "https://coling2025.org/" target = "_blank">COLING 2025</a>!</font></i></p> </li>
@@ -55,8 +56,8 @@
     <li><p> <i>2024/07: <font color="color:#cc0000">We have an article on graph contrastive learning in press in IEEE <a href = "https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69" target = "_blank">TKDE</a>!</font></i></p> </li>
     <li><p> <i>2024/07: <font color="color:#cc0000">We have three full papers, one short paper and one resource paper accepted by ACM <a href = "https://cikm2024.org/" target = "_blank">CIKM 2024</a>!</font></i></p></li>
     <li><p> <i>2024/07: Invited to serve as a PC member of <a href = "https://aaai.org/conference/aaai/aaai-25/" target = "_blank">AAAI 2025</a>.</i></p> </li>
-    <li><p> <i>2024/07: Invited to serve as a PC member of ACM <a href = "https://kdd2025.kdd.org/" target = "_blank">KDD 2025</a>.</i></p> </li>
-    <!--<li><p> <i>2024/07: Invited to serve as a PC member of IEEE <a href = "https://ieee-icde.org/2025/" target = "_blank">ICDE 2025</a>.</i></p> </li>
+    <!--<li><p> <i>2024/07: Invited to serve as a PC member of ACM <a href = "https://kdd2025.kdd.org/" target = "_blank">KDD 2025</a>.</i></p> </li>
+    <li><p> <i>2024/07: Invited to serve as a PC member of IEEE <a href = "https://ieee-icde.org/2025/" target = "_blank">ICDE 2025</a>.</i></p> </li>
     <li><p> <i>2024/05: <font color="color:#cc0000">We have two papers accepted by the main conference of <a href = "https://2024.aclweb.org/" target = "_blank">ACL 2024</a>!</font></i></p> </li>
     <li><p> <i>2024/03: Invited to serve as a PC member of ACM <a href = "https://cikm2024.org/" target = "_blank">CIKM 2024</a>.</i></p></li>
     <li><p> <i>2024/03: <font color="color:#cc0000">We have three full papers and one poster paper accepted by IEEE <a href = "https://icde2024.github.io/" target = "_blank">ICDE 2024</a>!</font></i></p> </li>
@@ -125,7 +126,8 @@
 <div style="width:860px;margin:0px auto">
   <h3><b style="color:#0b5394">Selected Publications</b> (<a href="pub.html">Extended List</a>, @<a href="https://scholar.google.com/citations?user=7IZ4kgwAAAAJ&hl=en" target="_blank">Google Scholar</a>, @<a href="https://dblp.uni-trier.de/pers/hd/z/Zhao_0002:Xiang" target="_blank">DBLP</a>, @<a href="https://orcid.org/0000-0001-6339-0219" target="_blank">ORCID</a>, @<a href="https://www.aminer.cn/profile/562d5f7f45cedb3398ddd908" target="_blank">AMiner</a>)</h3>
   <ul>
-    <li><p><b>The Expressive Power of Graph Neural Networks: A Survey</b><br/>Bingxu Zhang, Changjun Fan, Shixuan Liu, Kuihua Huang, <b>Xiang Zhao</b>, Jincai Huang, and Zhong Liu. <i>IEEE </i><b><i>Trans. Know. Data Eng.</i></b> (<b>TKDE</b>), 2024, in press.</p></li>
+    <li><p><b><a href="" target="_blank">PSSD: Making Large Language Models Self-denial via Human Psyche Structure</a></b> <br/>Jinzhi Liao, Zenghua Liao, <b>Xiang Zhao</b>*. The ACM <b>Web Conference</b>, 2025.</p></li>
+    <li><p><b>The Expressive Power of Graph Neural Networks: A Survey</b><br/>Bingxu Zhang, Changjun Fan, Shixuan Liu, Kuihua Huang, <b>Xiang Zhao</b>, Jincai Huang, and Zhong Liu. <i>IEEE </i><b><i>Trans. Know. Data Eng.</i></b> (<b>TKDE</b>), 2025, in press.</p></li>
     <li><p><b>Logic Induced High-Order Reasoning Network for Event-Event Relation Extraction</b><br/>Peixin Huang, <b>Xiang Zhao</b>, Minghao Hu, Zhen Tan, Weidong Xiao. <b>AAAI</b>, 2025. </p></li> 
     <li><p><b>Cross-modal Multi-task Learning for Multimedia Event Extraction</b><br/>Jianwei Cao, Yanli Hu, Zhen Tan, <b>Xiang Zhao</b>. <b>AAAI</b>, 2025. </p></li>  
     <li><p><b>Each Fake News is Fake in its Own Way: An Attribution Multi-Granularity Benchmark for Multimodal Fake News Detection</b><br/>Hao Guo, Zihan Ma, Zhi Zeng, <a href = "http://gr.xjtu.edu.cn/web/minnluo/home" target = "_blank">Minnan Luo</a>, Weixin Zeng, Jiuyang Tang, <b>Xiang Zhao</b>. <b>AAAI</b>, 2025. </p></li>  
