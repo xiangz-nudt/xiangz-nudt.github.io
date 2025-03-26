@@ -48,6 +48,7 @@
 <div style="width:860px;margin:0px auto">
   <h3 style="color:#b45f06"><b><i>News</i></b></h3>
   <ul style="list-style-type:square; line-height:1">
+    <li><p> <i>2025/03: <font color="color:#cc0000">We have two full papers, one demo paper and one TKDE poster accepted by IEEE <a href = "https://ieee-icde.org/2025" target = "_blank">ICDE 2025</a>!</font></i></p> </li>
     <li><p> <i>2025/01: <font color="color:#cc0000">We have an oral-full paper on LLMs accepted by The ACM <a href = "https://www2025.thewebconf.org/" target = "_blank">Web Conference 2025</a>!</font></i></p> </li>
     <li><p> <i>2024/12: <font color="color:#cc0000">We have a survey on GNNs in press in IEEE <a href = "https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69" target = "_blank">TKDE</a>!</font></i></p> </li>
     <li><p> <i>2024/12: <font color="color:#cc0000">We have three full papers accepted by <a href = "https://aaai.org/conference/aaai/aaai-25/" target = "_blank">AAAI 2025</a>!</font></i></p> </li>
@@ -55,8 +56,8 @@
     <li><p> <i>2024/10: Awarded with <b>Youth Science and Technology Award</b> by <a href="http://www.c2.org.cn/h-col-136.html" target="_blank">CICC</a>.</i></p></li>
     <li><p> <i>2024/07: <font color="color:#cc0000">We have an article on graph contrastive learning in press in IEEE <a href = "https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69" target = "_blank">TKDE</a>!</font></i></p> </li>
     <li><p> <i>2024/07: <font color="color:#cc0000">We have three full papers, one short paper and one resource paper accepted by ACM <a href = "https://cikm2024.org/" target = "_blank">CIKM 2024</a>!</font></i></p></li>
-    <li><p> <i>2024/07: Invited to serve as a PC member of <a href = "https://aaai.org/conference/aaai/aaai-25/" target = "_blank">AAAI 2025</a>.</i></p> </li>
-    <!--<li><p> <i>2024/07: Invited to serve as a PC member of ACM <a href = "https://kdd2025.kdd.org/" target = "_blank">KDD 2025</a>.</i></p> </li>
+    <!--<li><p> <i>2024/07: Invited to serve as a PC member of <a href = "https://aaai.org/conference/aaai/aaai-25/" target = "_blank">AAAI 2025</a>.</i></p> </li>
+    <li><p> <i>2024/07: Invited to serve as a PC member of ACM <a href = "https://kdd2025.kdd.org/" target = "_blank">KDD 2025</a>.</i></p> </li>
     <li><p> <i>2024/07: Invited to serve as a PC member of IEEE <a href = "https://ieee-icde.org/2025/" target = "_blank">ICDE 2025</a>.</i></p> </li>
     <li><p> <i>2024/05: <font color="color:#cc0000">We have two papers accepted by the main conference of <a href = "https://2024.aclweb.org/" target = "_blank">ACL 2024</a>!</font></i></p> </li>
     <li><p> <i>2024/03: Invited to serve as a PC member of ACM <a href = "https://cikm2024.org/" target = "_blank">CIKM 2024</a>.</i></p></li>
@@ -126,6 +127,8 @@
 <div style="width:860px;margin:0px auto">
   <h3><b style="color:#0b5394">Selected Publications</b> (<a href="pub.html">Extended List</a>, @<a href="https://scholar.google.com/citations?user=7IZ4kgwAAAAJ&hl=en" target="_blank">Google Scholar</a>, @<a href="https://dblp.uni-trier.de/pers/hd/z/Zhao_0002:Xiang" target="_blank">DBLP</a>, @<a href="https://orcid.org/0000-0001-6339-0219" target="_blank">ORCID</a>, @<a href="https://www.aminer.cn/profile/562d5f7f45cedb3398ddd908" target="_blank">AMiner</a>)</h3>
   <ul>
+    <li><p><b>OptMatch: an Efficient and Generic Neural Network-assisted Subgraph Matching Approach</b> [<a href="https://github.com/hwzxxxcom/OptMatch" target="_blank">code</a>] <br/>Wenzhe Hou, <b>Xiang Zhao</b>, <a href = "https://acm.sustech.edu.cn/btang/" target = "_blank">Bo Tang</a>. IEEE <b>ICDE</b>, 2025.</p></li>
+    <li><p><b>Towards Unsupervised Entity Alignment for Highly Heterogeneous Knowledge Graphs</b> [<a href="https://github.com/eduzrh/AdaCoAgentEA" target="_blank">code</a>] <br/> Runhao Zhao, Zeng Weixin, Jiuyang Tang, Yawen Li, Guanhua Ye, Junping Du, <b>Xiang Zhao</b>. IEEE <b>ICDE</b>, 2025.</p></li>
     <li><p><b><a href="" target="_blank">PSSD: Making Large Language Models Self-denial via Human Psyche Structure</a></b> <br/>Jinzhi Liao, Zenghua Liao, <b>Xiang Zhao</b>*. The ACM <b>Web Conference</b>, 2025.</p></li>
     <li><p><b>The Expressive Power of Graph Neural Networks: A Survey</b><br/>Bingxu Zhang, Changjun Fan, Shixuan Liu, Kuihua Huang, <b>Xiang Zhao</b>, Jincai Huang, and Zhong Liu. <i>IEEE </i><b><i>Trans. Know. Data Eng.</i></b> (<b>TKDE</b>), 2025, in press.</p></li>
     <li><p><b>Logic Induced High-Order Reasoning Network for Event-Event Relation Extraction</b><br/>Peixin Huang, <b>Xiang Zhao</b>, Minghao Hu, Zhen Tan, Weidong Xiao. <b>AAAI</b>, 2025. </p></li> 
