@@ -122,7 +122,7 @@
 -->
     <li><p> <i>Monograph on <b>knowledge structurization</b>, on shelf by <a href = "https://www.ecsponline.com/goods.php?id=226150" target = "_blank">Science Press</a>. Welcome to read and share!</i></p></li>
     <li><p> <i>Monograph on <b>entity alignment</b>, freely available at <a href = "https://link.springer.com/book/10.1007/978-981-99-4250-3" target = "_blank">SpringerLink</a>. Welcome to read and share!</i></p></li>
-    <li><p> <i>We created a GItHub repository of <a href = "https://github.com/ZhaiWenShuo/Survey-of-Task-Planning" target = "_blank">resources</a> on task planning leveraging LLMs. Please check <a href = "https://github.com/ZhaiWenShuo/Survey-of-Task-Planning" target = "_blank">it</a> out!</i></p>
+    <li><p> <i>We created a GItHub repository of <a href = "https://github.com/ZhaiWenShuo/Survey-of-Task-Planning" target = "_blank">resources</a> on task planning leveraging LLMs. Please check <a href = "https://github.com/ZhaiWenShuo/Survey-of-Task-Planning" target = "_blank">it</a> out!</i></p></li>
     <li><p> <i>Looking for post-docs & students to work on big data, knowledge engineering and LLMs!</i></p></li>
   </ul>
 </div>
