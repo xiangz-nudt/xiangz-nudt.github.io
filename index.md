@@ -232,7 +232,7 @@
     </p></li>
     <li><p>
     <b>Youth members:</b>
-      SPJ <a href="https://spj.science.org/journal/icomputing" target="_blank">Intelligent Computing</a> (2020- ),
+      SPJ <a href="https://spj.science.org/journal/icomputing" target="_blank">Intelligent Computing</a> (2025- ),
       <a href="http://www.ecice06.com/CN/1000-3428/home.shtml" target="_blank">计算机工程</a> (2020- )
     </p></li>
   </ul>
