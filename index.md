@@ -48,14 +48,15 @@
 <div style="width:860px;margin:0px auto">
   <h3 style="color:#b45f06"><b><i>News</i></b></h3>
   <ul style="list-style-type:square; line-height:1">
+    <li><p> <i>2025/08: <font color="color:#cc0000">We have four full papers and one short paper accepted by ACM <a href = "https://cikm2025.org/" target = "_blank">CIKM 2025</a>!</font></i></p></li>
     <li><p> <i>2025/06: <font color="color:#cc0000">We have an article on graph clustering in press in IEEE <a href = "https://www.computer.org/csdl/journal/td" target = "_blank">TPDS</a>!</font></i></p> </li>
     <li><p> <i>2025/06: <font color="color:#cc0000">We have an article on diffusion prediction in press in IEEE <a href = "https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69" target = "_blank">TKDE</a>!</font></i></p> </li>
     <li><p> <i>2025/03: <font color="color:#cc0000">We have two full papers, one demo paper and one TKDE poster accepted by IEEE <a href = "https://ieee-icde.org/2025" target = "_blank">ICDE 2025</a>!</font></i></p> </li>
     <li><p> <i>2025/01: <font color="color:#cc0000">We have an oral-full paper on LLMs accepted by The ACM <a href = "https://www2025.thewebconf.org/" target = "_blank">Web Conference 2025</a>!</font></i></p> </li>
     <li><p> <i>2024/12: <font color="color:#cc0000">We have a survey on GNNs in press in IEEE <a href = "https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69" target = "_blank">TKDE</a>!</font></i></p> </li>
     <li><p> <i>2024/12: <font color="color:#cc0000">We have three full papers accepted by <a href = "https://aaai.org/conference/aaai/aaai-25/" target = "_blank">AAAI 2025</a>!</font></i></p> </li>
-    <li><p> <i>2024/11: <font color="color:#cc0000">We have three full papers accepted by <a href = "https://coling2025.org/" target = "_blank">COLING 2025</a>!</font></i></p> </li>
-    <!--<li><p> <i>2024/10: Awarded with <b>Youth Science and Technology Award</b> by <a href="http://www.c2.org.cn/h-col-136.html" target="_blank">CICC</a>.</i></p></li>
+    <!--<li><p> <i>2024/11: <font color="color:#cc0000">We have three full papers accepted by <a href = "https://coling2025.org/" target = "_blank">COLING 2025</a>!</font></i></p> </li>
+    <li><p> <i>2024/10: Awarded with <b>Youth Science and Technology Award</b> by <a href="http://www.c2.org.cn/h-col-136.html" target="_blank">CICC</a>.</i></p></li>
     <li><p> <i>2024/07: <font color="color:#cc0000">We have an article on graph contrastive learning in press in IEEE <a href = "https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69" target = "_blank">TKDE</a>!</font></i></p> </li>
     <li><p> <i>2024/07: <font color="color:#cc0000">We have three full papers, one short paper and one resource paper accepted by ACM <a href = "https://cikm2024.org/" target = "_blank">CIKM 2024</a>!</font></i></p></li>
     <li><p> <i>2024/07: Invited to serve as a PC member of <a href = "https://aaai.org/conference/aaai/aaai-25/" target = "_blank">AAAI 2025</a>.</i></p> </li>
