@@ -21,7 +21,7 @@
     <h2><b>Xiang Zhao</b>, PhD UNSW</h2>
     <p>
     <b>Professor</b>
-      <br/><font size="3">- <a href="https://d2.nudt.edu.cn/" target="_blank">Laboratory for Big Data and Decision</a>, College of Systems Engineering
+      <br/><font size="3">- <a href="https://d2.nudt.edu.cn/" target="_blank">Laboratory for Big Data and Decision</a>
       <br/>- <a href="https://english.nudt.edu.cn/" target="_blank">National University of Defense Technology</a></font>
       <br/><b>Email</b>: xiangzhao <i>at</i> nudt.edu.cn
       <br/><b>Phone</b>: +86 731 8700 6440
@@ -34,7 +34,7 @@
 <div style="width:860px;margin:0px auto">
 <h3><b>Short Biography</b></h3>
   <p style="text-align:justify; text-justify:inter-ideograph">
-    <b>Xiang Zhao</b> (赵翔) is currently a full professor at College of Systems Engineering, <a href="https://english.nudt.edu.cn/" target="_blank">National University of Defense Technology</a> (NUDT), China, where he also serves as the head of the direction of knowledge systems engineering. During 2015-2019, he was also a concurrent research fellow at <a href="http://innogst.whu.edu.cn/" target="_blank">Collaborative Innovation Center of Geospatial Technology</a>, China, led by Prof. <a href = "http://en.whu.edu.cn/info/1073/1569.htm" target = "_blank">Deren Li</a> (李德仁) and Prof. <a href="http://en.whu.edu.cn/info/1073/1568.htm" target="_blank">Jianya Gong</a> (龚健雅).</p>
+    <b>Xiang Zhao</b> (赵翔) is currently a full professor at <a href="https://d2.nudt.edu.cn/" target="_blank">Laboratory for Big Data and Decision</a>, <a href="https://english.nudt.edu.cn/" target="_blank">National University of Defense Technology</a> (NUDT), China, scholarly supervised by Prof. <a href = "https://casad.cas.cn/ysxx2022/ysmd/xxjs/201911/t20191121_4724699.html" target = "_blank">Huaimin Wang</a> (王怀民), where he serves as the head of the research division of intelligent decision-making. During 2015-2019, he was also a concurrent research fellow at <a href="http://innogst.whu.edu.cn/" target="_blank">Collaborative Innovation Center of Geospatial Technology</a>, China, led by Prof. <a href = "http://en.whu.edu.cn/info/1073/1569.htm" target = "_blank">Deren Li</a> (李德仁) and Prof. <a href="http://en.whu.edu.cn/info/1073/1568.htm" target="_blank">Jianya Gong</a> (龚健雅).</p>
   
   <p style="text-align:justify; text-justify:inter-ideograph">
     During 2020-2021, he was a visiting scholar at <a href="http://www.xjtu.edu.cn/" target="_blank">Xi'an Jiaotong University</a> under the supervision of Prof. <a href="http://gr.xjtu.edu.cn/web/qhzheng" target ="_blank">Qinghua Zheng</a> (郑庆华). In 2013, he obtained his PhD in Computer Science and Engineering from the <a href="http://www.unsw.edu.au/" target="_blank">University of New South Wales</a> (UNSW), Australia, under the supervision of Prof. <a href="http://www.cse.unsw.edu.au/~lxue" target ="_blank">Xuemin Lin</a> (林学民), with A/Prof. <a href="http://www.cse.unsw.edu.au/~wong" target="_blank">Raymond Wong</a> as his joint-supervisor, and Dr. <a href="https://sites.google.com/site/chuanxiao1983/" target ="_blank">Chuan Xiao</a> as co-supervisor. He also performed research at <a href="http://www.csiro.au/" target="_blank">Commonwealth Scientific and Industrial Research Organisation</a> (CSIRO) under a project led by A/Prof. <a href="https://cs.anu.edu.au/people/kerry-taylor" target="_blank">Kerry Taylor</a> and <a href="http://www.nicta.com.au/" target="_blank">National Information and Communication Technology Australia</a> (NICTA, now <a href="https://www.data61.csiro.au/" target="_blank">Data61</a>@CSIRO) under a project lead by A/Prof. <a href="https://www.uts.edu.au/staff/jian.zhang" target="_blank">Jian Zhang</a>. Prior to that, he got his Bachelor's Degree in Information Systems Engineering at NUDT in 2008.</p>
@@ -384,6 +384,5 @@
     <li><p><b>Elite Student</b> of NUDT, 2008; <b>Elite Graduate</b> of CISM, 2008; <b>Elite Student</b> of CISM, 2004-2008</p></li>
     <li><p><b>Meritorious in Mathematical Contest in Modeling (MCM) / Interdisciplinary Contest in Modeling (ICM)</b> (2008), organized by <a href="http://www.comap.com/" target="_blank">COMAP</a></p></li>
     <li><p><b>First Prize</b> (<front style="color:#cc0000">One of the Best Papers</front>) in China Undergraduate Mathematical Contest in Modeling (CUMCM), organized by <a href="http://www.moe.edu.cn/" target="_blank">Ministry of Education of China</a> and <a href="http://csiam.edu.cn/" target="_blank">CSIAM</a>, 2007; <b>Second Prize</b>, CUMCM 2006</p></li>-->
-
   </ul>
 </div>
