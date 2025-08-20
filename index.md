@@ -48,7 +48,7 @@
 <div style="width:860px;margin:0px auto">
   <h3 style="color:#b45f06"><b><i>News</i></b></h3>
   <ul style="list-style-type:square; line-height:1">
-    <li><p> <i>2025/08: <font color="color:#cc0000">We have been awared with the oustanding sutdent paper at IEEE <a href = "https://dsc.pcl.ac.cn/2025/" target = "_blank">DSC 2025</a>!</font></i></p> </li>
+    <li><p> <i>2025/08: <font color="color:#cc0000">We have been awared with the oustanding sutdent paper at IEEE <a href = "https://dsc.pcl.ac.cn/2025/" target = "_blank">DSC 2025</a>!</font></i></p></li>
     <li><p> <i>2025/08: <font color="color:#cc0000">We have four full papers and one short paper accepted by ACM <a href = "https://cikm2025.org/" target = "_blank">CIKM 2025</a>!</font></i></p></li>
     <li><p> <i>2025/06: <font color="color:#cc0000">We have an article on graph clustering in press in IEEE <a href = "https://www.computer.org/csdl/journal/td" target = "_blank">TPDS</a>!</font></i></p> </li>
     <li><p> <i>2025/06: <font color="color:#cc0000">We have an article on diffusion prediction in press in IEEE <a href = "https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69" target = "_blank">TKDE</a>!</font></i></p> </li>
