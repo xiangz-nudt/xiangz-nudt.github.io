@@ -48,15 +48,15 @@
 <div style="width:860px;margin:0px auto">
   <h3 style="color:#b45f06"><b><i>News</i></b></h3>
   <ul style="list-style-type:square; line-height:1">
-    <li><p> <i>2025/08: <font color="color:#cc0000">We have been awared with the oustanding sutdent papers at IEEE DSC and CCF NDBC 2025</a>!</font></i></p> </li>
+    <li><p> <i>2025/08: <font color="color:#cc0000">We have been awared with the oustanding sutdent paper at IEEE <a href = "https://dsc.pcl.ac.cn/2025/" target = "_blank">DSC 2025</a>!</font></i></p> </li>
     <li><p> <i>2025/08: <font color="color:#cc0000">We have four full papers and one short paper accepted by ACM <a href = "https://cikm2025.org/" target = "_blank">CIKM 2025</a>!</font></i></p></li>
     <li><p> <i>2025/06: <font color="color:#cc0000">We have an article on graph clustering in press in IEEE <a href = "https://www.computer.org/csdl/journal/td" target = "_blank">TPDS</a>!</font></i></p> </li>
     <li><p> <i>2025/06: <font color="color:#cc0000">We have an article on diffusion prediction in press in IEEE <a href = "https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69" target = "_blank">TKDE</a>!</font></i></p> </li>
     <li><p> <i>2025/03: <font color="color:#cc0000">We have two full papers, one demo paper and one TKDE poster accepted by IEEE <a href = "https://ieee-icde.org/2025" target = "_blank">ICDE 2025</a>!</font></i></p> </li>
     <li><p> <i>2025/01: <font color="color:#cc0000">We have an oral-full paper on LLMs accepted by The ACM <a href = "https://www2025.thewebconf.org/" target = "_blank">Web Conference 2025</a>!</font></i></p> </li>
     <li><p> <i>2024/12: <font color="color:#cc0000">We have a survey on GNNs in press in IEEE <a href = "https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69" target = "_blank">TKDE</a>!</font></i></p> </li>
-    <li><p> <i>2024/12: <font color="color:#cc0000">We have three full papers accepted by <a href = "https://aaai.org/conference/aaai/aaai-25/" target = "_blank">AAAI 2025</a>!</font></i></p> </li>
-    <!--<li><p> <i>2024/11: <font color="color:#cc0000">We have three full papers accepted by <a href = "https://coling2025.org/" target = "_blank">COLING 2025</a>!</font></i></p> </li>
+    <!--<li><p> <i>2024/12: <font color="color:#cc0000">We have three full papers accepted by <a href = "https://aaai.org/conference/aaai/aaai-25/" target = "_blank">AAAI 2025</a>!</font></i></p> </li>
+    <li><p> <i>2024/11: <font color="color:#cc0000">We have three full papers accepted by <a href = "https://coling2025.org/" target = "_blank">COLING 2025</a>!</font></i></p> </li>
     <li><p> <i>2024/10: Awarded with <b>Youth Science and Technology Award</b> by <a href="http://www.c2.org.cn/h-col-136.html" target="_blank">CICC</a>.</i></p></li>
     <li><p> <i>2024/07: <font color="color:#cc0000">We have an article on graph contrastive learning in press in IEEE <a href = "https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69" target = "_blank">TKDE</a>!</font></i></p> </li>
     <li><p> <i>2024/07: <font color="color:#cc0000">We have three full papers, one short paper and one resource paper accepted by ACM <a href = "https://cikm2024.org/" target = "_blank">CIKM 2024</a>!</font></i></p></li>
@@ -132,6 +132,7 @@
 <div style="width:860px;margin:0px auto">
   <h3><b style="color:#0b5394">Selected Publications</b> (<a href="pub.html">Extended List</a>, @<a href="https://scholar.google.com/citations?user=7IZ4kgwAAAAJ&hl=en" target="_blank">Google Scholar</a>, @<a href="https://dblp.uni-trier.de/pers/hd/z/Zhao_0002:Xiang" target="_blank">DBLP</a>, @<a href="https://orcid.org/0000-0001-6339-0219" target="_blank">ORCID</a>, @<a href="https://www.aminer.cn/profile/562d5f7f45cedb3398ddd908" target="_blank">AMiner</a>)</h3>
   <ul>
+    <li><p><b>Multimodal Biases Mitigation: Multimodal Multi-granularity Causal Reasoning Framework for Multimodal Fake News Detection</b><br/>Zhi Zeng, Minnan Luo, Xiangzheng Kong, Hao Guo, Hui Yang, <b>Xiang Zhao</b>*. IEEE <b>DSC</b>, 2025. [<font color="#cc0000" >Outstanding Student Paper</font>]</p></li>   
     <li><p><b>GPUSCAN++: Efficient Structural Graph Clustering on GPUs</b><br/>Zi Chen, Long Yuan, Zeyu Zhou, Xuemin Lin, <b>Xiang Zhao</b>, Fan Zhang. <i>IEEE </i><b><i>IEEE Trans. Parallel Distributed Syst.</i></b> (<b>TPDS</b>), 2025, in press.</p></li>
     <li><p><b>DSHCL: Dual-State Hypergraph Contrastive Learning for Information Diffusion Prediction</b><br/>Tianyang Shao, Weixin Zeng, <b>Xiang Zhao</b>. <i>IEEE </i><b><i>Trans. Know. Data Eng.</i></b> (<b>TKDE</b>), 2025, in press.</p></li>
     <li><p><b>On the Risk of Evidence Pollution for Malicious Social Text Detection in the Era of LLMs</b> <br/> Herun Wan, <a href = "http://gr.xjtu.edu.cn/web/minnluo/home" target = "_blank">Minnan Luo</a>, Zhixiong Su, Guang Dai, <b>Xiang Zhao</b>. <b>ACL</b>, 2025.</p></li>
