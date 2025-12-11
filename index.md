@@ -8,6 +8,17 @@
     <meta name="description" content="Welcome to Xiang Zhao's Personal Homepage! Ph.D., the University of New South Wales (UNSW); Prof., National University of Defense Technology (NUDT)" />
     <meta name="google-site-verification" content="e8QBQDtgOAVTuMNJp-5g7BJoPB34wMEFcz0RBBmo5B8" />
     <meta name="baidu-site-verification" content="3FTe6ikuh9" />
+
+    <style> /* 让长单词、长链接在必要时任意位置断行 */
+    #awards li {
+      word-break: break-word;      /* 旧版兼容 */
+      overflow-wrap: anywhere;     /* 新标准，中英文都有效 */
+    }
+    /* 可选：长链接内部允许断开 */
+    #awards a {
+      word-break: break-all;
+    }
+    </style>
   </head>
   
 <body style="background:#f8f9fb">
@@ -374,7 +385,7 @@
 <hr/>
 <div style="width:860px;margin:0px auto">
   <h3> <b style="color:rgb(166,77,121)">Awards and Grants</b></h3>
-  <ul>
+  <ul id="awards">
     <li><p><b>The 2nd Prize of Outstanding Scientific Research Output Award of Higher Education Institutions (Science and Technology Progress Award)</b>, awarded by <a href="http://www.moe.gov.cn/srcsite/A16/s7062/202503/t20250320_1183928.html" target="_blank">Ministry of Education of PRC</a>, 2025</p></li>
     <li><p><b>The 2nd Prize of CICC Scientific and Technological Progress Award</b>, awarded by <a href="http://www.c2.org.cn/h-col-136.html" target="_blank">Chinese Institute of Command and Control</a>, 2025</p></li>
     <li><p><b>The 1st Prize of CICC Scientific and Technological Progress Award</b>, awarded by <a href="http://www.c2.org.cn/h-col-136.html" target="_blank">Chinese Institute of Command and Control</a>, 2023</p></li>
