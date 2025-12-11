@@ -8,10 +8,8 @@
     <meta name="description" content="Welcome to Xiang Zhao's Personal Homepage! Ph.D., the University of New South Wales (UNSW); Prof., National University of Defense Technology (NUDT)" />
     <meta name="google-site-verification" content="e8QBQDtgOAVTuMNJp-5g7BJoPB34wMEFcz0RBBmo5B8" />
     <meta name="baidu-site-verification" content="3FTe6ikuh9" />
-
     <style> /* 让长单词、长链接在必要时任意位置断行 */
     #awards li {
-      word-break: break-word;      /* 旧版兼容 */
       overflow-wrap: anywhere;     /* 新标准，中英文都有效 */
     }
     /* 可选：长链接内部允许断开 */
