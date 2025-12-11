@@ -1,4 +1,4 @@
-<html>  
+<html lang="en">  
   <head>
     <meta charset="UTF-8" />
     <meta name="renderer" content="webkit" />
@@ -13,9 +13,9 @@
 <body style="background:#dddddd">
   <div style="width:920px;background:#ffffff;margin:10px auto;border:2px solid #eeeeee">
   <div style="height:360px;width:860px;margin:0px auto">
-  <div style="height:290px;width:260px;margin:65px 15px 15px auto; float:left; display:flex; align-items:center;justify-content:center">
+  <div style="height:290px;width:260px;margin:65px 15px 15px auto; float:left; display:flex; align-items:center; justify-content:center">
     <img src="profile-2025.jpg" alt="Xiang Zhao"
-         style="object-fit:scale-down; object-position:center; width:185px; height:300x" />
+         style="object-fit:scale-down; object-position:center; width:185px; height:300px" />
   </div>
   <div style="height:260px;width:570px;margin:90px auto 30px 15px;float:left">
     <h2><b>Xiang Zhao</b>, PhD UNSW</h2>
@@ -405,3 +405,6 @@
     <li><p><b>First Prize</b> (<front style="color:#cc0000">One of the Best Papers</front>) in China Undergraduate Mathematical Contest in Modeling (CUMCM), organized by <a href="http://www.moe.edu.cn/" target="_blank">Ministry of Education of China</a> and <a href="http://csiam.edu.cn/" target="_blank">CSIAM</a>, 2007; <b>Second Prize</b>, CUMCM 2006</p></li>-->
   </ul>
 </div>
+
+</body>
+</html>
