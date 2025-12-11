@@ -365,13 +365,15 @@
 <div style="width:860px;margin:0px auto">
   <h3> <b style="color:rgb(166,77,121)">Awards and Grants</b></h3>
   <ul>
-
+    <li><p><b>The 2nd Prize of Outstanding Scientific Research Output Award of Higher Education Institutions (Science and Technology Progress Award)</b>, awarded by <a href="http://www.moe.gov.cn/srcsite/A16/s7062/202503/t20250320_1183928.html" target="_blank">Ministry of Education, PRC</a>, 2025</p></li>
+    <li><p><b>The 2nd Prize of CICC Scientific and Technological Progress Award</b>, awarded by <a href="http://www.c2.org.cn/h-col-136.html" target="_blank">Chinese Institute of Command and Control</a>, 2025</p></li>
     <li><p><b>The 1st Prize of CICC Scientific and Technological Progress Award</b>, awarded by <a href="http://www.c2.org.cn/h-col-136.html" target="_blank">Chinese Institute of Command and Control</a>, 2023</p></li>
     <li><p><b>The 2nd Prize of CCF Natural Science Award</b>, awarded by <a href="https://www.ccf.org.cn/Awards/" target="_blank">China Computer Federation</a>, 2022</p></li>
     <li><p><b>The 2nd Prize of Ministerial and Provincial Scientific and Technological Progress Award</b>, 2020</p></li>
     <li><p><b>Best Paper Award</b> of CCF <a href="https://conf.ccf.org.cn/web/html7/index.html?globalId=m9475032704175349761645943983427&type=1" target="_blank">WISA</a> 2022</p></li>
     <li><p><b>Best Paper Award</b> of <a href="https://dm.iis.sinica.edu.tw/DASFAA2021/index.html" target="_blank">DASFAA</a> 2021</p></li> 
     <li><p><b>Best Paper Award</b> of <a href="http://www.tjudb.cn/apwebwaim2020/" target="_blank">APWeb-WAIM</a> 2020</p></li>
+    <li><p><b>Outstanding Student Paper Award</b> of IEEE <a href="https://dsc.pcl.ac.cn/2025/" target="_blank">DSC</a> 2025</p></li>
     <li><p><b>Sashixuan Outstanding Student Paper Award</b> of CCF <a href="https://ndbc2022.ccf.org.cn/" target="_blank">NDBC</a> 2022</p></li>
     <li><p><b>Best Student Paper Award</b> of <a href="https://www.ksem.conferences.academy/" target="_blank">KSEM</a> 2020</p></li>
     <li><p><b>Best Student Paper Award</b> of <a href="https://adc2016.cse.unsw.edu.au/" target="_blank">ADC</a> 2016</p></li>  
@@ -379,8 +381,9 @@
     <li><p><b>ACM SIGMOD China Rising Star Award</b> (2018), awarded by <a href="https://www.acm.org/acm-china-council" target="_blank">ACM China</a></p></li>
     <li><p><b>The Science and Technology Innovation Program (Leading Talents) of Hunan Province</b> (2023), awarded by <a href="http://kjt.hunan.gov.cn/" target="_blank">Department of Science and Technology of Hunan</a></p></li>
     <li><p><b>High-level Young Talents Award Scheme</b> (2020), awarded by <a href="http://www.moe.gov.cn/" target="_blank">Ministry of Education, China</a></p></li>
-    <li><p><b>Young Talents Lift-up Program</b> (2018), awarded by <a href="http://www.cast.org.cn/" target="_blank">China Association for Science and Technology</a></p></li>    
-    <li><p><b>Co-PI of NSFC Joint Fund for Regional Innovation and Development</b> (2024-2027): Research on Intelligent Computing Fundamental Theories and Key Algorithms for Heterogeneous Big Data, approved by <a href="https://nsfc.gov.cn/" target="_blank">NSFC</a></p></li>
+    <li><p><b>Young Talents Lift-up Program</b> (2018), awarded by <a href="http://www.cast.org.cn/" target="_blank">China Association for Science and Technology</a></p></li>
+    <li><p><b>PI of NSFC Enterprise Innovation Development Joint Fund Program</b> (2026-2029): Research on Social Network Event Situation Prediction Based on a Neuro-Symbolic World Model, approved by <a href="https://nsfc.gov.cn/" target="_blank">NSFC</a></p></li>
+    <li><p><b>Co-PI of NSFC Regional Innovation and Development Joint Fund Program</b> (2024-2027): Research on Intelligent Computing Fundamental Theories and Key Algorithms for Heterogeneous Big Data, approved by <a href="https://nsfc.gov.cn/" target="_blank">NSFC</a></p></li>
     <li><p><b>PI of NSF General Project</b> (2023-2026): Research on Key Technologies of Temporal Knowledge Graphs under Incomplete Information, approved by <a href="https://nsfc.gov.cn/" target="_blank">NSFC</a></p></li>
     <li><p><b>PI of National Key R&D Program for Young Scientists</b> (2022-2025): Misinformation Detection and Source Localization Methods in Social Networks under Limited Perception, approved by <a href="https://www.most.gov.cn/index.html" target="_blank">Ministry of Science and Technology, China</a></p></li>
     <li><p><b>Co-PI of NSFC Regional Joint Key Project</b> (2020-2023): Architecture and Resilient Service of Smart Edge Computing for Big Data, approved by <a href="https://nsfc.gov.cn/" target="_blank">NSFC</a></p></li>
