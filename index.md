@@ -413,6 +413,3 @@
     <li><p><b>First Prize</b> (<front style="color:#cc0000">One of the Best Papers</front>) in China Undergraduate Mathematical Contest in Modeling (CUMCM), organized by <a href="http://www.moe.edu.cn/" target="_blank">Ministry of Education of China</a> and <a href="http://csiam.edu.cn/" target="_blank">CSIAM</a>, 2007; <b>Second Prize</b>, CUMCM 2006</p></li>-->
   </ul>
 </div>
-
-</body>
-</html>
