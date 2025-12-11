@@ -234,6 +234,7 @@
       <b>Regular members:</b> 
         <a href="http://journal.nudt.edu.cn/gfkjdxxb/ch/index.aspx" target="_blank">国防科技大学学报</a> (2024- ),
         <a href="http://cea.ceaj.org/CN/1002-8331/home.shtml" target="_blank">计算机工程与应用</a> (2022- ),
+        <a href="https://www.ecice06.com/" target="_blank">计算机工程</a> (2025- ),
         <a href="http://www.xitonggongcheng.cn/" target="_blank">系统工程</a> (2025- ),
         IEEE <a href="http://ieeeaccess.ieee.org/" target="_blank">Access</a> (2018-2022)
       </p></li>
@@ -247,7 +248,7 @@
     <li><p>
     <b>Youth members:</b>
       SPJ <a href="https://spj.science.org/journal/icomputing" target="_blank">Intelligent Computing</a> (2025- ),
-      <a href="http://www.ecice06.com/CN/1000-3428/home.shtml" target="_blank">计算机工程</a> (2020- )
+      <a href="http://www.ecice06.com/CN/1000-3428/home.shtml" target="_blank">计算机工程</a> (2020-2025)
     </p></li>
   </ul>
 
