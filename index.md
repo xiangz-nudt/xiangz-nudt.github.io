@@ -17,7 +17,7 @@
   <!-- 左侧头像 -->
   <div>
     <img src="profile-2025.jpg" alt="Xiang Zhao"
-         style="width:180px;height:270px;object-fit:cover;border-radius:12px;box-shadow:0 4px 15px rgba(0,0,0,.15)">
+     style="width:210px;height:auto;object-fit:cover;border-radius:12px;box-shadow:0 4px 15px rgba(0,0,0,.15)">
   </div>
 
   <!-- 右侧文字 -->
