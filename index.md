@@ -365,7 +365,7 @@
 <div style="width:860px;margin:0px auto">
   <h3> <b style="color:rgb(166,77,121)">Awards and Grants</b></h3>
   <ul>
-    <li><p><b>The 2nd Prize of Outstanding Scientific Research Output Award of Higher Education Institutions (Science and Technology Progress Award)</b>, awarded by <a href="http://www.moe.gov.cn/srcsite/A16/s7062/202503/t20250320_1183928.html" target="_blank">Ministry of Education, PRC</a>, 2025</p></li>
+    <li><p><b>The 2nd Prize of Outstanding Scientific Research Output Award of Higher Education Institutions (Science and Technology Progress Award)</b>, awarded by <a href="http://www.moe.gov.cn/srcsite/A16/s7062/202503/t20250320_1183928.html" target="_blank">Ministry of Education of PRC</a>, 2025</p></li>
     <li><p><b>The 2nd Prize of CICC Scientific and Technological Progress Award</b>, awarded by <a href="http://www.c2.org.cn/h-col-136.html" target="_blank">Chinese Institute of Command and Control</a>, 2025</p></li>
     <li><p><b>The 1st Prize of CICC Scientific and Technological Progress Award</b>, awarded by <a href="http://www.c2.org.cn/h-col-136.html" target="_blank">Chinese Institute of Command and Control</a>, 2023</p></li>
     <li><p><b>The 2nd Prize of CCF Natural Science Award</b>, awarded by <a href="https://www.ccf.org.cn/Awards/" target="_blank">China Computer Federation</a>, 2022</p></li>
@@ -380,7 +380,7 @@
     <li><p><b>CICC Youth Science and Technology Award</b> (2024), awarded by <a href="https://www.c2.org.cn/h-nd-1110.html" target="_blank">Chinese Institute of Command and Control</a></p></li>
     <li><p><b>ACM SIGMOD China Rising Star Award</b> (2018), awarded by <a href="https://www.acm.org/acm-china-council" target="_blank">ACM China</a></p></li>
     <li><p><b>The Science and Technology Innovation Program (Leading Talents) of Hunan Province</b> (2023), awarded by <a href="http://kjt.hunan.gov.cn/" target="_blank">Department of Science and Technology of Hunan</a></p></li>
-    <li><p><b>High-level Young Talents Award Scheme</b> (2020), awarded by <a href="http://www.moe.gov.cn/" target="_blank">Ministry of Education, China</a></p></li>
+    <li><p><b>High-level Young Talents Award Scheme</b> (2020), awarded by <a href="http://www.moe.gov.cn/" target="_blank">Ministry of Education of PRC</a></p></li>
     <li><p><b>Young Talents Lift-up Program</b> (2018), awarded by <a href="http://www.cast.org.cn/" target="_blank">China Association for Science and Technology</a></p></li>
     <li><p><b>PI of NSFC Enterprise Innovation Development Joint Fund Program</b> (2026-2029): Research on Social Network Event Situation Prediction Based on a Neuro-Symbolic World Model, approved by <a href="https://nsfc.gov.cn/" target="_blank">NSFC</a></p></li>
     <li><p><b>Co-PI of NSFC Regional Innovation and Development Joint Fund Program</b> (2024-2027): Research on Intelligent Computing Fundamental Theories and Key Algorithms for Heterogeneous Big Data, approved by <a href="https://nsfc.gov.cn/" target="_blank">NSFC</a></p></li>
