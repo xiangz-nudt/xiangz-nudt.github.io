@@ -10,7 +10,7 @@
     <meta name="baidu-site-verification" content="3FTe6ikuh9" />
   </head>
   
-<body style="background:#dddddd">
+<body style="background:#f8f9fb">
   <div style="width:920px;background:#ffffff;margin:10px auto;border:2px solid #eeeeee">
   <!-- 头像 + 文字  开始 -->
 <div style="width:860px;margin:30px auto;display:flex;align-items:center;gap:40px">
