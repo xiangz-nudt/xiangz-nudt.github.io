@@ -8,16 +8,17 @@
     <meta name="description" content="Welcome to Xiang Zhao's Personal Homepage! Ph.D., the University of New South Wales (UNSW); Prof., National University of Defense Technology (NUDT)" />
     <meta name="google-site-verification" content="e8QBQDtgOAVTuMNJp-5g7BJoPB34wMEFcz0RBBmo5B8" />
     <meta name="baidu-site-verification" content="3FTe6ikuh9" />
-    <style> /* 让长单词、长链接在必要时任意位置断行 */
-    #awards li {
-      overflow-wrap: anywhere;     /* 新标准，中英文都有效 */
-    }
-    /* 可选：长链接内部允许断开 */
-    #awards a {
-      word-break: break-all;
-    }
-    </style>
-  </head>
+    <style>
+    /* 普通文字保持完整单词 */
+      #awards li {
+        overflow-wrap: break-word;   /* 只在超长连续串（链接、括号）处断行 */
+      }
+    /* 链接内部可断，但普通单词仍完整 */
+      #awards a {
+        overflow-wrap: anywhere;
+      }
+  </style>
+</head>
   
 <body style="background:#f8f9fb">
   <div style="width:920px;background:#ffffff;margin:10px auto;border:2px solid #eeeeee">
