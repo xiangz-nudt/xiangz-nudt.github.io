@@ -12,23 +12,31 @@
   
 <body style="background:#dddddd">
   <div style="width:920px;background:#ffffff;margin:10px auto;border:2px solid #eeeeee">
-  <div style="height:360px;width:860px;margin:0px auto">
-  <div style="height:290px;width:260px;margin:65px 15px 15px auto; float:left; display:flex; align-items:center; justify-content:center">
+  <!-- 头像 + 文字  开始 -->
+<div style="width:860px;margin:30px auto;display:flex;align-items:center;gap:40px">
+  <!-- 左侧头像 -->
+  <div>
     <img src="profile-2025.jpg" alt="Xiang Zhao"
-         style="object-fit:scale-down; object-position:center; width:185px; height:300px" />
+         style="width:180px;height:270px;object-fit:cover;border-radius:12px;box-shadow:0 4px 15px rgba(0,0,0,.15)">
   </div>
-  <div style="height:260px;width:570px;margin:90px auto 30px 15px;float:left">
-    <h2><b>Xiang Zhao</b>, PhD UNSW</h2>
-    <p>
-    <b>Professor</b>
-      <br/><font size="3">- <a href="https://d2.nudt.edu.cn/" target="_blank">Laboratory for Big Data and Decision</a>
-      <br/>- <a href="https://english.nudt.edu.cn/" target="_blank">National University of Defense Technology</a></font>
-      <br/><b>Email</b>: xiangzhao <i>at</i> nudt.edu.cn
-      <br/><b>Phone</b>: +86 731 8700 6440
-      <br/><b>Facsimile</b>: +86 731 8457 3514
-      <br/><b>Address</b>: 109 Deya Road, Changsha, Hunan, China (410073)</p>
+
+  <!-- 右侧文字 -->
+  <div style="flex:1;line-height:1.7">
+    <h2 style="margin:0 0 8px;font-size:28px">Xiang Zhao, <small style="font-weight:normal">PhD UNSW</small></h2>
+    <p style="margin:0 0 12px;font-size:17px">
+      <b>Professor</b><br>
+      – <a href="https://d2.nudt.edu.cn/" target="_blank">Laboratory for Big Data and Decision</a><br>
+      – <a href="https://english.nudt.edu.cn/" target="_blank">National University of Defense Technology</a>
+    </p>
+    <p style="margin:0;font-size:15px;color:#444">
+      <b>Email</b>: xiangzhao <i>at</i> nudt.edu.cn<br>
+      <b>Phone</b>: +86 731 8700 6440<br>
+      <b>Facsimile</b>: +86 731 8457 3514<br>
+      <b>Address</b>: 109 Deya Road, Changsha, Hunan, China (410073)
+    </p>
   </div>
 </div>
+<!-- 头像 + 文字  结束 -->
 <hr/>
 
 <div style="width:860px;margin:0px auto">
