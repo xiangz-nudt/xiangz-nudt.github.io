@@ -293,7 +293,8 @@
       </p></li>
       <li><p>
         <b>Demo co-chairs:</b>
-        <a href="https://conf.ccf.org.cn/web/api/m1218982079254106112171066957528.action" target="_blank">NDBC 2024</a>
+        <a href="https://conf.ccf.org.cn/web/api/m1218982079254106112171066957528.action" target="_blank">NDBC 2024</a>,
+        <a href="https://conf.ccf.org.cn/web/api/m1318869215809245184173448452445.action" target="_blank">NDBC 2025</a>
       </p></li>
       <li><p>
         <b>Tutorial co-chairs:</b>
