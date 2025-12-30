@@ -35,7 +35,7 @@
     <h2 style="margin:0 0 8px;font-size:28px">Xiang Zhao, <small style="font-weight:normal">PhD UNSW</small></h2>
     <p style="margin:0 0 12px;font-size:17px">
       <b>Professor</b><br>
-      – <a href="https://d2.nudt.edu.cn/" target="_blank">Laboratory for Big Data and Decision</a><br>
+      – <a href="https://d2.nudt.edu.cn/" target="_blank">National Key Laboratory of Big Data and Decision</a><br>
       – <a href="https://english.nudt.edu.cn/" target="_blank">National University of Defense Technology</a>
     </p>
     <p style="margin:0;font-size:15px;color:#444">
