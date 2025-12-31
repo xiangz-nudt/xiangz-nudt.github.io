@@ -66,12 +66,13 @@
 <div style="width:860px;margin:0px auto">
   <h3 style="color:#b45f06"><b><i>News</i></b></h3>
   <ul style="list-style-type:square; line-height:1">
+    <li><p> <i>2026/01: <font color="color:#cc0000">We have an article on cognitive diagnosis accepted by <a href = "https://link.springer.com/journal/11432" target = "_blank">Engineering</a>!</font></i></p> </li>
     <li><p> <i>2025/12: <font color="color:#cc0000">We have an article on diffusion prediction accepted by <a href = "https://link.springer.com/journal/11432" target = "_blank">SCIENCE CHINA Information Sciences</a>!</font></i></p> </li>
     <li><p> <i>2025/11: <font color="color:#cc0000">We have an article on fake news detection accepted by <a href = "https://signalprocessingsociety.org/publications-resources/ieee-transactions-information-forensics-and-security" target = "_blank">IEEE TIFS</a>!</font></i></p> </li>
     <li><p> <i>2025/11: <font color="color:#cc0000">We have three full papers accepted by <a href = "https://aaai.org/conference/aaai/aaai-26/" target = "_blank">AAAI 2026</a>!</font></i></p> </li>
     <li><p> <i>2025/11: <font color="color:#cc0000">We have an article accepted by <a href = "https://www.computer.org/csdl/journal/tm" target = "_blank">IEEE TMC</a>!</font></i></p> </li>
-    <li><p> <i>2025/11: <font color="color:#cc0000">We have an article on LLMs for code accepted by <a href = "https://www.computer.org/csdl/journal/ts" target = "_blank">IEEE TSE</a>!</font></i></p> </li>
-    <!--<li><p> <i>2025/08: <font color="color:#cc0000">We have one full paper on time-dependent networks accepted by ACM <a href = "https://2026.sigmod.org/" target = "_blank">SIGMOD 2026</a>!</font></i></p></li>
+    <!--<li><p> <i>2025/11: <font color="color:#cc0000">We have an article on LLMs for code accepted by <a href = "https://www.computer.org/csdl/journal/ts" target = "_blank">IEEE TSE</a>!</font></i></p> </li>
+    <li><p> <i>2025/08: <font color="color:#cc0000">We have one full paper on time-dependent networks accepted by ACM <a href = "https://2026.sigmod.org/" target = "_blank">SIGMOD 2026</a>!</font></i></p></li>
     <li><p> <i>2025/08: <font color="color:#cc0000">Our work have been awarded the Oustanding Sutdent Paper at IEEE <a href = "https://dsc.pcl.ac.cn/2025/" target = "_blank">DSC 2025</a>!</font></i></p></li>
     <li><p> <i>2025/08: <font color="color:#cc0000">We have four full papers and one short paper accepted by ACM <a href = "https://cikm2025.org/" target = "_blank">CIKM 2025</a>!</font></i></p></li>
     <li><p> <i>2025/06: <font color="color:#cc0000">We have an article on graph clustering in press in IEEE <a href = "https://www.computer.org/csdl/journal/td" target = "_blank">TPDS</a>!</font></i></p> </li>
@@ -156,7 +157,8 @@
 <div style="width:860px;margin:0px auto">
   <h3><b style="color:#0b5394">Selected Publications</b> (<a href="pub.html">Extended List</a>, @<a href="https://scholar.google.com/citations?user=7IZ4kgwAAAAJ&hl=en" target="_blank">Google Scholar</a>, @<a href="https://dblp.uni-trier.de/pers/hd/z/Zhao_0002:Xiang" target="_blank">DBLP</a>, @<a href="https://orcid.org/0000-0001-6339-0219" target="_blank">ORCID</a>, @<a href="https://www.aminer.cn/profile/562d5f7f45cedb3398ddd908" target="_blank">AMiner</a>)</h3>
   <ul>
-    <li><p><b>Multi-Scale Diffusion Prediction Based on User Hierarchical Latent Interactions and Cross-Task Feature Similarity</b> <br/>Tianyang Shao, <b>Xiang Zhao</b>*, Jichao Li, <a href = "https://homexinlu.com/" target = "_blank">Xin Lv</a>. <b><i>Sci. China Inf. Sci.</i> (SCIS)</b>, 2026, in press.</p></li>
+    <li><p><b>Enhancing Cognitive Diagnosis via LLM-Driven Heterogeneous Concept Graph Construction</b> <br/>Yaqing Sheng, Jiuyang Tang, Weixin Zeng, <b>Xiang Zhao</b>, Yuejin Tan. <b><i>Engineering</i></b>, 2026, in press.</p></li>
+    <li><p><b>Multi-Scale Diffusion Prediction Based on User Hierarchical Latent Interactions and Cross-Task Feature Similarity</b> <br/>Tianyang Shao, <b>Xiang Zhao</b>, Jichao Li, <a href = "https://homexinlu.com/" target = "_blank">Xin Lv</a>. <b><i>Sci. China Inf. Sci.</i> (SCIS)</b>, 2026, in press.</p></li>
     <li><p><b>NeSTR: A Neuro-Symbolic Abductive Framework for Temporal Reasoning in Large Language Models</b><br/>Feng Liang, Weixin Zeng, Runhao Zhao, <b>Xiang Zhao</b>. <b>AAAI</b>, 2026.</p></li> 
     <li><p><b>Multi-granularity Temporal Knowledge Editing over Large Language Models</b><br/>Simiao Zhao, Ning Pang, Zhen Tan, Yanli Hu, Weidong Xiao, <b>Xiang Zhao</b>. <b>AAAI</b>, 2026.</p></li> 
     <li><p><b>Iterative Multi-Granular RAG with Contextual Hierarchical Graph</b><br/>Yanli Hu, Teng Liu, Zhuangyi Zhou, Weixin Zeng, Zhen Tan, <b>Xiang Zhao</b>. <b>AAAI</b>, 2026.</p></li> 
