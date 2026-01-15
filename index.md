@@ -66,12 +66,13 @@
 <div style="width:860px;margin:0px auto">
   <h3 style="color:#b45f06"><b><i>News</i></b></h3>
   <ul style="list-style-type:square; line-height:1">
+    <li><p> <i>2026/01: <font color="color:#cc0000">We have three full papers accepted by The ACM <a href = "https://www2026.thewebconf.org/" target = "_blank">Web Conference 2026</a>!</font></i></p> </li>
     <li><p> <i>2026/01: <font color="color:#cc0000">We have an article on cognitive diagnosis accepted by <a href = "https://link.springer.com/journal/11432" target = "_blank">Engineering</a>!</font></i></p> </li>
     <li><p> <i>2025/12: <font color="color:#cc0000">We have an article on diffusion prediction accepted by <a href = "https://link.springer.com/journal/11432" target = "_blank">SCIENCE CHINA Information Sciences</a>!</font></i></p> </li>
     <li><p> <i>2025/11: <font color="color:#cc0000">We have an article on fake news detection accepted by <a href = "https://signalprocessingsociety.org/publications-resources/ieee-transactions-information-forensics-and-security" target = "_blank">IEEE TIFS</a>!</font></i></p> </li>
     <li><p> <i>2025/11: <font color="color:#cc0000">We have three full papers accepted by <a href = "https://aaai.org/conference/aaai/aaai-26/" target = "_blank">AAAI 2026</a>!</font></i></p> </li>
-    <li><p> <i>2025/11: <font color="color:#cc0000">We have an article accepted by <a href = "https://www.computer.org/csdl/journal/tm" target = "_blank">IEEE TMC</a>!</font></i></p> </li>
-    <!--<li><p> <i>2025/11: <font color="color:#cc0000">We have an article on LLMs for code accepted by <a href = "https://www.computer.org/csdl/journal/ts" target = "_blank">IEEE TSE</a>!</font></i></p> </li>
+    <!--<li><p> <i>2025/11: <font color="color:#cc0000">We have an article accepted by <a href = "https://www.computer.org/csdl/journal/tm" target = "_blank">IEEE TMC</a>!</font></i></p> </li>
+    <li><p> <i>2025/11: <font color="color:#cc0000">We have an article on LLMs for code accepted by <a href = "https://www.computer.org/csdl/journal/ts" target = "_blank">IEEE TSE</a>!</font></i></p> </li>
     <li><p> <i>2025/08: <font color="color:#cc0000">We have one full paper on time-dependent networks accepted by ACM <a href = "https://2026.sigmod.org/" target = "_blank">SIGMOD 2026</a>!</font></i></p></li>
     <li><p> <i>2025/08: <font color="color:#cc0000">Our work have been awarded the Oustanding Sutdent Paper at IEEE <a href = "https://dsc.pcl.ac.cn/2025/" target = "_blank">DSC 2025</a>!</font></i></p></li>
     <li><p> <i>2025/08: <font color="color:#cc0000">We have four full papers and one short paper accepted by ACM <a href = "https://cikm2025.org/" target = "_blank">CIKM 2025</a>!</font></i></p></li>
