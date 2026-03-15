@@ -393,6 +393,7 @@
 <div style="width:860px;margin:0px auto">
   <h3> <b style="color:rgb(166,77,121)">Awards and Grants</b></h3>
   <ul id="awards">
+    <li><p><b>The 1st Prize of CAAI Scientific and Technological Progress Award</b>, awarded by <a href="https://www.caai.cn/site/content/5526.html" target="_blank">Chinese Association for Artificial Intelligence</a>, 2025</p></li>
     <li><p><b>The 2nd Prize of Outstanding Scientific Research Output Award of Higher Education Institutions (Science and Technology Progress Award)</b>, awarded by <a href="http://www.moe.gov.cn/srcsite/A16/s7062/202503/t20250320_1183928.html" target="_blank">Ministry of Education of PRC</a>, 2025</p></li>
     <li><p><b>The 2nd Prize of CICC Scientific and Technological Progress Award</b>, awarded by <a href="http://www.c2.org.cn/h-col-136.html" target="_blank">Chinese Institute of Command and Control</a>, 2025</p></li>
     <li><p><b>The 1st Prize of CICC Scientific and Technological Progress Award</b>, awarded by <a href="http://www.c2.org.cn/h-col-136.html" target="_blank">Chinese Institute of Command and Control</a>, 2023</p></li>
