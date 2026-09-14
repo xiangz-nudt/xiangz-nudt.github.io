@@ -66,12 +66,13 @@
 <div style="width:860px;margin:0px auto">
   <h3 style="color:#b45f06"><b><i>News</i></b></h3>
   <ul style="list-style-type:square; line-height:1">
+    <li><p> <i>2026/09: <font color="color:#cc0000">We have an article on diffusion prediction in press in IEEE <a href = "https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69" target = "_blank">TKDE</a>!</font></i></p> </li>
     <li><p> <i>2026/04: <font color="color:#cc0000">We have four research and one industry papers accepted by ACM <a href = "https://sigir2026.org/" target = "_blank">SIGIR 2026</a>!</font></i></p> </li>
     <li><p> <i>2026/01: <font color="color:#cc0000">We have five full papers accepted by The ACM <a href = "https://www2026.thewebconf.org/" target = "_blank">Web Conference 2026</a>!</font></i></p> </li>
     <li><p> <i>2026/01: <font color="color:#cc0000">We have an article on cognitive diagnosis accepted by <a href = "https://link.springer.com/journal/11432" target = "_blank">Engineering</a>!</font></i></p> </li>
-    <li><p> <i>2025/12: <font color="color:#cc0000">We have an article on diffusion prediction accepted by <a href = "https://link.springer.com/journal/11432" target = "_blank">SCIENCE CHINA Information Sciences</a>!</font></i></p> </li>
-    <li><p> <i>2025/11: <font color="color:#cc0000">We have an article on fake news detection accepted by <a href = "https://signalprocessingsociety.org/publications-resources/ieee-transactions-information-forensics-and-security" target = "_blank">IEEE TIFS</a>!</font></i></p> </li>
-    <!--<li><p> <i>2025/11: <font color="color:#cc0000">We have three full papers accepted by <a href = "https://aaai.org/conference/aaai/aaai-26/" target = "_blank">AAAI 2026</a>!</font></i></p> </li>
+    <li><p> <i>2025/12: <font color="color:#cc0000">We have an article on diffusion prediction in press in <a href = "https://link.springer.com/journal/11432" target = "_blank">SCIENCE CHINA Information Sciences</a>!</font></i></p> </li>
+    <!--<li><p> <i>2025/11: <font color="color:#cc0000">We have an article on fake news detection accepted by <a href = "https://signalprocessingsociety.org/publications-resources/ieee-transactions-information-forensics-and-security" target = "_blank">IEEE TIFS</a>!</font></i></p> </li>
+    <li><p> <i>2025/11: <font color="color:#cc0000">We have three full papers accepted by <a href = "https://aaai.org/conference/aaai/aaai-26/" target = "_blank">AAAI 2026</a>!</font></i></p> </li>
     <li><p> <i>2025/11: <font color="color:#cc0000">We have an article accepted by <a href = "https://www.computer.org/csdl/journal/tm" target = "_blank">IEEE TMC</a>!</font></i></p> </li>
     <li><p> <i>2025/11: <font color="color:#cc0000">We have an article on LLMs for code accepted by <a href = "https://www.computer.org/csdl/journal/ts" target = "_blank">IEEE TSE</a>!</font></i></p> </li>
     <li><p> <i>2025/08: <font color="color:#cc0000">We have one full paper on time-dependent networks accepted by ACM <a href = "https://2026.sigmod.org/" target = "_blank">SIGMOD 2026</a>!</font></i></p></li>
