@@ -67,11 +67,12 @@
   <h3 style="color:#b45f06"><b><i>News</i></b></h3>
   <ul style="list-style-type:square; line-height:1">
     <li><p> <i>2026/09: <font color="color:#cc0000">We have an article on diffusion prediction in press in IEEE <a href = "https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69" target = "_blank">TKDE</a>!</font></i></p> </li>
+    <li><p> <i>2026/09: <font color="color:#cc0000">We have one full paper on world knowledge model accepted by IEEE <a href = "https://icde2027.github.io/" target = "_blank">ICDE 2027</a>!</font></i></p> </li>
     <li><p> <i>2026/04: <font color="color:#cc0000">We have four research and one industry papers accepted by ACM <a href = "https://sigir2026.org/" target = "_blank">SIGIR 2026</a>!</font></i></p> </li>
     <li><p> <i>2026/01: <font color="color:#cc0000">We have five full papers accepted by The ACM <a href = "https://www2026.thewebconf.org/" target = "_blank">Web Conference 2026</a>!</font></i></p> </li>
     <li><p> <i>2026/01: <font color="color:#cc0000">We have an article on cognitive diagnosis accepted by <a href = "https://link.springer.com/journal/11432" target = "_blank">Engineering</a>!</font></i></p> </li>
-    <li><p> <i>2025/12: <font color="color:#cc0000">We have an article on diffusion prediction in press in <a href = "https://link.springer.com/journal/11432" target = "_blank">SCIENCE CHINA Information Sciences</a>!</font></i></p> </li>
-    <!--<li><p> <i>2025/11: <font color="color:#cc0000">We have an article on fake news detection accepted by <a href = "https://signalprocessingsociety.org/publications-resources/ieee-transactions-information-forensics-and-security" target = "_blank">IEEE TIFS</a>!</font></i></p> </li>
+    <!--<li><p> <i>2025/12: <font color="color:#cc0000">We have an article on diffusion prediction in press in <a href = "https://link.springer.com/journal/11432" target = "_blank">SCIENCE CHINA Information Sciences</a>!</font></i></p> </li>
+    <li><p> <i>2025/11: <font color="color:#cc0000">We have an article on fake news detection accepted by <a href = "https://signalprocessingsociety.org/publications-resources/ieee-transactions-information-forensics-and-security" target = "_blank">IEEE TIFS</a>!</font></i></p> </li>
     <li><p> <i>2025/11: <font color="color:#cc0000">We have three full papers accepted by <a href = "https://aaai.org/conference/aaai/aaai-26/" target = "_blank">AAAI 2026</a>!</font></i></p> </li>
     <li><p> <i>2025/11: <font color="color:#cc0000">We have an article accepted by <a href = "https://www.computer.org/csdl/journal/tm" target = "_blank">IEEE TMC</a>!</font></i></p> </li>
     <li><p> <i>2025/11: <font color="color:#cc0000">We have an article on LLMs for code accepted by <a href = "https://www.computer.org/csdl/journal/ts" target = "_blank">IEEE TSE</a>!</font></i></p> </li>
@@ -160,6 +161,7 @@
 <div style="width:860px;margin:0px auto">
   <h3><b style="color:#0b5394">Selected Publications</b> (<a href="pub.html">Extended List</a>, @<a href="https://scholar.google.com/citations?user=7IZ4kgwAAAAJ&hl=en" target="_blank">Google Scholar</a>, @<a href="https://dblp.uni-trier.de/pers/hd/z/Zhao_0002:Xiang" target="_blank">DBLP</a>, @<a href="https://orcid.org/0000-0001-6339-0219" target="_blank">ORCID</a>, @<a href="https://www.aminer.cn/profile/562d5f7f45cedb3398ddd908" target="_blank">AMiner</a>)</h3>
   <ul>
+    <li><p><b>PhyWorld-Align: A World Knowledge Model Framework for Heterogeneous Spatio-temporal Entity Alignment</b> <br/>Runhao Zhao, <a href="https://dexterzeng.github.io/" target="_blank">Weixin Zeng</a>, Jiuyang Tang, Zhengpin Li, <a href="https://zwt233.github.io/" target="_blank">Wentao Zhang</a>, Xiang Zhao. IEEE <b>ICDE</b>, 2027.</p></li>
     <li><p><b>Multi-Scale Information Diffusion Prediction with Staged Mutual Information Optimization</b> <br/>Tianyang Shao, <a href="https://hide-ous.github.io/aboutme" target="_blank">Samory Mattia</a>, <b>Xiang Zhao</b>. <i>IEEE </i><b><i>Trans. Know. Data Eng.</i></b> (<b>TKDE</b>), 2026.</p></li>
     <li><p><b>L³C: Leaf-Centric Continuous Codes for Natural Language-Driven Table Discovery</b> <br/>Qiyuan Zhang, <a href="https://ruochunjin.github.io/" target="_blank">Ruochun Jin</a>, Jixin Zhang, Yuhua Tang, Xiang Zhao, Shixuan Liu. IEEE <b>ICDE</b>, 2026.</p></li>
     <li><p><b>Policy-Guided Dual-Process User Simulation for Meituan Merchant Business Diagnosis</b>  <br/>Ziyang Chen, Renbing Chen, Daowei Li, Jinzhi Liao, Jiashen Sun, Ke Zeng, <b>Xiang Zhao</b>. ACM <b>SIGIR</b>, 2026 (Industry).</p></li> 
